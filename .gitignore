@@ -1,2 +1,5 @@
 *.pyc
-*.md
+DOCX_original_2017
+MD_pandoc
+MD_pandoc_old
+old
