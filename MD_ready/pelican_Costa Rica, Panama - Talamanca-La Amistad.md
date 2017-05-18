@@ -2,7 +2,7 @@ Title: Talamanca Range-La Amistad Reserves / La Amistad National Park
 Tags: Costa Rica,Panama
 Author: UNEP-WCMC
 Year: 1983
-Date: 2017-05-18 14:04:51
+Date: 2017-05-18 15:38:35
 
 TALAMANCA RANGE-LA AMISTAD RESERVES /
 =====================================

@@ -2,7 +2,7 @@ Title: Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area
 Tags: China
 Author: UNEP-WCMC
 Year: 1996
-Date: 2017-05-18 14:04:50
+Date: 2017-05-18 15:38:34
 
  MOUNT EMEI SCENIC AREA,
 ============================

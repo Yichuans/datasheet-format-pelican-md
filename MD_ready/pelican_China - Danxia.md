@@ -1,33 +1,33 @@
-Title: China Danxia
-Tags: China
+Title: CHINA DANXIA
+Tags: CHINA
 Author: UNEP-WCMC
 Year: 2012
-Date: 2017-05-18 14:04:50
+Date: 2017-05-18 15:38:34
 
-1.  CHINA DANXIA
-    ============
+CHINA DANXIA 
+============
 
-    CHINA
-    =====
+CHINA 
+=====
 
 *Danxia describes a predominantly orange or purple-red sandstone rock formation eroded by past uplift and weathering into the spectacular and massive forms of mesas, peak clusters, pyramidal peaks, columns, sheer cliffs and ravines. Each of the six sites represents, on a range from least to most eroded, a danxia formation characteristic of southeastern China. Their rocks reveal the evolution of the geology and life forms of the Cretaceous period and display the rich biodiversity of their beautiful present-day subtropical forest landscapes.*
 
-COUNTRY
+COUNTRY 
 -------
 
 China
 
-NAME
+NAME 
 ----
 
 China Danxia
 
-NATURAL WORLD HERITAGE SERIAL SITE
+NATURAL WORLD HERITAGE SERIAL SITE 
 ----------------------------------
 
 2012: Inscribed on the World Heritage List under natural criteria (vii) and (viii).
 
-STATEMENT OF OUTSTANDING UNIVERSAL VALUE
+STATEMENT OF OUTSTANDING UNIVERSAL VALUE 
 ----------------------------------------
 
 The UNESCO World Heritage Committee adopted the following Statement of Outstanding Universal Value at the time of inscription:
@@ -54,22 +54,22 @@ The property is state owned and its protected status varies between the six comp
 
 Efficient management systems at different levels have been built with enough qualified staff in China Danxia areas. Planning for the serial property is advanced. An integrated management plan has been prepared for the property as a whole, as well as individual plans for the six areas in the series. These plans identify a clear rationale for management and mechanisms for the protection of the property. Research and adaptive management techniques, including baseline condition assessment and monitoring of change for both natural values and species have been established. Local communities are aware of the World Heritage nomination and all stakeholders are also very supportive of the World Heritage proposal, which ensures the long-term management.
 
-IUCN MANAGEMENT CATEGORY
+IUCN MANAGEMENT CATEGORY 
 ------------------------
 
 Unassigned
 
-BIOGEOGRAPHICAL PROVINCE
+BIOGEOGRAPHICAL PROVINCE 
 ------------------------
 
 Chinese Subtropical Forest (2.1.2) / South Chinese Rainforest (4.6.1)
 
-GEOGRAPHICAL LOCATION
+GEOGRAPHICAL LOCATION 
 ---------------------
 
 This series of six sites is located along an arc 1,700 km wide across six provinces of southern China. From east to west these are, in the east: Jianglangshan in west Zhejiang, Taining in northwest Fujian and Longhushan in northeast Jiangxi; to the south, Danxiashan in north Guangdong in southeast China; and to the west, in south-central China, Langshan in south Hunan and Chishui in north Guizhou. They span between 24°51'48” to 28°33'03”N and 105°47'39” to 118°35'02”E.
 
-DATES AND HISTORY OF ESTABLISHMENT
+DATES AND HISTORY OF ESTABLISHMENT 
 ----------------------------------
 
 1988: Danxiashan and Longhushan National Parks established; Danxiashan is the type location;
@@ -86,12 +86,12 @@ DATES AND HISTORY OF ESTABLISHMENT
 
 2004, 2005, 2008: Danxiashan, Taining and Longhushan Global Geoparks designated;
 
-LAND TENURE
+LAND TENURE 
 -----------
 
 The property is owned by the state and is managed, under the national Ministry of Housing & Urban-Rural Development, by the Construction Department of each province working with the local World Heritage Management Committee.
 
-AREA
+AREA 
 ----
 
 The total area of the serial property is 82,151 ha. The buffer zones cover 136,206 ha:
@@ -169,12 +169,12 @@ The total area of the serial property is 82,151 ha. The buffer zones cover 136,2
 </tbody>
 </table>
 
-ALTITUDE
+ALTITUDE 
 --------
 
 The highest point of the six component parts is in Chishui at 1,730m which also has the greatest elevational range of 1,490m. The lowest point is at Longhushan at 48m with an elevational range of 1,007m. The high and low points of the others are: Jianglangshan, 824m-170m, Langshan, 818m-302m, Danxiashan, 625m-58m and Taining, 674m-200m. The average elevational range of these is 528m.
 
-PHYSICAL FEATURES
+PHYSICAL FEATURES 
 -----------------
 
 Danxia describes characteristically scenic, usually orange or purple-red sandstone rock formations exposed in spectacular massive and sculpted forms. All the component parts except for Chishui are in the hills which lie on the Southeast China fold belt, the section of the Yangtze or South China plate underthrust by the Pacific plate. Under tectonic pressure in late Jurassic and early Cretaceous times this extended with much magmatic activity creating strong northeast-trending faults and several fault basins which were then submerged undersea. Into these shallow marine basins, red fluvial and alluvial sediments flowed during the mid and late Cretaceous period 145 to 65 million years ago. They now comprise the very thick sandstone and conglomerate deposits which form the danxia bedrock.
@@ -189,12 +189,12 @@ Mature danxia landforms are dominated by forest-covered peak clusters as seen in
 
 Old danxia landforms have isolated peaks surrounded by low gently sloping land and rivers. These are seen in Longhushan and Jianglangshan. Longhushan has late mature/early old stage erosion and hilly danxia in sandy conglomerate and sandstone. The northern Guifeng section is over 10 kilometres northeast of the southern part which is bisected by the Luxi river. It has inselbergs, clustered and isolated peaks, cuestas, gypsum and aeolian deposits. It also contains the fossil remains of plants, mussel-shrimps and dinosaur bones. Jianglangshan is of conglomerate over volcanic rock with the Cretaceous strata worn down, exposing an ancient denudation surface and one notable isolated peak.
 
-CLIMATE
+CLIMATE 
 -------
 
 Five of the sites have a sub-tropical humid monsoonal climate; Chishui has a moist mountain version of the same climate. The average annual temperature for all the sites ranges between 19.7°C (Danxiashan) and 14°C (Jianglangshan), averaging 6.1°C in winter and 29°C in summer, with a January minimum of 4°C in Langshan and a July maximum of 33.7°C minimum in Taining. Rainfall averages 1,758mm in the four eastern sites and 1,368mm in the two western sites. Winters are short and dry, as is autumn. Summers and spring are rainy. Several different microclimatic conditions from droughty peaks to ravines with tropical vegetation are created by the rugged fragmentation of the land.
 
-VEGETATION
+VEGETATION 
 ----------
 
 Since south China was not glaciated in Quaternary times it became a fertile biotic refuge for ancient species. The sites are all within the Chinese Subtropical forest and the South Chinese Rainforest and the three eastern sites surround the Wuyishan massif, one of the most biodiverse of all comparable sites. The ruggedness of the topography has preserved the forests, their complex mosaics of plant communities and a wide range of vegetation types graded by elevation. The forest is mostly secondary except where inaccessible. 11 broad vegetation patterns with 23 vegetation types are described: subtropical evergreen broadleaf monsoon forest, evergreen deciduous broadleaf mixed forest on the Chishui plateau only, deciduous broadleaf forest, conifer forest, sclerophyllous forest, lianas, rock vegetation, aquatic, grassland and low brush in the gorges. There are also xeric communities on the bare summits, mesic communities in ravines and cliff-face vegetation. The 69 different formations and 424 plant associations are said to contain 61.5% of the major habitat types of the world.
@@ -276,7 +276,7 @@ Langshan has 85% vegetation cover and 76% forest cover. It has 1,421 vascular pl
 
 The nomination cites slightly differing figures under different headings.
 
-FAUNA
+FAUNA 
 -----
 
 The present fauna of the area is rich and largely typical of the region. The six sites provide seven major animal habitats: forest, bush, farmland, wetland, water, bare rock and caves, and a wide range of vegetation types graded by elevation. Existing fauna over the whole property totals 836 vertebrates of 129 families and 37 orders, and 3,073 insect species totalling 3,913 species in 2449 orders and 520 families. 189 species from 54 families are endemic, rare and endangered – and more than 400 including animals of the buffer zones. Of 43 species cited on the IUCN Red List 2 are Critically Endangered, 11 Endangered and 9 Vulnerable; 80 species have 1st-class state level protection; 145 species are on the Chinese Red List. There are 47 species endemic to China (excluding insects): 11 mammals, 6 birds, 4 amphibians, 16 fish (but see Chishui below) and 10 other animals; and 66 species are listed by CITES.
@@ -376,19 +376,19 @@ Chishui has 404 vertebrates: 72 mammals, 147 birds, 37 reptiles, 31 amphibians, 
 
 The nomination cites differing figures under different headings.
 
-CONSERVATION VALUE
+CONSERVATION VALUE 
 ------------------
 
 Danxia, described from the type locality Danxiashan, are predominantly orange-red spectacularly eroded sandstone rock formations or red beds exposed in the massive forms of mesa-shaped peaks, pyramids, towers, cliffs and ravines. Each of the six sites is representative of the danxia formations of southeastern China and have been chosen to display an example on a range from least to most eroded. The rocks reveal past changes in the geological past and the life forms of late Mesozoic to Cenozoic times. The sites also exemplify the rich present-day biodiversity of their striking and beautiful subtropical forest landscapes. The eastern sites lie within a WWF Global 200 priority ecoregion and a WWF/IUCN Centre of Plant Diversity; all the sites except Jianglangshan are Geoparks.
 
-1.  
+ 
 
-    CULTURAL HERITAGE
-    -----------------
+CULTURAL HERITAGE 
+-----------------
 
 Most of the sites have been settled since Neolithic times 6,000-3,500 years ago, leaving plentiful stone tools, pottery and later, bronze vessels; agriculture developed 2,000 years ago. Traditional settlements were built in harmony with the environment, and the practice of Taoism is held to have begun in these mountains. To the Taoist the law of Nature was the highest law and reverence for the environment followed. Mountain temples and pilgrimages were and still are an essential part of the national respect for nature, and the sites are known to have been appreciated spiritually by the literati at least since the Tang dynasty. Care for historical, cultural and local religious relics is therefore a major part of the conservation of these areas. The relics include ancient cave temples, cliff grave sites and cliff carvings, petroglyphs, ancient and fortified villages and stockades. Longhushan, settled 2,600 years ago, is respected as the birthplace of Taoism and is one of its four sacred mountains. It has ancient coffin caves in its cliffs and one of its four colleges established during the northern Song. In Danxiashan Mount Shaoshi and Mount Danxia have attracted literati since Tang times and there are more than 40 cave temples with carved inscriptions, tablets and tombs. Taining has a Tang temple and 80 Buddhist grotto temples. Jianglangshan has attracted celebrated scholars since the Tang and has a famous old temple at Kaiming and an old academy, both founded in northern Song times.
 
-LOCAL HUMAN POPULATION
+LOCAL HUMAN POPULATION 
 ----------------------
 
 The sites are in rugged relatively little populated country, except for Longhushan, where the local people have always depended on subsistence farming, fishing, hunting and tree felling. In 2007 the total population of the property was 34,026 and of the buffer zones, 100,259. Longhushan's populations were the highest: 23,966 (property) and 46,560 (buffer zone). Taining and Danxiashan being the least populated. The people are Han with a few Dong, Yao and Zhuang villages in Langshan and Chishui.
@@ -442,34 +442,34 @@ The sites are in rugged relatively little populated country, except for Longhush
 </tbody>
 </table>
 
-VISITOR FACILITIES
+VISITOR FACILITIES 
 ------------------
 
 Visitor numbers to the sites increased from 130,000 in 2001 to 360,000 in 2007, with Danxiashan and Chishui being the most and Jianglangshan the least visited. They have become part of China's thriving tourist industry and are well provided with facilities. All have visitor centres (Taining has five, Chishui two), and all but Jianglangshan have museums. Tourist paths and signage, waterways, observation pavilions and towers and some overnight accommodation are provided. Langshan has 38 km of paths and 27 km of boating waterways; Taining has 25 km of the latter. Tours are developed from sightseeing to more specialised experiences and to research projects in scientific tourism and ecotourism. As an important economic resource the sites are being aggressively advertised although the need to avoid or mitigate the resulting degradation is acknowledged. Tourism management plans have been made and local people provide transport, guides and local produce for sale.
 
-SCIENTIFIC RESEARCH AND FACILITIES
+SCIENTIFIC RESEARCH AND FACILITIES 
 ----------------------------------
 
 A research expedition to Longhushan and Jianglangshan took place as early as the 17th century. Many studies have been made of the fossils. Recent stratigraphic studies have revealed much about the Earth and the life forms of the Cretaceous period, the formation of the basins in which the original sediments were laid down, the global tectonic movements which occurred during that time, their climatic environment and subsequent geomorphological development. Danxia landforms are in effect museums of Cretaceous geological and biotic change. The sites, especially Danxiashan, provide many opportunities for research on island-mountain and ravine habitats, complex vegetation communities, species distribution, biotic succession, rare, endangered and local endemic species, wetlands and village culture. Restoration of the native forest ecology is an ongoing part of the scientific mission. Research and adaptive management techniques, baseline condition assessment and long term monitoring of change for both natural values and species are undertaken by the staff of related universities and scientific institutions. The sites have been examined to provide a basis for management and educational tourism. 576 related references are listed in the nomination.
 
-MANAGEMENT
+MANAGEMENT 
 ----------
 
 The component sites of the property are under the authority of the national Ministry of Housing & Urban-Rural Development. They are managed by the Construction Department of each province with the local World Heritage Management Committee. Management of the sites as a group is coordinated by the China Danxia Natural Heritage Coordination Managing Committee. The sites of the property are already protected areas and, except for Jianglangshan and the smaller Guifeng section of Longhushan, are large enough to preserve their natural beauty and geomorphological values without threat to their integrity. Protected status varies between the six components. Most are National Parks; and there are also National Nature Reserves, National Forests, and Geoparks. Each site is protected under the relevant laws and regulations at both national, provincial and local levels, and sufficient management systems have been set up and qualified staff enrolled to ensure adequate long-term institutional and traditional protection of their outstanding universal value.
 
 An integrated management plan has been prepared for the property as a whole, as well as individual plans for each area, all dovetailed with existing plans. Customary village conservation practices are encouraged. A policy of landscape restoration and afforestation of farmland on slopes will be followed. Several activities are prohibited on site unless licensed: hunting for food or trade, quarrying, mining, dredging, land reclamation, commercial uses, waste dumping, charcoal burning, herb-gathering and burying the dead. Areas of exemplary landscape, heritage displays and old villages are exclusion zones. Local communities and stakeholders are supportive, which should guarantee management success over the long term. Monitoring programs by satellite, from the air and in the field are followed for each site with some variations. Daily or frequent monitoring is carried out of weather, fire, tourist numbers, water quality (and forest pests in Jianglangshan). Monitoring is quarterly of environmental quality, tourist facilities, village populations and land uses, natural disasters and plant species, and at greater intervals, of animal and alien species, forest pests, site boundaries and geology.
 
-MANAGEMENT CONSTRAINTS
+MANAGEMENT CONSTRAINTS 
 ----------------------
 
 The smallest site Jianglangshan may be too small for its biological and ecological viability and protection of rare species to be guaranteed. Nevertheless most the rocky landscapes are little developed and, except for Longhushan, remain sparsely populated. Natural disasters can be destructive, especially mountain floods, landslides and dry season fires. Frequent fire patrols supported by professional fire protection are essential. There has been a little peripheral construction, tree-felling, use of forest resources or water pollution by the dumping of wastes upstream. The main present human pressures come from increasing tourism: the overuse of scenic spots on holidays, the building of tourist infrastructure, pollution and littering. These may require regular control of visitor numbers in future.
 
-COMPARISON WITH SIMILAR SITES
+COMPARISON WITH SIMILAR SITES 
 -----------------------------
 
 There is no internationally agreed definition of sandstone danxia, which complicates comparisons. To be comparable a site should show a large range of sculptured forms in progressive stages of erosion in a subtropical forest of high biodiversity with rare species, religious and cultural significance and fossils. Elements of the landforms are found worldwide in many sites, showing two or three of these major characteristics, but often in arid land such as the famous formations of Utah and Arizona and so without the biodiversity and water landscapes of the danxia. In northern Australia, well vegetated Kakadu has cliffs and water but not the remarkable cone peaks of grassland Purnululu. In eastern Australia the Blue Mountains have columnar cliffs and peaks and subtropical forest but far less variety. The Grand Canyon in the U.S.A. has an iconic river, cliffs and sculpted forms but no forest within the canyon. More temperate Meteora has columnar peaks, religious sites and forest but no great range of forms and no water. The most comparable examples are in China which has more than 780 danxia sites in every climatic zone. Mount Wuyi, around which three of the designated areas are grouped, is a smaller area but has nearly all the characteristics except erosional variety. Mount Emei with the Leshan buddha has great biodiversity and similar but less geological variety. Qingchengshan and multicolored barren Zhangyeshan in the northwest have notable but fewer danxia forms, and the huge composite area of the Three Rivers of Yunnan contains forested danxia elements but in a far less accessible setting.
 
-STAFF
+STAFF 
 -----
 
 The six properties together employ 1,326 full-time staff of which 344 are administrative and technical, 209 being college educated in a wide range of disciplines. There are 917 support staff plus 65 external consultants. Professional staff are trained and retrained in their fields and local people are trained in conservation, sustainable practices and as guides.
@@ -547,7 +547,7 @@ The six properties together employ 1,326 full-time staff of which 344 are admini
 
 The above staff are all in management, protection and patrols. They exclude the staff of commercial services such as dining, accommodation, travel, entertainment, shopping and search and rescue.
 
-BUDGET
+BUDGET 
 ------
 
 This is derived for all except Langshan from national, provincial and county funds, income from fixed assets and ticket sales. Funding between 2001 and 2007 (cited in U.S. dollars) almost quintupled:
@@ -607,7 +607,7 @@ This is derived for all except Langshan from national, provincial and county fun
 </tbody>
 </table>
 
-LOCAL ADDRESSES
+LOCAL ADDRESSES 
 ---------------
 
 Ministry of Housing & Urban-Rural Development of the People's Republic of China, 9, Sanlihe Road, Beijing, 100835, China. Website: http://www.cin.gov.cn.
@@ -624,7 +624,7 @@ The Director, Construction Bureau of Jiangxi Province, Nanchang City, 330046, Ji
 
 The Director, Construction Bureau of Guizhou Province, Guiyang City, 550002, Guizhou, China.
 
-REFERENCES
+REFERENCES 
 ----------
 
 The principal sources for the above information were the original World Heritage nomination, the IUCN evaluation report and Decisions 34 COM 8B.1 and 35 COM 8B.60 of the UNESCO World Heritage Committee.
@@ -647,7 +647,7 @@ Ro, L. & Chen, H. (2009). Guangdong, Management Planning. Planning and Research 
 
 Young, R., Wray, R. & Young, A. (2009). Sandstone Landforms. Cambridge University Press, Melbourne.
 
-DATE
+DATE 
 ----
 
 September 2012.

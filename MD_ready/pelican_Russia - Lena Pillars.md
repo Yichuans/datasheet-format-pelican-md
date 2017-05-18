@@ -2,7 +2,7 @@ Title: Lena Pillars Nature Park
 Tags: Russian Federation
 Author: UNEP-WCMC
 Year: 2012
-Date: 2017-05-18 14:04:59
+Date: 2017-05-18 15:38:43
 
 1.  LENA PILLARS NATURE PARK
     ========================
@@ -175,7 +175,7 @@ The Minister, Ministry of Nature Conservation of the Republic of Sakha, Dzerzhin
 
 The Director, Lena Pillars Nature Park, Ordzhonikidse Street 56, Pokrovsk 678010, Republic of Sakha, Russian Federation. Web site: http://www.lenskiestolby.ru
 
-REFERENCES {#references .ListParagraph}
+REFERENCES 
 ----------
 
 The principal sources for the above information were the original World Heritage nomination, the IUCN evaluation report and Decision 36 COM 8B.11 of the UNESCO World Heritage Committee.

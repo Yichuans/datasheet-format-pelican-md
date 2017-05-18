@@ -2,7 +2,7 @@ Title: Cliff of Bandiagara (Land of the Dogons)
 Tags: Mali
 Author: UNEP-WCMC
 Year: 1989
-Date: 2017-05-18 14:04:57
+Date: 2017-05-18 15:38:40
 
 
 MALI

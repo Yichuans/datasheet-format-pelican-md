@@ -2,7 +2,7 @@ Title: Western Ghats
 Tags: India
 Author: UNEP-WCMC
 Year: 2012
-Date: 2017-05-18 14:04:54
+Date: 2017-05-18 15:38:38
 
 1.  WESTERN GHATS
     =============
@@ -62,7 +62,7 @@ LAND TENURE
 
 The sites are owned by the state forest departments of Kerala, Tamil Nadu, Karnataka and Maharashtra and administered by their Chief Wardens under the national Director General of Forests (Wildlife).
 
-AREAS {#areas .ListParagraph}
+AREAS 
 -----
 
 The property covers 795,315 ha. The property consists of seven separate groups (sub-clusters) containing 39 sites spread over 1,250 kilometres, listed below from south to north:
@@ -1002,7 +1002,7 @@ Tamil Nadu State: http://www.forests.tn.nic.in
 
 Wildlife Institute of India: <http://www.wii.gov.in/>
 
-REFERENCES {#references .ListParagraph}
+REFERENCES 
 ----------
 
 The principal sources for the above information were the original World Heritage nomination, the IUCN evaluation report and Decision 36 COM 8B.10 of the UNESCO World Heritage Committee.
