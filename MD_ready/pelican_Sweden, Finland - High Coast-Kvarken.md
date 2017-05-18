@@ -2,7 +2,7 @@ Title: HIGH COAST / KVARKEN ARCHIPELAGO
 Tags: SWEDEN,FINLAND
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-12 15:28:08
+Date: 2017-05-18 14:05:01
 
 HIGH COAST / KVARKEN ARCHIPELAGO 
 =================================
@@ -202,29 +202,83 @@ The High Coast totals 142,500 ha: 62,500 ha (43.9%) of this area is land, 80,000
 
 The total includes the following protected areas:
 
-Skuleskogen National Park: 2,950 ha (including 300 ha of sea)
-
-Nordingrå Nature Conservation Area: 6,000 ha.
+<table>
+<thead>
+<tr class="header">
+<th align="left">Skuleskogen National Park:</th>
+<th align="left">2,950 ha (including 300 ha of sea)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Nordingrå Nature Conservation Area:</td>
+<td align="left">6,000 ha.</td>
+</tr>
+</tbody>
+</table>
 
 Nature Reserves:
 
-Balesudden 934 ha Skuleskogen 97 ha
-
-Trysunda 932 ha Ögeltjärn 72 ha
-
-Högbonden 335 ha Halsviksravinen 63 ha
-
-Storön 302 ha Omneberget 27 ha
-
-Norrfällsviken 227 ha Storsand 12 ha
-
-Skuleberget 226 ha Herrestaberget 9 ha
-
-Södra Ulvön 200 ha Storholmen 9 ha
-
-Mjältön 147 ha Vilmyran 5 ha
-
-Rotsidan 112 ha Gnäggen 2 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Balesudden</th>
+<th align="left">934 ha</th>
+<th align="left">Skuleskogen</th>
+<th align="left">97 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Trysunda</td>
+<td align="left">932 ha</td>
+<td align="left">Ögeltjärn</td>
+<td align="left">72 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Högbonden</td>
+<td align="left">335 ha</td>
+<td align="left">Halsviksravinen</td>
+<td align="left">63 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Storön</td>
+<td align="left">302 ha</td>
+<td align="left">Omneberget</td>
+<td align="left">27 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Norrfällsviken</td>
+<td align="left">227 ha</td>
+<td align="left">Storsand</td>
+<td align="left">12 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Skuleberget</td>
+<td align="left">226 ha</td>
+<td align="left">Herrestaberget</td>
+<td align="left">9 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Södra Ulvön</td>
+<td align="left">200 ha</td>
+<td align="left">Storholmen</td>
+<td align="left">9 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Mjältön</td>
+<td align="left">147 ha</td>
+<td align="left">Vilmyran</td>
+<td align="left">5 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Rotsidan</td>
+<td align="left">112 ha</td>
+<td align="left">Gnäggen</td>
+<td align="left">2 ha</td>
+</tr>
+</tbody>
+</table>
 
 The Kvarken Archipelago totals 194,400 ha, in two areas, 15.1% being land, 84.9% being shallow sea:
 
@@ -409,9 +463,7 @@ Pertinniemi, N. (ed.) (2001). *Archibal. Plan för Turism och Rekreation i Kvark
 
 Swedish Environmental Protection Agency (1998). *Swedish National Parks: Skuleskogen.* World Wide Web site: <http://www.environ.se/www-eng/park/eskule.htm>
 
-Swedish EnviroNet (1997). *Environment in Västernorrland.*
-
-web site: http://www.y.lst.se/miljosidor/english/index.html
+Swedish EnviroNet (1997). *Environment in Västernorrland.* web site: http://www.y.lst.se/miljosidor/english/index.html
 
 Västernorrland County Administration (2000). *The High Coast: Enclosures to the Swedish Nomination for inclusion as a Natural Property in the UNESCO World Heritage List:*
 

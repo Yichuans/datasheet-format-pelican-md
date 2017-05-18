@@ -2,7 +2,7 @@ Title: DJOUDJ NATIONAL BIRD SANCTUARY
 Tags: SENEGAL
 Author: UNEP-WCMC
 Year: 1981
-Date: 2017-04-12 15:28:06
+Date: 2017-05-18 14:05:00
 
 DJOUDJ NATIONAL BIRD SANCTUARY
 ==============================
@@ -52,9 +52,7 @@ Western Sahel (3.12.07)
 GEOGRAPHICAL LOCATION 
 ----------------------
 
-Located in the extreme northwest of the country on the Mauritanian border, in the delta of the Senegal River about 60 km north-northeast of Saint-Louis in a wide low valley 10 km north of Ross-Bethio at
-
-16° 30'N by 16°10'W.
+Located in the extreme northwest of the country on the Mauritanian border, in the delta of the Senegal River about 60 km north-northeast of Saint-Louis in a wide low valley 10 km north of Ross-Bethio at 16° 30'N by 16°10'W.
 
 DATES AND HISTORY OF ESTABLISHMENT
 ----------------------------------
@@ -215,9 +213,7 @@ Triplet P., Schricke V. & Tréca B. (1995). L’exploitation de la basse vallée
 
 Triplet P., Schricke V. & Yésou P. (1996). L'hivernage des anatidés paléarctiques dans le delta du fleuve Sénégal. *Gibier Faune Sauvage* 13: 1373-75.
 
-Triplet P. & Yésou P. (2000). Controlling the flood in the Senegal delta: do waterfowl populations adapt
-
-to their new environment? *Ostrich* 71: 106–111.
+Triplet P. & Yésou P. (2000). Controlling the flood in the Senegal delta: do waterfowl populations adapt to their new environment? *Ostrich* 71: 106–111.
 
 Triplet, P.,Tiega, A. & Pritchard, D. (2000). *Mission Report. Djoudj National Bird Sanctuary, Senegal, Sept. 2000,* for UNESCO World Heritage Bureau, Paris.
 

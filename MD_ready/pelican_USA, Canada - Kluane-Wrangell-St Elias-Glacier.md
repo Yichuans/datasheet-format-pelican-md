@@ -1,14 +1,11 @@
-Title: Kluane / Wrangell-St Elias / Glacier Bay / Tatshenshini-Alsek
-Tags: United States of America,Canada
+Title: KLUANE / WRANGELL-ST ELIAS / GLACIER BAY /TATSHENSHINI-ALSEK
+Tags: UNITED STATES OF AMERICA,CANADA
 Author: UNEP-WCMC
 Year: 1979
-Date: 2017-04-12 15:28:10
+Date: 2017-05-18 14:05:03
 
-KLUANE / WRANGELL-ST ELIAS / GLACIER BAY /
-==========================================
-
-TATSHENSHINI-ALSEK 
-===================
+KLUANE / WRANGELL-ST ELIAS / GLACIER BAY /TATSHENSHINI-ALSEK 
+=============================================================
 
 UNITED STATES OF AMERICA & CANADA
 =================================
@@ -59,13 +56,28 @@ INTERNATIONAL DESIGNATION
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Kluane National Park and Reserve: II National Park
-
-Tatshenshini-Alsek Provincial Park: Ib Strict Nature Reserve
-
-Wrangell-St Elias National Park & Preserve: II National Park
-
-Glacier Bay National Park & Preserve: II National Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Kluane National Park and Reserve:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Tatshenshini-Alsek Provincial Park:</td>
+<td align="left">Ib Strict Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Wrangell-St Elias National Park &amp; Preserve:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Glacier Bay National Park &amp; Preserve:</td>
+<td align="left">II National Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCES
 -------------------------
@@ -152,17 +164,36 @@ AREA
 
 Total World Heritage Area: 9,839,121 ha (UNESCO WHC, 2007)
 
-Kluane National Park & Reserve: 2,198,000 ha (PCA, 2007)
-
-Tatshenshini-Alsek Provincial Park: 958,000 ha
-
-Wrangell-St. Elias National Park: 3,368,332 ha (NPS, 2007)
-
-Wrangell-St. Elias Preserve: 1,963,882 ha (NPS, 2007)
-
-Glacier Bay National Park: 1,312,424 ha
-
-Glacier Bay National Preserve: 23,068 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Kluane National Park &amp; Reserve:</th>
+<th align="left">2,198,000 ha (PCA, 2007)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Tatshenshini-Alsek Provincial Park:</td>
+<td align="left">958,000 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Wrangell-St. Elias National Park:</td>
+<td align="left">3,368,332 ha (NPS, 2007)</td>
+</tr>
+<tr class="odd">
+<td align="left">Wrangell-St. Elias Preserve:</td>
+<td align="left">1,963,882 ha (NPS, 2007)</td>
+</tr>
+<tr class="even">
+<td align="left">Glacier Bay National Park:</td>
+<td align="left">1,312,424 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Glacier Bay National Preserve:</td>
+<td align="left">23,068 ha</td>
+</tr>
+</tbody>
+</table>
 
 This is largest contiguous transboundary protected area complex in the world.
 

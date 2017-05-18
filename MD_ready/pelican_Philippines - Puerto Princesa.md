@@ -1,12 +1,14 @@
-Title: Puerto Princesa Subterranean River National Park
-Tags: Philippines
+Title: PUERTO PRINCESA SUBTERRANEAN RIVER NATIONAL PARK
+Tags: PHILIPPINES
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-12 15:28:05
+Date: 2017-05-18 14:04:59
 
 PUERTO PRINCESA SUBTERRANEAN RIVER NATIONAL PARK
+================================================
 
 PHILIPPINES
+===========
 
 *This Park covers the complete ecosystem of an underground river which runs beneath of limestone karst mountains directly into the sea, its lower reach being tidal. The area has one of the richest forest floras in Asia and is highly biodiverse, much of its flora and fauna being endemic or related to those of Borneo.*
 
@@ -177,9 +179,7 @@ IUCN (2002). *Report on the State of Conservation of Natural and Mixed Sites Ins
 
 IUCN SSC (2003). *2003 IUCN Red List of Threatened Species.*
 
-Ocampo, N. (1988). Underground explorations of St.Paul’s Subterranean River*. Diliman Review*
-
-36: 27-33.
+Ocampo, N. (1988). Underground explorations of St.Paul’s Subterranean River*. Diliman Review* 36: 27-33.
 
 Protected Areas and Wildlife Bureau (1992) *Profile of National Parks in the Philippines.* Department of Environment & Natural Resources. Quezon City. 174 pp.
 

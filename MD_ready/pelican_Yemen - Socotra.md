@@ -2,7 +2,7 @@ Title: SOCOTRA ARCHIPELAGO
 Tags: YEMEN
 Author: UNEP-WCMC
 Year: 2008
-Date: 2017-04-12 15:28:11
+Date: 2017-05-18 14:05:04
 
 SOCOTRA ARCHIPELAGO
 ===================
@@ -36,7 +36,7 @@ The UNESCO World Heritage Committee issued the following Statement of Outstandin
 
 Socotra is globally important for biodiversity conservation because of its exceptionally rich and distinct flora and fauna. 37% of Socotra’s plant species, 90% of its reptile species and 95% of its land snail species do not occur anywhere else in the world. Socotra is of particular importance to the Horn of Africa’s biodiversity hotspot and, as one of the most biodiversity rich and distinct islands in the world, has been termed the “Galápagos of the Indian Ocean”.
 
-.**Criterion (x):** Biological diversity and threatened species: Socotra is globally important for biodiversity conservation because of its exceptional level of biodiversity and endemism in many terrestrial and marine groups of organisms. Socotra is particularly important for its diversity of plants and has 825 plant species of which 307 (37%) are endemic. Socotra has high importance for bird species as underlined by the identification by Birdlife International of 22 Important Bird Areas on Socotra. Socotra also supports globally significant populations of other land and sea birds, including a number of threatened species. Extremely high levels of endemism occur in Socotra’s reptiles (34 species, 90% endemism) and land snails (96 species, 95% endemism). The marine life of Socotra is also very diverse, with 253 species of reef-building corals, 730 species of coastal fish and 300 species of crab, lobster and shrimp, and well represented in the property’s marine areas.
+**Criterion (x):** Biological diversity and threatened species: Socotra is globally important for biodiversity conservation because of its exceptional level of biodiversity and endemism in many terrestrial and marine groups of organisms. Socotra is particularly important for its diversity of plants and has 825 plant species of which 307 (37%) are endemic. Socotra has high importance for bird species as underlined by the identification by Birdlife International of 22 Important Bird Areas on Socotra. Socotra also supports globally significant populations of other land and sea birds, including a number of threatened species. Extremely high levels of endemism occur in Socotra’s reptiles (34 species, 90% endemism) and land snails (96 species, 95% endemism). The marine life of Socotra is also very diverse, with 253 species of reef-building corals, 730 species of coastal fish and 300 species of crab, lobster and shrimp, and well represented in the property’s marine areas.
 
 **Integrity**
 
@@ -91,20 +91,23 @@ AREA
 
 Core Area: 410,460 ha, Buffer Area: 1.740,958 ha:
 
-**Land Core Area Marine Core Area Land Core Area Marine Core Area**
-
 <table>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="left"><strong>Land Core (ha)</strong></th>
+<th align="left"><strong>Area Marine Core Area (ha) </strong></th>
+<th align="left"><strong>Land Core Area (ha)</strong></th>
+<th align="left"><strong>Marine Core Area (ha)</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
 <td align="left">Socotra</td>
-<td align="left"><p><strong>(ha)</strong></p>
-<p>260,008</p></td>
-<td align="left"><p><strong>(ha)</strong></p>
-<p>60,041</p></td>
-<td align="left"><p><strong>(ha)</strong></p>
-<p>91,997</p></td>
-<td align="left"><p><strong>(ha)</strong></p>
-<p>840,325</p></td>
+<td align="left">260,008</td>
+<td align="left">60,041</td>
+<td align="left">91,997</td>
+<td align="left">840,325</td>
 </tr>
 <tr class="even">
 <td align="left">Abd Alkuri</td>
@@ -185,22 +188,24 @@ The sparse vegetation is dominated by xeromorphic forms such as the conspicuous 
 There are eight main types of vegetation: mangroves, coastal shrubland, *croton* shrubland, succulent shrubland, semi-evergreen lowland woods, woody limestone plateau herbs, submontane shrubs and a montane mosaic of evergreen woodland, grassland and dwarf shrubland. The following table from the nomination summarising the island’s vegetation types is adapted from the magisterial *Ethnoflora of the Soqotra Archipelago* by A. Miller and M. Morris (2004) of the Edinburgh Botanic Garden:
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Vegetation Types</strong></th>
+<th align="left"><strong>Sub-types</strong></th>
+<th align="left"><strong>Altitude</strong></th>
+<th align="left"><strong>Description</strong></th>
+<th align="left"><strong>Dominants</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Vegetation Types</strong></td>
-<td align="left"><strong>Sub-types</strong></td>
-<td align="left"><strong>Altitude</strong></td>
-<td align="left"><strong>Description</strong></td>
-<td align="left"><strong>Dominants</strong></td>
-</tr>
-<tr class="even">
 <td align="left">Coastal vegetation</td>
 <td align="left">Mangroves</td>
 <td align="left">Sea level</td>
 <td align="left">Sparse mangrove thickets (5m)</td>
 <td align="left"><em>Avicennia marina</em></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Coastal vegetation</td>
 <td align="left">Vegetation of the coast­al plains</td>
 <td align="left">Sea level</td>
@@ -210,7 +215,7 @@ There are eight main types of vegetation: mangroves, coastal shrubland, *croton*
 <p><em>Suaeda</em> species,</p>
 <p><em>Atriplex</em> species.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><em>Croton</em> shrubland of lowland plains</td>
 <td align="left">Coastal and inland plains; low rolling inland hills.</td>
 <td align="left">1-100m</td>
@@ -218,7 +223,7 @@ There are eight main types of vegetation: mangroves, coastal shrubland, *croton*
 <td align="left"><p><em>Croton socotranus;</em> a</p>
 <p>species-poor ecotype.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Succulent shrubland</td>
 <td align="left">Cliffs and lime-stone escarpments; rocky slopes; rocky granite and lime­stone hills; steep wadi sides.</td>
 <td align="left"><p>0-150m</p>
@@ -226,7 +231,7 @@ There are eight main types of vegetation: mangroves, coastal shrubland, *croton*
 <td align="left">Open deciduous succulent shrubland (&lt;4m) with emer­gent trees (&lt;6m) and lower lay­er (&lt;1m) of cushion vegetation &amp; subshrubs.</td>
 <td align="left"><em>Jatropha unicostata</em> and <em>Croton socotra­nus</em> with <em>Euphorbia arbuscula, Adenium obesum</em> and <em>Teoph­rosia apollinea</em>.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Semi evergreen woodland of lowland escarpments and sheltered ravines.</td>
 <td align="left">Steep limestone escarp­ments and sheltered parts of limestone plateau &amp; on granite outliers</td>
 <td align="left">150-750m</td>
@@ -234,7 +239,7 @@ There are eight main types of vegetation: mangroves, coastal shrubland, *croton*
 <td align="left"><p><em>Rhus thyrsiflora, </em></p>
 <p><em>Bux­anthus pedicellatus, Carphalea obovata, Sterculia africana</em>.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Open and woody-based herb commu­nities of limestone plateau</td>
 <td align="left">Limestone plateau</td>
 <td align="left">500-750m</td>
@@ -243,7 +248,7 @@ There are eight main types of vegetation: mangroves, coastal shrubland, *croton*
 <td align="left"><p><em>Jatropha unicostata, Lycium sokotranum, Gnidia socotrana, Buxanthus pedicel­latus, Croton so­cotranus, Leucas virgata</em> and</p>
 <p><em>Cissus hamaderohensis</em>.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Submontane shrub­land</td>
 <td align="left">Granite mountains, slopes and cliffs.</td>
 <td align="left">150-750m</td>
@@ -252,7 +257,7 @@ There are eight main types of vegetation: mangroves, coastal shrubland, *croton*
 <p><em>Rhus thyrsiflora, </em></p>
 <p><em>Euryops arabicus, Buxanthus pedicella­tus, Gnidia socotra­na</em> and <em>Cocculus bal­fourii.</em></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Montane mosaic of evergreen woodland, dwarf shrubland ,grass- land and cush­ion vegetation.</td>
 <td align="left">Exposed pinnacles, cliff slopes, sheltered ravines and patches of cleared grassland, all on granite.</td>
 <td align="left">950 -1,000m</td>
@@ -271,20 +276,22 @@ FAUNA
 Because of the dry climate and small size of the islands the terrestrial fauna of the archipelago is not large, except for reptiles, although the avifauna is rich. Marine life is very diverse and the marine habitats are in good condition. The following preliminary species numbers are given in the nomination (amended by Cheung & DeVantier, 2006):
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Groups</strong></th>
+<th align="left"><strong>Number of Species</strong></th>
+<th align="left"><blockquote>
+<p><strong>Endemic Species</strong></p>
+</blockquote></th>
+<th align="left"></th>
+<th align="left"><strong>Groups</strong></th>
+<th align="left"><strong>Number of Species</strong></th>
+<th align="left"><p><strong>Endemic</strong></p>
+<p><strong>Species</strong></p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Groups</strong></td>
-<td align="left"><strong>Number of Species</strong></td>
-<td align="left"><blockquote>
-<p><strong>Endemic Species</strong></p>
-</blockquote></td>
-<td align="left"></td>
-<td align="left"><strong>Groups</strong></td>
-<td align="left"><strong>Number of Species</strong></td>
-<td align="left"><p><strong>Endemic</strong></p>
-<p><strong>Species</strong></p></td>
-</tr>
-<tr class="even">
 <td align="left">VERTEBRATES</td>
 <td align="left"></td>
 <td align="left"></td>
@@ -293,7 +300,7 @@ Because of the dry climate and small size of the islands the terrestrial fauna o
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Mammals</td>
 <td align="left">14</td>
 <td align="left"></td>
@@ -302,7 +309,7 @@ Because of the dry climate and small size of the islands the terrestrial fauna o
 <td align="left">15</td>
 <td align="left">-</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Reptiles</td>
 <td align="left">34</td>
 <td align="left">27</td>
@@ -311,7 +318,7 @@ Because of the dry climate and small size of the islands the terrestrial fauna o
 <td align="left">4</td>
 <td align="left">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Birds</td>
 <td align="left">192</td>
 <td align="left">6+10 ssp.</td>
@@ -320,7 +327,7 @@ Because of the dry climate and small size of the islands the terrestrial fauna o
 <td align="left">253</td>
 <td align="left">regional ssp.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Freshwater fish</td>
 <td align="left">1</td>
 <td align="left">-</td>
@@ -329,7 +336,7 @@ Because of the dry climate and small size of the islands the terrestrial fauna o
 <td align="left">30</td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Freshwater-adapted fish</td>
 <td align="left">44</td>
 <td align="left">&lt;5%</td>
@@ -338,7 +345,7 @@ Because of the dry climate and small size of the islands the terrestrial fauna o
 <td align="left">686</td>
 <td align="left">&lt;5%</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">INVERTEBRATES</td>
 <td align="left"></td>
 <td align="left"></td>
@@ -347,7 +354,7 @@ Because of the dry climate and small size of the islands the terrestrial fauna o
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Arachnids</td>
 <td align="left">~ 40</td>
 <td align="left">60%</td>
@@ -356,7 +363,7 @@ Because of the dry climate and small size of the islands the terrestrial fauna o
 <td align="left">300</td>
 <td align="left">16</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Crustaceans</td>
 <td align="left">~ 45</td>
 <td align="left">high</td>
@@ -365,7 +372,7 @@ Because of the dry climate and small size of the islands the terrestrial fauna o
 <td align="left">129</td>
 <td align="left">?</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Myriapods</td>
 <td align="left">~ 15</td>
 <td align="left">?</td>
@@ -374,7 +381,7 @@ Because of the dry climate and small size of the islands the terrestrial fauna o
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Insects</td>
 <td align="left">~ 600</td>
 <td align="left">50%+</td>
@@ -383,7 +390,7 @@ Because of the dry climate and small size of the islands the terrestrial fauna o
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Molluscs</td>
 <td align="left">~ 65</td>
 <td align="left">95%</td>
@@ -462,93 +469,95 @@ The main bases for comparison with similar existing World Heritage reef sites ar
 In addition to its exceptional biodiversity and flora, Socotra is fairly unusual for the Middle East in having scenic high wild mountains so near to the sea. However, comparable island groups exist, as shown in this table from the nomination of comparative botanical endemism in oceanic islands, ranged by percentage:
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Islands</strong></th>
+<th align="left"><strong>Area (km<sup>2</sup>)</strong></th>
+<th align="left"><p><strong>Number of Plant</strong></p>
+<p><strong>Species</strong></p></th>
+<th align="left"><strong>Number of Endemics</strong></th>
+<th align="left"><strong>% Endemic</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Islands</strong></td>
-<td align="left"><strong>Area (km<sup>2</sup>)</strong></td>
-<td align="left"><p><strong>Number of Plant</strong></p>
-<p><strong>Species</strong></p></td>
-<td align="left"><strong>Number of Endemics</strong></td>
-<td align="left"><strong>% Endemic</strong></td>
-</tr>
-<tr class="even">
 <td align="left">Juan Fernandez</td>
 <td align="left">93</td>
 <td align="left">147</td>
 <td align="left">118</td>
 <td align="left">80</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Ascension</td>
 <td align="left">94</td>
 <td align="left">25</td>
 <td align="left">11</td>
 <td align="left">44</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Galapagos</td>
 <td align="left">7,844</td>
 <td align="left">543</td>
 <td align="left">229</td>
 <td align="left">42</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><strong>Socotra</strong></td>
 <td align="left"><strong>3,799</strong></td>
 <td align="left"><strong>825</strong></td>
 <td align="left"><strong>307</strong></td>
 <td align="left"><strong>37</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Mauritius</td>
 <td align="left">1,865</td>
 <td align="left">800-900</td>
 <td align="left">280</td>
 <td align="left">31-35</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Rodriguez</td>
 <td align="left">104</td>
 <td align="left">145</td>
 <td align="left">48</td>
 <td align="left">33</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Canary</td>
 <td align="left">7,273</td>
 <td align="left">2000</td>
 <td align="left">569</td>
 <td align="left">28</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Norfolk</td>
 <td align="left">13</td>
 <td align="left">174</td>
 <td align="left">48</td>
 <td align="left">28</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Madeira</td>
 <td align="left">769</td>
 <td align="left">760</td>
 <td align="left">760</td>
 <td align="left">17</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">St Helena</td>
 <td align="left">121</td>
 <td align="left">320</td>
 <td align="left">49</td>
 <td align="left">15</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Cape Verde</td>
 <td align="left">4,033</td>
 <td align="left">724 (spermatophyte)</td>
 <td align="left">65</td>
 <td align="left">11.1</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Azores</td>
 <td align="left">2,235</td>
 <td align="left">600</td>
@@ -596,25 +605,17 @@ Caruso, M. (2006). *Socotra Archipelago. Proposal for Inclusion in the World Her
 
 Cheung, C. & DeVantier, L. with Van Damme, K.(2006). *Sokotra. A Natural History of the Islands and their People*. Odyssey Books, Hong Kong. 408 pp.
 
-Devantier, L.*et al.* (2004). Reef-building corals and coral communities of the Socotra Islands, Yemen:
-
-A zoogeographic ‘crossroads’ in the Arabian Sea. *Fauna of Arabia,* 20: 117-168.
+Devantier, L.*et al.* (2004). Reef-building corals and coral communities of the Socotra Islands, Yemen: A zoogeographic ‘crossroads’ in the Arabian Sea. *Fauna of Arabia,* 20: 117-168.
 
 Di Micco De Santo, T. & Zandri, E. (2004). Main features of the Socotra Archipelago and ongoing conservation efforts. *Fauna of Arabia*, 20: 1-19.
 
 Doe, B.(1992). *Soqotra: Island of Tranquillity*. 81 plates. Immel Publishing Ltd, London. 219 pp.
 
-El-Eryani, A. (2008). *Clarifications re the IUCN Evaluation Socotra Archipelago (Yemen) Nominated*
-
-*for Inclusion on the World Heritage List*.. Letter to IUCN and UNESCO from the Minister of Water and
-
-Environment.
+El-Eryani, A. (2008). *Clarifications re the IUCN Evaluation Socotra Archipelago (Yemen) Nominated for Inclusion on the World Heritage List*.. Letter to IUCN and UNESCO from the Minister of Water and Environment.
 
 Evans, M. (2000). *Royal Botanic Gardens of Edinburgh,UK. Multidisciplinary Expedition Final Report – Zoology.* UNDP/GEF/EPA Project Report, Sana’a, Yemen. (Unpublished)
 
-Fleitmann, D*. et al*. (2004). Geology and Quaternary climate history of Socotra.*Fauna of Arabia,* 20:
-
-27-43.
+Fleitmann, D*. et al*. (2004). Geology and Quaternary climate history of Socotra.*Fauna of Arabia,* 20:27-43.
 
 Forbes, H.O. (1903). Natural history of Soqotra and Abd-El-Kuri. *Bull.Liverpool Mus*. (Spec. Bull.): 1-598, Liverpool.
 
@@ -622,9 +623,7 @@ Hariri, K. & Krupp, F. (eds). *Conservation and Sustainable Use of Biodiversity 
 
 IUCN (2008). *The Red List of Threatened Species.* IUCN, Gland, Switzerland / Cambridge, U.K.
 
-Klaus, R. & Turner,J. (2004).The marine biotopes of the Socotra Archipelago. *Fauna of Arabia,* 20:
-
-45-115.
+Klaus, R. & Turner,J. (2004).The marine biotopes of the Socotra Archipelago. *Fauna of Arabia,* 20:45-115.
 
 Klaus, R., Turner,J. & West, F. (2002a). *Sublittoral and Littoral Biotope Manual for the Socotra Archipelago.* Report for the Senkenberg Research Institute, Frankfurt a.M. Germany. 221 pp. (Unpublished)
 

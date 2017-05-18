@@ -2,7 +2,7 @@ Title: LAPONIAN AREA
 Tags: SWEDEN
 Author: UNEP-WCMC
 Year: 1996
-Date: 2017-04-12 15:28:08
+Date: 2017-05-18 14:05:01
 
 LAPONIAN AREA 
 ==============
@@ -44,23 +44,48 @@ INTERNATIONAL DESIGNATIONS
 IUCN MANAGEMENT CATEGORY 
 -------------------------
 
-Sjaunja Nature Reserve Ia Strict Nature Reserve/Scientific Reserve
-
-Padjelanta National Park II National Park
-
-Sarek National Park II National Park
-
-Stora-Sjöfallet National Park II National Park
-
-Muddus National Park II National Park
-
-Stubba Nature Reserve IV Managed Nature Reserve
-
-Sulitelma Glacier area in Sareks National Park
-
-Tjuolta Valley area in Padjelanta National Park
-
-Rapa Valley Delta area in Sareks National Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Sjaunja Nature Reserve</th>
+<th align="left">Ia Strict Nature Reserve/Scientific Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Padjelanta National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Sarek National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Stora-Sjöfallet National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Muddus National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Stubba Nature Reserve</td>
+<td align="left">IV Managed Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Sulitelma Glacier area</td>
+<td align="left">in Sareks National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Tjuolta Valley area</td>
+<td align="left">in Padjelanta National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Rapa Valley Delta area</td>
+<td align="left">in Sareks National Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -101,23 +126,48 @@ AREA
 
 940,000 ha. The sub-areas quoted below are as given in the World Database on Protected Areas.
 
-Sjaunja Nature Reserve 285,000 ha
-
-Padjelanta National Park 198,400 ha
-
-Sareks National Park 197,000 ha
-
-Stora-Sjöfallets National Park 127,800 ha
-
-Muddus National Park 49,340 ha
-
-Stubba Nature Reserve 24,090 ha
-
-Sulitelma Glacier area (within Sareks National Park) 23,000 ha
-
-Tjuolta Valley area (within Padjelanta National Park) 20,000 ha
-
-Rapa Valley Delta area (within Sareks National Park) 2,000 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Sjaunja Nature Reserve</th>
+<th align="left">285,000 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Padjelanta National Park</td>
+<td align="left">198,400 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Sareks National Park</td>
+<td align="left">197,000 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Stora-Sjöfallets National Park</td>
+<td align="left">127,800 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Muddus National Park</td>
+<td align="left">49,340 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Stubba Nature Reserve</td>
+<td align="left">24,090 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Sulitelma Glacier area (within Sareks National Park)</td>
+<td align="left">23,000 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Tjuolta Valley area (within Padjelanta National Park)</td>
+<td align="left">20,000 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Rapa Valley Delta area (within Sareks National Park)</td>
+<td align="left">2,000 ha</td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE
 ------------
@@ -144,7 +194,7 @@ FAUNA
 
 The sites have a greater number of vertebrate species than any other mountain region in Sweden. The native reindeer *Rangifer tarandus* are all semi-domesticated, but there are 25 other species of mammal, some of which are persecuted to safeguard the herds. These include brown bear *Ursus arctos* (100 in 1996) wolverine *Gulo gulo*, European otter *Lutra lutra*, Arctic fox *Alopes lagopus,* Eurasian lynx *Lynx lynx*, and a large population of moose *Alces alces* in the Rapa valley. Wolves have been extirpated. Moose (for the Saami only), pine marten *Martes martes*, red fox *Vulpes vulpes*, arctic hare *Lepus arcticus* willow ptarmigan, *Lagopus lagopus,* rock ptarmigan *L.muta* and capercaillie *Tetrao urigallus* are permitted game.
 
-Resident large birds include white-tailed eagle *Haliaeetus albicilla* (50-100 pairs in 1996), golden eagle *Aquila chrysaetos* (10 pairs), gyrfalcon *Falco rusticulus* (3-4 pairs), peregrine falcon *F. peregrinus* and merlin *F. columbarius*. In the Sjaunja mires and the bog surrounding L Muddusjaure, more than 150 species have been seen, at least 100 of which have been confirmed as breeding, some 50 being dependent on wetland habitat. Among them are whooper swan *Cygnus Cygnus* (50-60 pairs), lesser whitefronted goose *Anser erythropus* (VU), Eurasian wigeon *Anas penelope,* northern pintail *A. acuta,* common teal *A. crecca,* tufted duck *Aythya fuligula,* greater scaup *A. marila,* goldeneye *Bucephala clangula,* smew *Mergellus albellus,* wood sandpiper *Tringa glareola,* spotted redshank *T.erythropus*, broad-billed sandpiper *Limicola falcinellus,* red-necked phalarope *Phalaropus lobatus,* great snipe *Gallinago media* and jack snipe *Lymnocryptes minimus.* The Rapa delta and Lake Laiture are also important breeding grounds for ducks and waders. Other birds include northern hawk owl *Surnia ulula,* great grey owl *Strix nebulosa*, short-eared owl *Asio flammeus*, pine grosbeak *Pinicola enucleator*, red-throated pipit *Anthus cervin*us, Arctic warbler *Phylloscopus borealis*, rustic bunting *Emberiza rustica* and little bunting *E. pusilla.*
+Resident large birds include white-tailed eagle *Haliaeetus albicilla* (50-100 pairs in 1996), golden eagle *Aquila chrysaetos* (10 pairs), gyrfalcon *Falco rusticulus* (3-4 pairs), peregrine falcon *F. peregrinus* and merlin *F. columbarius*. In the Sjaunja mires and the bog surrounding L Muddusjaure, more than 150 species have been seen, at least 100 of which have been confirmed as breeding, some 50 being dependent on wetland habitat. Among them are whooper swan *Cygnus Cygnus* (50-60 pairs), lesser whitefronted goose *Anser erythropus* (VU), Eurasian wigeon *Anas penelope,* northern pintail *A. acuta,* common teal *A. crecca,* tufted duck *Aythya fuligula,* greater scaup *A. marila,* goldeneye *Bucephala clangula,* smew *Mergellus albellus,* wood sandpiper *Tringa glareola,* spotted redshank *T.erythropus*, broad-billed sandpiper *Limicola falcinellus,* red-necked phalarope *Phalaropus lobatus,* great snipe *Gallinago media* and jack snipe *Lymnocryptes minimus.* The Rapa delta and Lake Laiture are also important breeding grounds for ducks and waders. Other birds include northern hawk owl *Surnia ulula,* great grey owl *Strix nebulosa*, short-eared owl *Asio flammeus*, pine grosbeak *Pinicola enucleator*, red-throated pipit *Anthus cervinus*, Arctic warbler *Phylloscopus borealis*, rustic bunting *Emberiza rustica* and little bunting *E. pusilla.*
 
 CONSERVATION VALUE
 ------------------

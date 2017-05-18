@@ -2,7 +2,7 @@ Title: HUASCARAN NATIONAL PARK
 Tags: PERU
 Author: UNEP-WCMC
 Year: 1985
-Date: 2017-04-12 15:28:05
+Date: 2017-05-18 14:04:58
 
 HUASCARAN NATIONAL PARK
 =======================
@@ -102,16 +102,18 @@ The Cordillera Blanca forms a mountain island above the surrounding valleys wher
 Seven ecosystems and eleven types of vegetation are listed in the Master Plan (IANP, 2003):
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Ecosystem</strong></th>
+<th align="left"><strong>Height</strong></th>
+<th align="left"><strong>Temp.</strong></th>
+<th align="left"><strong>Precipit’n (mm)</strong></th>
+<th align="left"><strong>Area</strong></th>
+<th align="left"><strong>Aspect</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Ecosystem</strong></td>
-<td align="left"><strong>Height</strong></td>
-<td align="left"><strong>Temp.</strong></td>
-<td align="left"><strong>Precipit’n (mm)</strong></td>
-<td align="left"><strong>Area</strong></td>
-<td align="left"><strong>Aspect</strong></td>
-</tr>
-<tr class="even">
 <td align="left">Montane tropical grasslands</td>
 <td align="left">3,000-3,500m</td>
 <td align="left">6-14 <sup>o</sup>C</td>
@@ -119,7 +121,7 @@ Seven ecosystems and eleven types of vegetation are listed in the Master Plan (I
 <td align="left">0.5%</td>
 <td align="left">in the north</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Very humid montane</p>
 <p>tropical forest</p></td>
 <td align="left">3,000-3,800m</td>
@@ -128,7 +130,7 @@ Seven ecosystems and eleven types of vegetation are listed in the Master Plan (I
 <td align="left">0.8%</td>
 <td align="left">in the east</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>Humid montane</p>
 <p>tropical forest</p></td>
 <td align="left">3,000-4,000m</td>
@@ -137,7 +139,7 @@ Seven ecosystems and eleven types of vegetation are listed in the Master Plan (I
 <td align="left">3.1%</td>
 <td align="left">in the west</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Pluvial sub-Andean</p>
 <p>tropical paramo</p></td>
 <td align="left"><sub>~</sub>3,800m</td>
@@ -146,7 +148,7 @@ Seven ecosystems and eleven types of vegetation are listed in the Master Plan (I
 <td align="left">14.3%</td>
 <td align="left">in the southeast</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>Very humid sub-Andean</p>
 <p>tropical paramo</p></td>
 <td align="left">3,800-4,500m</td>
@@ -155,7 +157,7 @@ Seven ecosystems and eleven types of vegetation are listed in the Master Plan (I
 <td align="left">20.3%</td>
 <td align="left">on both slopes</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Pluvial Andean</p>
 <p>tropical tundra</p></td>
 <td align="left">4,500-5,000m</td>
@@ -164,7 +166,7 @@ Seven ecosystems and eleven types of vegetation are listed in the Master Plan (I
 <td align="left">32.5%</td>
 <td align="left">on both slopes</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Snowcovered tropical tundra</td>
 <td align="left">&gt;5,000m</td>
 <td align="left">&lt;1.5 <sup>o</sup>C</td>

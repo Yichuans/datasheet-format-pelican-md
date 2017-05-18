@@ -1,12 +1,14 @@
-Title: Gunung Mulu National Park
-Tags: Malaysia
+Title: GUNUNG MULU NATIONAL PARK
+Tags: MALAYSIA
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-12 15:28:03
+Date: 2017-05-18 14:04:56
 
-**GUNUNG MULU NATIONAL PARK**
+GUNUNG MULU NATIONAL PARK
+=========================
 
-**MALAYSIA**
+MALAYSIA
+========
 
 *Gunung Mulu National Park is the most intensively studied area of tropical karst in the world. It is dominated by Gunung Mulu, the second highest mountain in Sarawak, and is exceptionally scenic, with rainforested mountains, wild rivers in deeply-incised canyons, sheer limestone pinnacles, long cave passages and immense caves. Its 295 kilometres of caves show classic underground geomorphological features which reveal an evolutionary history of more than 1.5 million years. They include one of the world's finest examples of collapse in karst terrain and the Sarawak Chamber, the largest cave chamber known. Both above and below ground the Park has a wide range of endemic animals and plants in seventeen vegetation zones. The caves house millions of swiftlets and bats and provide provide outstanding scientific opportunities to study the origins of cave faunas.*
 
@@ -124,8 +126,7 @@ Excavations from Wind Cave by the Sarawak Museum have revealed artefacts and hum
 LOCAL HUMAN POPULATION
 ----------------------
 
-Amongst the local inhabitants are the Orang Ulu, Kiput, Kenyah, Kayan, Mulut and Punan tribes.\
-The Punan people are semi-settled and nomadic groups living next to the Park and two of their long houses exist on the southwest perimeter at Batu Bungan and Long Iman. A small nomadic group of the tribe lived in the eastern Park but some 300 more have rights to gathering and pig and deer hunting in subsistence hunting zones within the boundaries.
+Amongst the local inhabitants are the Orang Ulu, Kiput, Kenyah, Kayan, Mulut and Punan tribes. The Punan people are semi-settled and nomadic groups living next to the Park and two of their long houses exist on the southwest perimeter at Batu Bungan and Long Iman. A small nomadic group of the tribe lived in the eastern Park but some 300 more have rights to gathering and pig and deer hunting in subsistence hunting zones within the boundaries.
 
 VISITORS AND VISITOR FACILITIES
 -------------------------------

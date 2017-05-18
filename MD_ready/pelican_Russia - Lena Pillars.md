@@ -2,7 +2,7 @@ Title: Lena Pillars Nature Park
 Tags: Russian Federation
 Author: UNEP-WCMC
 Year: 2012
-Date: 2017-04-12 15:28:06
+Date: 2017-05-18 14:04:59
 
 1.  LENA PILLARS NATURE PARK
     ========================
@@ -134,9 +134,10 @@ VISITORS AND VISITOR FACILITIES
 
 The site is potentially one of the main tourist magnets of eastern Siberia. The government and the Sakhan Republic with local communities, have advertised the site widely. In 2010 annual visitor numbers at the recreation sites between Pokrovsk and the Park were 9,917, up from 4,838 in 2006, 8,064 of whom visited the Park itself by road or boat. Local schools also visit on educational summer camps (500 children in 11 camps in 2010). The season is between mid June to mid September. An upper limit has been established of 23,000 visits a year, based on the site's carrying capacity. There are three tourist/recreation centres: the Labiya River centre on the site with 2 winter cabins, the Buotama Mouth centre opposite the river mouth with an inspector's house, diesel cabin and 10 summer cabins, and Bestyakh centre 43 km downriver with inspector's house, garage, bathhouse and 3 summer cabins. A new Environmental Education Centre in Pokrovsk, 80 km downstream, is being built. There is no tourism management plan but a brief program for the development of environmental tourism 2012-2016 has been drawn up which contains principles though no operational details. However, ecotourism trails through landscapes near the Buotama river mouth, the Labiya River and the Diring-Yuryakh site have been developed, and local people provide transport, guides and local produce for sale.
 
-\
-SCIENTIFIC RESEARCH AND FACILITIES
-----------------------------------
+1.  
+
+    SCIENTIFIC RESEARCH AND FACILITIES
+    ----------------------------------
 
 The site is an outstanding natural laboratory for sedimentologists and paleoecologists. The well-preserved sediments in which multicellular life first diversified reveal a well ordered and well preserved record of a wide array of the marine animals and phytoplankton which evolved during the early and mid Cambrian periods. The high quality of the fossils and their matrices also yield high resolution isotopic and palaeomagnetic evidence of their age and composition. This compares with the Great Barrier Reef in complexity and clarity but over a far longer period of time and probably formed by different processes. The thin fossiliferous strata, traceable for many kilometres permit extensive study of great paleontological value of their distribution, development, stratigraphy and dynamics, enabling a precise examination of many ecological and evolutionary problems which complements the evidence from other sites. In 2006 geological researches were carried out by the Siberian Research Studies Institute for Geology, Geophysics and Mineral Resources of Novosibirsk with the Moscow Paleological Institute. Studies made of every aspect of these sediments, are cited in the nomination bibliography. More recently the variety of ecotypes has also been examined to provide a basis for management and educational tourism.
 
@@ -174,10 +175,10 @@ The Minister, Ministry of Nature Conservation of the Republic of Sakha, Dzerzhin
 
 The Director, Lena Pillars Nature Park, Ordzhonikidse Street 56, Pokrovsk 678010, Republic of Sakha, Russian Federation. Web site: http://www.lenskiestolby.ru
 
-REFERENCES
+REFERENCES {#references .ListParagraph}
 ----------
 
-1.  The principal sources for the above information were the original World Heritage nomination, the IUCN evaluation report and Decision 36 COM 8B.11 of the UNESCO World Heritage Committee.
+The principal sources for the above information were the original World Heritage nomination, the IUCN evaluation report and Decision 36 COM 8B.11 of the UNESCO World Heritage Committee.
 
 Anon. (2007). *Nature Park 'Lena Pillars'* in *Properties from the Arctic Region and Vicinity on the World Heritage List and National Tentative Lists*. World Heritage and the Arctic International Experts Meeting, Nov.-Dec. Narvik, Norway.
 

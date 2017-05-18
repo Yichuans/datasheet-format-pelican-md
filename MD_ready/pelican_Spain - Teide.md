@@ -2,7 +2,7 @@ Title: TEIDE NATIONAL PARK
 Tags: SPAIN
 Author: UNEP-WCMC
 Year: 2007
-Date: 2017-04-12 15:28:07
+Date: 2017-05-18 14:05:01
 
 TEIDE NATIONAL PARK
 ===================
@@ -43,9 +43,20 @@ The property is well managed and resourced, with a six-year management plan in p
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Teide National Park: II National Park
-
-Teide Natural Monument: Unassigned
+<table>
+<thead>
+<tr class="header">
+<th align="left">Teide National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Teide Natural Monument:</td>
+<td align="left">Unassigned</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -203,9 +214,7 @@ Hammersley, P. (1998). Infrared quality of the Canarian skies. *New Astronomy Re
 
 IUCN (2007).The Red List of Threatened Species. IUCN, Cambridge,U.K.
 
-Ministry of the Environment (2006). *Proposal to Inscribe Teide National Park on the World Heritage List.* Government of the Canary Islands. 141 pp. + Annex, 397 pp.
-
-\[Contains a bibliography of 355 references, mostly in Spanish\]
+Ministry of the Environment (2006). *Proposal to Inscribe Teide National Park on the World Heritage List.* Government of the Canary Islands. 141 pp. + Annex, 397 pp. \[Contains a bibliography of 355 references, mostly in Spanish\]
 
 Wildpret, W. & Martin V. (2003). Inventario de la Flora y Vegetación del Parque Nacional del Teide. 2001-2003. Parque Nacional del Teide. Documentación inédita.
 

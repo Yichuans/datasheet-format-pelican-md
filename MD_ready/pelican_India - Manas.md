@@ -2,7 +2,7 @@ Title: MANAS WILDLIFE SANCTUARY
 Tags: INDIA
 Author: UNEP-WCMC
 Year: 1985
-Date: 2017-04-12 15:28:01
+Date: 2017-05-18 14:04:54
 
 MANAS WILDLIFE SANCTUARY
 ========================
@@ -46,7 +46,7 @@ Manas Wildlife Sanctuary is located in the State of Assam in North-East India, a
 
 **Criterion (ix):** The Manas-Beki system is the major river system flowing through the property and joining the Brahmaputra river further downstream. These and other rivers carry an enormous amount of silt and rock debris from the foothills resulting from the heavy rainfall, fragile nature of the rock and steep gradients of the catchments. This leads to the formation of alluvial terraces, comprising deep layers of deposited rock and detritus overlain by sandy loam and a layer of humus represented by bhabar tracts in the north. The terai tract in the south consists of fine alluvial deposits with underlying pans where the water table lies near to the surface. The area contained by the Manas-Beki system gets inundated during the monsoons but flooding does not last long due to the sloping relief. The monsoon and river system form four principal geological habitats: Bhabar savannah, Terai tract, marshlands and riverine tracts. The dynamic ecosystem processes support broadly three types of vegetation: semi-evergreen forests, mixed moist and dry deciduous forests and alluvial grasslands. The dry deciduous forests represent an early stage in succession that is constantly renewed by floods and is replaced by moist decidous forests away from water courses, which in turn are replaced by semi evergreen climax forests. The vegetation of Manas has tremendous regenerating and self-sustaining capabilities due to its high fertility and response to natural grazing by herbivorous animals.
 
-**Criterion (x):** The Manas Wildlife Sanctuary provides habitat for 22 of India’s most threatened species of mammals. In total, there are nearly 60 mammal species, 42 reptile species, 7 amphibians and 500 species of birds, of which 26 are globally threatened. Noteworthy among these are the elephant, tiger, greater one-horned rhino, clouded leopard, sloth bear, and other species. The wild buffalo population is probably the only pure strain of this species still found in India. It also harbours endemic species like pygmy hog, hispid hare and golden langur as well as the endangered Bengal florican. The range of habitats and vegetation also accounts for high plant diversity that includes 89 tree species, 49 shrubs, 37 undershrubs, 172 herbs and 36 climbers. Fifteen species of orchids, 18 species of fern and 43 species of grasses that provide vital forage to a range of ungulate species also occur here.\]
+**Criterion (x):** The Manas Wildlife Sanctuary provides habitat for 22 of India’s most threatened species of mammals. In total, there are nearly 60 mammal species, 42 reptile species, 7 amphibians and 500 species of birds, of which 26 are globally threatened. Noteworthy among these are the elephant, tiger, greater one-horned rhino, clouded leopard, sloth bear, and other species. The wild buffalo population is probably the only pure strain of this species still found in India. It also harbours endemic species like pygmy hog, hispid hare and golden langur as well as the endangered Bengal florican. The range of habitats and vegetation also accounts for high plant diversity that includes 89 tree species, 49 shrubs, 37 undershrubs, 172 herbs and 36 climbers. Fifteen species of orchids, 18 species of fern and 43 species of grasses that provide vital forage to a range of ungulate species also occur here.
 
 **Integrity**
 
@@ -130,7 +130,7 @@ The climate is warm and humid with up to 76% relative humidity. It rains from mi
 VEGETATION
 ----------
 
-Manas lies on the border between the Indo-Gangetic and Indo-Malayan biogeographical realms which gives it great natural diversity. There are three main types of vegetation: sub-Himalayan alluvial semi-evergreen forest, east Himalayan mixed moist and dry deciduous *forests, the commoner type, and grasslands. Much of the riverine dry deciduous forest is an early successional stage, being constantly renewed by floods. Away from water courses it is replaced by moist deciduous forest, which is succeeded by semi-evergreen climax forest in the northern part of the Park. Its common trees include*Aphanamixis polystachya*, *Anthocephalus chinensis*, *Syzygium cumini*, *S. formosum*, *S. oblatum*, *Bauhinia purpurea*, *Mallotus philippensis*, *Cinnamomum tamala*, *Actinodaphne obvat*a; Tropical moist and dry deciduous forests are characterised by *Bombax ceiba*, *Sterculia villosa*, *Dillenia indica*, *D. pentagyna, Careya arborea*, *Lagerstroemia parviflora*, *L.speciosa, Terminalia bellirica*, *T. chebula, Trewia polycarpa*, *Gmelina arborea*, *Oroxylum indicum* and *Bridelia* spp. Much of the most valuable timber has been harvested.
+Manas lies on the border between the Indo-Gangetic and Indo-Malayan biogeographical realms which gives it great natural diversity. There are three main types of vegetation: sub-Himalayan alluvial semi-evergreen forest, east Himalayan mixed moist and dry deciduous forests, the commoner type, and grasslands. Much of the riverine dry deciduous forest is an early successional stage, being constantly renewed by floods. Away from water courses it is replaced by moist deciduous forest, which is succeeded by semi-evergreen climax forest in the northern part of the Park. Its common trees include *Aphanamixis polystachya*, *Anthocephalus chinensis*, *Syzygium cumini*, *S. formosum*, *S. oblatum*, *Bauhinia purpurea*, *Mallotus philippensis*, *Cinnamomum tamala*, *Actinodaphne obvata*; Tropical moist and dry deciduous forests are characterised by *Bombax ceiba*, *Sterculia villosa*, *Dillenia indica*, *D. pentagyna, Careya arborea*, *Lagerstroemia parviflora*, *L.speciosa, Terminalia bellirica*, *T. chebula, Trewia polycarpa*, *Gmelina arborea*, *Oroxylum indicum* and *Bridelia* spp. Much of the most valuable timber has been harvested.
 
 Two types of alluvial grasslands cover almost 45% of the Park: low alluvial savanna woodland and semi-evergreen alluvial grassland. These are created and maintained by burning, and on a smaller scale, by elephants. The riparian grasslands are the best tiger habitat in India, and also well suited to the unique wild buffalo herds, gaur and barasingha, elephants and waterbirds. There are 43 different grass species, *Imperata cylindrica, Saccharum naranga, Phragmites karka* and *Arundo donax* predominating (Menon, 1995). There is also a variety of tree and shrub species such as *Dillenia pentagyna* which dominates the swamp forest, silk cotton *Bombax ceiba* a dominant *of* the savanna woodland, and*Phyllanthus emblica*, and shrub species of*Clerodendrum*, *Leea*, *Grewia*, *Premna*, *Mussaenda, Sonchus, Osbekia* and *Blumera*. There is a wide variety of aquatic flora along river banks and in the numerous pools (Jain & Sastry, 1983). Some 374 species of dicotyledons, including 89 trees, 139 species of monocotyledons including 43 species of grass, and 15 species of orchid have been identified (Project Tiger, 2001). Invasion by *Mikena cordata* vines and *Eupatorium odorata* is a problem.
 
@@ -240,9 +240,7 @@ Deb Roy, S. (1992). *Manas - A World Heritage Site.* A report to the 4th World C
 
 ---------- (1982). *Elephant Census, as Carried out in Manas Tiger Reserve, Methodology and Figures.* Unpublished report. 23 pp.
 
-Debonnet, G. & Lethier, H. (2008). *Reactive Monitoring Mission to the Manas Wildlife Sanctuary, India.*
-
-UNESCO/IUCN Monitoring Report, Paris.
+Debonnet, G. & Lethier, H. (2008). *Reactive Monitoring Mission to the Manas Wildlife Sanctuary, India.* UNESCO/IUCN Monitoring Report, Paris.
 
 Forest Department & Manas Tiger Project (2001). *State of the World Heritage in the Asia-Pacific Region*. *India Manas Wildlife Sanctuary.* Report to the UNESCO World Heritage Committee, Paris
 
@@ -274,9 +272,7 @@ Jain, S & Hajra, P. (1975). On the botany of Manas Wildlife Sanctuary in Assam. 
 
 Lahkar, B.*et al.* (2007). *A Study of Habitat Utilization Patterns of Asian Elephant Elephas Maximus, and Current Status of Human Elephant Conflict in Manas Wildlife Sanctuary within Chirang Ripu Elephant Reserve, Assam.* A report by Aaranyak. 74 p.
 
-Lurie, T. (1991). Saving the forests: India's experiment in cooperation. *The Ford Foundation Letter*,
-
-22 (1): 2.
+Lurie, T. (1991). Saving the forests: India's experiment in cooperation. *The Ford Foundation Letter*, 22 (1): 2.
 
 Mathur, V. *et al*. (2007). *Rapid Assessment of Wildlife Values in Manas World Heritage Site, Assam*, *India*. Wildlife Institute of India for Ministry of Environment & Forests, Gov’t of India, New Delhi. 51 p.
 

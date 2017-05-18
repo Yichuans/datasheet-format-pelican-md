@@ -1,12 +1,14 @@
-Title: Garamba National Park
-Tags: Democratic Republic of the Congo
+Title: GARAMBA NATIONAL PARK
+Tags: DEMOCRATIC REPUBLIC OF THE CONGO
 Author: UNEP-WCMC
 Year: 1980
-Date: 2017-04-12 15:27:59
+Date: 2017-05-18 14:04:52
 
-**GARAMBA NATIONAL PARK**
+GARAMBA NATIONAL PARK
+=====================
 
-**DEMOCRATIC REPUBLIC OF THE CONGO**
+DEMOCRATIC REPUBLIC OF THE CONGO
+================================
 
 *Immense savannahs, grasslands and woodlands, threaded with gallery forests and swampy depressions, protect a wide range of animals, especially the four large mammals, elephant, giraffe, hippopotamus and the critically endangered northern white rhinoceros. This is much larger than the black rhino, and less than thirty individuals remain in the wild. It is one of the world’s twelve most threatened large animals.*
 
@@ -176,7 +178,7 @@ REFERENCES
 
 The principal source for the above information was the original nomination for World Heritage status.
 
-Anon. (2010). Once a rebel haunt, Congo’s Garamba opens to tourism*. Africa the Good News, June.*
+Anon. (2010). Once a rebel haunt, Congo’s Garamba opens to tourism. *Africa the Good News, June.*
 
 Birdlife International (2000). *Garamba National Park*, Birdlife International, Cambridge, U.K.
 

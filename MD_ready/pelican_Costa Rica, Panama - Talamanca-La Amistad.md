@@ -2,7 +2,7 @@ Title: Talamanca Range-La Amistad Reserves / La Amistad National Park
 Tags: Costa Rica,Panama
 Author: UNEP-WCMC
 Year: 1983
-Date: 2017-04-12 15:27:58
+Date: 2017-05-18 14:04:51
 
 TALAMANCA RANGE-LA AMISTAD RESERVES /
 =====================================
@@ -53,16 +53,36 @@ designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme (584,5
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-La Amistad (Panama) National Park: II National Park
-
-La Amistad (Costa Rica) National Park: II National Park
-
-Chirripó National Park: II National Park\
-Barbilla National Park: II National Park
-
-Hitoy Cerere Biological Reserve: Ia Strict Nature Reserve
-
-Tapanti National Park: IV Habitat/Species Management Area
+<table>
+<thead>
+<tr class="header">
+<th align="left">La Amistad (Panama) National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">La Amistad (Costa Rica) National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Chirripó National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Barbilla National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Hitoy Cerere Biological Reserve:</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+<tr class="odd">
+<td align="left">Tapanti National Park:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+</tbody>
+</table>
 
 Rio Macho Forest Reserve: VI Managed Resource Protected Area\
 Las Tablas Protective Zone: VI Managed Resource Protected Area
@@ -126,21 +146,44 @@ AREA
 
 567,845 ha (UNESCO, 2006). The figures below total 568,627 ha. The WDPA total differs markedly.
 
-La Amistad National Park (Panama): 207,000 ha
-
-La Amistad National Park (Costa Rica): 193,929 ha
-
-Rio Macho Forest Reserve: 69,604 ha
-
-Chirripó National Park: 51,150 ha
-
-Las Tablas Protected Area: 19,602 ha
-
-Barbilla National Park: 12,098 ha
-
-Hitoy Cerere Biological Reserve: 9,154 ha
-
-Tapanti National Park: 6,080 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">La Amistad National Park (Panama):</th>
+<th align="left">207,000 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">La Amistad National Park (Costa Rica):</td>
+<td align="left">193,929 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Rio Macho Forest Reserve:</td>
+<td align="left">69,604 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Chirripó National Park:</td>
+<td align="left">51,150 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Las Tablas Protected Area:</td>
+<td align="left">19,602 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Barbilla National Park</td>
+<td align="left">12,098 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Hitoy Cerere Biological Reserve:</td>
+<td align="left">9,154 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Tapanti National Park:</td>
+<td align="left">6,080 ha</td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE
 --------
@@ -223,9 +266,7 @@ Panama: Until it was created, La Amistad National Park was under great threat fr
 STAFF
 -----
 
-For the various reserves and national parks of the Biosphere Reserve, there are 37 full-time and 2 part-time employees, mostly engaged in protection and surveillance. There are also research workers at various times (MIRENEM, pers. comm., 1995). In 1995, La Amistad Park in Panama had a Director, an
-
-administrator and 12 rangers (INRENARE, pers. comm.,1995).
+For the various reserves and national parks of the Biosphere Reserve, there are 37 full-time and 2 part-time employees, mostly engaged in protection and surveillance. There are also research workers at various times (MIRENEM, pers. comm., 1995). In 1995, La Amistad Park in Panama had a Director, an administrator and 12 rangers (INRENARE, pers. comm.,1995).
 
 BUDGET
 ------

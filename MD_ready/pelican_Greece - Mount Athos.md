@@ -2,7 +2,7 @@ Title: MOUNT ATHOS
 Tags: GREECE
 Author: UNEP-WCMC
 Year: 1988
-Date: 2017-04-12 15:28:00
+Date: 2017-05-18 14:04:53
 
 MOUNT ATHOS
 ===========
@@ -144,7 +144,7 @@ The Republic is run by the monks themselves, following a roster. They are aided 
 BUDGET
 ------
 
-E2million was granted by the Greek Biotope-Wetland Centre (EKBY) between 2003-2006 for rehabilitation of the forests and training in management, using EU funds from the LIFE-Nature Programme (UNESCO/WHC, 2006a). Revenues come from entrance fees, from endowments and from the government compensation for lands expropriated by the state. Funds are needed to finance the restoration of Halanderi.
+€2million was granted by the Greek Biotope-Wetland Centre (EKBY) between 2003-2006 for rehabilitation of the forests and training in management, using EU funds from the LIFE-Nature Programme (UNESCO/WHC, 2006a). Revenues come from entrance fees, from endowments and from the government compensation for lands expropriated by the state. Funds are needed to finance the restoration of Halanderi.
 
 LOCAL ADDRESSES
 ---------------

@@ -2,7 +2,7 @@ Title: YAKUSHIMA
 Tags: JAPAN
 Author: UNEP-WCMC
 Year: 1993
-Date: 2017-04-12 15:28:02
+Date: 2017-05-18 14:04:55
 
 YAKUSHIMA
 =========
@@ -33,18 +33,27 @@ STATEMENT OF OUTSTANDING UNIVERSAL VALUE \[pending\]
 INTERNATIONAL DESIGNATIONS
 --------------------------
 
-1980: Designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme
-
-(19,000ha).
+1980: Designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme (19,000ha).
 
 2005: Yakushima Nagata-hama designated a Wetland of International Importance under the Ramsar Convention (10ha).
 
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Kirishima-Yaku National Park: V National Park
-
-Yakushima Wildlife Area: Ia Strict Nature Reserve
+<table>
+<thead>
+<tr class="header">
+<th align="left">Kirishima-Yaku National Park:</th>
+<th align="left">V National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Yakushima Wildlife Area:</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -105,7 +114,7 @@ VEGETATION
 
 The vegetation is significantly different from that on the mainland and the flora, where Holarctic and Palaeotropical species overlap, is very rich. Warm temperate broad-leaved forest previously covered much of southern Japan. This has largely been removed, due to high human population pressure, and the warm temperate forest trees in Yakushima are thus some of the few remaining in Japan. The 2000 metre altitudinal forest continuum is the best example in the country. The flora is very diverse for such a small island, comprising more than 1,900 species and subspecies. Of these, 94 are endemic, mostly concentrated in the central high mountains. More than 200 species are at the southern limit of their natural distribution and a number occur at their northern limit. A distinctive characteristic of the vegetation is the exuberance of epiphytes, the presence of rare lichens and 300 species of pteridophytes, particularly at higher elevations (UNESCO, 1997).
 
-The vertical distribution of the vegetation is distinct, with sub-tropical vegetation near the coastline such as the banyan tree *Ficus superba var. japonica* and Chinese banyan *Ficus microcarpa* near the seashore, and sub-tropical/ warm temperate plants, such as *Machilus thunbergii*, chinquapin *Castanopsis cuspidata* and evergreen oaks further inland. The vegetation becomes temperate, cool temperate and sub-alpine as altitude increases. Cool temperate zone coniferous forest is characterised by Japanese fir *Abies firma*, southern Japanese hemlock *Tsuga sieboldii*, Sargent’s juniper *Juniperus sargentii* and the indigenous Japanese cedar *Cryptomeria japonica*, with wheel tree *Trochodendron aralioides*, camellia *Camellia sasanqua*, *Chloranthus glaber*, and coralberry *Ardisia crenata*. There are also unusual patches of sphagnum bog. The subalpine zone has *Gentiana yukushimensis*, the dwarf rhododendron *Rhododendron degronianum* ssp*.yakushimanum* and a dwarf bamboo *Pseudosasa owatarii* grassland around the peaks. The presence of the indigenous cedar, known colloquially as *sugi*, is of great significance to the area. These are the dominant trees of the mixed forest between 700m and 1,700m. In the humid climate of the island these can grow to more than a thousand years old on stable sites: specimens younger than 1,000 years are known as *kosugi*; older specimens, which may reach 3000 years, are known as *yakusugi* (Numata, 1986). The oldest is the Jomon Cedar, popularly believed to be 7,200 years old and has a circumference of 16.4 meters. These are the oldest, finest and best example of Japanese cedar forests in Japan.
+The vertical distribution of the vegetation is distinct, with sub-tropical vegetation near the coastline such as the banyan tree *Ficus superba var. japonica* and Chinese banyan *Ficus microcarpa* near the seashore, and sub-tropical/ warm temperate plants, such as *Machilus thunbergii*, chinquapin *Castanopsis cuspidata* and evergreen oaks further inland. The vegetation becomes temperate, cool temperate and sub-alpine as altitude increases. Cool temperate zone coniferous forest is characterised by Japanese fir *Abies firma*, southern Japanese hemlock *Tsuga sieboldii*, Sargent’s juniper *Juniperus sargentii* and the indigenous Japanese cedar *Cryptomeria japonica*, with wheel tree *Trochodendron aralioides*, camellia *Camellia sasanqua*, *Chloranthus glaber*, and coralberry *Ardisia crenata*. There are also unusual patches of sphagnum bog. The subalpine zone has *Gentiana yukushimensis*, the dwarf rhododendron *Rhododendron degronianum* ssp.*yakushimanum* and a dwarf bamboo *Pseudosasa owatarii* grassland around the peaks. The presence of the indigenous cedar, known colloquially as *sugi*, is of great significance to the area. These are the dominant trees of the mixed forest between 700m and 1,700m. In the humid climate of the island these can grow to more than a thousand years old on stable sites: specimens younger than 1,000 years are known as *kosugi*; older specimens, which may reach 3000 years, are known as *yakusugi* (Numata, 1986). The oldest is the Jomon Cedar, popularly believed to be 7,200 years old and has a circumference of 16.4 meters. These are the oldest, finest and best example of Japanese cedar forests in Japan.
 
 FAUNA
 ---------
@@ -130,7 +139,7 @@ The population of Yaku island was 14,000 in 1994. No-one lives in the nominated 
 VISITORS AND VISITOR FACILITIES
 -----------------------------------
 
-The site is spectacular as well as semi-sacred. More than 200,000 visit the island annually and some 40,000 walk the trails of the area. 7,000 visitors also visit the nearby turtle beaches each year. A limited number of viewing platforms, shelter pavilions, two huts, lavatories and hikers’ paths are maintained, but no other man-made constructions exist. A World Heritage Centre was set up in 1996 and there is a Nature Museum focussed on the cedar, the*Yakusugi* Museum. There is a good hotel on the island but most of the accommodation is simple. The island is accessible by air, by a four-hour ferry or 90 minute hydrofoil trip from Kagushima.
+The site is spectacular as well as semi-sacred. More than 200,000 visit the island annually and some 40,000 walk the trails of the area. 7,000 visitors also visit the nearby turtle beaches each year. A limited number of viewing platforms, shelter pavilions, two huts, lavatories and hikers’ paths are maintained, but no other man-made constructions exist. A World Heritage Centre was set up in 1996 and there is a Nature Museum focussed on the cedar, the *Yakusugi* Museum. There is a good hotel on the island but most of the accommodation is simple. The island is accessible by air, by a four-hour ferry or 90 minute hydrofoil trip from Kagushima.
 
 SCIENTIFIC RESEARCH AND FACILITIES
 --------------------------------------

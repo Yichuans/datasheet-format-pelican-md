@@ -2,7 +2,7 @@ Title: HEARD AND MCDONALD ISLANDS
 Tags: AUSTRALIA
 Author: UNEP-WCMC
 Year: 1997
-Date: 2017-04-12 15:27:54
+Date: 2017-05-18 14:04:47
 
 HEARD AND MCDONALD ISLANDS
 ==========================
@@ -168,9 +168,7 @@ Australian Antarctic Division (AAD) (2006). *Heard Island and McDonald Islands.*
 
 ---------- (1995). *Heard Island and McDonald Islands Wilderness Reserve Management Plan.* Department of Tourism, Arts & Environment, Kingston,Tasmania.
 
-Allison, I.& Keage, P. (1986). Recent changes in the glaciers of Heard Island. *Polar Record* 23 (144):
-
-255-271.
+Allison, I.& Keage, P. (1986). Recent changes in the glaciers of Heard Island. *Polar Record* 23 (144): 255-271.
 
 Budd, G. (1972). Breeding of the fur seal at McDonald Islands, and further population growth at Heard Island. *Mammalia* 36: 423-7.
 
@@ -178,9 +176,7 @@ Clarke, I., McDougall, I. & Whitford, D. (1983). Volcanic evolution of Heard and
 
 Clarke, M. & Dingwall, P. (1985). *Conservation of Islands in the Southern Ocean: A Review of the Protected Areas of Insulantarctica*. IUCN, Gland, Switzerland.
 
-Commonwealth of Australia (1996). *Heard Island and McDonald Islands. Nomination by the Government of Australia for Inscription on the World Heritage List.* 79 pages + Annexes.
-
-\[Contains a comprehensive bibliography\]
+Commonwealth of Australia (1996). *Heard Island and McDonald Islands. Nomination by the Government of Australia for Inscription on the World Heritage List.* 79 pages + Annexes. \[Contains a comprehensive bibliography\]
 
 ---------- (1985). *Heard Island including McDonald Islands*, 1:50,000 Map. Produced by the Division of National Mapping, Department of Resources and Energy. Commonwealth Government Printer, Canberra.
 

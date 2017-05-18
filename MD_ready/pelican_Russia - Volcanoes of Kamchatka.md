@@ -2,7 +2,7 @@ Title: VOLCANOES OF KAMCHATKA
 Tags: RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 1996
-Date: 2017-04-12 15:28:06
+Date: 2017-05-18 14:04:59
 
 VOLCANOES OF KAMCHATKA
 ======================
@@ -54,23 +54,52 @@ INTERNATIONAL DESIGNATIONS
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Kronotskiy Zapovednik: Ia Strict Nature Reserve / Biosphere Reserve
-
-Klyuchevskoy Prirodny Park: V Strict Nature Reserve
-
-Bystrinskiy Prirodny Park: IV Habitat/Species Management Area
-
-Nalychevo Prirodny Park: IV Habitat/Species Management Area
-
-Yuzhno Kamchatkiy Prirodny Park: IV Habitat/Species Management Area
-
-Yuzhno Kamchatkiy Federal Zakaznik: IV Habitat/Species Management Area
-
-Southwestern Tundra Zakaznik: IV Habitat/Species Management Area
-
-Zapovednik: State Biosphere Nature Reserve;
-
-Prirodny Park & Zakaznik: Nature Park.
+<table>
+<thead>
+<tr class="header">
+<th align="left">Kronotskiy Zapovednik:</th>
+<th align="left">Ia Strict Nature Reserve / Biosphere Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Klyuchevskoy Prirodny Park:</td>
+<td align="left">V Strict Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Bystrinskiy Prirodny Park:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Nalychevo Prirodny Park:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Yuzhno Kamchatkiy Prirodny Park:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Yuzhno Kamchatkiy Federal Zakaznik:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Southwestern Tundra Zakaznik:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Zapovednik:</td>
+<td align="left">State Biosphere Nature Reserve;</td>
+</tr>
+<tr class="odd">
+<td align="left">Prirodny Park &amp; Zakaznik: Nature Park.</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -117,21 +146,52 @@ Core area total: 3,830,208 ha (WHC List, 2010). The original nominated area was 
 
 The following areas were given in the State Party Nomination and UNESCO’s 2001 Evaluation Mission:
 
-> **Area (ha) Central Coordinates**
-
-Bystrinskiy Prirodny Park 1,500,000 55º50’N/158º30’E
-
-Kronotskiy Zapovednik 1,007,134 54º38’N/160º52’E
-
-Yuzhno Kamchatskiy Prirodny Park 800,000 51º55’N/157º35’E
-
-Yuzhno Kamchatskiy Federal Zakaznik 225,000
-
-Klyuchevskoy Prirodny Park \[extension\] 375,981 55º50’N/160º35’E
-
-Nalychevo Prirodny Park 265,000 53º28’N/159º00’E
-
-Southwest Tundra Prirodny Park 23,000 52º05’N/156º50’E
+<table>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="left"><strong>Area (ha)</strong></th>
+<th align="left"><strong>Central Coordinates </strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Bystrinskiy Prirodny Park</td>
+<td align="left">1,500,000</td>
+<td align="left">55º50’N/158º30’E</td>
+</tr>
+<tr class="even">
+<td align="left">Kronotskiy Zapovednik</td>
+<td align="left">1,007,134</td>
+<td align="left">54º38’N/160º52’E</td>
+</tr>
+<tr class="odd">
+<td align="left">Yuzhno Kamchatskiy Prirodny Park</td>
+<td align="left">800,000</td>
+<td align="left">51º55’N/157º35’E</td>
+</tr>
+<tr class="even">
+<td align="left">Yuzhno Kamchatskiy Federal Zakaznik</td>
+<td align="left">225,000</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Klyuchevskoy Prirodny Park [extension]</td>
+<td align="left">375,981</td>
+<td align="left">55º50’N/160º35’E</td>
+</tr>
+<tr class="even">
+<td align="left">Nalychevo Prirodny Park</td>
+<td align="left">265,000</td>
+<td align="left">53º28’N/159º00’E</td>
+</tr>
+<tr class="odd">
+<td align="left">Southwest Tundra Prirodny Park</td>
+<td align="left">23,000</td>
+<td align="left">52º05’N/156º50’E</td>
+</tr>
+</tbody>
+</table>
 
 **Total 3,796,115**
 

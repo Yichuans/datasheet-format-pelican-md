@@ -2,7 +2,7 @@ Title: NEW ZEALAND SUB-ANTARCTIC ISLANDS
 Tags: NEW ZEALAND
 Author: UNEP-WCMC
 Year: 1998
-Date: 2017-04-12 15:28:04
+Date: 2017-05-18 14:04:58
 
 NEW ZEALAND SUB-ANTARCTIC ISLANDS
 =================================
@@ -41,19 +41,40 @@ The UNESCO World Heritage Committee issued the following statement at the time o
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Auckland Islands National Nature Reserve Ia Strict Nature Reserve
-
-Campbell Islands National Nature Reserve Ia Strict Nature Reserve
-
-Antipodes Islands National Nature Reserve Ia Strict Nature Reserve
-
-Snares Islands National Nature Reserve Ia Strict Nature Reserve
-
-Bounty Islands National Nature Reserve Ia Strict Nature Reserve
-
-Auckland Islands Marine Mammal Sanctuary Unassigned
-
-Auckland Islands / Motu Maha Marine Reserve Unassigned
+<table>
+<thead>
+<tr class="header">
+<th align="left">Auckland Islands National Nature Reserve</th>
+<th align="left">Ia Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Campbell Islands National Nature Reserve</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Antipodes Islands National Nature Reserve</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+<tr class="odd">
+<td align="left">Snares Islands National Nature Reserve</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Bounty Islands National Nature Reserve</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+<tr class="odd">
+<td align="left">Auckland Islands Marine Mammal Sanctuary</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="even">
+<td align="left">Auckland Islands / Motu Maha Marine Reserve</td>
+<td align="left">Unassigned</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -204,9 +225,7 @@ Department of Conservation (DOC) (2008). Marine life likely to benefit from prot
 
 Department of Conservation (Southland Conservancy)(1995). *Draft Conservation Management Strategy Subantarctic Islands*.
 
-Government of New Zealand (1997). *Nomination of the New Zealand Subantarctic Islands by the Government of New Zealand for Inclusion in the World Heritage List*. Wellington, New Zealand.
-
-A bibliography and further references are included in the nomination document. It includes:
+Government of New Zealand (1997). *Nomination of the New Zealand Subantarctic Islands by the Government of New Zealand for Inclusion in the World Heritage List*. Wellington, New Zealand. A bibliography and further references are included in the nomination document. It includes:
 
 Department of Lands and Survey (1987). *Management Plan for the Auckland Islands Nature Reserve.* Management Plans Series No. NR19.
 

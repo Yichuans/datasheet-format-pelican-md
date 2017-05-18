@@ -2,7 +2,7 @@ Title: CENTRAL SURINAME NATURE RESERVE
 Tags: SURINAME
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-12 15:28:08
+Date: 2017-05-18 14:05:01
 
 CENTRAL SURINAME NATURE RESERVE
 ===============================
@@ -163,9 +163,7 @@ LOCAL ADDRESSES
 
 Head of the Nature Conservation Division, Suriname Forest Service, Cornelis Jongbawstraat \#10, P.O.Box 436, Paramaribo, Suriname.
 
-The Foundation for Nature Preservation in Suriname, Cornelis Jongbawstraat \#12, Paramaribo,
-
-Suriname.
+The Foundation for Nature Preservation in Suriname, Cornelis Jongbawstraat \#12, Paramaribo, Suriname.
 
 Conservation International Suriname, Gravenstraat \#17, P.O. Box 2420, Paramaribo, Suriname.
 
@@ -180,9 +178,7 @@ Adhin, S., Baal, F., de Dijn, B., Malone, S.,Ouboter, P. Werkhoven, M. (1998)*. 
 
 Baal, F., Mittermeier, R. & van Roosmalen, M. (1988). Primates and Protected Areas in Suriname. *Oryx* 22: 7-14.
 
-Baal, F. Policies, legislation and organizational structure for protected areas in Suriname. In Oltremari, J.(ed) (1998). *Protected Areas in Suriname and Guyana.* FAO/ROLAC, ACT/CEMAA.
-
-pp. 7-18.
+Baal, F. Policies, legislation and organizational structure for protected areas in Suriname. In Oltremari, J.(ed) (1998). *Protected Areas in Suriname and Guyana.* FAO/ROLAC, ACT/CEMAA. pp. 7-18.
 
 Government of Suriname (1954). *Natuurbeschermingswet 1954* (Nature Protection Law 1954). In Government Bulletin 1954 No.26. \[texts in Dutch and English\]
 

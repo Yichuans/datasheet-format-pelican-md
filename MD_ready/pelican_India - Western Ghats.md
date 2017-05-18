@@ -2,7 +2,7 @@ Title: Western Ghats
 Tags: India
 Author: UNEP-WCMC
 Year: 2012
-Date: 2017-04-12 15:28:01
+Date: 2017-05-18 14:04:54
 
 1.  WESTERN GHATS
     =============
@@ -62,27 +62,28 @@ LAND TENURE
 
 The sites are owned by the state forest departments of Kerala, Tamil Nadu, Karnataka and Maharashtra and administered by their Chief Wardens under the national Director General of Forests (Wildlife).
 
-\
-AREAS
+AREAS {#areas .ListParagraph}
 -----
 
 The property covers 795,315 ha. The property consists of seven separate groups (sub-clusters) containing 39 sites spread over 1,250 kilometres, listed below from south to north:
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Site creation date</strong></th>
+<th align="left"><strong>No</strong></th>
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Area (ha) </strong></th>
+<th align="left"><strong>State</strong></th>
+<th align="left"><strong>Latitude (N)</strong></th>
+<th align="left"><strong>Longitude (E) </strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Site creation date</strong></td>
-<td align="left"><strong>No</strong></td>
-<td align="left"><strong>Site</strong></td>
-<td align="left"><strong>Area (ha) </strong></td>
-<td align="left"><strong>State</strong></td>
-<td align="left"><strong>Latitude (N)</strong></td>
-<td align="left"><strong>Longitude (E) </strong></td>
-</tr>
-<tr class="even">
 <td align="left"><strong>1 Agasthyamalai Group</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1962/1989</td>
 <td align="left">1</td>
 <td align="left">Kalakad-Mundanthurai Tiger Res.</td>
@@ -91,7 +92,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">08°25′ to 08°53′ N</td>
 <td align="left">77°10′ to 77°35′ E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1984</td>
 <td align="left">2</td>
 <td align="left">Shendurney Wildlife Sanctuary</td>
@@ -100,7 +101,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">08°44′ to 09°14′ N</td>
 <td align="left">77°59′ to 77°16′ E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1958</td>
 <td align="left">3</td>
 <td align="left">Neyyar Wildlife Sanctuary</td>
@@ -109,7 +110,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">08°31′ to 08°37′ N</td>
 <td align="left">77°08′ to 77°14′ E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1983</td>
 <td align="left">4</td>
 <td align="left">Peppara Wildlife Sanctuary</td>
@@ -118,7 +119,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">08°34′ to 08°42′ N</td>
 <td align="left">77°07′ to 77°15′ E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1901</td>
 <td align="left">5</td>
 <td align="left">Kulathupuzha Range Reserved Forest</td>
@@ -127,7 +128,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">08°40′ to 08°56′ N</td>
 <td align="left">77°00′ to 77°19′ E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1898</td>
 <td align="left">6</td>
 <td align="left">Palode Range Reserved Forest</td>
@@ -136,10 +137,10 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">08°40′ to 08°56′ N</td>
 <td align="left">77°00′ to 77°19′ E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><strong>2 Periyar Group</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1934/1950/1978</td>
 <td align="left">7</td>
 <td align="left">Periyar Tiger Reserve</td>
@@ -148,7 +149,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">09°16<em>’</em> to 09°36<em>’</em> N</td>
 <td align="left">76°56<em>’</em> to 77°24' E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1904/1987</td>
 <td align="left">8</td>
 <td align="left">Ranni Forest Division</td>
@@ -157,7 +158,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">09°11<em>’</em> to 09°28<em>’</em> N</td>
 <td align="left">76°50<em>’</em> to 77°17<em>’</em></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1897/1987</td>
 <td align="left">9</td>
 <td align="left">Konni Forest Division</td>
@@ -166,7 +167,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">09°02<em>’</em> to 09°15<em>’</em> N</td>
 <td align="left">76°50’ to 77°17<em>’</em> E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1901/1987</td>
 <td align="left">10</td>
 <td align="left">Achankovil Forest Division</td>
@@ -175,7 +176,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">09°02<em>’</em> to 09°12<em>’</em> N</td>
 <td align="left">77°03<em>’</em> to 77°16<em>’</em> E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1989</td>
 <td align="left">11</td>
 <td align="left">Srivilliputtur Wildlife Sanctuary</td>
@@ -184,7 +185,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">09°23<em>’</em> to 09°48<em>’</em> N</td>
 <td align="left">77°20<em>’</em> to 77°42<em>’</em> E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1997</td>
 <td align="left">12</td>
 <td align="left">Tirunelveli (North) Forest (part)</td>
@@ -193,10 +194,10 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">09°03<em>’</em> to 09°24<em>’</em> N</td>
 <td align="left">77°12<em>’</em> to 77°23<em>’</em> E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><strong>3 Anamalai Group</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1978</td>
 <td align="left">13</td>
 <td align="left">Eravikulam National Park + extension</td>
@@ -205,7 +206,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">10°05' to 10°20<em>’</em> N</td>
 <td align="left">77°00' to 77°10'”E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1976</td>
 <td align="left">14</td>
 <td align="left">Grass Hills National Park</td>
@@ -214,7 +215,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">10°02' to 77°04´ N</td>
 <td align="left">77º 04´ E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1989</td>
 <td align="left">15</td>
 <td align="left">Karian Shola National Park</td>
@@ -223,7 +224,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">10°13' to 10°33´ N</td>
 <td align="left">76°49' to 77°21' E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>2001</p>
 <p>(1973)</p></td>
 <td align="left">16</td>
@@ -233,7 +234,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">10°28' N</td>
 <td align="left">76°49' E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1984</td>
 <td align="left">17</td>
 <td align="left">Chinnar Wildlife Sanctuary</td>
@@ -242,7 +243,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">10°00' to 10°21<em>’</em> N</td>
 <td align="left">77°06' to 77°16' E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1980</td>
 <td align="left">18</td>
 <td align="left">Mankulam Range Forest</td>
@@ -251,7 +252,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">10°00' to 10°10' N</td>
 <td align="left">76°50' to 77°00' E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1901/2003</td>
 <td align="left">19</td>
 <td align="left">Mannavan Shola</td>
@@ -260,10 +261,10 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">11°12' N</td>
 <td align="left">77°13’ E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><strong>4 Nilgiri Group</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1984</td>
 <td align="left">20</td>
 <td align="left">Silent Valley National Park</td>
@@ -272,7 +273,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">11° 03' to 11°12' N</td>
 <td align="left">76°22' to 76°29' E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1980/1990</td>
 <td align="left">21</td>
 <td align="left">Mukurti National Park</td>
@@ -281,7 +282,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">11° 10' to 11°22' N</td>
 <td align="left">76°26′ to 76°34′ E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"></td>
 <td align="left">22</td>
 <td align="left">New Amarambalam Reserved Forest</td>
@@ -290,7 +291,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">11° 13' to 11°23' N</td>
 <td align="left">76°19' to 76°32' E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1971</td>
 <td align="left">23</td>
 <td align="left">Kalikavu Range Reserved Forest</td>
@@ -299,7 +300,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">11° 05' to 11°16' N</td>
 <td align="left">76°19' to 76°27' E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"></td>
 <td align="left">24</td>
 <td align="left">Attapadi Reserved Forest</td>
@@ -308,10 +309,10 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">11° 03' to 11°12' N</td>
 <td align="left">76°26' to 76°31' E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><strong>5 Talacauvery Group</strong></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">11904/1987</td>
 <td align="left">25</td>
 <td align="left">Pushpagiri Wildlife Sanctuary</td>
@@ -320,7 +321,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">12°29<em>’</em> to 12°42' N</td>
 <td align="left">75°38<em>’</em> to 75°42<em>’</em> E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1974</td>
 <td align="left">26</td>
 <td align="left">Brahmagiri Wildlife Sanctuary</td>
@@ -329,7 +330,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">11°55<em>’</em> to 12°09<em>’</em> N</td>
 <td align="left">75°44<em>’</em> to 76°04<em>’</em> E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1987</td>
 <td align="left">27</td>
 <td align="left">Talacauvery Wildlife Sanctuary</td>
@@ -338,7 +339,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">12°17<em>’</em> to 12°27<em>’</em> N</td>
 <td align="left">75°26<em>’</em> to 75°33<em>’</em> E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1984/1998</td>
 <td align="left">28</td>
 <td align="left">Aralam Wildlife Sanctuary</td>
@@ -347,7 +348,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">11°59<em>’</em> to 11°54<em>’</em> N</td>
 <td align="left">75°47<em>’</em> to 75°57<em>’</em> E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1906</td>
 <td align="left">29</td>
 <td align="left">Padinalknad Reserved Forest</td>
@@ -356,7 +357,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">12°05<em>’</em> to 12°19<em>’</em> N</td>
 <td align="left">75°25<em>’</em> to 75°40<em>’</em> E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1903</td>
 <td align="left">30</td>
 <td align="left">Kerti Reserved Forest</td>
@@ -365,10 +366,10 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">12°04<em>’</em> to 12°11<em>’</em> N</td>
 <td align="left">75°25<em>’</em> to 75°40<em>’</em> E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><strong>6 Kudremukh Group</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1987/2001</td>
 <td align="left">31</td>
 <td align="left">Kudremukh National Park</td>
@@ -377,7 +378,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">13°01´ to 13°29’ N</td>
 <td align="left">75°01’ to 75°25’ E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1979</td>
 <td align="left">32</td>
 <td align="left">Someshwara Wildlife Sanctuary</td>
@@ -386,7 +387,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">13°29' to 13°37' N</td>
 <td align="left">75°59’ to 75°05’ E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1979</td>
 <td align="left">33</td>
 <td align="left">Someshwara Reserved Forest</td>
@@ -395,7 +396,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">13°22’ to 13°30’ N</td>
 <td align="left">75°04’ to 75°10’ E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1913</td>
 <td align="left">34</td>
 <td align="left">Agumbe Reserved Forest</td>
@@ -404,7 +405,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">13°30’ to 13°38’ N</td>
 <td align="left">75°02’ to 75°07’ E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1913</td>
 <td align="left">35</td>
 <td align="left">Balahalli Reserved Forest</td>
@@ -413,10 +414,10 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">13°27’ to 13°30’ N</td>
 <td align="left">75°05’ to 75°10’</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><strong>7 Sahyadri Group</strong></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1913/1985</td>
 <td align="left">36</td>
 <td align="left">Kas Plateau Reserved Forest</td>
@@ -425,7 +426,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">17°43' N</td>
 <td align="left">73°48' E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1989</td>
 <td align="left">37</td>
 <td align="left">Koyna Wildlife Sanctuary</td>
@@ -434,7 +435,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">17°23' to 17°44' N</td>
 <td align="left">73°34' to 73°51' E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1985/2004</td>
 <td align="left">38</td>
 <td align="left">Chandoli National Park</td>
@@ -443,7 +444,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">17°03' to 17°17’ N</td>
 <td align="left">73°03' to 73°41' E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1958/1985</td>
 <td align="left">39</td>
 <td align="left">Radhanagari Wildlife Sanctuary</td>
@@ -452,7 +453,7 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <td align="left">16°10' to 16°30' N</td>
 <td align="left">73°52' to 74°05' E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><strong>TOTAL</strong></td>
 <td align="left"><strong>795,315</strong></td>
 <td align="left"></td>
@@ -700,17 +701,19 @@ STAFF
 -----
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Component site</strong></th>
+<th align="left"><strong>Forest conservator</strong></th>
+<th align="left"><strong>Range officer</strong></th>
+<th align="left"><strong>Deputy ranger</strong></th>
+<th align="left"><strong>Forester</strong></th>
+<th align="left"><strong>Guard</strong></th>
+<th align="left"><strong>Watcher</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Component site</strong></td>
-<td align="left"><strong>Forest conservator</strong></td>
-<td align="left"><strong>Range officer</strong></td>
-<td align="left"><strong>Deputy ranger</strong></td>
-<td align="left"><strong>Forester</strong></td>
-<td align="left"><strong>Guard</strong></td>
-<td align="left"><strong>Watcher</strong></td>
-</tr>
-<tr class="even">
 <td align="left">Kalakad-Mundanthurai Tiger Reserve</td>
 <td align="left">2</td>
 <td align="left">12</td>
@@ -719,7 +722,7 @@ STAFF
 <td align="left">39</td>
 <td align="left">47</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Shendurney Wildlife Sanctuary</td>
 <td align="left">1</td>
 <td align="left">1</td>
@@ -728,7 +731,7 @@ STAFF
 <td align="left">8</td>
 <td align="left">4</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Neyyar Wildlife Sanctuary</td>
 <td align="left">1</td>
 <td align="left">1</td>
@@ -737,7 +740,7 @@ STAFF
 <td align="left">13</td>
 <td align="left">2</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Peppara Wildlife Sanctuary</td>
 <td align="left">0</td>
 <td align="left">1</td>
@@ -746,7 +749,7 @@ STAFF
 <td align="left">7</td>
 <td align="left">-</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Kulathupuzha Range</td>
 <td align="left">0</td>
 <td align="left">1</td>
@@ -755,7 +758,7 @@ STAFF
 <td align="left">18</td>
 <td align="left">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Palode Range</td>
 <td align="left">0</td>
 <td align="left">1</td>
@@ -764,7 +767,7 @@ STAFF
 <td align="left">18</td>
 <td align="left">-</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Periyar Tiger Reserve</td>
 <td align="left">3</td>
 <td align="left">7</td>
@@ -773,7 +776,7 @@ STAFF
 <td align="left">141</td>
 <td align="left">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Ranni Forest Division</td>
 <td align="left">2</td>
 <td align="left">3</td>
@@ -782,7 +785,7 @@ STAFF
 <td align="left">135</td>
 <td align="left">-</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Konni Forest Division</td>
 <td align="left">1</td>
 <td align="left">3</td>
@@ -791,7 +794,7 @@ STAFF
 <td align="left">85</td>
 <td align="left">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Achankovil Forest Division</td>
 <td align="left">1</td>
 <td align="left">3</td>
@@ -800,7 +803,7 @@ STAFF
 <td align="left">14</td>
 <td align="left">-</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Eravikulam National Park + extension</td>
 <td align="left">1</td>
 <td align="left">1</td>
@@ -809,7 +812,7 @@ STAFF
 <td align="left">12</td>
 <td align="left">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Karian Shola National Park</td>
 <td align="left">-</td>
 <td align="left">1</td>
@@ -818,7 +821,7 @@ STAFF
 <td align="left">2</td>
 <td align="left">-</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Mankulam Range</td>
 <td align="left">1</td>
 <td align="left">1</td>
@@ -827,7 +830,7 @@ STAFF
 <td align="left">9</td>
 <td align="left">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Chinnar Wildlife Sanctuary</td>
 <td align="left">1</td>
 <td align="left">1</td>
@@ -836,7 +839,7 @@ STAFF
 <td align="left">25</td>
 <td align="left">-</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Mannavan Shola</td>
 <td align="left">1</td>
 <td align="left">1</td>
@@ -845,7 +848,7 @@ STAFF
 <td align="left">13</td>
 <td align="left">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Silent Valley National Park</td>
 <td align="left">1</td>
 <td align="left">1</td>
@@ -854,7 +857,7 @@ STAFF
 <td align="left">13</td>
 <td align="left">15</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">New Amarambalam Reserved Forest</td>
 <td align="left">1</td>
 <td align="left">1</td>
@@ -863,7 +866,7 @@ STAFF
 <td align="left">22</td>
 <td align="left">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Mukurti National Park</td>
 <td align="left">1</td>
 <td align="left">1</td>
@@ -872,7 +875,7 @@ STAFF
 <td align="left">4</td>
 <td align="left">-</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Kalikavu Range</td>
 <td align="left">0</td>
 <td align="left">1</td>
@@ -881,7 +884,7 @@ STAFF
 <td align="left">36</td>
 <td align="left">20</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Attapadi Reserved Forest</td>
 <td align="left">1</td>
 <td align="left">1</td>
@@ -890,7 +893,7 @@ STAFF
 <td align="left">13</td>
 <td align="left">1</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Pushpagiri Wildlife Sanctuary</td>
 <td align="left">0</td>
 <td align="left">2</td>
@@ -899,7 +902,7 @@ STAFF
 <td align="left">6</td>
 <td align="left">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Brahmagiri Wildlife Sanctuary</td>
 <td align="left">1</td>
 <td align="left">2</td>
@@ -908,7 +911,7 @@ STAFF
 <td align="left">14</td>
 <td align="left">8</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Talacauvery Wildlife Sanctuary</td>
 <td align="left">0</td>
 <td align="left">2</td>
@@ -917,7 +920,7 @@ STAFF
 <td align="left">7</td>
 <td align="left">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Aralam Wildlife Sanctuary</td>
 <td align="left">1</td>
 <td align="left">-</td>
@@ -926,7 +929,7 @@ STAFF
 <td align="left">5</td>
 <td align="left">-</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Kudremukh National Park</td>
 <td align="left">1</td>
 <td align="left">4</td>
@@ -935,7 +938,7 @@ STAFF
 <td align="left">43</td>
 <td align="left">23</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Someshwara Wildlife Sanctuary</td>
 <td align="left">1</td>
 <td align="left">1</td>
@@ -944,7 +947,7 @@ STAFF
 <td align="left">5</td>
 <td align="left">5</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Sahyadri Group</td>
 <td align="left">4</td>
 <td align="left">6</td>
@@ -953,7 +956,7 @@ STAFF
 <td align="left">50</td>
 <td align="left">-</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><strong>TOTAL</strong></td>
 <td align="left"><strong>28</strong></td>
 <td align="left"><strong>58</strong></td>
@@ -999,10 +1002,10 @@ Tamil Nadu State: http://www.forests.tn.nic.in
 
 Wildlife Institute of India: <http://www.wii.gov.in/>
 
-REFERENCES
+REFERENCES {#references .ListParagraph}
 ----------
 
-1.  The principal sources for the above information were the original World Heritage nomination, the IUCN evaluation report and Decision 36 COM 8B.10 of the UNESCO World Heritage Committee.
+The principal sources for the above information were the original World Heritage nomination, the IUCN evaluation report and Decision 36 COM 8B.10 of the UNESCO World Heritage Committee.
 
 Anand, M., Krishnaswamy, A., Kumar, A..& Bali, A. (2010). Sustaining biodiversity conservation in human-modified landscapes in the Western Ghats: Remnant forests matter. *Biological Conservation* 143: 2363-2374.
 

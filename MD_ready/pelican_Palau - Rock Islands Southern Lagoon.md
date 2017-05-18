@@ -1,14 +1,14 @@
-Title: Rock Islands Southern Lagoon
-Tags: Palau
+Title: ROCK ISLANDS SOUTHERN LAGOON
+Tags: PALAU
 Author: UNEP-WCMC
 Year: 2012
-Date: 2017-04-12 15:28:05
+Date: 2017-05-18 14:04:58
 
-1.  ROCK ISLANDS SOUTHERN LAGOON
-    ============================
+ROCK ISLANDS SOUTHERN LAGOON
+============================
 
-    PALAU
-    =====
+PALAU
+=====
 
 *The Rock Islands of Palau's southern lagoon in the western Pacific are part of a tropical archipelago of 445 small lushly forested raised coral islands surrounded by a shallow lagoon within a barrier reef. 94% of the site is marine. The intricate coasts contain a maze of caves and karstic features, basins, inland marine lakes, seagrass and algal beds, beaches and mangrove swamps in an exceptional array of habitats that supports a high density and diversity of species and, in over 50 ‘marine lakes’, an unusual level of endemism. It also contains the eloquent relics of a departed culture forced by drought and inadequate food to emigrate from a very beautiful and long inhabited but marginal environment.*
 

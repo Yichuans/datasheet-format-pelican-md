@@ -1,29 +1,14 @@
-Title: NAMIBIA
-Tags: Namibia
+Title: NAMIB SAND-SEA
+Tags: NAMIBIA
 Author: UNEP-WCMC
 Year: 2013
-Date: 2017-04-12 15:28:04
-
-1.  
-
-2.  
-
-3.  
-
-4.  
-
-5.  
-
-6.  
-
-7.  
-
-8.  
+Date: 2017-05-18 14:04:57
 
 NAMIB SAND-SEA
 ==============
 
-**NAMIBIA**
+NAMIBIA
+=======
 
 *The Namib Desert in southwest Africa stretches along 1,000 km of the Namibian coast and some180 km inland. The Namib Sand-sea is a coastal fog desert, 50 to150 km wide, which covers most of its southern half, encompassing two immense, complex and visually striking dune systems, one ancient and half lithified, one active and younger overlying it. Their formation is unusual. Sands derived from the upper Orange River basin carried by river, ocean currents and wind into Namibia combine there with an ecology dependent on condensation from fog. The resulting endemic flora and fauna make this sand-sea of great scientific interest.*
 
@@ -32,7 +17,8 @@ COUNTRY
 
 Namibia
 
-**NAME**
+NAME
+----
 
 Namib Sand-sea
 
@@ -78,11 +64,13 @@ The boundaries of the property encompass all the elements of the Namib Sand-sea 
 
 The Namib Sand-sea has been under conservation management for more than 50 years with well established management and resource allocation systems, based on regularly revised and updated management plans and long-term budgetary planning. Prior to establishment of conservation management, the area was protected for its potential as a diamond mining area, but this was never realised. Key management issues today include managing the increasing demand for visitor access to pristine areas and precluding mineral exploration rights that would impact on the values and attributes of the area. There is potential for serial extension of the Namib Sand-sea beyond the Namib-Naukluft Park and beyond national borders to include other significant dune systems within other protected areas of the larger Namib Desert.
 
-**INTERNATIONAL DESIGNATION**
+INTERNATIONAL DESIGNATION
+-------------------------
 
-> 1995: Sandwich Harbour designated a Wetland of International Importance under the Ramsar Convention (16,500 ha).
+1995: Sandwich Harbour designated a Wetland of International Importance under the Ramsar Convention (16,500 ha).
 
-**IUCN MANAGEMENT CATEGORY**
+IUCN MANAGEMENT CATEGORY
+------------------------
 
 Unassigned
 
@@ -105,7 +93,8 @@ DATES AND HISTORY OF ESTABLISHMENT
 
 2013: The Sand-sea inscribed on the World Heritage List.
 
-**LAND TENURE**
+LAND TENURE
+-----------
 
 Both the core and buffer zones lie within the state-owned Namib-Naukluft National Park which is managed by the Ministry of Environment and Tourism through the Directorate of Regional Services.
 
@@ -114,11 +103,13 @@ AREAS
 
 Core area: 3,077,700 ha; Buffer area: 899,500 ha.
 
-**ALTITUDE**
+ALTITUDE
+--------
 
 Sea level to 960m a.s.l. The highest dunes rise 350m above their base.
 
-**PHYSICAL FEATURES**
+PHYSICAL FEATURES
+-----------------
 
 The Namib Desert stretches for 1,000 km of Namibia along the southwest African coast from southernmost Angola to northernmost South Africa and extends between some 180 km to the foot of the 2,000m high Great Western Escarpment inland. The property covers most of the 320 km-long by 120 km-wide southern half of the National Park, encompassing the cool coastal fog desert of the Namib Sand-sea. This is primarily composed of two immense, complex and visually arresting dune systems, one ancient, formed 21mya and semi lithified, and one mobile and younger overlying it as far as the Kuiseb river on the northern boundary which stops their flow. They contain 16 types of dune classifiable in three main categories: on the coast, transverse and barchan, in the centre linear, and star or pyramid-shaped in the east where winds are more variable, and one giant dune 350m high. The dunes cover 84% of the area. Other features are: 8% gravel plains and *gramadoelas* (dead ends/badlands), 4% coastal pans, 3% fringing rocky hills, and 1% inselbergs, as well as internally draining basins, ephemeral river beds, a coastal lagoon, and rocky shores. Between sea and dunes, there is a strip of low 2m sand mounds. The coastal lagoon is Sandwich Harbour, a Marine Protected Area and Ramsar site with two distinct wetlands: one aquifer-fed, with emergent vegetation but slowly disappearing, and the other tidal mudflats and raised shingle bars.
 
@@ -126,13 +117,15 @@ The Namib is considered to be the world's oldest desert and has been arid for 55
 
 Surface water is absent, except for rare flash floods along dry riverbeds, only occasionally reaching the sea, more usually draining to pans such as the famous Sossusvlei 200 km south-southeast of Walvis Bay, where, with the neighboring Dead Vlei and Hidden Vlei. the Tsauchab River dies into the sands. Their blinding white clay pans studded with the stark black angularity of dead trees against the orange of the highest dunes in the desert are a landscape more surreal than natural. Except when veiled by fog, the lack of moisture and dust in the air results in an atmosphere of exceptional clarity which sharpens the vivid colours of the sands, and shadows flanks which range from red and pink to deep orange and light yellow, and change with the day, enhancing the drama of their complex and voluptuous shapes.
 
-**CLIMATE**
+CLIMATE
+-------
 
 The sand-sea lies under the subtropical high pressure belt which inhibits rainfall so that its climate is hyper-arid, but one overlaid by coastal fog for almost half the year and harried by strong winds. Cold moist air from the Benguela current is carried east by the diurnal sea breeze, condenses overnight inland as radiation fog, and returns to the coast with the land breeze in the form of the morning fog condensation of which sustains the desert's life. The belt of cold air is trapped by a cap of warm air from the east and no clouds form. Precipitation is low but unpredictable: at the coast (Walvis Bay), it averages 13.5mm, rising to 50-85mm in the east, most falling in summer. Even there, it is the rain shadow of the Great Escarpment. But near the coast, it is more than doubled by condensation from the fog during 100-150 days a year. At low level, advection fog cooled over the ocean persists inland 15 km in the south of the site, 30 km in the north and is most frequent near Walvis Bay. At high level, the extent of radiation fog is 20 km inland in south, 40- 50 km in north.
 
 The resulting coastal temperatures remain cool, between 2°C and 20°C, averaging 15°C with little diurnal variation. There is a west-east climatic gradient: inland temperatures become very high, varying from 0°C at night to a maximum of 45°C, especially when hot winter winds blow from the east. Evaporation is between 1680mm and 2100mm. Relative humidity at Walvis Bay is 65% in December, 81% from January to March. The pattern of winds is variable. In summer, cold northwesterly winds blow on the coast, and strong afternoon winds blow from the south and southwest, decreasing in intensity to the north. In winter, strong east *berg* winds from the interior gather heat and dust across the desert, which can result in dust plumes blown far out to sea. Except in these windstorms and in fog, owing to the absence of clouds, dust and pollutants, the atmosphere of the desert has exceptional clarity, noticeably at night. But the fog, extending out to sea, has in the past been fatal to ships along the coast.
 
-**VEGETATION**
+VEGETATION
+----------
 
 The Namib is thought to have been arid for 55-80 million years, preserving more endemic species – one in five - than any other desert. The property has high habitat complexity: in addition to the dune, there are sand sheets, pans, the marine littoral, wetlands and ephemeral waterways. Of the 600 plant species growing in the Southern Namib, 260 are listed for the property. A large range of plants grows on the mountains and savannas of the east of the country, some of which may enter the desert down the savanna-like dry riverbeds; 205 seaweed species grow offshore.
 
@@ -140,7 +133,8 @@ In the sand-sea, there are two sets of flora: coastal and inland. Coastal specie
 
 On dunes, vegetation growing at the base differs from that higher up the same sand dune but, though sparse, is home to scores of beetles, fishmoths and lizards, which feed on windblown detritus. Along water courses, the !Nara melon *Acanthosicyos horridus* is an endemic, long-lived nutritious keystone species which traps windblown sand to form giant sand hummocks of *Stipagrostis* spp. and other grasses. The leafless stems are grayish green; its deep taproot can extend 40m. On the granite inselbergs, the very long isolation from the Great Escarpment to the east, and the blockade from comparable habitats by mobile sand dunes, has produced a different flora; the rocky niches of the Haucheb Mountains, which gather more water, combine subtropical with temperate fauna. Riparian vegetation contains many washed-down seeds - though no endemics - but the branches and shade of the hardy camelthorn *Acacia eriolaba* are an important refuge to many animals and birds, like the colonial weaverbirds *Philetarus socius,* vultures and owls. Where fossilized by the dryness, the preserved tree trunks record the past history of the vegetation.
 
-**FAUNA**
+FAUNA
+-----
 
 The property has high habitat complexity with some 300 species of fauna, 50% being endemic - higher than in any other hyper-arid environment. The dunes' fossil record reveals a richer fauna of large animals in the past. The present animal life is richest in insects, including 227 species of fog-basking beetles and 131 tenebrionid species. The animals specific to the Sand-sea are: 12 mammals, 2 being endemic, 9 birds (one endemic) 18 reptiles (8 endemic), 44 arachnids (37 endemic) and 207 insects (108 endemic). The conditions supporting life beneath the dunes, combined with the frequent moisture-bringing fogs, are the foundation of the sand-sea environment. With 1,580 species, far the most numerous fauna are the arachnids and invertebrates. These need little water to survive and have morphological, physiological and behavioral adaptations to harvest water and avoid heat: animals that swim through oxygenated sand, have high thermal tolerance, can effectively evade extreme temperatures, build structures to capture fog-water and can harbor gut micro-organisms that recycle nutrients. The nearly pure dune sand has an open air-holding structure fluid enough to allow animals to swim, burrow, take refuge and live where it is deep enough (about 300cm) for a comfortable temperature which varies only about 10°C between summer and winter. This contrasts with similar animal species in other dune deserts that have to dig burrows. Animals can rapidly dive into the sand and immediately disappear, even on slipface or dune-slope surfaces. This includes lizards, the dune gerbil *Gerbillurus paeba* and the endemic !Nama golden mole *Eremitalpa granti namibensis,* a blind insectivorous mammal that lives under the sand except for nocturnal sorties, only discovered in the 1950s. On the inland dunes, conditions at the base differ from those higher up. The dune slope area above the plinth and the steep upper slipface, are home to scores of beetles, fishmoths and lizards which feed on windblown detritus.
 
@@ -154,7 +148,8 @@ Sandwich Harbour lagoon, thronged with some 75,000 to 400,000 wading and sea bir
 
 71 reptiles have been recorded for the whole site, and 18 burrowing sand-swimming reptiles in the sand-sea. Three are strict endemics: the small-scaled desert lizard *Meroles micropholidotus*, Brain's blind legless skink *Typhlosaurus braini,* and Koch's barking gecko *Ptenopus kochi;* 5 endemic dune sea-adapted species include the sidewinder adder *Bitis peringuei,* shovel-snouted lizard *Meroles anchietae* and web-footed gecko *Palmatogecko rangei.* 4 near endemics include the coral snake *Aspidelaps lubricus infuscatus*; and 5 common resident species include the Namaqua chameleon *Chamaelio namaquensis.* In addition to the larger animals, there is a multitude of centipedes, spiders, scorpions, solifuges, beetles and ants. The site's total of invertebrate species is 1,580.
 
-**CONSERVATION VALUE**
+CONSERVATION VALUE
+------------------
 
 This hyperarid desert is exceptional in its formation, its persistent coastal fog, and the great variety of adaptations of its sand-sea flora and fauna, with a resulting high degree of endemism. It lies within a WWF Global 200 Eco-region, a Centre of Plant Diversity, in one of the world’s Endemic Bird Areas, within a UNESCO Biosphere Reserve and contains a Ramsar wetland.
 
@@ -166,7 +161,7 @@ There was very early human occupation: early Paleolithic stone tools, stone circ
 LOCAL HUMAN POPULATION
 ----------------------
 
-The area is locally uninhabited except for indigenous nomads, the Topnaar !Nama, a San people, now living in scattered settlements along the Kuiseb River. At most, 400 live in the buffer zone. They traditionally reared animals, gardened, hunted and harvested wild fruits, notably the !nara melons, but their population is now reduced because the young mostly work in nearby towns and many traditions are being lost. Human activities at Sandwich Harbour have included fishing, guano collection and hunting. Until recently, the northern end of the Sperrgebeit (protected/off-limit) diamond mining area north of Luderitz, half owned by de Beers, was exploited, but it remains pristine where not mined.
+The area is locally uninhabited except for indigenous nomads, the Topnaar Nama, a San people, now living in scattered settlements along the Kuiseb River. At most, 400 live in the buffer zone. They traditionally reared animals, gardened, hunted and harvested wild fruits, notably the !nara melons, but their population is now reduced because the young mostly work in nearby towns and many traditions are being lost. Human activities at Sandwich Harbour have included fishing, guano collection and hunting. Until recently, the northern end of the Sperrgebeit (protected/off-limit) diamond mining area north of Luderitz, half owned by de Beers, was exploited, but it remains pristine where not mined.
 
 VISITORS AND VISITOR FACILITIES 
 --------------------------------
@@ -185,7 +180,8 @@ Namibia is the world's only continental country that will have its entire coastl
 
 Two draft Management Plans are given in the nomination, one for the Namib-Naukluft National Park, a second for the Namib Sand-sea. They aim for close cooperation between the Ministry of Environment and Tourism and national, local and regional government organizations, traditional and local communities, tourist firms, research institutes and NGOs. The plan deals with conservation, research, education, monitoring, enforcement, traditional practices and cultural resources. It includes provisional zoning for Strict Nature Reserve, Wilderness, Day-visitor Use, Tourism Driving and Lodge Concessions, and Monuments (old diamond-mining areas). Uranium mining, large-scale water extraction and high-impact tourist activities are currently carried out in other parts of the Namib-Naukluft Park. These will not be allowed within the property, but rigorous legal protection will be essential. The two plans need to be integrated, identifying what can be done within the limits of the present budget and staff to become operational. The right of the Topnaar and local people to use resources within the property is not yet legally recognized, but in 1993 a community-based natural resource management project was internationally funded to promote their right to benefit from wildlife management and tourism. Regular monitoring by Gobabeb and Ministry of Environment staff will cover migratory birds at Sandwich Harbour, vultures and raptors, invertebrates, vegetation, pans, ephemeral rivers, weather and tourists.
 
-**MANAGEMENT CONSTRAINTS**
+MANAGEMENT CONSTRAINTS
+----------------------
 
 The property faces four main threats to its integrity: tourism, mining, water supply and invasive species.
 
@@ -197,7 +193,8 @@ The ephemeral rivers are threatened by possible upstream impoundments. Further e
 
 Invasive plants and animals noted include 11 species of plants, 1 fish, 2 birds, 2 mammals and 12 invertebrate species. Most of the plants are carried in by ephemeral rivers and are difficult to eliminate due to regular re-infestation by new floods.
 
-**COMPARISON WITH SIMILAR SITES**
+COMPARISON WITH SIMILAR SITES
+-----------------------------
 
 The sand-sea is the only coastal subtropical desert with an expanse of dunes influenced by fog. The closest equivalent, the Atacama Desert, has none of the aeolian landscape and is relatively lifeless. Shark Bay and Ningaloo on the arid western Australian coast, El Vizcaino in Baya California and the Banc d'Arguin on the barren coast of Mauritania are primarily of marine interest. The much larger Air and Ténéré in Niger (7,700,000 ha), Tassili n’Ajjer in Algeria (7,200,000 ha) and the similarly sized Tadrart Acacus in Libya near Tassili do not have an equal variety of desert features.
 
@@ -229,11 +226,7 @@ The principal sources for the above information were the original World Heritage
 
 Bluck, B. *et al.* (2007). The Orange River, southern Africa: an extreme example of a wave-dominated sediment dispersal system in the South Atlantic Ocean. *Journal of the Geological Society*, 164:341-351.
 
-Corbett, I. (1993). The modern and ancient pattern of sandflow through the southern Namib deflation
-
-basin, pp.45-60 in Pye, K.& Lancaster, N. (eds). Aeolian sediments, ancient and modern. Spec. Publ.
-
-*Int. Assoc.Sedimentol.*, 16, 167pp.
+Corbett, I. (1993). The modern and ancient pattern of sandflow through the southern Namib deflation basin, pp.45-60 in Pye, K.& Lancaster, N. (eds). Aeolian sediments, ancient and modern. Spec. Publ.*Int. Assoc.Sedimentol.*, 16, 167pp.
 
 Dingwall, P., Weighell, T. & Badman, T. (2005). *Geological World Heritage: A Global Framework. A contribution to the Global Theme Study of World Heritage Natural Sites.* Protected Area Programme, IUCN. 51pp.
 
@@ -245,13 +238,9 @@ Hilton-Taylor, C. (compiler) (2012). *2012 IUCN Red List of Threatened Species*.
 
 IUCN (2012). *World Heritage Nomination – IUCN Technical Evaluation. Namib Sand-sea (Namibia).* Gland, Switzerland.
 
-Kimura, K. (2005). Origin of the fog in Namib Desert in dry season. *African Study Monographs*
+Kimura, K. (2005). Origin of the fog in Namib Desert in dry season. *African Study Monographs* 30:57-64.
 
-30:57-64.
-
-Lancaster, N. (1989). *The Namib Sand-sea: Dune forms, Processes and Sediments.* A A. Balkema,
-
-Rotterdam.
+Lancaster, N. (1989). *The Namib Sand-sea: Dune forms, Processes and Sediments.* A A. Balkema, Rotterdam.
 
 Louw, G. & Seely, M. (1982). *Ecology of Desert Organisms*. Longman, London, 194pp.
 
@@ -273,6 +262,7 @@ Ward J. (1988). Eolian, fluvial and pan (playa) facies of the Tertiary Tsondab s
 
 Ward, J., Seely, M. & Lancaster N. (1983). On the antiquity of the Namib. *South African Journal of Science* 79:175-183.
 
-**DATE**
+DATE
+----
 
 October 2013.

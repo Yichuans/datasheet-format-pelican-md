@@ -2,7 +2,7 @@ Title: TROPICAL RAINFOREST HERITAGE OF SUMATRA
 Tags: INDONESIA
 Author: UNEP-WCMC
 Year: 2004
-Date: 2017-04-12 15:28:01
+Date: 2017-05-18 14:04:55
 
  TROPICAL RAINFOREST HERITAGE OF SUMATRA
 ========================================
@@ -47,11 +47,24 @@ Criterion (vii): The parks that comprise the Tropical Rainforest Heritage of Sum
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Gunung Leuser National Park (GLNP) II National Park
-
-Kerinci Sablat National Park (KSNP) II National Park
-
-Bukit Barisan Selatan National Park (BBSNP) II National Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Gunung Leuser National Park (GLNP)</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Kerinci Sablat National Park (KSNP)</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Bukit Barisan Selatan National Park (BBSNP)</td>
+<td align="left">II National Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -274,11 +287,7 @@ Flora and Fauna International, (2003). *The Ecological and Subsequent Social-Eco
 
 Hitchcock, P. & Meyers, K. (2006). *Report on the IUCN-UNESCO World Heritage Monitoring Mission to the Tropical Rainforest Heritage of Sumatra, Indonesia.* IUCN/UNESCO, Gland, Switzerland & Paris.
 
-Husson, S. *et al.* (2003). The Status of the Orangutan in Indonesia. In Ellis, S. *et al.* (2006). *Sumatran*
-
-*Orangutan Conservation Action Plan*. Report on 2005 Workshop at Berastagi, North Sumatra.
-
-Conservation International, Washington U.S.A. & Jakarta.
+Husson, S. *et al.* (2003). The Status of the Orangutan in Indonesia. In Ellis, S. *et al.* (2006). *Sumatran Orangutan Conservation Action Plan*. Report on 2005 Workshop at Berastagi, North Sumatra. Conservation International, Washington U.S.A. & Jakarta.
 
 IUCN (2010). *IUCN Red List of Threatened Species*. IUCN, Gland Switzerland & Cambridge,U.K.
 

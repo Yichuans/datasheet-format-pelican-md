@@ -2,7 +2,7 @@ Title: Ahwar of Southern Iraq
 Tags: Iraq
 Author: UNEP-WCMC
 Year: 2016
-Date: 2017-04-12 15:27:53
+Date: 2017-05-18 14:04:46
 
 Ahwar of Southern Iraq
 ======================
@@ -175,19 +175,19 @@ VEGETATION
 
 There are 86 plant species within the property, spanning 34 families, with Cyperaceae being the most abundant. The property’s vegetation was significantly affected by the draining of the marshes, though with the recent increase in water supply, there are now some positive indications of restoration (Richardson & Hussain, 2006). There is a clear successional structure in much of the vegetation, from aquatic to marsh and finally fully terrestrial communities. There are seven distinct types of vegetation types in the property’s successional habitats:
 
-i)  Free floating vegetation, particularly evident in the flowering period in the summer and characterised by *Lemna* spp.
+1.  Free floating vegetation, particularly evident in the flowering period in the summer and characterised by *Lemna* spp.
 
-ii) Floating (rooted) leaved aquatic vegetation: Many of the species in this vegetation type are rooted to the underlying sediment and have floating leaves, e.g. *Nymphaeae alba*.
+2.  Floating (rooted) leaved aquatic vegetation: Many of the species in this vegetation type are rooted to the underlying sediment and have floating leaves, e.g. *Nymphaeae alba*.
 
-iii) Submerged aquatic vegetation: Considered one of the most common within the property, it dominates inland water bodies whether stagnant or running, and include abundant populations of *Potamageton* spp. and *Najas* spp.
+3.  Submerged aquatic vegetation: Considered one of the most common within the property, it dominates inland water bodies whether stagnant or running, and include abundant populations of *Potamageton* spp. and *Najas* spp.
 
-iv) Halophytic vegetation: This vegetation type spreads on the marsh areas bordering water bodies and terrestrial areas; the Chenopodiaceae family is particularly dominant in this vegetation type.
+4.  Halophytic vegetation: This vegetation type spreads on the marsh areas bordering water bodies and terrestrial areas; the Chenopodiaceae family is particularly dominant in this vegetation type.
 
-v)  Helophytic vegetation: Dominant in the marsh areas and spread widely across the property, it is characterised by reed species.
+5.  Helophytic vegetation: Dominant in the marsh areas and spread widely across the property, it is characterised by reed species.
 
-vi) Riparian vegetation: Extending across the banks of inland water bodies and inland streams, this vegetation type contains predominantly perennial shrubs and annual species, e.g. *Tamarix* spp., *Capparis spinosa, Polgonum salicifolium* and *Bacopa monnieri*.
+6.  Riparian vegetation: Extending across the banks of inland water bodies and inland streams, this vegetation type contains predominantly perennial shrubs and annual species, e.g. *Tamarix* spp., *Capparis spinosa, Polgonum salicifolium* and *Bacopa monnieri*.
 
-vii) Trees (woody vegetation): As water bodies dry, taller and more arboreal species develop, e.g. *Salix* spp. and *Populus* spp.
+7.  Trees (woody vegetation): As water bodies dry, taller and more arboreal species develop, e.g. *Salix* spp. and *Populus* spp.
 
 FAUNA
 -----

@@ -2,7 +2,7 @@ Title: China Danxia
 Tags: China
 Author: UNEP-WCMC
 Year: 2012
-Date: 2017-04-12 15:27:57
+Date: 2017-05-18 14:04:50
 
 1.  CHINA DANXIA
     ============
@@ -32,7 +32,7 @@ STATEMENT OF OUTSTANDING UNIVERSAL VALUE
 
 The UNESCO World Heritage Committee adopted the following Statement of Outstanding Universal Value at the time of inscription:
 
-**Brief Synthesis**
+Brief Synthesis
 
 China Danxia is a serial property comprising six component parts (Chishui, Taining, Langshan, Danxiashan, Longhushan, and Jianglangshan) found in the sub-tropical zone of south-eastern China within approximately 1700 km crescent shaped arc from Guizhou Province in the west to Zhejiang Province in the east.
 
@@ -40,15 +40,15 @@ China Danxia is the name given in China to landscapes developed on continental r
 
 Due to the combined endogenic (tectonic uplift) and exogenic (climatic, erosion, weathering) forces, and other factors, the Danxia landforms have been developed in red sedimentary sequences continuously from the Neogene until the present. The six component parts represent the most important examples of “least eroded” to “most eroded” Danxia landforms, providing a range of different aspects of the phenomenon, and illustrate both the range of landforms in relation to the forces and processes that formed them, together with a range of associated landscapes.
 
-**Criterion (vii):** China Danxia is an impressive and unique landscape of great natural beauty. The reddish conglomerate and sandstone that form this landscape of exceptional natural beauty have been shaped into spectacular peaks, pillars, cliffs and imposing gorges. Together with the contrasting forests, winding rivers and majestic waterfalls, China Danxia presents a significant natural phenomenon.
+Criterion (vii): China Danxia is an impressive and unique landscape of great natural beauty. The reddish conglomerate and sandstone that form this landscape of exceptional natural beauty have been shaped into spectacular peaks, pillars, cliffs and imposing gorges. Together with the contrasting forests, winding rivers and majestic waterfalls, China Danxia presents a significant natural phenomenon.
 
-**Criterion (viii):** China Danxia contains a wide variety of well developed red-beds landforms such as peaks, towers, mesas, cuestas, cliffs, valleys, caves and arches. Being shaped by both endogenous forces (including uplift) and exogenous forces (including weathering and erosion), China Danxia provides a range of different aspects of the phenomenon of physical landscape developed from continental (terrestrial) reddish conglomerate and sandstone in a warm, humid monsoon climate, illustrating both the range of landforms in relation to the forces and processes that formed them. The component parts represent the best examples of “least eroded” to “most eroded” Danxia landforms, displaying a clear landform sequence from “young” through “mature” to “old age”, and with each component site displaying characteristic geomorphologic features of a given stage.
+Criterion (viii): China Danxia contains a wide variety of well developed red-beds landforms such as peaks, towers, mesas, cuestas, cliffs, valleys, caves and arches. Being shaped by both endogenous forces (including uplift) and exogenous forces (including weathering and erosion), China Danxia provides a range of different aspects of the phenomenon of physical landscape developed from continental (terrestrial) reddish conglomerate and sandstone in a warm, humid monsoon climate, illustrating both the range of landforms in relation to the forces and processes that formed them. The component parts represent the best examples of “least eroded” to “most eroded” Danxia landforms, displaying a clear landform sequence from “young” through “mature” to “old age”, and with each component site displaying characteristic geomorphologic features of a given stage.
 
-**Integrity**
+Integrity
 
 China Danxia satisfies the requirements of integrity. The property encompasses substantial elements of sufficient size to reflect the natural beauty and earth science values of Danxia landform from young stage through mature stage and to old stage. The boundaries of the China Danxia are adequate in relation to the nominated earth science and aesthetic values, and the buffer zone boundaries are also clearly defined. The level of management commitment appears adequate to the main challenges and threats that could face the property.
 
-**Protection and Management Requirements**
+Protection and Management Requirements
 
 The property is state owned and its protected status varies between the six component parts: most have national park status, though land status also includes national nature reserve, national forest, and geopark. Each one of the six component parts is protected under relative laws and regulations at national, provincial and local levels, which ensure the adequate long-term legislative, regulatory, institutional and traditional protection of the outstanding universal values.
 
@@ -97,27 +97,27 @@ AREA
 The total area of the serial property is 82,151 ha. The buffer zones cover 136,206 ha:
 
 <table>
+<thead>
+<tr class="header">
+<th align="left">Component part</th>
+<th align="left">Province</th>
+<th align="left"><p>Area (ha)</p>
+<p>Property / Buffer</p></th>
+<th align="left">Coordinates of centre point</th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Component part</strong></td>
-<td align="left"><strong>Province</strong></td>
-<td align="left"><p><strong>Area (ha)</strong></p>
-<p><strong>Property / Buffer</strong></p></td>
-<td align="left"><strong>Coordinates of centre point</strong></td>
-</tr>
-<tr class="even">
 <td align="left"><p>1: Chishui National Park (part) + Geopark</p>
 <p>+ Chishui Alsophila National Nature Reserve</p>
 <p>2: Chishui National Forest Park (part)</p></td>
-<td align="left"><blockquote>
-<p>Guizhou</p>
-</blockquote></td>
+<td align="left">Guizhou</td>
 <td align="left"><p>27,364 /</p>
 <p>44,814</p></td>
 <td align="left"><p>28°22'11”N x 105°47'39”E</p>
 <p>28°25'19”N x 106°02'33”E</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>1: Taining Nat'l Park (north)+ Geopark (part)</p>
 <p>2: Taining National Park (south)</p>
 <p>+ Geopark (part) &amp; Nat' l Forest Park (part)</p></td>
@@ -127,7 +127,7 @@ The total area of the serial property is 82,151 ha. The buffer zones cover 136,2
 <td align="left"><p>26°51'56”N x 117°02'22”E</p>
 <p>27°00'37”N x 113°13'07”E</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>Langshan National Park (most)</p>
 <p>+ Geopark &amp; state land</p></td>
 <td align="left">Hunan</td>
@@ -135,14 +135,14 @@ The total area of the serial property is 82,151 ha. The buffer zones cover 136,2
 <p>6,200</p></td>
 <td align="left">26°20'24”N x 110°46'45”E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Danxiashan National Park / Geopark</td>
 <td align="left">Guangdong</td>
 <td align="left"><p>16,800 /</p>
 <p>12,400</p></td>
 <td align="left">25°57'55”N x 113°42'12”E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>Longhushan National Park / Geopark:</p>
 <p>Longhushan section + Guifeng section</p></td>
 <td align="left">Jiangxi</td>
@@ -151,7 +151,7 @@ The total area of the serial property is 82,151 ha. The buffer zones cover 136,2
 <td align="left"><p>28°04'15”N x 116°59'05”E</p>
 <p>28°19'03”N x 117°25'10”E</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Jianglangshan Scenic Spot in</p>
 <p>Jianglangshan National Park</p></td>
 <td align="left">Zhejiang</td>
@@ -159,11 +159,11 @@ The total area of the serial property is 82,151 ha. The buffer zones cover 136,2
 <p>571</p></td>
 <td align="left">28°31'44”N x 118°33'43”E</td>
 </tr>
-<tr class="even">
-<td align="left"><strong>TOTAL</strong></td>
+<tr class="odd">
+<td align="left">TOTAL</td>
 <td align="left"></td>
-<td align="left"><p><strong>82,151 /</strong></p>
-<p><strong>136,206</strong></p></td>
+<td align="left"><p>82,151 /</p>
+<p>136,206</p></td>
 <td align="left"></td>
 </tr>
 </tbody>
@@ -194,30 +194,32 @@ CLIMATE
 
 Five of the sites have a sub-tropical humid monsoonal climate; Chishui has a moist mountain version of the same climate. The average annual temperature for all the sites ranges between 19.7°C (Danxiashan) and 14°C (Jianglangshan), averaging 6.1°C in winter and 29°C in summer, with a January minimum of 4°C in Langshan and a July maximum of 33.7°C minimum in Taining. Rainfall averages 1,758mm in the four eastern sites and 1,368mm in the two western sites. Winters are short and dry, as is autumn. Summers and spring are rainy. Several different microclimatic conditions from droughty peaks to ravines with tropical vegetation are created by the rugged fragmentation of the land.
 
-VEGETATION 
------------
+VEGETATION
+----------
 
 Since south China was not glaciated in Quaternary times it became a fertile biotic refuge for ancient species. The sites are all within the Chinese Subtropical forest and the South Chinese Rainforest and the three eastern sites surround the Wuyishan massif, one of the most biodiverse of all comparable sites. The ruggedness of the topography has preserved the forests, their complex mosaics of plant communities and a wide range of vegetation types graded by elevation. The forest is mostly secondary except where inaccessible. 11 broad vegetation patterns with 23 vegetation types are described: subtropical evergreen broadleaf monsoon forest, evergreen deciduous broadleaf mixed forest on the Chishui plateau only, deciduous broadleaf forest, conifer forest, sclerophyllous forest, lianas, rock vegetation, aquatic, grassland and low brush in the gorges. There are also xeric communities on the bare summits, mesic communities in ravines and cliff-face vegetation. The 69 different formations and 424 plant associations are said to contain 61.5% of the major habitat types of the world.
 
 The property contains 5,772 vascular plant species, including 591 ferns and 54 gymnosperms, in 1,271 genera and 293 families. 40 species are endemic to the property and 600 endemic to China. Of the 34 species on the IUCN Red List, 2 are Critically Endangered, 7 Endangered and 13 Vulnerable. In China 214 species are considered rare and endangered, 145 are on the Chinese Red List, 49 are key species and 104 species are listed by CITES. However, several species cited have not yet been assessed by IUCN for degree of threat.
 
-The dominant family in the eastern sites is the Fagaceae with co-dominant Lauraceae, Theaceae, Magnoliaceae, Elaeocarpaceae and Symplocaceae. There are unusual locations especially on droughty and island mountain tops, in tropical microhabitats in deep ravines and in patches of old undisturbed forest, the most intact of which is in Chishui and the most diverse on Longhushan. There are many ancient trees, especially in the western sites: 25 are said to be over 1,000 years old and 484 over 500 years old. A Taiwan juniper *Juniperus formosana* in Jianglangshan is 3,500 years old. Relict species found are gingko *Gingko biloba* (EN), Chinese fir *Cunninghamia lanceolata*, *Eucommia ulmoides* and *Camptotheca acuminata.*
+The dominant family in the eastern sites is the Fagaceae with co-dominant Lauraceae, Theaceae, Magnoliaceae, Elaeocarpaceae and Symplocaceae. There are unusual locations especially on droughty and island mountain tops, in tropical microhabitats in deep ravines and in patches of old undisturbed forest, the most intact of which is in Chishui and the most diverse on Longhushan. There are many ancient trees, especially in the western sites: 25 are said to be over 1,000 years old and 484 over 500 years old. A Taiwan juniper Juniperus formosana in Jianglangshan is 3,500 years old. Relict species found are gingko Gingko biloba (EN), Chinese fir Cunninghamia lanceolata, Eucommia ulmoides and Camptotheca acuminata.
 
-Chishui's forest is largely primary vegetation of the central moist evergreen deciduous broadleaf type which covers 90% of the site over a range of 1,490 metres. It has 1,964 vascular plant species (2208 a also cited) with 20 on the IUCN Red List. Its extensive forest of relict dwarf tree fern *Alsophila spinulosa* is said to be the largest stand of Cyathaceae tree fern in Asia. It has 249 species of ferns. There are 27 relict and rare species including *Manglietia insignis, Fokienia hodginsii, Angiopteris fokiensis and Camellia luteoflora.* Taining's forest, like the others in the east, is of humid subtropical broadleaf evergreens but with some sclerophyllous forest. It has 1,276 vascular plant species of which 10 are on the IUCN Red List and 75 on the Chinese Red List. It covers over 90% of the property and shelters a mosaic of ecosystems. Six most endangered species are mentioned out of seventeen listed by IUCN: *Dendrobium officinale* (CR), *Isoetes sinensis* (CR), gingko (EN), *Torrya jackii* (EN), *Bretschneidera sinensis* (EN) and silverbell *Halesia macgregori* (VU).
+Chishui's forest is largely primary vegetation of the central moist evergreen deciduous broadleaf type which covers 90% of the site over a range of 1,490 metres. It has 1,964 vascular plant species (2208 a also cited) with 20 on the IUCN Red List. Its extensive forest of relict dwarf tree fern Alsophila spinulosa is said to be the largest stand of Cyathaceae tree fern in Asia. It has 249 species of ferns. There are 27 relict and rare species including Manglietia insignis, Fokienia hodginsii, Angiopteris fokiensis and Camellia luteoflora. Taining's forest, like the others in the east, is of humid subtropical broadleaf evergreens but with some sclerophyllous forest. It has 1,276 vascular plant species of which 10 are on the IUCN Red List and 75 on the Chinese Red List. It covers over 90% of the property and shelters a mosaic of ecosystems. Six most endangered species are mentioned out of seventeen listed by IUCN: Dendrobium officinale (CR), Isoetes sinensis (CR), gingko (EN), Torrya jackii (EN), Bretschneidera sinensis (EN) and silverbell Halesia macgregori (VU).
 
-Langshan has 85% vegetation cover and 76% forest cover. It has 1,421 vascular plant species, 52 on the IUCN Red List and is noted for three local endemics, *Chirita langshanica, Ranunculus xinningensis* both cliff-wall species, and *Firmiana danxiaensis.* 125 species of lianas, 63 epiphytes and 150 macrofungi are recorded. Danxiashan is 80% vegetated with tropical rainforest in the deep ravines. It has 1,757 vascular plant species of which 10 are on the IUCN Red List including the relic species plum yew *Cephalotaxus oliveri* (VU). Longhushan has 1,626 species of which 220 are endemic to China but only 5 are listed in the IUCN Red List. The forest includes conifer and bamboo forests. Jianglangshan, although small in area, has 1,880 vascular plant species, 51 of which are on the IUCN Red List. It has some sclerophyllous forest.
+Langshan has 85% vegetation cover and 76% forest cover. It has 1,421 vascular plant species, 52 on the IUCN Red List and is noted for three local endemics, Chirita langshanica, Ranunculus xinningensis both cliff-wall species, and Firmiana danxiaensis. 125 species of lianas, 63 epiphytes and 150 macrofungi are recorded. Danxiashan is 80% vegetated with tropical rainforest in the deep ravines. It has 1,757 vascular plant species of which 10 are on the IUCN Red List including the relic species plum yew Cephalotaxus oliveri (VU). Longhushan has 1,626 species of which 220 are endemic to China but only 5 are listed in the IUCN Red List. The forest includes conifer and bamboo forests. Jianglangshan, although small in area, has 1,880 vascular plant species, 51 of which are on the IUCN Red List. It has some sclerophyllous forest.
 
 <table>
+<thead>
+<tr class="header">
+<th align="left">Component site</th>
+<th align="left">Vascular plant species / genera / families</th>
+<th align="left">Vegetation types / formations / associations</th>
+<th align="left">IUCN &amp; National Red List Species</th>
+<th align="left">CITES Species</th>
+<th align="left">Notes</th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Component site</strong></td>
-<td align="left"><strong>Vascular plant species / genera / families</strong></td>
-<td align="left"><strong>Vegetation types / formations / associations</strong></td>
-<td align="left"><strong>IUCN &amp; National Red List Species</strong></td>
-<td align="left"><strong>CITES Species</strong></td>
-<td align="left"><strong>Notes</strong></td>
-</tr>
-<tr class="even">
 <td align="left">Chishui</td>
 <td align="left">1964 / - / -</td>
 <td align="left">11 / 91 / 117</td>
@@ -227,7 +229,7 @@ Langshan has 85% vegetation cover and 76% forest cover. It has 1,421 vascular pl
 <p>249 ferns</p>
 <p>27endemic</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Taining</td>
 <td align="left">1276 / 608 / 192</td>
 <td align="left">8 / 24-40 / -</td>
@@ -235,7 +237,7 @@ Langshan has 85% vegetation cover and 76% forest cover. It has 1,421 vascular pl
 <td align="left">65</td>
 <td align="left"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Langshan</td>
 <td align="left">1421 / 200 / -</td>
 <td align="left">9 / 71 / -</td>
@@ -245,7 +247,7 @@ Langshan has 85% vegetation cover and 76% forest cover. It has 1,421 vascular pl
 <p>63 epiphytes</p>
 <p>150 macrofungi</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Danxiashan</td>
 <td align="left">1757 / 447 / -</td>
 <td align="left">11 / 27 / 48</td>
@@ -253,7 +255,7 @@ Langshan has 85% vegetation cover and 76% forest cover. It has 1,421 vascular pl
 <td align="left">39</td>
 <td align="left"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Longhushan</td>
 <td align="left">1626 / 262 / 838</td>
 <td align="left">9 / - / -</td>
@@ -261,7 +263,7 @@ Langshan has 85% vegetation cover and 76% forest cover. It has 1,421 vascular pl
 <td align="left">18</td>
 <td align="left">220 Chinese endemics</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Jianglangshan</td>
 <td align="left">1880 / 845 / 195</td>
 <td align="left">12 / 35 / 40</td>
@@ -279,29 +281,29 @@ FAUNA
 
 The present fauna of the area is rich and largely typical of the region. The six sites provide seven major animal habitats: forest, bush, farmland, wetland, water, bare rock and caves, and a wide range of vegetation types graded by elevation. Existing fauna over the whole property totals 836 vertebrates of 129 families and 37 orders, and 3,073 insect species totalling 3,913 species in 2449 orders and 520 families. 189 species from 54 families are endemic, rare and endangered – and more than 400 including animals of the buffer zones. Of 43 species cited on the IUCN Red List 2 are Critically Endangered, 11 Endangered and 9 Vulnerable; 80 species have 1st-class state level protection; 145 species are on the Chinese Red List. There are 47 species endemic to China (excluding insects): 11 mammals, 6 birds, 4 amphibians, 16 fish (but see Chishui below) and 10 other animals; and 66 species are listed by CITES.
 
-Chishui has 404 vertebrates: 72 mammals, 147 birds, 37 reptiles, 31 amphibians, 117 fish of which 25 are endemic, and 1,264 insects. 25 species are on the IUCN Red List. Sambar deer *Rusa unicolor* (VU) occur there. Taining has 380 vertebrates and 1,509 insect species. 7 are on the IUCN Red List: Chinese pangolin *Manis pentadactyla* (EN) and the near threatened large Indian civet *Viverra zibetha,* Asiatic golden cat *Catapuma temminkii* and Chinese serow *Capricornis milneedwardsii.* Yellow-billed tragopan *Tragopan caboti* (VU), silver pheasant *Lophurus nycthemera* and Chinese black-backed pheasant *Syrmaticus ellioti* are all recorded. Langshan has 210 vertebrates: 26 mammals, 94 birds, 35 reptiles, 19 amphibians, 36 fish and 816 insects. 2 are on the IUCN Red List. Sambar deer (VU) are found there, and the giant salamander *Andreas davidianus*. Danxiashan has 422 vertebrates: 88 mammals, 156 birds, 41 reptiles, 37 amphibians, 100 fish, and 1,023 insects. 73 are on the IUCN Red List: white-necked night pheasant *Gorsechius magnificus* (EN) being one. Longhushan has 387 vertebrates including sambar deer (VU). Its wetlands are important for migratory and wintering birds such as scaly-sided merganser *Merganser squamatus* (EN). Silver oriole *Oriolus mellianus* (VU) is also found there. Jianglangshan has 195 vertebrates. The white-necked night pheasant (EN) occurs there and 142 species are stated to be on the Chinese Red List.
+Chishui has 404 vertebrates: 72 mammals, 147 birds, 37 reptiles, 31 amphibians, 117 fish of which 25 are endemic, and 1,264 insects. 25 species are on the IUCN Red List. Sambar deer Rusa unicolor (VU) occur there. Taining has 380 vertebrates and 1,509 insect species. 7 are on the IUCN Red List: Chinese pangolin Manis pentadactyla (EN) and the near threatened large Indian civet Viverra zibetha, Asiatic golden cat Catapuma temminkii and Chinese serow Capricornis milneedwardsii. Yellow-billed tragopan Tragopan caboti (VU), silver pheasant Lophurus nycthemera and Chinese black-backed pheasant Syrmaticus ellioti are all recorded. Langshan has 210 vertebrates: 26 mammals, 94 birds, 35 reptiles, 19 amphibians, 36 fish and 816 insects. 2 are on the IUCN Red List. Sambar deer (VU) are found there, and the giant salamander Andreas davidianus. Danxiashan has 422 vertebrates: 88 mammals, 156 birds, 41 reptiles, 37 amphibians, 100 fish, and 1,023 insects. 73 are on the IUCN Red List: white-necked night pheasant Gorsechius magnificus (EN) being one. Longhushan has 387 vertebrates including sambar deer (VU). Its wetlands are important for migratory and wintering birds such as scaly-sided merganser Merganser squamatus (EN). Silver oriole Oriolus mellianus (VU) is also found there. Jianglangshan has 195 vertebrates. The white-necked night pheasant (EN) occurs there and 142 species are stated to be on the Chinese Red List.
 
 <table>
+<thead>
+<tr class="header">
+<th align="left">Component site</th>
+<th align="left">Total excl. insects</th>
+<th align="left">Mammals</th>
+<th align="left">Birds</th>
+<th align="left">Reptiles</th>
+<th align="left">Amphibians</th>
+<th align="left">Fish</th>
+<th align="left">Insects</th>
+<th align="left">IUCN &amp; National Red List Species</th>
+<th align="left">CITES Species</th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Component site</strong></td>
-<td align="left"><strong>Total excl. insects</strong></td>
-<td align="left"><strong>Mammals</strong></td>
-<td align="left"><strong>Birds</strong></td>
-<td align="left"><strong>Reptiles</strong></td>
-<td align="left"><strong>Amphibians</strong></td>
-<td align="left"><strong>Fish</strong></td>
-<td align="left"><strong>Insects</strong></td>
-<td align="left"><strong>IUCN &amp; National Red List Species</strong></td>
-<td align="left"><strong>CITES Species</strong></td>
-</tr>
-<tr class="even">
 <td align="left">Chishui</td>
 <td align="left">404</td>
 <td align="left">72</td>
-<td align="left"><blockquote>
-<p>147</p>
-</blockquote></td>
+<td align="left">147</td>
 <td align="left">37</td>
 <td align="left">31</td>
 <td align="left">117</td>
@@ -309,7 +311,7 @@ Chishui has 404 vertebrates: 72 mammals, 147 birds, 37 reptiles, 31 amphibians, 
 <td align="left">.25 / 368.</td>
 <td align="left">36</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Taining</td>
 <td align="left">380</td>
 <td align="left"></td>
@@ -321,7 +323,7 @@ Chishui has 404 vertebrates: 72 mammals, 147 birds, 37 reptiles, 31 amphibians, 
 <td align="left">..7 / 43.</td>
 <td align="left">47</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Langshan</td>
 <td align="left">210</td>
 <td align="left">26</td>
@@ -333,7 +335,7 @@ Chishui has 404 vertebrates: 72 mammals, 147 birds, 37 reptiles, 31 amphibians, 
 <td align="left">..2 / 18.</td>
 <td align="left">27</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Danxiashan</td>
 <td align="left">422</td>
 <td align="left">88</td>
@@ -345,7 +347,7 @@ Chishui has 404 vertebrates: 72 mammals, 147 birds, 37 reptiles, 31 amphibians, 
 <td align="left">.73 / 59.</td>
 <td align="left">66</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Longhushan</td>
 <td align="left">387</td>
 <td align="left"></td>
@@ -357,7 +359,7 @@ Chishui has 404 vertebrates: 72 mammals, 147 birds, 37 reptiles, 31 amphibians, 
 <td align="left">.16 / 55.</td>
 <td align="left">33</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Jianglangshan</td>
 <td align="left">195</td>
 <td align="left"></td>
@@ -379,8 +381,10 @@ CONSERVATION VALUE
 
 Danxia, described from the type locality Danxiashan, are predominantly orange-red spectacularly eroded sandstone rock formations or red beds exposed in the massive forms of mesa-shaped peaks, pyramids, towers, cliffs and ravines. Each of the six sites is representative of the danxia formations of southeastern China and have been chosen to display an example on a range from least to most eroded. The rocks reveal past changes in the geological past and the life forms of late Mesozoic to Cenozoic times. The sites also exemplify the rich present-day biodiversity of their striking and beautiful subtropical forest landscapes. The eastern sites lie within a WWF Global 200 priority ecoregion and a WWF/IUCN Centre of Plant Diversity; all the sites except Jianglangshan are Geoparks.
 
-CULTURAL HERITAGE
------------------
+1.  
+
+    CULTURAL HERITAGE
+    -----------------
 
 Most of the sites have been settled since Neolithic times 6,000-3,500 years ago, leaving plentiful stone tools, pottery and later, bronze vessels; agriculture developed 2,000 years ago. Traditional settlements were built in harmony with the environment, and the practice of Taoism is held to have begun in these mountains. To the Taoist the law of Nature was the highest law and reverence for the environment followed. Mountain temples and pilgrimages were and still are an essential part of the national respect for nature, and the sites are known to have been appreciated spiritually by the literati at least since the Tang dynasty. Care for historical, cultural and local religious relics is therefore a major part of the conservation of these areas. The relics include ancient cave temples, cliff grave sites and cliff carvings, petroglyphs, ancient and fortified villages and stockades. Longhushan, settled 2,600 years ago, is respected as the birthplace of Taoism and is one of its four sacred mountains. It has ancient coffin caves in its cliffs and one of its four colleges established during the northern Song. In Danxiashan Mount Shaoshi and Mount Danxia have attracted literati since Tang times and there are more than 40 cave temples with carved inscriptions, tablets and tombs. Taining has a Tang temple and 80 Buddhist grotto temples. Jianglangshan has attracted celebrated scholars since the Tang and has a famous old temple at Kaiming and an old academy, both founded in northern Song times.
 
@@ -390,46 +394,46 @@ LOCAL HUMAN POPULATION
 The sites are in rugged relatively little populated country, except for Longhushan, where the local people have always depended on subsistence farming, fishing, hunting and tree felling. In 2007 the total population of the property was 34,026 and of the buffer zones, 100,259. Longhushan's populations were the highest: 23,966 (property) and 46,560 (buffer zone). Taining and Danxiashan being the least populated. The people are Han with a few Dong, Yao and Zhuang villages in Langshan and Chishui.
 
 <table>
+<thead>
+<tr class="header">
+<th align="left">Component site</th>
+<th align="left">Population 2007</th>
+<th align="left">Visitors 2001</th>
+<th align="left">Visitors 2007</th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Component site</strong></td>
-<td align="left"><strong>Population 2007</strong></td>
-<td align="left"><strong>Visitors 2001</strong></td>
-<td align="left"><strong>Visitors 2007</strong></td>
-</tr>
-<tr class="even">
 <td align="left">Chishui</td>
 <td align="left">4751</td>
 <td align="left">21,000</td>
-<td align="left"><blockquote>
-<p>80,100</p>
-</blockquote></td>
+<td align="left">80,100</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Taining</td>
 <td align="left">691</td>
 <td align="left">16,610</td>
 <td align="left">41,790</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Langshan</td>
 <td align="left">3040</td>
 <td align="left">9000</td>
 <td align="left">48,000</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Danxiashan</td>
 <td align="left">1578</td>
 <td align="left">44,590</td>
 <td align="left">110,650</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Longhushan</td>
 <td align="left">23,966</td>
 <td align="left">28,900</td>
 <td align="left">53,900</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Jianglangshan</td>
 <td align="left">0</td>
 <td align="left">10,100</td>
@@ -471,70 +475,72 @@ STAFF
 The six properties together employ 1,326 full-time staff of which 344 are administrative and technical, 209 being college educated in a wide range of disciplines. There are 917 support staff plus 65 external consultants. Professional staff are trained and retrained in their fields and local people are trained in conservation, sustainable practices and as guides.
 
 <table>
+<thead>
+<tr class="header">
+<th align="left">Component site</th>
+<th align="left">Professional staff</th>
+<th align="left">Technical staff</th>
+<th align="left">Other staff</th>
+<th align="left">Outside experts</th>
+<th align="left">TOTAL</th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Component site</strong></td>
-<td align="left"><strong>Professional staff </strong></td>
-<td align="left"><strong>Technical staff</strong></td>
-<td align="left"><strong>Other staff</strong></td>
-<td align="left"><strong>Outside experts</strong></td>
-<td align="left"><strong>TOTAL</strong></td>
-</tr>
-<tr class="even">
 <td align="left">Chishui</td>
 <td align="left">41</td>
 <td align="left">17</td>
 <td align="left">142</td>
 <td align="left">6</td>
-<td align="left"><strong>206</strong></td>
+<td align="left">206</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Taining</td>
 <td align="left">44</td>
 <td align="left">11</td>
 <td align="left">186</td>
 <td align="left">20</td>
-<td align="left"><strong>261</strong></td>
+<td align="left">261</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Langshan</td>
 <td align="left">28</td>
 <td align="left">12</td>
 <td align="left">141</td>
 <td align="left">8</td>
-<td align="left"><strong>189</strong></td>
+<td align="left">189</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Danxiashan</td>
 <td align="left">19</td>
 <td align="left">4</td>
 <td align="left">152</td>
 <td align="left">16</td>
-<td align="left"><strong>191</strong></td>
+<td align="left">191</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Longhushan</td>
 <td align="left">62</td>
 <td align="left">86</td>
 <td align="left">210</td>
 <td align="left">8</td>
-<td align="left"><strong>366</strong></td>
+<td align="left">366</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Jianglangshan</td>
 <td align="left">15</td>
 <td align="left">5</td>
 <td align="left">86</td>
 <td align="left">7</td>
-<td align="left"><strong>113</strong></td>
+<td align="left">113</td>
 </tr>
-<tr class="even">
-<td align="left"><strong>TOTAL</strong></td>
-<td align="left"><strong>209</strong></td>
-<td align="left"><strong>135</strong></td>
-<td align="left"><strong>917</strong></td>
-<td align="left"><strong>65</strong></td>
-<td align="left"><strong>1326</strong></td>
+<tr class="odd">
+<td align="left">TOTAL</td>
+<td align="left">209</td>
+<td align="left">135</td>
+<td align="left">917</td>
+<td align="left">65</td>
+<td align="left">1326</td>
 </tr>
 </tbody>
 </table>
@@ -547,57 +553,55 @@ BUDGET
 This is derived for all except Langshan from national, provincial and county funds, income from fixed assets and ticket sales. Funding between 2001 and 2007 (cited in U.S. dollars) almost quintupled:
 
 <table>
+<thead>
+<tr class="header">
+<th align="left">Component site</th>
+<th align="left">Income 2001 (US$)</th>
+<th align="left">Income 2007 (US$)</th>
+<th align="left">Notes</th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Component site</strong></td>
-<td align="left"><strong>Income 2001 (US$)</strong></td>
-<td align="left"><strong>Income 2007 (US$)</strong></td>
-<td align="left"><strong>Notes</strong></td>
-</tr>
-<tr class="even">
 <td align="left">Chishui</td>
 <td align="left">147,790</td>
-<td align="left"><blockquote>
-<p>547,000</p>
-</blockquote></td>
+<td align="left">547,000</td>
 <td align="left">most from ticket income</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Taining</td>
 <td align="left">764,265</td>
-<td align="left"><blockquote>
-<p>3,185,440</p>
-</blockquote></td>
+<td align="left">3,185,440</td>
 <td align="left">2003</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Langshan</td>
 <td align="left">29,420</td>
 <td align="left">176,470</td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Danxiashan</td>
 <td align="left">208,530</td>
 <td align="left">540,290</td>
 <td align="left">most from ticket income</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Longhushan</td>
 <td align="left">174,700</td>
 <td align="left">2,272,350</td>
 <td align="left">2002</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Jianglangshan</td>
 <td align="left">51,560</td>
 <td align="left">284,700</td>
 <td align="left"></td>
 </tr>
-<tr class="even">
-<td align="left"><strong>TOTAL</strong></td>
-<td align="left"><strong>1,410,095</strong></td>
-<td align="left"><strong>7,006,210</strong></td>
+<tr class="odd">
+<td align="left">TOTAL</td>
+<td align="left">1,410,095</td>
+<td align="left">7,006,210</td>
 <td align="left"></td>
 </tr>
 </tbody>
@@ -606,15 +610,15 @@ This is derived for all except Langshan from national, provincial and county fun
 LOCAL ADDRESSES
 ---------------
 
-Ministry of Housing & Urban-Rural Development of the People's Republic of China, 9, Sanlihe Road, Beijing, 100835, China. Website: *http://www.cin.gov.cn*.
+Ministry of Housing & Urban-Rural Development of the People's Republic of China, 9, Sanlihe Road, Beijing, 100835, China. Website: http://www.cin.gov.cn.
 
 The Director, Construction Bureau of Hu'nan Province, 86, Jiefang Road(Mid), Changsha City, 410003, Hu'nan, China. Website: [http://www.hnjs.gov.cn](http://www.hnjs.gov.cn/).
 
-The Director, Construction Bureau of Guangdong Province, 305, Dongfang Road(Mid), Guangzhou City, 510031, Guangzhou, China. Website: [http://www.g](http://www.hnjs.gov.cn/)*dcic.net*
+The Director, Construction Bureau of Guangdong Province, 305, Dongfang Road(Mid), Guangzhou City, 510031, Guangzhou, China. Website: [http://www.g](http://www.hnjs.gov.cn/)dcic.net
 
 The Director, Construction Bureau of Fujian Province, 242, Beida Road, Fuzhou City, 350001, Fujian, China.
 
-The Director, Construction Bureau of Zhejiang Province, 8, Chengfu Road, Hangzhou City, 310025, Zhejiang, China. Website: [http://www.z](http://www.hnjs.gov.cn/)*jjs.com.cn*
+The Director, Construction Bureau of Zhejiang Province, 8, Chengfu Road, Hangzhou City, 310025, Zhejiang, China. Website: [http://www.z](http://www.hnjs.gov.cn/)jjs.com.cn
 
 The Director, Construction Bureau of Jiangxi Province, Nanchang City, 330046, Jiangxi, China.
 
@@ -623,25 +627,25 @@ The Director, Construction Bureau of Guizhou Province, Guiyang City, 550002, Gui
 REFERENCES
 ----------
 
-1.  The principal sources for the above information were the original World Heritage nomination, the IUCN evaluation report and Decisions 34 COM 8B.1 and 35 COM 8B.60 of the UNESCO World Heritage Committee.
+The principal sources for the above information were the original World Heritage nomination, the IUCN evaluation report and Decisions 34 COM 8B.1 and 35 COM 8B.60 of the UNESCO World Heritage Committee.
 
-The Administrative Committee of Langshan National Park (2008). *The Management Plan of Langshan Nominated Site.* Xinning County, Shaoyang City, Hunnan Province.
+The Administrative Committee of Langshan National Park (2008). The Management Plan of Langshan Nominated Site. Xinning County, Shaoyang City, Hunnan Province.
 
-Guizhou Institute of Architectural Design (2008). *Chishui of China Danxia Management Plan.* Guizhou
+Guizhou Institute of Architectural Design (2008). Chishui of China Danxia Management Plan. Guizhou
 
 Tongh Co.Ltd. for Planning and Consultation, Chishui.
 
-ICOMOS (2010). *Danxia (China).* Comments on the Nomination document. Paris.
+ICOMOS (2010). Danxia (China). Comments on the Nomination document. Paris.
 
-IUCN (2012). *Red List of Threatened Species.* IUCN, Gland, Switzerland.
+IUCN (2012). Red List of Threatened Species. IUCN, Gland, Switzerland.
 
-Longhushan-Guifeng National Park Heritage Coordination Committee (2008). *Protection and Management Plan for Longhushan World Natural Heritage Nominated Site 2008-2012*. Longhushan-Guifeng National Park Yingtan City & Shangrao City, Jiangxi Province.
+Longhushan-Guifeng National Park Heritage Coordination Committee (2008). Protection and Management Plan for Longhushan World Natural Heritage Nominated Site 2008-2012. Longhushan-Guifeng National Park Yingtan City & Shangrao City, Jiangxi Province.
 
-The People’s Government of Taining County (2009). *Taining World Natural Heritage Nominated Site Protection and Management Plan*. Taining County, Sanming City, Fujian Province.
+The People’s Government of Taining County (2009). Taining World Natural Heritage Nominated Site Protection and Management Plan. Taining County, Sanming City, Fujian Province.
 
-Ro, L. & Chen, H. (2009). *Guangdong, Management Planning.* Planning and Research Institute Sun Yat-sen University, Danxiashan National Park.
+Ro, L. & Chen, H. (2009). Guangdong, Management Planning. Planning and Research Institute Sun Yat-sen University, Danxiashan National Park.
 
-Young, R., Wray, R. & Young, A. (2009). *Sandstone Landforms.* Cambridge University Press, Melbourne.
+Young, R., Wray, R. & Young, A. (2009). Sandstone Landforms. Cambridge University Press, Melbourne.
 
 DATE
 ----

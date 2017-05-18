@@ -2,7 +2,7 @@ Title: CENTRAL SIKHOTE-ALIN
 Tags: RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 2001
-Date: 2017-04-12 15:28:06
+Date: 2017-05-18 14:04:59
 
 CENTRAL SIKHOTE-ALIN 
 =====================
@@ -46,12 +46,28 @@ INTERNATIONAL DESIGNATION
 IUCN MANAGEMENT CATEGORY
 -----------------------------
 
-Sikhote-Alinskiy Nature Preserve (Zapovednik): Ia Strict Nature Reserve\
-Goraliy Zoological Preserve (Zakaznik): IV Habitat/Species Management Area
-
-Verkhnebikinski (Upper Bikin) Landscape Preserve (Zakaznik): IV Habitat/Species Management Area
-
-Bikin Territory of Traditional Nature Use (TTNU): Unassigned
+<table>
+<thead>
+<tr class="header">
+<th align="left">Sikhote-Alinskiy Nature Preserve (Zapovednik):</th>
+<th align="left">Ia Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Goraliy Zoological Preserve (Zakaznik):</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Verkhnebikinski (Upper Bikin) Landscape Preserve (Zakaznik):</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Bikin Territory of Traditional Nature Use (TTNU):</td>
+<td align="left">Unassigned</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ----------------------------
@@ -90,13 +106,28 @@ AREA
 
 Total Central Sikhote-Alin: 1,553,928 ha (UNESCO, 2009)
 
-Verkhnebikinski Landscape Preserve: 746,482 ha
-
-Bikin Territory of Traditional Nature Use: 407,764 ha
-
-Sikhote-Alin Nature Preserve: 401,428 ha (UNESCO, 2001)
-
-Goraliy Zoological Preserve (includes 1 km offshore): 4,749 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Verkhnebikinski Landscape Preserve:</th>
+<th align="left">746,482 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Bikin Territory of Traditional Nature Use:</td>
+<td align="left">407,764 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Sikhote-Alin Nature Preserve:</td>
+<td align="left">401,428 ha (UNESCO, 2001)</td>
+</tr>
+<tr class="odd">
+<td align="left">Goraliy Zoological Preserve (includes 1 km offshore):</td>
+<td align="left">4,749 ha</td>
+</tr>
+</tbody>
+</table>
 
 (Total 1,560,423 ha)
 
@@ -171,15 +202,11 @@ The Siberian Tiger Project founded in 1992, conducts the longest running radio-t
 MANAGEMENT
 --------------
 
-The sites are the property of the Russian Federation which has the authority to determine their use and to protect them. The State also maintains historical-cultural objects and constructions within the sites. The most recent protection measures are the 1995 Federal Law for Nature Preserves, and a number of site-specific regulations. Management of the sites is both directly by the Federal Ministry of Natural Resources and through its local office at Vladivostok. The buffer zones are co-managed by the federal and regional governments, with some municipal involvement. The Bikin Territory is managed by the Primorski Forestry Administration. In 2003 the Directorate for Primorskiy Provincial Natural Resources and Environmental Protection with the Primorski Forestry Service argued (for a second time) for border adjustments to facilitate industrial timber felling of the forests of Verkhnebikinskiy Nature Reserve, and a highway was to be completed through the reserve. Based on the forest’s protected status, the rights of indigenous peoples to the lands from which they traditionally draw a living guaranteed by a 2001 federal law, and on public outcry, this was denied by the federal Ministry of Natural Resources. In 2006 the Governor spoke in defence of the Reserve. The support of local people was enlisted and determined anti-poaching patrols were started. Part of this success is funded through the Phoenix
-
-project funded by 21st Century Tiger (Phoenix Fund, 2006).
+The sites are the property of the Russian Federation which has the authority to determine their use and to protect them. The State also maintains historical-cultural objects and constructions within the sites. The most recent protection measures are the 1995 Federal Law for Nature Preserves, and a number of site-specific regulations. Management of the sites is both directly by the Federal Ministry of Natural Resources and through its local office at Vladivostok. The buffer zones are co-managed by the federal and regional governments, with some municipal involvement. The Bikin Territory is managed by the Primorski Forestry Administration. In 2003 the Directorate for Primorskiy Provincial Natural Resources and Environmental Protection with the Primorski Forestry Service argued (for a second time) for border adjustments to facilitate industrial timber felling of the forests of Verkhnebikinskiy Nature Reserve, and a highway was to be completed through the reserve. Based on the forest’s protected status, the rights of indigenous peoples to the lands from which they traditionally draw a living guaranteed by a 2001 federal law, and on public outcry, this was denied by the federal Ministry of Natural Resources. In 2006 the Governor spoke in defence of the Reserve. The support of local people was enlisted and determined anti-poaching patrols were started. Part of this success is funded through the Phoenix project funded by 21st Century Tiger (Phoenix Fund, 2006).
 
 The creation of the Sikhote-Alin Preserve and the later protected territories in the Bikin valley, the total ban on killing the Amur tiger in 1947 and a temporary ban on the hunting of Manchurian red deer, the tigers’ main prey, resulted in an increase in the number of tigers until the 1980s when the Siberian tiger population was estimated at about 250 animals[](http://en.wikipedia.org/wiki/#cite_note-SAM-4) (Mattheissen & Hornocker, 2001). With the relaxation of state controls in the 1990s threats to the tiger returned, emphasising the need for an improved system of protection, and conservation strategies that incorporated the economic requirements of the local populations. In 1992 the Siberian Tiger Project was founded. A long-term program for nature protection and the use of the natural resources of the region was developed by scientists in the Far East department of the Russian Academy of Sciences with the WCS and a number of affiliated institutions.
 
-In 2000 Sikhote-Alin Nature Preserve was the only reserve of the four with a management plan, for the period 1995-2000. This outlined a series of key measures, which included increasing the size of the core and buffer zones; expanding the area of water in the territory; organising the biosphere reserve; establishing forest protective measures including in adjoining territories belonging to the Federal forestry service and timber industries; improving the control of forest fires; creating a regional centre for ecological education; establishing GIS databases for the Preserve and its surroundings; and improving the training of its staff. 12-15 forest guards patrol daily. Fire protection of the forests is the responsibility
-
-of the fire control service.
+In 2000 Sikhote-Alin Nature Preserve was the only reserve of the four with a management plan, for the period 1995-2000. This outlined a series of key measures, which included increasing the size of the core and buffer zones; expanding the area of water in the territory; organising the biosphere reserve; establishing forest protective measures including in adjoining territories belonging to the Federal forestry service and timber industries; improving the control of forest fires; creating a regional centre for ecological education; establishing GIS databases for the Preserve and its surroundings; and improving the training of its staff. 12-15 forest guards patrol daily. Fire protection of the forests is the responsibility of the fire control service.
 
 MANAGEMENT CONSTRAINTS 
 ---------------------------

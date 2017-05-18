@@ -2,7 +2,7 @@ Title: DONG PHAYAYEN-KHAO YAI FOREST COMPLEX
 Tags: THAILAND
 Author: UNEP-WCMC
 Year: 2005
-Date: 2017-04-12 15:28:08
+Date: 2017-05-18 14:05:02
 
 DONG PHAYAYEN-KHAO YAI FOREST COMPLEX 
 ======================================
@@ -39,13 +39,28 @@ The UNESCO World Heritage Committee issued the following statement at the time o
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Khao Yai National Park: II National Park
-
-Thap Lan National Park: II National Park
-
-Pang Sida National Park: II National Park
-
-Ta Phraya National Park: II National Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Khao Yai National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Thap Lan National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Pang Sida National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Ta Phraya National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -84,15 +99,32 @@ AREA
 
 Total area: 615,500 ha
 
-Khao Yai National Park (& ASEAN Heritage Park) 216,800 ha
-
-Thap Lan National Park 223, 600 ha
-
-Pang Sida National Park 84,400 ha
-
-Ta Phraya National Park 59,400 ha
-
-Dong Yai Wildlife Sanctuary 31,300 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Khao Yai National Park (&amp; ASEAN Heritage Park)</th>
+<th align="left">216,800 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Thap Lan National Park</td>
+<td align="left">223, 600 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Pang Sida National Park</td>
+<td align="left">84,400 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Ta Phraya National Park</td>
+<td align="left">59,400 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Dong Yai Wildlife Sanctuary</td>
+<td align="left">31,300 ha</td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE
 --------

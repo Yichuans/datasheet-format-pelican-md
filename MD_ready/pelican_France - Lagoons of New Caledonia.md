@@ -2,7 +2,7 @@ Title: REEF DIVERSITY AND ASSOCIATED ECOSYSTEMS
 Tags: FRANCE
 Author: UNEP-WCMC
 Year: 2008
-Date: 2017-04-12 15:27:59
+Date: 2017-05-18 14:04:53
 
 
 REEF DIVERSITY AND ASSOCIATED ECOSYSTEMS
@@ -85,16 +85,18 @@ Marine core area: 1,574,300 ha.
 Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer area: 492,400.
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>District</strong></th>
+<th align="left"><strong>Comm-</strong></th>
+<th align="left"><strong>Marine </strong></th>
+<th align="left"><strong>Marine buffer</strong></th>
+<th align="left"><strong>Land</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Site</strong></td>
-<td align="left"><strong>District</strong></td>
-<td align="left"><strong>Comm-</strong></td>
-<td align="left"><strong>Marine </strong></td>
-<td align="left"><strong>Marine buffer</strong></td>
-<td align="left"><strong>Land</strong></td>
-</tr>
-<tr class="even">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
@@ -104,7 +106,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <p><strong>area (ha)</strong></p>
 </blockquote></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
@@ -112,7 +114,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">1</td>
 <td align="left">Grand Lagon Sud (GLS)</td>
 <td align="left">Province Sud</td>
@@ -120,7 +122,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left">314,500</td>
 <td align="left">313,100</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2</td>
 <td align="left">Zone Côtière Ouest (ZCO)</td>
 <td align="left">Province Sud</td>
@@ -128,7 +130,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left">48,200</td>
 <td align="left">32,500</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">3</td>
 <td align="left">Zone Côtière Nord et Est (ZCNE)</td>
 <td align="left">Province Nord</td>
@@ -136,7 +138,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left">371,400</td>
 <td align="left">100,200</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">4</td>
 <td align="left">Grand Lagon Nord (GLN)</td>
 <td align="left">Province Nord</td>
@@ -144,7 +146,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left">635,700</td>
 <td align="left">105,700</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">5</td>
 <td align="left">Atolls d’Entrecasteaux (ADE)</td>
 <td align="left"><p>Nouvelle</p>
@@ -153,7 +155,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left">106,800</td>
 <td align="left">216,800</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">6</td>
 <td align="left">Atoll d’Ouvéa et Beautemps-</td>
 <td align="left">Province</td>
@@ -161,7 +163,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left">97,700</td>
 <td align="left">26,400</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left">Beaupré (AOBB)</td>
 <td align="left">îles Loyauté</td>
@@ -169,7 +171,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><strong>Totals</strong></td>
 <td align="left"><strong>1,574,300</strong></td>
 <td align="left"><strong>794,700</strong></td>
@@ -207,7 +209,7 @@ VEGETATION
 
 The unusual metal-rich soils support about 3,270 species of vascular plants of which 2,430 (74.4%) are endemic, in 108 endemic genera (CI, 2006). This compares with 89% endemism in Hawaii and 83% for New Zealand. The island’s Gondwanan origins are evident in the world’s largest number and diversity of conifers for its area despite the subtropical location, 43 gymnosperms out of 44 being endemic. Araucaria and podocarp families predominate. There are five endemic angiosperm families and *Amborella trichopoda,* a large understorey shrub considered the most primitive of all flowering plants. The 2006 IUCN Red List of Threatened Species lists some 65 plants as endangered and 27 plants as critically endangered. The submarine life is less sampled and totals there may be underestimated.
 
-There are five main terrestrial habitats. The most extensive is evergreen wet tropical lowland forest (400,000 ha, now covering a fifth of its original extent) with 2,012 species of which 82.2% are endemic; 260 fern species flourish there. Other main vegetation types are the very fragmented sclerophyllous forest on the west of the island below 300m (4,500 ha: 1% of its original extent), with 456 species, 57.5% endemic, and 60 species found only there; low to mid level maquis (440,000 ha) with 1,144 species, 89% endemic, high altitude wet maquis forest of edaphic origin (10,000 ha), with 200 species and over 91% endemics; also anthropogenic savanna (600,000 ha) and marsh (CI, 2006). 13 out of the 19 species of *Araucaria* grow on the ultramafic soils of the wet maquis, including *Araucaria nemorosa* (CR) and the narrow columnar pine *A. columnaris*. There are many species of *Pandanus,* 37 endemic species of palm from 16 endemic genera, including the last 30 trees of *Lavoixia macrocarpa* (CR), 26 other species listed as critically endangered, a primitive genus, Winteraceae and a recent re-discovery, *Captaincookia margareta* (CR) (Lamoureux, 2001a).
+There are five main terrestrial habitats. The most extensive is evergreen wet tropical lowland forest (400,000 ha, now covering a fifth of its original extent) with 2,012 species of which 82.2% are endemic; 260 fern species flourish there. Other main vegetation types are the very fragmented sclerophyllous forest on the west of the island below 300m (4,500 ha: 1% of its original extent), with 456 species, 57.5% endemic, and 60 species found only there; low to mid level maquis (440,000 ha) with 1,144 species, 89% endemic, high altitude wet maquis forest of edaphic origin (10,000 ha), with 200 species and over 91% endemics; also anthropogenic savanna (600,000 ha) and marsh (CI, 2006). 13 out of the 19 species of *Araucaria* grow on the ultramafic soils of the wet maquis, including Araucaria nemorosa (CR) and the narrow columnar pine *A. columnaris*. There are many species of *Pandanus,* 37 endemic species of palm from 16 endemic genera, including the last 30 trees of *Lavoixia macrocarpa* (CR), 26 other species listed as critically endangered, a primitive genus, Winteraceae and a recent re-discovery, *Captaincookia margareta* (CR) (Lamoureux, 2001a).
 
 Along 50% of the coast, principally on the west side, mangroves of 16 species cover 27,000 ha. The nine main forms of reef contain a wealth of habitats: reef fronts, slopes, passes, terraces and pinnacles, lagoon basins muddy, sandy, platy, rocky, and combinations of these at various levels. The marine vegetation are seagrasses and algal beds. 12 species of seagrasses are found, mainly on the muddy sands of shallow lagoons and inlets: *Cymodacea* spp. predominant in the north,*Thalassia* spp. in the south. 322 species from 46 families of algae are recorded, but it is estimated that 1,000 species may exist. Except for the large number of yet undescribed shallow-water red algae, these grow usually between 15-25m. *Caulerpa, Halimeda, Avrainvillea* and *Utodea* species are found growing on soft bottoms, blue-green algae, *Sargassum* and *Homophysa* spp. on hard bottoms covered by sediment. Near the île des Pins in the extreme south some resemble temperate species.
 
@@ -222,9 +224,7 @@ Humpback whales *Megaptera novaeangliae* (327 individuals) cruise mainly the sou
 
 Before western importations, the land had no mammals except for bats of which there are 9 species, 6 endemic or nearly so, including the New Caledonian wattled bat *Chalinolobus neocaledonicus* (EN) and Loyalty bent-wing bat *Miniopterus robustior* (EN), longtailed fruit bat *Notopteris macdonaldi* (VU), New Caledonia long-eared bat *Nyctophilus nebulosus* (CR), ornate flying fox *Pteropus ornatus* (VU) and New Caledonia flying fox *P. vetulus* (VU). There are 70 species of reptile, 62 being endemic. There are three land snakes on the Loyalty Islands, but most reptiles are geckos and skinks, including two giant and two smaller geckoes *Rhacodactylus* spp. and the recently rediscovered Bocourt’s eyelid skink *Phoboscincus bocourti* (CI, 2006). Marine turtles include the green *Chelonia mydas* (EN:1,500-2,000 individuals) which breeds on the islands, hawksbill *Eretmochelys imbricata* (CR), occasional olive ridley *Lepidochelys olivacea* (VU) and loggerhead *Caretta caretta* (EN: 200-300). The last forms 10-20% of the Pacific population. The 14 species of sea snakes live mostly in the lagoons, particularly the great North and South lagoons.
 
-New Caledonia is an avian hot spot and Endemic Bird Area with 105 species, 23 being found only in New Caledonia (C.I, 2006). According to the IUCN *2008 Red List of Threatened Species,* the land birds under most threat are the endemic New Caledonian owlet-nightjar *Aegotheles savesi* (CR), New Caledonian lorikeet *Charmosyna diadema* (CR), New Caledonian rail *Gallirallus lafresnayanus* (CR), horned parakeet *Eunymphicus cornutus* (VU), crow honeyeater *Gymnomyza aubryana* (CR) and the endemic flightless kagu *Rhynochetos jubatus* (EN) which is in a monotypic family; also the Australian bittern *Botaurus poiciloptilus* (EN). Seabirds occur in great numbers: 50% of the global populations of the wedge-tailed shearwater *Puffinus pacificus*, and black noddy *Anous minutus* are found there and some 10% of the world populations of the great frigatebird *Fregata minor*, lesser frigatebird *F. ariel,* Dougall’s tern *Sterna dougalli* and black-naped tern *S. sumatrana*. Vulnerable sea birds are the Chatham albatross *Thalassarche eremita* (VU), Campbell albatross *T.impavida* (VU), southern royal albatross *Diomedea epomophora* (VU), white-throated storm-petrel *Nesofregetta fuliginosa* (VU),
-
-white-necked petrel *Pterodroma cervicalis* (VU), providence petrel *P. solandri* (VU) and Buller’s shearwater *Puffinus bulleri* (VU). Three endemic New Caledonian subspecies are described in the nomination: collared petrel *Pterodroma leucoptera caledonica*, Tahiti petrel *Pseudobulweria rostrata trouessarti* and fairy tern *Sterna nereis exsul* (VU), and two are considered rarities: the Herald petrel *Pterodroma heraldica* and grey noddy *Procelsterna cerulea*.
+New Caledonia is an avian hot spot and Endemic Bird Area with 105 species, 23 being found only in New Caledonia (C.I, 2006). According to the IUCN *2008 Red List of Threatened Species,* the land birds under most threat are the endemic New Caledonian owlet-nightjar *Aegotheles savesi* (CR), New Caledonian lorikeet *Charmosyna diadema* (CR), New Caledonian rail *Gallirallus lafresnayanus* (CR), horned parakeet *Eunymphicus cornutus* (VU), crow honeyeater *Gymnomyza aubryana* (CR) and the endemic flightless kagu *Rhynochetos jubatus* (EN) which is in a monotypic family; also the Australian bittern *Botaurus poiciloptilus* (EN). Seabirds occur in great numbers: 50% of the global populations of the wedge-tailed shearwater *Puffinus pacificus*, and black noddy *Anous minutus* are found there and some 10% of the world populations of the great frigatebird *Fregata minor*, lesser frigatebird *F. ariel,* Dougall’s tern *Sterna dougalli* and black-naped tern *S. sumatrana*. Vulnerable sea birds are the Chatham albatross *Thalassarche eremita* (VU), Campbell albatross *T.impavida* (VU), southern royal albatross *Diomedea epomophora* (VU), white-throated storm-petrel *Nesofregetta fuliginosa* (VU),white-necked petrel *Pterodroma cervicalis* (VU), providence petrel *P. solandri* (VU) and Buller’s shearwater *Puffinus bulleri* (VU). Three endemic New Caledonian subspecies are described in the nomination: collared petrel *Pterodroma leucoptera caledonica*, Tahiti petrel *Pseudobulweria rostrata trouessarti* and fairy tern *Sterna nereis exsul* (VU), and two are considered rarities: the Herald petrel *Pterodroma heraldica* and grey noddy *Procelsterna cerulea*.
 
 CONSERVATION VALUE
 ------------------
@@ -276,9 +276,7 @@ The main bases for comparison with similar existing World Heritage reef sites ar
 
 (vii) the diverse beauty of the coastal and oceanic landscapes, four with a background of forested mountains and undersea, of the relatively healthy corals.
 
-(viii)  1,600 km of coral reefs covering 800,000 ha in a wide variety of forms, continental and oceanic: fringing, patch, single and double barrier, islets, atolls, raised atolls, sand cays and oceanic banks;
-
-the exceptional Gondwanan geology with mantle rocks and utramafic soils (in the buffer zones);
+(viii)  1,600 km of coral reefs covering 800,000 ha in a wide variety of forms, continental and oceanic: fringing, patch, single and double barrier, islets, atolls, raised atolls, sand cays and oceanic banks; the exceptional Gondwanan geology with mantle rocks and utramafic soils (in the buffer zones);
 
 \(ix) the wide range of latitudinal, altitudinal, climatic and demersal gradients within a single complex, resulting in a continuum of many ecosystems, habitats and species;
 
@@ -336,7 +334,7 @@ Government of New Caledonia. (2006). *Les Lagons de Nouvelle-Calédonie. Diversi
 
 Conservation International (2007). *Biodiversity Hotspots: New Caledonia.*
 
-http://www.biodiversityscience.org/xp/Hotspots/new\_caledonia/biodiversity.xml
+<http://www.biodiversityscience.org/xp/Hotspots/new_caledonia/biodiversity.xml>
 
 IUCN (2008). *The Red List of Threatened Species.* IUCN, Cambridge, U.K.
 

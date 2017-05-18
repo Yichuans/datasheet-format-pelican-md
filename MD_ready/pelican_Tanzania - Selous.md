@@ -2,7 +2,7 @@ Title: SELOUS GAME RESERVE
 Tags: TANZANIA
 Author: UNEP-WCMC
 Year: 1982
-Date: 2017-04-12 15:28:08
+Date: 2017-05-18 14:05:02
 
 SELOUS GAME RESERVE
 ===================
@@ -200,9 +200,7 @@ Anon. (2006). *Selous Trust, Tanzania*. Save the Rhino International.
 
 Baldus, R., Hahn, R., Mpanduji, D., Siege L.*et al.* (2003). *The Selous-Niassa Wildlife Corridor.* Tanzania Wildlife Discussion Paper No.34. GTZ Wildlife Programme in Tanzania, Dar es-Salaam.
 
-Baldus, R. & Kaggi, D. (1989). *Village Participation in Wildlife Management. Introducing Communal Wildlife Management in the Mgeta River Buffer Zone North of the Selous Game Reserve.* Selous Conservation Programme Discussion Paper No.4. Selous Game Reserve, Wildlife Division & GTZ
-
-32 pp.
+Baldus, R. & Kaggi, D. (1989). *Village Participation in Wildlife Management. Introducing Communal Wildlife Management in the Mgeta River Buffer Zone North of the Selous Game Reserve.* Selous Conservation Programme Discussion Paper No.4. Selous Game Reserve, Wildlife Division & GTZ 32 pp.
 
 Baldus, R., Krischke, H., Lyamuya, V., Ndunguru, I. (1994) *People and Wildlife Experiences from Tanzania*. SCP Discussion Paper No.16. Selous Game Reserve Wildlife Division / GTZ. 27 pp.
 

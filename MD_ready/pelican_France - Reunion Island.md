@@ -2,7 +2,7 @@ Title: PITONS, CIRQUES AND REMPARTS OF RÉUNION ISLAND
 Tags: FRANCE
 Author: UNEP-WCMC
 Year: 2010
-Date: 2017-04-12 15:28:00
+Date: 2017-05-18 14:04:53
 
 PITONS, CIRQUES AND REMPARTS OF RÉUNION ISLAND
 ==============================================
@@ -59,11 +59,24 @@ IUCN MANAGEMENT CATEGORY
 
 Unassigned. The National Park includes areas individually categorised as follows:
 
-Cilaos Integral State Biological Reserve: Ia Strict Nature Reserve
-
-Bras Bemale-Bras des Merles State Biological Reserve: Ib Wilderness Area
-
-Several sites classified: IV Habitat/Species Management Area
+<table>
+<thead>
+<tr class="header">
+<th align="left">Cilaos Integral State Biological Reserve:</th>
+<th align="left">Ia Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Bras Bemale-Bras des Merles State Biological Reserve:</td>
+<td align="left">Ib Wilderness Area</td>
+</tr>
+<tr class="even">
+<td align="left">Several sites classified:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -192,9 +205,7 @@ Réunion is the largest, least ecologically disturbed and most scenic of the Mas
 STAFF
 -----
 
-A staff of 99 is proposed with 28 senior administrators, 32 assistant staff and 39 technical staff, in four divisions: Administration (15), Education & Communication (8), Science (6) and Maintenance (6) and in
-
-four geographic sectors south (10), east (16), north (17) and west (15).
+A staff of 99 is proposed with 28 senior administrators, 32 assistant staff and 39 technical staff, in four divisions: Administration (15), Education & Communication (8), Science (6) and Maintenance (6) and in four geographic sectors south (10), east (16), north (17) and west (15).
 
 BUDGET
 ------
@@ -247,9 +258,7 @@ Fishpool, L. & Evans, M. (eds) (2001). *The Important Bird Areas of Africa and A
 
 Fretzdorff, S.,*et al.* (2000). Explosive activity of the Reunion Island volcanoes through the past 260,000 years as recorded in deep-sea sediments. *Bulletin of Volcanology,* 62: 266-277.
 
-Hilton-Taylor, C. (compiler) (2007). *IUCN Red List. of Threatened Species.* IUCN, Gland, Switzerland.
-
-& Cambridge, United Kingdom.
+Hilton-Taylor, C. (compiler) (2007). *IUCN Red List. of Threatened Species.* IUCN, Gland, Switzerland. & Cambridge, United Kingdom.
 
 Lénat, J.-F., Gibert-Malengreau, B. & Galdeano, A. (2001). A new model for the evolution of the volcanic island of Reunion (Indian Ocean). *Journal of Geophysical Research*, 106 (B5) pp. 8645-8663.
 

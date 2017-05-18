@@ -1,12 +1,11 @@
-Title: Primeval Beech Forests of the Carpathians and the Ancient Beech Forests of Germany
-Tags: Slovakia, Ukraine,Germany
+Title: PRIMEVAL BEECH FORESTS OF THE CARPATHIANS AND THE ANCIENT BEECH FORESTS OF GERMANY
+Tags: SLOVAKIA, UKRAINE,GERMANY
 Author: UNEP-WCMC
 Year: 2007
-Date: 2017-04-12 15:28:07
+Date: 2017-05-18 14:05:00
 
-PRIMEVAL BEECH FORESTS OF THE CARPATHIANS\
-AND THE ANCIENT BEECH FORESTS OF GERMANY
-==========================================
+PRIMEVAL BEECH FORESTS OF THE CARPATHIANS AND THE ANCIENT BEECH FORESTS OF GERMANY
+==================================================================================
 
 SLOVAKIA, UKRAINE & GERMANY
 ===========================
@@ -61,23 +60,53 @@ IUCN MANAGEMENT CATEGORIES
 
 **Slovakia/Ukraine:**
 
-Karpatskiy Biosphere Reserve Ia Strict Nature Reserve
-
-Poloniny National Park II National Park
-
-Stuzhytsia–Uzhok Nat. Nature Reserve V Habitat/Species Management Area
+<table>
+<thead>
+<tr class="header">
+<th align="left">Karpatskiy Biosphere Reserve</th>
+<th align="left">Ia Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Poloniny National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Stuzhytsia–Uzhok Nat. Nature Reserve</td>
+<td align="left">V Habitat/Species Management Area</td>
+</tr>
+</tbody>
+</table>
 
 **Germany:**
 
-Hainich National Park II National Park
-
-Kellerwald-Edersee National Park II National Park
-
-Grumsin in Schorfheide-Chorin Biosphere Res. unset
-
-Jasmund National Park II National Park; V Habitat/Species Management Area
-
-Serrahn in Müritz National Park II National Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Hainich National Park</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Kellerwald-Edersee National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Grumsin in Schorfheide-Chorin Biosphere Res.</td>
+<td align="left">unset</td>
+</tr>
+<tr class="odd">
+<td align="left">Jasmund National Park</td>
+<td align="left">II National Park; V Habitat/Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Serrahn in Müritz National Park</td>
+<td align="left">II National Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCES
 -------------------------

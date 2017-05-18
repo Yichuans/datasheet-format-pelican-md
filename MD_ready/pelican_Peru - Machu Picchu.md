@@ -2,7 +2,7 @@ Title: HISTORIC SANCTUARY OF MACHU PICCHU
 Tags: PERU
 Author: UNEP-WCMC
 Year: 1983
-Date: 2017-04-12 15:28:05
+Date: 2017-05-18 14:04:58
 
 HISTORIC SANCTUARY OF MACHU PICCHU
 ==================================
@@ -97,18 +97,20 @@ VEGETATION
 The site is on the margin between the Andean and Amazonian ecosystems, possessing elements of both. Because of the altitudinal range, irregular terrain and long alteration by man, it possesses a great diversity of habitats within a short distance: riverine vegetation, humid and very humid low montane subtropical forests, humid evergreen and quasi-cloud forests, cultivated fields, terraces which have reverted to grass and secondary scrub or woodland, with above the ruins, bamboo*, Polylepis* thickets and *paramo* grasslands. Its montane forests, though partially degraded, contain one of the richest and most threatened of all floras. Shoobridge *et al*. (2004), following Holdridge, give the following nine life zones:
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Life Zone</strong></th>
+<th align="left"><strong>Elevation</strong></th>
+<th align="left"><strong>Average Precip.</strong></th>
+<th align="left"><p><strong>Temp</strong></p>
+<p><strong><sup>o</sup>C</strong></p></th>
+<th align="left"><p><strong>% of</strong></p>
+<p><strong>Area</strong></p></th>
+<th align="left"><strong>Terrain</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Life Zone</strong></td>
-<td align="left"><strong>Elevation</strong></td>
-<td align="left"><strong>Average Precip.</strong></td>
-<td align="left"><p><strong>Temp</strong></p>
-<p><strong><sup>o</sup>C</strong></p></td>
-<td align="left"><p><strong>% of</strong></p>
-<p><strong>Area</strong></p></td>
-<td align="left"><strong>Terrain</strong></td>
-</tr>
-<tr class="even">
 <td align="left">Subtropical humid forest</td>
 <td align="left">1,850-3,000m</td>
 <td align="left">1,950 mm</td>
@@ -116,7 +118,7 @@ The site is on the margin between the Andean and Amazonian ecosystems, possessin
 <td align="left">0.51%</td>
 <td align="left">flat to hilly</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Subtropical humid low montane forest</td>
 <td align="left">2,400-3,000m</td>
 <td align="left">1,100 mm</td>
@@ -124,7 +126,7 @@ The site is on the margin between the Andean and Amazonian ecosystems, possessin
 <td align="left">3.67%</td>
 <td align="left">flat to hilly / steep</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Subtropical very humid low montane forest</td>
 <td align="left">2,000-3,000m</td>
 <td align="left">1,950 mm</td>
@@ -132,7 +134,7 @@ The site is on the margin between the Andean and Amazonian ecosystems, possessin
 <td align="left">14.12%</td>
 <td align="left">flat to hilly / steep</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Subtropical montane rainforest</td>
 <td align="left">3.000-3,800m</td>
 <td align="left">1,900 mm</td>
@@ -141,7 +143,7 @@ The site is on the margin between the Andean and Amazonian ecosystems, possessin
 <td align="left"><p>sloping to</p>
 <p>steep</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Subtropical very humid montane rainforest</td>
 <td align="left">3.000-3,800m</td>
 <td align="left">1,500 mm</td>
@@ -150,7 +152,7 @@ The site is on the margin between the Andean and Amazonian ecosystems, possessin
 <td align="left"><p>sloping to</p>
 <p>steep</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Very humid subtropical subalpine paramo</td>
 <td align="left">3,800-4,400m</td>
 <td align="left">1,000 mm</td>
@@ -158,7 +160,7 @@ The site is on the margin between the Andean and Amazonian ecosystems, possessin
 <td align="left">12.43%</td>
 <td align="left">hilly to steep</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Subtropical pluvial subalpine paramo</td>
 <td align="left">4.000-4,400m</td>
 <td align="left">1,500 mm</td>
@@ -166,7 +168,7 @@ The site is on the margin between the Andean and Amazonian ecosystems, possessin
 <td align="left">13.73%</td>
 <td align="left">hilly to steep</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Subtropical pluvial alpine tundra</td>
 <td align="left">4,400-4,900m</td>
 <td align="left">1,000 mm</td>
@@ -174,7 +176,7 @@ The site is on the margin between the Andean and Amazonian ecosystems, possessin
 <td align="left">13.71%</td>
 <td align="left">hilly to steep</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Subtropical snow-capped peaks</td>
 <td align="left">&gt;4,600m</td>
 <td align="left">900 mm</td>

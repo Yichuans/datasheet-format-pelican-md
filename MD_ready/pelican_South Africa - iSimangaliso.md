@@ -1,12 +1,14 @@
-Title: iSimangaliso Wetland Park
-Tags: South Africa
+Title: iSIMANGALISO WETLAND PARK
+Tags: SOUTH AFRICA
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-12 15:28:07
+Date: 2017-05-18 14:05:00
 
-**iSIMANGALISO WETLAND PARK**
+iSIMANGALISO WETLAND PARK
+=========================
 
-**SOUTH AFRICA**
+SOUTH AFRICA
+============
 
 *The Park is one of the outstanding natural wetland and coastal sites of Africa. It lies on a tropical-subtropical interface with a wide range of pristine terrestrial, wetland, estuarine, coastal and marine environments, which are scenically beautiful and basically unmodified by people. They include coral reefs, long sandy beaches, coastal dunes, lake systems, swamps, and extensive reed and papyrus wetlands. These provide critical habitat for a wide range of species from Africa's seas, wetlands and savannahs. The interaction of these environments with major floods and coastal storm in the Park’s transitional location has resulted in continuing speciation and exceptional species diversity. Its vivid natural spectacles include nesting turtles and large aggregations of flamingos and crocodiles.*
 
@@ -69,7 +71,7 @@ Turtle beaches/Coral reefs of Tongaland 39,500ha
 
 1991: Kosi Bay 10,982ha
 
-> Lake Sibaya 7,750ha
+Lake Sibaya 7,750ha
 
 IUCN MANAGEMENT CATEGORY
 ------------------------

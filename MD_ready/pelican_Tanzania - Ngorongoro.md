@@ -2,7 +2,7 @@ Title: NGORONGORO CONSERVATION AREA
 Tags: TANZANIA
 Author: UNEP-WCMC
 Year: 1979
-Date: 2017-04-12 15:28:08
+Date: 2017-05-18 14:05:02
 
 NGORONGORO CONSERVATION AREA
 ============================
@@ -87,9 +87,7 @@ Considering the important relationship, in natural terms of the property to adjo
 INTERNATIONAL DESIGNATION
 -------------------------
 
-1979: Ngorongoro designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme
-
-(828,800 ha);
+1979: Ngorongoro designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme (828,800 ha);
 
 1981: Serengeti-Ngorongoro designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme (2,305,100 ha; 828,800 ha in the Ngorongoro Conservation Area).
 
@@ -253,9 +251,7 @@ Dirschl, H. (1966). *Management and Development Plan for Ngorongoro.* Ministry o
 
 Eggeling, W. (1962). *The Management Plan for the Ngorongoro Conservation Area Authority*, Ngorongoro Conservation Area Authority. Ngorongoro Crater.
 
-Estes, R. & Small, R. (1981). The large herbivore populations of Ngorongoro Crater. *Afr. J. Ecol*. 19
-
-(1-2): 175-185.
+Estes, R. & Small, R. (1981). The large herbivore populations of Ngorongoro Crater. *Afr. J. Ecol*. 19 (1-2): 175-185.
 
 Fishpool, L. & Evans, M.(eds) (2001). *Important Bird Areas for Africa and Associated Islands. Priority Sites for Conservation.* Pisces Publications and Birdlife International, Newbury and Cambridge, U.K. BLI Conservation Series No.11.
 

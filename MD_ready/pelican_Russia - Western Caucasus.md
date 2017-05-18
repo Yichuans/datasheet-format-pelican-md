@@ -2,7 +2,7 @@ Title: WESTERN CAUCASUS
 Tags: RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-12 15:28:06
+Date: 2017-05-18 14:05:00
 
 WESTERN CAUCASUS 
 =================
@@ -46,17 +46,32 @@ INTERNATIONAL DESIGNATION
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Kavkazskiy State Biosphere Reserve: Ia State Nature Reserve
-
-Bolshoy Thach Nature Park: IV Nature Park
-
-Buiniy Ridge Nature Monument: IV Nature Monument
-
-River Tsitsa Headwaters Nature Monument: IV Nature Monument
-
-Headwaters of Rivers Pshekha &
-
-Pshekhashcha Nature Monument: IV Nature Monument
+<table>
+<thead>
+<tr class="header">
+<th align="left">Kavkazskiy State Biosphere Reserve:</th>
+<th align="left">Ia State Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Bolshoy Thach Nature Park:</td>
+<td align="left">IV Nature Park</td>
+</tr>
+<tr class="even">
+<td align="left">Buiniy Ridge Nature Monument:</td>
+<td align="left">IV Nature Monument</td>
+</tr>
+<tr class="odd">
+<td align="left">River Tsitsa Headwaters Nature Monument:</td>
+<td align="left">IV Nature Monument</td>
+</tr>
+<tr class="even">
+<td align="left">Headwaters of Rivers Pshekha &amp; Pshekhashcha Nature Monument:</td>
+<td align="left">IV Nature Monument</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -101,17 +116,36 @@ AREA
 
 301,068 ha (RFNPA Nomination, 1998\*). The site includes the following:
 
-Kavkazskiy State Biosphere Reserve: 282,199ha
-
-Kavkazskiy Reserve buffer zone: 6,000ha
-
-Headwaters of Rivers Pshecha and Pshechashcha Nature Monument: 5,776ha
-
-The Bolshoy Thach Nature Park: 3,700ha
-
-The River Tsitsa Headwaters Nature Monument: 1,913ha
-
-The Buiniy Ridge Nature Monument: 1,480ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Kavkazskiy State Biosphere Reserve:</th>
+<th align="left">282,199ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Kavkazskiy Reserve buffer zone:</td>
+<td align="left">6,000ha</td>
+</tr>
+<tr class="even">
+<td align="left">Headwaters of Rivers Pshecha and Pshechashcha Nature Monument:</td>
+<td align="left">5,776ha</td>
+</tr>
+<tr class="odd">
+<td align="left">The Bolshoy Thach Nature Park:</td>
+<td align="left">3,700ha</td>
+</tr>
+<tr class="even">
+<td align="left">The River Tsitsa Headwaters Nature Monument:</td>
+<td align="left">1,913ha</td>
+</tr>
+<tr class="odd">
+<td align="left">The Buiniy Ridge Nature Monument:</td>
+<td align="left">1,480ha</td>
+</tr>
+</tbody>
+</table>
 
 \* (UNESCO gives 298,903ha. Different figures are quoted by other sources)
 
@@ -237,9 +271,7 @@ Rao, K. & Lethier, H. (2008). *Mission Report. Reactive Monitoring Mission to th
 
 Rudomakha, A. (2005). The world natural heritage site "West Caucasus" in Russia is in danger *SEU Times.* The Newsletter of the Socio-Ecological Union, Moscow, Jan.17.
 
-Rudomakha, A. *et al.* (2010). Western Caucasus Property in Danger. *Environmental Watch on North*
-
-*Caucasus,* July.
+Rudomakha, A. *et al.* (2010). Western Caucasus Property in Danger. *Environmental Watch on North Caucasus,* July.
 
 Russian Federation National Park Administration (RFNPA) (1998). *Nomination of the Western Caucasus Natural Site for Inclusion in the World Heritage List*. 41 pp., annexes, maps.
 

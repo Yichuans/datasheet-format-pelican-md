@@ -2,7 +2,7 @@ Title: CENTRAL AMAZON CONSERVATION COMPLEX
 Tags: BRAZIL
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-12 15:27:56
+Date: 2017-05-18 14:04:48
 
 CENTRAL AMAZON CONSERVATION COMPLEX
 ===================================
@@ -56,13 +56,28 @@ INTERNATIONAL DESIGNATION
 IUCN MANAGEMENT CATEGORIES
 ------------------------------
 
-Jaú National Park: II National Park
-
-Mamirauá Sustainable Development Reserve: VI Managed Resource Protected Area
-
-Amanã Sustainable Development Reserve: V Protected Landscape
-
-Anavilhanas Ecological Station: Ia Strict Nature Reserve
+<table>
+<thead>
+<tr class="header">
+<th align="left">Jaú National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Mamirauá Sustainable Development Reserve:</td>
+<td align="left">VI Managed Resource Protected Area</td>
+</tr>
+<tr class="even">
+<td align="left">Amanã Sustainable Development Reserve:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="odd">
+<td align="left">Anavilhanas Ecological Station:</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -129,13 +144,28 @@ Total area: 5,323,018 ha (UNESCO, 2011) with a proposed 20 km buffer strip aroun
 
 The areas given in the nomination documents total 5,232,086 ha:
 
-Amanã Sustainable Development Reserve: 2,350,000 ha
-
-Jau National Park: 2,272,000 ha
-
-Anavilhanas Ecological Station: 350,086 ha
-
-Mamirauá State Ecological Station: 260,000 ha (Focal or Demonstration zone only)
+<table>
+<thead>
+<tr class="header">
+<th align="left">Amanã Sustainable Development Reserve:</th>
+<th align="left">2,350,000 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Jau National Park:</td>
+<td align="left">2,272,000 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Anavilhanas Ecological Station:</td>
+<td align="left">350,086 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Mamirauá State Ecological Station:</td>
+<td align="left">260,000 ha (Focal or Demonstration zone only)</td>
+</tr>
+</tbody>
+</table>
 
 Mamirauá Sustainable Development Reserve beyond the focal zone (864,000 ha) is not included within the World Heritage site. The total Complex area cited by WDPA (6,096,000 ha) includes this.
 

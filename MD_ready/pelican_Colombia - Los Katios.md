@@ -2,7 +2,7 @@ Title: LOS KATIOS NATIONAL PARK
 Tags: COLOMBIA
 Author: UNEP-WCMC
 Year: 1994
-Date: 2017-04-12 15:27:58
+Date: 2017-05-18 14:04:51
 
 LOS KATIOS NATIONAL PARK
 ========================
@@ -156,9 +156,7 @@ REFERENCES
 
 The principal source for the above information was the original nomination for World Heritage status.
 
-Anon. (1999). *Road to Ruin Report: Darién Gap, Panama*.
-
-[www.taxpayer.net/TCS?Road](http://www.taxpayer.net/TCS?Road) *Ruin/darien.htm.*
+Anon. (1999). *Road to Ruin Report: Darién Gap, Panama*. [www.taxpayer.net/TCS?Road](http://www.taxpayer.net/TCS?Road)*Ruin/darien.htm.*
 
 Anon. (2002). Colombia: Logging and violence against Afro-Colombian communities in the Chocó. *World Rainforest Movement Bulletin.* 54.
 

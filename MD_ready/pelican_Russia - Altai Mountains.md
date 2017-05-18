@@ -2,7 +2,7 @@ Title: GOLDEN MOUNTAINS OF ALTAI
 Tags: RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 1998
-Date: 2017-04-12 15:28:06
+Date: 2017-05-18 14:04:59
 
 GOLDEN MOUNTAINS OF ALTAI 
 ==========================
@@ -46,11 +46,32 @@ INTERNATIONAL DESIGNATION
 IUCN MANAGEMENT CATEGORY 
 -------------------------
 
-Altaiskiy Nature Reserve Ia Strict Nature Reserve\
-Katunskiy Nature Reserve Ia Strict Nature Reserve\
-Lake Teletskoe Reserve III Natural Monument\
-Mount Belukha Reserve III Natural Monument\
-Ukok Quiet Zone Nature Reserve IV Habitat / Species Management Area
+<table>
+<thead>
+<tr class="header">
+<th align="left">Altaiskiy Nature Reserve</th>
+<th align="left">Ia Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Katunskiy Nature Reserve</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Lake Teletskoe Reserve</td>
+<td align="left">III Natural Monument</td>
+</tr>
+<tr class="odd">
+<td align="left">Mount Belukha Reserve</td>
+<td align="left">III Natural Monument</td>
+</tr>
+<tr class="even">
+<td align="left">Ukok Quiet Zone Nature Reserve</td>
+<td align="left">IV Habitat / Species Management Area</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -126,7 +147,7 @@ FAUNA
 
 The reserves have a typical Siberian forest fauna with 72 mammals (70 in Altaiskiy Reserve, 51 in Kutanskiy Reserve), 323 birds and 11 reptiles and amphibians. About 20 species of fish are recorded; *Cisco teletsky* and *C. pravdin* are endemic to Lake Teletskoye. 5,000 invertebrate species have been noted for Altaisky alone. Typical mountain steppe mammals include Siberian zokor or molerat [*Myospalax myospalax*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Myospalax&SpcName=myospalax) and Siberian chipmunk *Tamias sibiricus*, Eurasian otter *Lutra lutra* and Mongolian gazelle [*Procapra guttorosa*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Procapra&SpcName=guttorosa). The forests have sable [*Martez zibellina*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Martez&SpcName=zibellina), wolf *Canis lupus*, wolverine *Gulo gulo* and Altai maral or red deer [*Cervus elaphus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Cervus&SpcName=elaphus) *sibiricus*. The higher mountainous areas have the rare snow leopard [*Panthera uncia*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Uncia&SpcName=uncia) (EN), manul cat [*Felis manul*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Felis&SpcName=manul), Altai pika [*Ochotona alpina*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Ochotona&SpcName=alpina), arctic ground squirrel [*Spermophilus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Citellus&SpcName=undulatus) *parryi,* reindeer [*Rangifer tarandus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Rangifer&SpcName=tarandus) and Altai argali [*Ovis ammon*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Ovis&SpcName=ammon) *ammon.* Kutanskiy Reserve has wolf *Canis lupus*, wolverine *Gulo gulo*, lynx *Lynx lynx*, elk *Alces alces*, roe deer *Capreolus capreolus*, musk deer *Moschus moschiferus* and occasionally the rare Siberian ibex *Capra sibirica*.
 
-Of the 323 birds 180 of 300 species breed in the Altaiskiy Reserve and 80 of 140 species in Kutanskiy Reserve. 13 birds are listed in the Red Databook of the Russian Federation. Among them are great cormorant *Phalacrocorax carbo,* black stork *Ciconia negra,* Eurasian black vulture *Aegypius monachus,* golden eagle *Aquila chrysaetus*, eastern imperial eagle [*Aquila heliaca*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Aquila&SpcName=heliaca) (VU), white-tailed eagle *Haliaeetus albicilla*, peregrine [*Falco peregrinus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Falco&SpcName=peregrinus), saker falcon *F.cherrug* (VU), Altai snowcock *Tetraogallus altaicus* and black-winged stilt [*Himantopus himantopus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Himantopus&SpcName=himantopus). Other notable birds are the Altai falcon, *F. altaicus,* grey crane *Grus grus* and demoiselle crane *Grus virgo.*
+Of the 323 birds 180 of 300 species breed in the Altaiskiy Reserve and 80 of 140 species in Kutanskiy Reserve. 13 birds are listed in the Red Databook of the Russian Federation. Among them are great cormorant *Phalacrocorax carbo,* black stork *Ciconia negra,* Eurasian black vulture *Aegypius monachus,* golden eagle [*Aquila chrysaetus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Aquila&SpcName=chrysaetus), eastern imperial eagle [*Aquila heliaca*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Aquila&SpcName=heliaca) (VU), white-tailed eagle *Haliaeetus albicilla*, peregrine [*Falco peregrinus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Falco&SpcName=peregrinus), saker falcon *F.cherrug* (VU), Altai snowcock *Tetraogallus altaicus* and black-winged stilt [*Himantopus himantopus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Himantopus&SpcName=himantopus). Other notable birds are the Altai falcon, *F. altaicus,* grey crane *Grus grus* and demoiselle crane *Grus virgo.*
 
 CONSERVATION VALUE
 ------------------
@@ -225,9 +246,7 @@ Okishev, P., Adamenko, M. & Narozhniy, Y. (2000). The dynamics of glaciers and c
 
 Pavlov, D.,Sokolov, V. & Syryoechkovsky (eds) (2000). *Zapovedniks of Russia*. Logata, Moscow.
 
-Polosmak, N. (1998). Mummy unearthed from the pastures of heaven. *National Geographic* 186 (2):
-
-80-103.
+Polosmak, N. (1998). Mummy unearthed from the pastures of heaven. *National Geographic* 186 (2):80-103.
 
 Rao, K. & Bruggeman, J. (2007). *Report on the Mission to Golden Mountains World Heritage Site Russian Federation.* UNESCO/WHC & IUCN, Paris & Gland, Switzerland.
 

@@ -2,7 +2,7 @@ Title: SARYARKA - STEPPE AND LAKES OF NORTHERN KAZAKHSTAN
 Tags: KAZAKHSTAN
 Author: UNEP-WCMC
 Year: 2008
-Date: 2017-04-12 15:28:02
+Date: 2017-05-18 14:04:55
 
 SARYARKA - STEPPE AND LAKES OF NORTHERN KAZAKHSTAN
 ==================================================
@@ -51,9 +51,20 @@ The property has effective legal protection, is currently well managed and benef
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Naurzum State Nature Reserve: Ia Strict Nature Reserve
-
-Korgalzhyn State Nature Reserve: Ia Strict Nature Reserve
+<table>
+<thead>
+<tr class="header">
+<th align="left">Naurzum State Nature Reserve:</th>
+<th align="left">Ia Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Korgalzhyn State Nature Reserve:</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+</tbody>
+</table>
 
 INTERNATIONAL DESIGNATION
 -------------------------
@@ -123,21 +134,66 @@ State Government. Naurzum is in Kustanay province; Korgalzhyn is in Akmola and K
 AREAS
 -----
 
-> **Core areas Buffer zones:**
-
-**Naurzum**: 308,106.7 ha: Core: 191,381 ha Buffer: 116,725.7 ha
-
-- Naursum-Karagay: Core: 139,714 ha Buffer: 36,287.7 ha
-
-- Sypsyn-Aebu: Core: 38,720 ha Buffer: 11,624 ha
-
-- Tersek-Karagay: Core: 12,947 ha Buffer: 37,655 ha
-
-- Corridor: Buffer: 31,159 ha
-
-**Korgalzhyn:** 353,368 ha: Core: 258,947 ha Buffer: 94,421 ha.
-
-**Total area: 661,474.7 ha: 450,328 ha\* 211,146.7 ha**
+<table>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"><strong>Core areas</strong></th>
+<th align="left"><strong>Buffer zones:</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>Naurzum</strong>:</td>
+<td align="left">308,106.7 ha:</td>
+<td align="left">Core: 191,381 ha</td>
+<td align="left">Buffer: 116,725.7 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Naursum-Karagay:</td>
+<td align="left"></td>
+<td align="left">Core: 139,714 ha</td>
+<td align="left">Buffer: 36,287.7 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Sypsyn-Aebu:</td>
+<td align="left"></td>
+<td align="left">Core: 38,720 ha</td>
+<td align="left">Buffer: 11,624 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Tersek-Karagay:</td>
+<td align="left"></td>
+<td align="left">Core: 12,947 ha</td>
+<td align="left">Buffer: 37,655 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Corridor:</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">Buffer: 31,159 ha</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Korgalzhyn:</strong></td>
+<td align="left">353,368 ha:</td>
+<td align="left">Core: 258,947 ha</td>
+<td align="left">Buffer: 94,421 ha.</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Total area:</strong></td>
+<td align="left"><strong>661,474.7 ha:</strong></td>
+<td align="left"><strong>450,328 ha*</strong></td>
+<td align="left"><strong>211,146.7 ha</strong></td>
+</tr>
+</tbody>
+</table>
 
 \*450,344 ha (UNESCO, 2009)
 
@@ -240,11 +296,15 @@ COMPARISON WITH SIMILAR SITES
 
 The main bases for comparison with similar existing World Heritage sites are:
 
-ix\) ۰The dynamic seasonal and long-term cycles of flood and drying with consequent richness of marsh and aquatic habitats in good condition make the Tengiz-Korgalzhyn wetlands a key example of these processes;
+ix)
+
+۰The dynamic seasonal and long-term cycles of flood and drying with consequent richness of marsh and aquatic habitats in good condition make the Tengiz-Korgalzhyn wetlands a key example of these processes;
 
 ۰The undisturbed steppe is the opposite: an unchanging ecosystem, also in good condition; little noted in the World Heritage system, much of which has been converted into farmland because of its fertility;
 
-x\) ۰The vast numbers of migrating waterfowl, including endangered and endemic species, attracted to the lakes, plus the uncommon saiga antelope give the area notable biological importance.
+x)
+
+۰The vast numbers of migrating waterfowl, including endangered and endemic species, attracted to the lakes, plus the uncommon saiga antelope give the area notable biological importance.
 
 The nomination of undisturbed natural steppe land and lakes together is a combination unmatched by any World Heritage site except for Uvs Nuur in Mongolia and Tuva. There are 22 protected wetlands in the Eurasian steppe between Moldova and north China, which the nomination discusses, and which include the Volga and Ural deltas on the Caspian coast; but grasslands which are not savanna sites are little featured on the World Heritage List. Hortobágy in Hungary is a large steppe for Europe but is designated for being man-made not natural. Grassy wetland World Heritage sites attracting large numbers of migratory waterbirds are commoner. The Danube delta is Europe’s largest marshland and attracts vast numbers of birds, but is not steppe, and is being developed. Doñana is a similar, smaller, coastal marsh but is Mediterranean. Waterton Lakes and Wood Buffalo Parks in Canada both have temperate grassland and bird-attracting wetlands, but are otherwise too different to be closely comparable. Lake Turkana and the Rift Valley lakes, a possible future nomination, may be compared for birds but are equatorial desert or savanna. All except Uvs Nuur and Doñana attract fewer waterfowl than the Kazakh sites. Uvs Nuur itself is a saline but non-dynamic lake and a quarter of its surroundings are similar (Mongolian-Manchurian) semi-desert steppe and wetland, although other sites in the series are much more varied.
 

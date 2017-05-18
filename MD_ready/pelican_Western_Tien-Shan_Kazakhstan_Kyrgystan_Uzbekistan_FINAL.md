@@ -2,7 +2,7 @@ Title: Western Tien-Shan
 Tags: Kazakhstan; Kyrgyzstan; Uzbekistan
 Author: UNEP-WCMC
 Year: 2016
-Date: 2017-04-12 15:28:10
+Date: 2017-05-18 14:05:04
 
 Western Tien-Shan
 =================
@@ -62,11 +62,24 @@ INTERNATIONAL DESIGNATIONS
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Ia Strict Nature Reserve: Aksu-Jabagly State Nature Reserve
-
-Ia Strict Nature Reserve: Besh-Aral State Nature Reserve
-
-II National Park: Sairam-Ugam National Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Ia Strict Nature Reserve</th>
+<th align="left">Aksu-Jabagly State Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Ia Strict Nature Reserve</td>
+<td align="left">Besh-Aral State Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">II National Park</td>
+<td align="left">Sairam-Ugam National Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -297,8 +310,7 @@ Karatau has 20 mammal, 118 bird, 9 reptile, 2 fish and 182 invertebrate species.
 
 Aksu-Jabagly and Sairam-Ugam combined have 54 mammal, 240 bird, 11 reptile, 2 amphibian and 2 fish species. There is an estimated 5,000 invertebrate species for both sites combined, though this figure stems from an estimate of 2,500 for Aksu-Jabagly and an unknown amount from Sairam-Ugam. Threatened species within the component areas include great bustard (*Otis tarda*: VU), pale-backed pigeon (*Columba eversmanni*: VU) and Menzbier’s marmot (*Marmota menzbieri*: VU).
 
-*Kyrgyzstan:\
-*Sary-Chelek has 43 mammal, 157 bird, 7 reptile, 2 amphibian 4 fish and 2,000 insect species. The area’s avifauna represents around 50% of Kyrgyzstan’s avifauna, and the property resides close to a well-known local bird migratory route. The property contains the snow leopard (*Panthera uncia*: EN), pallas’s cat (*Otocolobus manul*: NT), as well as the less threatened but equally charismatic brown bear (*Urcus arctos isabellinus*) and Turkestan Lynx (*Lynx isabellinus*).
+*Kyrgyzstan:* Sary-Chelek has 43 mammal, 157 bird, 7 reptile, 2 amphibian 4 fish and 2,000 insect species. The area’s avifauna represents around 50% of Kyrgyzstan’s avifauna, and the property resides close to a well-known local bird migratory route. The property contains the snow leopard (*Panthera uncia*: EN), pallas’s cat (*Otocolobus manul*: NT), as well as the less threatened but equally charismatic brown bear (*Urcus arctos isabellinus*) and Turkestan Lynx (*Lynx isabellinus*).
 
 Padysha-Ata is not as well studied as the other component parts of the property, but is thought to have 31 mammal and 51 bird species, and its faunal composition is thought to resemble that of Sary-Chelek Biosphere Reserve.
 

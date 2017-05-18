@@ -2,7 +2,7 @@ Title: THE DOLOMITES
 Tags: ITALY
 Author: UNEP-WCMC
 Year: 2009
-Date: 2017-04-12 15:28:01
+Date: 2017-05-18 14:04:55
 
 THE DOLOMITES
 =============
@@ -60,31 +60,64 @@ IUCN MANAGEMENT CATEGORY
 
 These protected areas are included within or overlap the nominated sites:
 
-Parco Nationale Dolomiti Bellunesi: II National Park
-
-Parco Naturale Provinciale Adamello Brenta: V Protected Landscape
-
-Parco Naturale Regionale Dolomiti d’Ampezzo: V Protected Landscape
-
-Parco Naturale Regionale Dolomiti Friulane: V Protected Landscape
-
-Parco Naturale Dolomiti di Sesto: V Protected Landscape
-
-Parco Naturale Fanes-Serres-Braies: V Protected Landscape
-
-Parco Naturale Prov. Panareggio & Pale di San Martino: V Protected Landscape
-
-Parco Naturale Püez Odle: V Protected Landscape
-
-Parco Naturale dello Sciliar: V Protected Landscape
-
-Riserva Nationale Vette Feltrine: IV Habitat/Species Management Area
-
-Riserva Nationale Monte Pavione: IV Habitat/Species Management Area
-
-Riserva Naturale Somadida: IV Habitat/Species Management Area
-
-Riserva Naturale Monte Pelmo: Unassigned
+<table>
+<thead>
+<tr class="header">
+<th align="left">Parco Nationale Dolomiti Bellunesi:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Parco Naturale Provinciale Adamello Brenta:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="even">
+<td align="left">Parco Naturale Regionale Dolomiti d’Ampezzo:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="odd">
+<td align="left">Parco Naturale Regionale Dolomiti Friulane:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="even">
+<td align="left">Parco Naturale Dolomiti di Sesto:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="odd">
+<td align="left">Parco Naturale Fanes-Serres-Braies:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="even">
+<td align="left">Parco Naturale Prov. Panareggio &amp; Pale di San Martino:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="odd">
+<td align="left">Parco Naturale Püez Odle:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="even">
+<td align="left">Parco Naturale dello Sciliar:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="odd">
+<td align="left">Riserva Nationale Vette Feltrine:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Riserva Nationale Monte Pavione:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Riserva Naturale Somadida:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Riserva Naturale Monte Pelmo:</td>
+<td align="left">Unassigned</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -97,36 +130,38 @@ GEOGRAPHICAL LOCATION
 The site is a series of nine related mountain massifs in northeastern Italy near the Austrian border, in the regions of Trentino-Alto Adige, Friuli-Venezia Giulia and Veneto and the provinces of Belluno, Bolzano, Trento, Pordenone and Udine. They lie between 65 and 140km north of Venice and extend some 150km from east to west by 75km from north to south. Except for the western Brenta group and the eastern Friulane group, they are bounded on the west by the River Adige, on the north by the River Rienza (Val Pusteria), on the south by the Rivers Brenta (Val Sugana) and Piave, and on the east by the River Piave. They are located between 10<sup>o</sup>54’09”N - 12<sup>o</sup>30’13”N and 46<sup>o</sup>09’5”E - 46<sup>o</sup>36’47”E.
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Longitude</strong></th>
+<th align="left"><strong>Latitude</strong></th>
+<th align="left"><strong>Province </strong></th>
+<th align="left"><strong>Region</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Site</strong></td>
-<td align="left"><strong>Longitude</strong></td>
-<td align="left"><strong>Latitude</strong></td>
-<td align="left"><strong>Province </strong></td>
-<td align="left"><strong>Region</strong></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-</tr>
-<tr class="odd">
 <td align="left">1.</td>
 <td align="left">Pelmo Croda da Lago</td>
 <td align="left">N 12°06’49”</td>
 <td align="left">E 46°26’52”</td>
 <td align="left">Belluno</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2,</td>
 <td align="left">Marmolada</td>
 <td align="left">N 11°51’23”</td>
@@ -134,14 +169,14 @@ The site is a series of nine related mountain massifs in northeastern Italy near
 <td align="left"><p>Trento,</p>
 <p>Belluno</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">3.</td>
 <td align="left">Pale di San Martino – San Lucano Dolomiti Bellunesi - Vette Feltrine</td>
 <td align="left">N 11°59’39”</td>
@@ -149,14 +184,14 @@ The site is a series of nine related mountain massifs in northeastern Italy near
 <td align="left"><p>Trento,</p>
 <p>Belluno</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">4.</td>
 <td align="left"><p>Dolomiti Friulane /</p>
 <p>Dolomitis Furlanis e d’Oltre Piave</p></td>
@@ -164,14 +199,14 @@ The site is a series of nine related mountain massifs in northeastern Italy near
 <td align="left">E 46°20’48”</td>
 <td align="left">Pordenone, Udine Belluno</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">5.</td>
 <td align="left"><p>Dolomiti Settentrionali /</p>
 <p>Nördliche Dolomiten</p></td>
@@ -180,14 +215,14 @@ The site is a series of nine related mountain massifs in northeastern Italy near
 <td align="left"><p>Trento, Bolzano</p>
 <p>Belluno</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">6.</td>
 <td align="left"><p>Puez - Odle / Puez - Geisler /</p>
 <p>Pöz - Odles</p></td>
@@ -195,14 +230,14 @@ The site is a series of nine related mountain massifs in northeastern Italy near
 <td align="left">E 46°36’13</td>
 <td align="left">Bolzano</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">7.</td>
 <td align="left"><p>Sciliar - Catinaccio /</p>
 <p>Schlern - Rosengarten - Latemar</p></td>
@@ -211,28 +246,28 @@ The site is a series of nine related mountain massifs in northeastern Italy near
 <td align="left"><p>Trento,</p>
 <p>Bolzano</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">8.</td>
 <td align="left">Rio delle Foglie / Bletterbach</td>
 <td align="left">N 11°25’14”</td>
 <td align="left">E 46°21’37”</td>
 <td align="left">Bolzano</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">9.</td>
 <td align="left">Dolomiti di Brenta</td>
 <td align="left">N 10°54’09”</td>
@@ -316,64 +351,66 @@ AREAS
 The total area of the core zones is 141,902.8 ha. The buffer zones total 89.266.7 ha.
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Component Sites</strong></th>
+<th align="left"><strong>Area of Core Zone (ha)</strong></th>
+<th align="left"><strong>Area of Buffer Zone (ha) </strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Component Sites</strong></td>
-<td align="left"><strong>Area of Core Zone (ha)</strong></td>
-<td align="left"><strong>Area of Buffer Zone (ha) </strong></td>
-</tr>
-<tr class="even">
 <td align="left">1. Pelmo Croda da Lago</td>
 <td align="left">4,343.6</td>
 <td align="left">2,427.3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">2. Marmolada</td>
 <td align="left">2,207.5</td>
 <td align="left">578.0</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>3. Pale di San Martino - San Lucano -</p>
 <p>Dolomiti Bellunesi - Vette Feltrine</p></td>
 <td align="left">31,665.7</td>
 <td align="left">23,668.9</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">4. Dolomiti Friulane / Dolomitis Furlanis e d’Oltre Piave</td>
 <td align="left">21,460.6</td>
 <td align="left">25,027.6</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">5. Dolomiti Settentrionali / Nördliche Dolomiten</td>
 <td align="left">53,586.0</td>
 <td align="left">25,182.3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">6. Puez-Odle / Puez- Geisler / Pöz-Odles</td>
 <td align="left">7,930.3</td>
 <td align="left">2,863.5</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">7. Sciliar-Catinaccio / Schlern-Rosengarten - Latemar</td>
 <td align="left">9,302.1</td>
 <td align="left">4,770.7</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">8. Rio delle Foglie / Bletterbach</td>
 <td align="left">271,6</td>
 <td align="left">547,4</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">9. Dolomiti di Brenta</td>
 <td align="left">11,135.4</td>
 <td align="left">4,201.0</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><strong>TOTAL AREA (ha)</strong></td>
 <td align="left"><strong>141,902.8</strong></td>
 <td align="left"><strong>89.266.7</strong></td>
@@ -395,9 +432,13 @@ The geology is superbly exposed, especially for the Mesozoic period. The peaks a
 
 The area’s geomorphology is celebrated for its wide variety of types of terrain and the dynamic processes which it reveals. 40 million years ago, during the Alpine orogeny, the area was lifted, then eroded by glacial action along its many tectonic faults and strata until 15,000-10,000 years ago. The volcanic and other rocks eroded faster than the dolomite, resulting in a stark landscape of some 70 small glaciers and snowfields, wide U-shaped and hanging valleys, cirques and glacial debris. Steep slopes and sheer walls, high pinnacles, balcony ledges, huge skirts of scree, many colors and fantastic mountain profiles are characteristic. The area is a major source of water for northeastern Italy, and there are several dams, the most notable being the Vajont dam in the Friulani where in 1963 a landslide displaced the reservoir into the valley below, drowning 2,000 people. Thirteen ranges have been selected for designation, in nine main groups, with two outliers, one east and one west. The chosen massifs exemplify the formation and character of the mountains, the dominating geological characteristic of which is a combination of a thick relatively coherent deeply dissected slab of pale dolomite thrust over a dark platform of Permian volcanic and Hercynian basement rocks, least tectonically deformed in the mountains east of Bolzano. The geomorphology of most sites shows glacial and periglacial features, dynamic slope processes and karst rocks, whose contrasting colors intensify under changing light. The range of microclimatic conditions and variety of soils has also given rise to great biodiversity. The following briefly summarises the key features of each site.
 
-**Site Key Features**
-
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Key Features</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
 <td align="left"><p>1. Pelmo -</p>
@@ -524,11 +565,13 @@ The main bases for comparison with similar existing World Heritage temperate lim
 
 \(vii) The exceptional scenic beauty of highly eroded peaks above the high pastures and farmed valleys
 
-\(viii) ● The diversity of its geology and geomorphology, and the resulting high number of microhabitats;
+(viii)
 
-● The completeness, length and clarity of the Triassic marine fossil record;
+●The diversity of its geology and geomorphology, and the resulting high number of microhabitats;
 
-> ● The present integrity of the mountains, and potential for effective maintenance;
+●The completeness, length and clarity of the Triassic marine fossil record;
+
+●The present integrity of the mountains, and potential for effective maintenance;
 
 The salient character of these mountains is the dramatic scenery of the many jagged massifs of disintegrating dolomite of varying form and colour, along with their stratigraphic record and glaciers. There are in the Alps three other World Heritage mountain sites: Swiss Alps Jungfrau-Aletsch, an embedded granite massif with the largest glacier in Europe but containing no notable fossils, Swiss Tectonic Arena Sardona, a largely crystalline area of overthrust, and Monte San Giorgio, a low wooded mountain with some exceptional middle Triassic marine fossils. Other World Heritage mountain sites of temperate climate karst in Europe include Durmitor, the Pyrenees-Mont Perdu, Pirin and the West Caucasus; in China Mounts Wulingyan and Emei, South China Karst, the Sichuan Giant Panda Sanctuaries, and Huanglong and Jiuzhaigou; and in America, the Canadian Rockies and Waterton-Glacier Park.
 

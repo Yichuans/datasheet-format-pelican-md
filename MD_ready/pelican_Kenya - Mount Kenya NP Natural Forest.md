@@ -2,23 +2,7 @@ Title: MOUNT KENYA NATIONAL PARK / NATURAL FOREST
 Tags: KENYA
 Author: UNEP-WCMC
 Year: 1997
-Date: 2017-04-12 15:28:02
-
-1.  
-
-2.  
-
-3.  
-
-4.  
-
-5.  
-
-6.  
-
-7.  
-
-8.  
+Date: 2017-05-18 14:04:56
 
 MOUNT KENYA NATIONAL PARK / NATURAL FOREST
 ==========================================
@@ -26,7 +10,7 @@ MOUNT KENYA NATIONAL PARK / NATURAL FOREST
 KENYA
 =====
 
-*Mount Kenya is an ancient extinct volcano and Africa’s second highest mountain. It*s *rugged ice-capped summits and cloud-forested mid-slopes form one of the most impressive east African landscapes. It has twelve remnant glaciers, all receding rapidly, and four secondary peaks at the head of steep glacial valleys. Its Afro-alpine and sub-alpine moorland flora provide outstanding examples of ecological evolution and processes and possess a wide range of rare and endemic species. Its forests are part of the largest continuous block of indigenous closed canopy forest in the country. A narrow 10 km corridor through farmland links its forested northern slopes with the wide plains and semi-arid savanna grasslands of the Lewa Wildlife Conservancy and with the Ngare Ndare Forest Reserve adjoining it on the south. The extension creates a site at the interface of two biomes, Afromontane and Somali-Maasai.*
+*Mount Kenya is an ancient extinct volcano and Africa’s second highest mountain. Its rugged ice-capped summits and cloud-forested mid-slopes form one of the most impressive east African landscapes. It has twelve remnant glaciers, all receding rapidly, and four secondary peaks at the head of steep glacial valleys. Its Afro-alpine and sub-alpine moorland flora provide outstanding examples of ecological evolution and processes and possess a wide range of rare and endemic species. Its forests are part of the largest continuous block of indigenous closed canopy forest in the country. A narrow 10 km corridor through farmland links its forested northern slopes with the wide plains and semi-arid savanna grasslands of the Lewa Wildlife Conservancy and with the Ngare Ndare Forest Reserve adjoining it on the south. The extension creates a site at the interface of two biomes, Afromontane and Somali-Maasai.*
 
 COUNTRY
 -------
@@ -103,13 +87,28 @@ The maintenance of the 9.8 km elephant corridor connecting Mount Kenya to the lo
 
 **IUCN MANAGEMENT CATEGORY**
 
-Mount Kenya National Park: II National Park
-
-Mount Kenya Natural Forest: IV Natural Forest
-
-Lewa Wildlife Conservancy: IV Habitat /Species Management Area
-
-Ngare Ndare Forest Reserve: IV Natural Forest
+<table>
+<thead>
+<tr class="header">
+<th align="left">Mount Kenya National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Mount Kenya Natural Forest:</td>
+<td align="left">IV Natural Forest</td>
+</tr>
+<tr class="even">
+<td align="left">Lewa Wildlife Conservancy:</td>
+<td align="left">IV Habitat /Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Ngare Ndare Forest Reserve:</td>
+<td align="left">IV Natural Forest</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -395,7 +394,7 @@ Waithaka, J. (1997): Management implications of the Laikipia – Samburu elephan
 
 Woodley, B. (2003). Mount Kenya National Park. Challenges in Protection and Management. *World Heritage Review,* November. UNESCO, Paris.
 
-> *----------* (n.d.)*.The Ngare Ndare Forest Reserve*. Mount Kenya Trust, Nairobi, Kenya.
+*----------* (n.d.)*.The Ngare Ndare Forest Reserve*. Mount Kenya Trust, Nairobi, Kenya.
 
 Young, T. (1984). Status and potential of Kenya's high mountain ecosystems. In: *Endangered Resources for Development*. Proceedings of a workshop on the status and options for management of plant communities in Kenya. National Museums of Kenya, Nairobi.
 

@@ -2,7 +2,7 @@ Title: CAPE FLORAL REGION PROTECTED AREAS
 Tags: SOUTH AFRICA
 Author: UNEP-WCMC
 Year: 2004
-Date: 2017-04-12 15:27:57
+Date: 2017-05-18 14:04:50
 
 CAPE FLORAL REGION PROTECTED AREAS
 ==================================
@@ -86,31 +86,64 @@ GEOGRAPHICAL LOCATION
 
 The Cape Floral Region (CFR) is located in southwest and southern South Africa between the coast and the Cederberg and Swartberg Mountain ranges, mostly in Western Cape Province. The World Heritage property comprises thirteen protected area clusters over an area about 900 km long by an average of 110 km wide between approximately 32° 36’S to 34° 30’S and 18°18’E to 25° 50’E. In relation to Cape Town, the Cederberg Complex, bordering the Succulent Karoo and extended by the Matjiesrivier Nature Reserve is the most north-westerly protected area and close to the limits of the CFR. To the south of this lies the Groot Winterhoek Complex, extended by the Groot Winterhoek Nature Reserve. Further south again is the Table Mountain National Park, the most south-westerly part of the CFR. A number of contiguous reserves comprise the Boland Mountain Complex, which is found on the eastern shore of False Bay, itself found across from Table Mountain National Park. To the North of the Boland Mountain Complex lies the Hexriver Complex. All of the above components of the CFR lie in a north to south orientation along a range of mountains which form part of the Cape Fold Belt. To the East of the Boland Mountain Complex is the Riviersonderend Nature Reserve, which bridges the gap between the Boland Mountain Complex and the extended Langeberg Complex. To the south of the Langeberg Complex is the Agulhas Complex, within which is the most southerly point in Africa, whereas to the north of the Langeberg Complex is the Anysberg Nature Reserve. East of the Agulhas Complex is De Hoop Nature Reserve, and further east still is the Garden Route Complex. Due North of the Garden Route Complex is the Swartberg Complex, found in the Swartberg Mountains and parallel to the east/west coast in the northern extreme of the CFR. The extended Baviaanskloof Complex lies to the east of the Swartberg Complex in the Eastern Cape Province.
 
-Cederberg Wilderness Area 32°36’20” S / 19°08’17” E -- 32°07’10” S / 19°02’05” E
-
-Groot Winterhoek Wilderness Area 33°10’52" S / 19°05’50" E -- 32°59’05” S / 19°09’15” E
-
-Boland Mountain Complex 34°20’43" S / 19°05’48" E -- 33°22’20” S / 19°03’54” E
-
-De Hoop Nature Reserve 34°30’12" S / 20°27’07" E -- 34°22’40" S / 20°36’13" E
-
-Swartberg Complex 33°24’19” S / 20°35’30” E -- 33°22’40” S / 24°50’55” E
-
-Baviaanskloof Protected Areas 33°34’00” S / 24°30’16” E -– 33°25’35” S / 23°30’02” E
-
-Table Mountain National Park 34<sup>o</sup>13’32” S / 18<sup>o</sup>27’33” E –- 33<sup>o</sup>59’18” S / 18<sup>o</sup>23’’50” E
-
-Hexriver Complex 33°26’49” S / 19°27’33” E -– 33°31’56” S / 19°22’27” E
-
-Riviersonderend Nature Reserve 34°03’33” S / 19°20’37” E -– 33°56’10” S / 19°32’39” E
-
-Agulhas Complex 34°49’38” S / 19°59’57” E -– 34°42’39” S / 20°07’08” E
-
-Langeberg Complex 34°04’05” S / 20°27’56” E –- 33°44’36” S / 20°02’26” E
-
-Garden Route Complex 34°06’14” S / 23°23’45” E –- 33°47’00” S / 23°26’32” E
-
-Anysberg Nature Reserve 33°28’57” S / 20°38’49” E
+<table>
+<thead>
+<tr class="header">
+<th align="left">Cederberg Wilderness Area</th>
+<th align="left">32°36’20” S / 19°08’17” E -- 32°07’10” S / 19°02’05” E</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Groot Winterhoek Wilderness Area</td>
+<td align="left">33°10’52&quot; S / 19°05’50&quot; E -- 32°59’05” S / 19°09’15” E</td>
+</tr>
+<tr class="even">
+<td align="left">Boland Mountain Complex</td>
+<td align="left">34°20’43&quot; S / 19°05’48&quot; E -- 33°22’20” S / 19°03’54” E</td>
+</tr>
+<tr class="odd">
+<td align="left">De Hoop Nature Reserve</td>
+<td align="left">34°30’12&quot; S / 20°27’07&quot; E -- 34°22’40&quot; S / 20°36’13&quot; E</td>
+</tr>
+<tr class="even">
+<td align="left">Swartberg Complex</td>
+<td align="left">33°24’19” S / 20°35’30” E -- 33°22’40” S / 24°50’55” E</td>
+</tr>
+<tr class="odd">
+<td align="left">Baviaanskloof Protected Areas</td>
+<td align="left">33°34’00” S / 24°30’16” E -– 33°25’35” S / 23°30’02” E</td>
+</tr>
+<tr class="even">
+<td align="left">Table Mountain National Park</td>
+<td align="left">34<sup>o</sup>13’32” S / 18<sup>o</sup>27’33” E –- 33<sup>o</sup>59’18” S / 18<sup>o</sup>23’’50” E</td>
+</tr>
+<tr class="odd">
+<td align="left">Hexriver Complex</td>
+<td align="left">33°26’49” S / 19°27’33” E -– 33°31’56” S / 19°22’27” E</td>
+</tr>
+<tr class="even">
+<td align="left">Riviersonderend Nature Reserve</td>
+<td align="left">34°03’33” S / 19°20’37” E -– 33°56’10” S / 19°32’39” E</td>
+</tr>
+<tr class="odd">
+<td align="left">Agulhas Complex</td>
+<td align="left">34°49’38” S / 19°59’57” E -– 34°42’39” S / 20°07’08” E</td>
+</tr>
+<tr class="even">
+<td align="left">Langeberg Complex</td>
+<td align="left">34°04’05” S / 20°27’56” E –- 33°44’36” S / 20°02’26” E</td>
+</tr>
+<tr class="odd">
+<td align="left">Garden Route Complex</td>
+<td align="left">34°06’14” S / 23°23’45” E –- 33°47’00” S / 23°26’32” E</td>
+</tr>
+<tr class="even">
+<td align="left">Anysberg Nature Reserve</td>
+<td align="left">33°28’57” S / 20°38’49” E</td>
+</tr>
+</tbody>
+</table>
 
 DATES AND HISTORY OF ESTABLISHMENT
 ----------------------------------

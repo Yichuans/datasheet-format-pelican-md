@@ -1,25 +1,8 @@
-Title: El Pinacate y Gran Desierto De Altar Biosphere Reserve
-Tags: Mexico
+Title: EL PINACATE AND GRAN DESIERTO DE ALTAR
+Tags: BIOSPHERE RESERVE
 Author: UNEP-WCMC
 Year: 2013
-Date: 2017-04-12 15:28:03
-
-1.  
-
-2.  
-
-3.  
-
-4.  
-
-5.  
-
-6.  
-
-7.  
-
-8.   
-    =
+Date: 2017-05-18 14:04:57
 
 EL PINACATE AND GRAN DESIERTO DE ALTAR
 ======================================
@@ -83,15 +66,17 @@ Special attention should be given to avoid the indirect impacts of nearby touris
 
 Long term protection and management of the property also includes the need to minimize and/or mitigate impacts derived from existing or proposed roads; to ensure effective implementation of measures to avoid further depletion of scarce water resources; to maintain and enhance ecological connectivity so as to buffer against climate change impacts and to effectively control and eradicate alien invasive species. Transboundary cooperation to maintain and enhance the management of the property is essential and therefore the formal establishment of a Transboundary Protected Area with adjoining protected areas in the United States is highly recommended.
 
-**INTERNATIONAL DESIGNATIONS**
+INTERNATIONAL DESIGNATIONS
+--------------------------
 
-> 1993: *El Pinacate y Gran Desierto De Altar* designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme (714,566 ha);
->
-> 1995: Extended as the *Alto Golfo de California* Biosphere Reserve including the *Humedales de Bahia de Adair* (1,649,312 ha);
->
-> 2008: *Agua Dulce* on the Sonoyta River designated a Wetland of International Importance under the Ramsar Convention (39 ha).
+1993: *El Pinacate y Gran Desierto De Altar* designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme (714,566 ha);
 
-**IUCN MANAGEMENT CATEGORY**
+1995: Extended as the *Alto Golfo de California* Biosphere Reserve including the *Humedales de Bahia de Adair* (1,649,312 ha);
+
+2008: *Agua Dulce* on the Sonoyta River designated a Wetland of International Importance under the Ramsar Convention (39 ha).
+
+IUCN MANAGEMENT CATEGORY
+------------------------
 
 VI: Managed Resource Protected Area
 
@@ -110,13 +95,14 @@ DATES AND HISTORY OF ESTABLISHMENT
 
 1979: Declared a Protected Forest Zone & Wildlife Refuge (26,860ha); 1982: an Ecological Reserve;
 
-> 1993: The National Biosphere Reserve declared by Presidential decree and confirmed as a UNESCO Biosphere Reserve; 1995: Extended as the Upper Gulf of California Biosphere Reserve with the adjacent *Humedales de Bahia de Adair* (1,649,312 ha);
+1993: The National Biosphere Reserve declared by Presidential decree and confirmed as a UNESCO Biosphere Reserve; 1995: Extended as the Upper Gulf of California Biosphere Reserve with the adjacent *Humedales de Bahia de Adair* (1,649,312 ha);
 
 2008: *Agua Dulce* on the Sonoyta River designated a Ramsar Wetland;
 
 2013: Inscribed on the World Heritage List.
 
-**LAND TENURE**
+LAND TENURE
+-----------
 
 The state under the Federal Agency for Protected Areas (*Comisión Nacional de Áreas Naturales Protegidas,* CONANP) owns 22% of the core plus buffer areas. A number of privately owned *ejidos* nominally own 78% of the rest. The reserve adjoins four other Sonoran desert protected areas: Organ Pipe Cactus National Monument, the Cabeza Prieta National Wildlife Refuge, the Arizona Desert Museum and the Goldwater Range, a military reserve, all in Arizona. Contiguous with these are the Sonoran Desert National Monument and the Tohono O'odham Nation, a tribal reserve. The marine Upper Gulf of California and Colorado River Delta Biosphere Reserve in Baja California adjoins the Biosphere Reserve on the west.
 
@@ -125,11 +111,13 @@ AREAS
 
 Reserve: 714,566.5 ha; Buffer zone 354,871 ha.
 
-**ALTITUDE**
+ALTITUDE
+--------
 
 200m–1,206m (El Pinacate).
 
-**PHYSICAL FEATURES**
+PHYSICAL FEATURES
+-----------------
 
 The Reserve is part of a more than 3 million hectare combination of reserves in Baya California and Sonora provinces and Arizona and south California states created to protect the Sonoran desert ecosystem, 40% of which is covered by the site and its buffer zones. It occupies most of a coastal plain between the U.S. border and the Gulf of California averaging 145 km long by 70 km wide. It comprises a sand sea, part of the lower Colorado River valley, and a rugged plain on the edge of the Arizona plateau, studded with volcanic formations, a result of past plate tectonic movement in the area. Owing to its moving sands, rugged fields of lava, and granitic ridges, 62%, 32% and 6% respectively of its surface, it has remained largely inaccessible and undisturbed (Nomination document, 2013).
 
@@ -139,11 +127,13 @@ There is a great variety of other rocks: granites, schists, gneiss and sedimenta
 
 The 550,000 ha sand sea is the largest and most active *erg* in North America, and consists on a large scale of a wide and complex variety of dunes: linear, dome, crescent and long lines of star dunes (to 48 km long), driven by the winds prevailing from the west, as are the sands, from the neighbouring delta of the Colorado river. On the margin of the sand sea, where the wind direction is seasonally more variable, large star dunes form, one being 200m high. Isolated grey granitic ridges between 300m and 650m high rise above the sands. The scenery of each area has an austere grandeur and contrasting dramatic beauty, the greater for being almost undisturbed.
 
-**CLIMATE**
+CLIMATE
+-------
 
 The subtropical climate is very hot: June and July maximum temperatures average 49°C and can reach 56.7°C in June. In the winter, night temperatures can fall to -8.3°C, though very rarely. The average annual temperature range is 18°C to 22°C. Solar radiation is intense, evaporation high and relative humidity low. The highlands of El Pinacate have somewhat lower temperatures and are slightly more humid. The average annual precipitation is less than 200 mm, most falling in winter. Rainfall decreases from the northeast where 164mm is recorded, to 61mm in Puerto Peñasco in the south, and 52 mm in San Luis Rio Colorado in the west, where Sierra El Rosario has experienced 34 months without rainfall, making this desert the driest part of the Sonoran desert and one of the driest places in the world.
 
-**VEGETATION**
+VEGETATION
+----------
 
 The wide range of physical conditions in the two deserts harbours an unexpected diversity of life: 560 species of vascular plants in 315 genera and 85 families, with several Sonoran endemics and one endemic to the site on El Pinacate. The dominant vegetation is xerophytic scrub with small areas of chaparral and mesquite. The families with the most species are the composites, grasses, legumes, euphorbias, chenopods and cacti. In spring, the arid plain briefly becomes a dazzling field of flowers.
 
@@ -151,7 +141,8 @@ The nomination lists ten plant communities: El Pinacate highlands, El Pinacate s
 
 Most of the plants have developed adaptations to the extreme conditions, including extremely long seed dormancy, a perennial habit which adapts to arid conditions where rainfall is usually uncertain, and small leaves to prevent water loss through evaporation; others retain their energy-producing chlorophyll in bark or leaves, which develop only when conditions are optimal. Four plants in the site have special federal protection: Acuña cactus *Echinomastus erectocentrus acunensis* (nationally endangered), barrel cactus *Ferocactus cylindraceus,* desert ironwood and night blooming cereus *Peniocereus greggii.* 97 non-native species are recorded in the site. Three have been aggressively invasive: salt cedar*Tamarix ramosissima,* buffelgrass *Pennisetum ciliaris* and Sahara mustard *Brassica tournefortii.*
 
-**FAUNA**
+FAUNA
+-----
 
 The very varied environments of the reserve provide a wide range of differing habitats which explains the unexpectedly rich biodiversity. There are 44 mammals, 44 reptiles, several amphibians, 225 birds and two endemic species of freshwater fish. Five mammals, 19 birds and 22 reptiles found in the property are federally protected, an indication of their rarity.
 
@@ -159,15 +150,18 @@ The largest mammals include some of the last endemic Sonoran pronghorn sheep *An
 
 Sonoran desert sidewinder *Crotalus cerastes cercobombus* is endemic to the Sonoran desert, the Gila monster *Heloderma suspectum* and the desert tortoise *Gopherus agassizii* (VU) are all nationally protected; there are also chameleon *Phrynosoma mcalli*, Sonora mud turtle *Kinosternon sonorense longifemorale* and Sonoran green toad *Bufo retiformis.* The insect fauna is large but little documented. Among the birds there are seven species of raptor, including golden eagle *Aquila chrysaetos* and four owls. 19 species are nationally endangered or threatened.
 
-**CONSERVATION VALUE**
+CONSERVATION VALUE
+------------------
 
 The site is part of the Greater Sonoran Desert Protected Ecosystem, the largest contiguous protected area complex in North America. It covers the driest half of the Sonoran desert in two contrasting ecosystems, sandy and volcanic. Both are relatively undisturbed, have unexpectedly high biodiversity and, visually, are in their different ways majestic. The mountain is sacred to the local tribe. The site lies in one of the WWF Global 200 ecoregions, is part of a UNESCO Biosphere Reserve, and contains a Ramsar wetland.
 
-**CULTURAL HERITAGE**
+CULTURAL HERITAGE
+-----------------
 
 The first inhabitants, the hunter-gatherer San Dieguito people, lived on the mountain from before 20,000 to 9,000 years ago, sourcing their water from *tinajas.* They were succeeded by the Pinacateño band of the Hia C'ed O'odham (Papago) indians who camped near the *tinajas,* leaving pathways, sleeping circles, stone and obsidian tools from a local source, pottery and some petroglyphs. In 1698, Father [Eusebio Kino](http://en.wikipedia.org/wiki/Eusebio_Kino), explorer-missionary and founder of the Mission San Xavier del Bac in [Tucson](http://en.wikipedia.org/wiki/Tucson), Arizona, visited the site several times, climbing El Pinacate and naming it Santa Clara Volcano. The Tohono (sand) Hia C-ed O'odham people believe they originated on the mountain and their religious ceremonies are still performed there, though the last resident left in 1912, about the time the first scientists began to study the country.
 
-**LOCAL HUMAN POPULATION**
+LOCAL HUMAN POPULATION
+----------------------
 
 In the late 1960s, the government granted communal land tenure rights *(ejidos)* in the region to establish farms, but these failed when irrigation proved too costly and salinised the soil. As late as the 1990s thousands still lived on the site. Most of the rights still formally exist and the lands are still revisited, but they are too uneconomic to exploit and do not obstruct conservation. However, a complex pattern of land ownership remains. No-one now lives on the site, but 55 staff and service personnel live in the buffer areas. A growing population across the border is drawn to the Gulf coast, where there is increasing development for tourism along the coastal road.
 
@@ -177,21 +171,21 @@ VISITORS AND VISITOR FACILITIES
 The area remained intact and little visited before 1956 when Route 2 along the northern edge was built, and 1993 when it became a Biosphere Reserve, since when public interest has increased. There were in 1997, 3,177 visitors. By 2010, the number had increased to 17,504, 85% Mexican and 15% foreigners, mainly from the U.S.A. Designation is certain to increase that figure. Across the border, the population has burgeoned, increasing the call for recreational visits, though these are dampened by security tensions. In fact, visitor numbers are limited both by policy and by the inhospitable nature of the land, but there is a new Visitors' Centre (called Schuk Toak, the native name for El Pinacate) in the south of the site, used by over half the visitors, which provides education and raises conservation awareness. There is also an entry-point interpretive centre and a main 69 km ecotourist trail, two other trails with viewpoints and a shorter interpretive trail, two camp sites and four parking areas.
 
 SCIENTIFIC RESEARCH AND FACILITIES
-==================================
+----------------------------------
 
 Owing to its rare largely intact condition, the area serves as a baseline reference for the study of desert ecology and other fields, and as a laboratory for geological and geomorphological studies. The first scientific examination of the area was by the MacDougal-Hornaday-Sykes expedition of 1907 which explored the western part of the mountain for its geology, flora and fauna. Before the 1958 archaeological survey, only three other scientists had studied the area, but in 1965 NASA used the El Verdugo crater to test moon vehicles. Studies, especially of the volcanism and unique series of maars, have continued ever since in several national and international scientific projects. A biological station has been built. The National Institute of Archaeology and History researches the area's anthropology, archaeology, palaeontology and history. Twelve Mexican and American universities or institutes have developed research projects in the reserve, mostly on animals.
 
 MANAGEMENT
-==========
+----------
 
-1.  The site’s large size, remoteness, harsh climate and rugged terrain give it high natural protection, augmented by vehicle barriers (in principle permeable for wildlife), extensive buffer zones and several large contiguous protected areas. The property also has an effective and enforced legal framework with a management well supported by staff and funding. This is enabled by the General Law on the Ecological Equilibrium and Environmental Protection of 1988 through the Regional Directorate of the Federal Commission for Protected Natural Areas (CONANP) under the Ministry of Environment and Natural Resources (SEMARNAT). This law applies to both core and buffer zones, regardless of ownership. In buffer areas, only activities which existed at the time of the establishment and which are supportive of conservation and sustainable use are allowed to local communities. The Federal Environmental Protection Agency enforces environmental laws.
+The site’s large size, remoteness, harsh climate and rugged terrain give it high natural protection, augmented by vehicle barriers (in principle permeable for wildlife), extensive buffer zones and several large contiguous protected areas. The property also has an effective and enforced legal framework with a management well supported by staff and funding. This is enabled by the General Law on the Ecological Equilibrium and Environmental Protection of 1988 through the Regional Directorate of the Federal Commission for Protected Natural Areas (CONANP) under the Ministry of Environment and Natural Resources (SEMARNAT). This law applies to both core and buffer zones, regardless of ownership. In buffer areas, only activities which existed at the time of the establishment and which are supportive of conservation and sustainable use are allowed to local communities. The Federal Environmental Protection Agency enforces environmental laws.
 
-2.  3.  The boundaries of the property coincide with the boundaries of the National Biosphere Reserve which facilitates its conservation and management as they are guided by its existing management plan. This long-term plan has sub-programs for tourism, research and monitoring, supported by annual operational plans. These are implemented by the state government and local municipalities with the aid of a committed community of indigenous people, researchers and non-governmental conservationist organizations. The present management plan dates from 1995 and is being updated through a participatory Advisory Council, which is establishing ways to improve the involvement of indigenous peoples in the planning and management of the property. This regular involvement of local stakeholders increases the broad acceptance of management and helps to deal with possible conflicts. Representatives of the Tohono O'odham strongly supported the conservation of the property on condition they were consulted about decision-making, especially on practical concerns such as social and religious ceremonies, their traditional journey to the sea for salt, tourist and scientific access to archaeological sites, and protocols of management.
+The boundaries of the property coincide with the boundaries of the National Biosphere Reserve which facilitates its conservation and management as they are guided by its existing management plan. This long-term plan has sub-programs for tourism, research and monitoring, supported by annual operational plans. These are implemented by the state government and local municipalities with the aid of a committed community of indigenous people, researchers and non-governmental conservationist organizations. The present management plan dates from 1995 and is being updated through a participatory Advisory Council, which is establishing ways to improve the involvement of indigenous peoples in the planning and management of the property. This regular involvement of local stakeholders increases the broad acceptance of management and helps to deal with possible conflicts. Representatives of the Tohono O'odham strongly supported the conservation of the property on condition they were consulted about decision-making, especially on practical concerns such as social and religious ceremonies, their traditional journey to the sea for salt, tourist and scientific access to archaeological sites, and protocols of management.
 
-4.  5.  Monitoring of a large number of indicators is carried out by staff in cooperation with several institutions of the state government and many academic partners. There is monitoring of water, tourists and fencing (continuous); roads (monthly); land use, invasive species, fish and bats (annual) as indicators of ecological conditions; and pronghorns and their habitat (bi-annually). There is a long history of cooperation with governmental and academic partner institutions in the U.S.A., not only for monitoring but for research, species recovery and management. A transboundary protected area with adjoining protected areas in the U.S.A. to maintain and enhance management of the property could be created in future.
+Monitoring of a large number of indicators is carried out by staff in cooperation with several institutions of the state government and many academic partners. There is monitoring of water, tourists and fencing (continuous); roads (monthly); land use, invasive species, fish and bats (annual) as indicators of ecological conditions; and pronghorns and their habitat (bi-annually). There is a long history of cooperation with governmental and academic partner institutions in the U.S.A., not only for monitoring but for research, species recovery and management. A transboundary protected area with adjoining protected areas in the U.S.A. to maintain and enhance management of the property could be created in future.
 
-    1.  MANAGEMENT CONSTRAINTS
-        ----------------------
+MANAGEMENT CONSTRAINTS
+----------------------
 
 There is a need to minimize and mitigate the impacts of roads. Route 2, formerly a country road, is becoming a wide fenced highway paralleled by electricity transmission lines. Construction requires extraction of aggregate material and water, access and deviation tracks, noise, dust and pollution. CONANP is consulted in its design and location. The impacts of tourism development on the coast increase traffic, ecological disturbance, littering, wildlife road kills and off-road driving. Increased tourism could lead to further road entry points for invasive alien species, such as the two exotic species of fish and three plants already well established, and will require monitoring and effective law enforcement.
 
@@ -201,7 +195,8 @@ Originally the border was no obstacle, but drug trafficking and illegal immigrat
 
 Uncontrolled extraction of natural resources started in the 1940s and 1950s: mining of volcanic rock and pyroclastic material from the cinder cones for construction and gardens was abandoned after the declaration of the national Biosphere Reserve. Extraction of ironwood and other woody species such as mesquite and ocotillo for fuel, charcoal production and carved handicrafts were both important subsistence and commercial activities but ended due to the depletion of the resource, legal protection and control efforts. Some illegal woodcutting persists. Regeneration is visible, but probably occurs at a slow pace in the harsh environmental conditions. Poaching for trophy, food and predator control was widespread before the Biosphere Reserve was established, but seems mostly under control today though some is still reported to occur as is some looting of archaeological sites despite clear regulation and effective enforcement.
 
-**COMPARISON WITH SIMILAR SITES**
+COMPARISON WITH SIMILAR SITES
+-----------------------------
 
 World Heritage sites or tentative sites closely comparable with the property are very few because of its unique combination of two unusual biomes: a hyperarid sand sea with a great diversity of dune forms, adjoining a field of shield vulcanism with several phreatomagmatic craters, plus granite inselbergs. The resulting habitats possess a rich biodiversity and strongly dramatic scenery. The Vizcaino Biosphere Reserve across the Gulf of California is Sonoran, coastal, and marine, but, typical of many desert sites, has no volcanic forms. Nearly all volcanic sites are mountainous or rocky and have no extensive sands. So the closest World Heritage parallel is probably the very different Air et Ténéré site in Niger, which has also has high and mobile dunes, volcanic peaks, high biodiversity including a notable ungulate population and a tradition of tribal occupation. The as yet undesignated Wadi Howar in western Sudan, a former Nile tributary riverbed, has a cratered volcanic landscape surrounded by sands, among them active barchans. The World Heritage sites Hawaiian Volcanoes and Jeju Island are also shield volcanoes with many volcanic forms such as lava flows and tubes, but are mountains in scale with little sand. Death Valley though markedly different, juxtaposes mountains and hyperarid sandy plains and has a large implosion crater with surrounding cones and small maars (Ubehebe) but no volcanism. The recently designated dunes of Namibia, and the as yet undesignated western deserts of Egypt, although rich in dune forms, again lack volcanism. This site therefore seems unique in combining the two biomes at such a scale and so dramatically.
 

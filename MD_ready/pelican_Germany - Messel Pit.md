@@ -2,7 +2,7 @@ Title: MESSEL PIT FOSSIL SITE
 Tags: GERMANY
 Author: UNEP-WCMC
 Year: 1995
-Date: 2017-04-12 15:28:00
+Date: 2017-05-18 14:04:53
 
 MESSEL PIT FOSSIL SITE
 ======================
@@ -78,9 +78,7 @@ PHYSICAL FEATURES
 
 The pit is a former open-cast bituminous oil-shale mine approximately 1,000m north-south by 700m east-west, now 60m deep, though the accompanying sediments extend some 120-130m deeper. The site is the remains of 48 million year old Middle Eocene lakebed sediments (the Messel formation) which lie over 270-290 million-year old Permian Old Red Sandstone. The lake basin, small but deep, formed in a granite fault-bounded graben following tectonic activity. Over a long period the accumulation under anoxic conditions of lakebed muds, clays, dead vegetation and algae slowly subsided, and immense deposits were laid down which became shale. The slow subsidence and lack of bioturbation preserved the fossil layers over millennia; by contrast, the watercourses that fed the lake were completely eroded. Only part of the structure is stratigraphically intact with the strata in chronological sequence; outcrops of older Eocene seams found on the slopes of the pit are partly distorted by landslides.
 
-The great richness of the deposits, which started life in a dense subtropical jungle, may be due to stratification of the water column which left the ooze on the lake bottom little disturbed and anoxic. Corpses sank, undisturbed by scavengers. Seasonal overturn of this water, local volcanic activity or intermitent earth movements, may have periodically released gases such as carbon dioxide, hydrogen sulphide and ammonia into the lake and the surrounding atmosphere, killing any organisms in and around it which were then preserved in unusually good condition by the very slow rate of deposition. This could account for the many non-aquatic fossils found such as of bats, birds and terrestrial animals (Riley, 2003). Today parts of the pit slopes are forested. In its eastern section there is a small lake (Mayer, 1994). It is bounded by a railway line to the north, industrial and commercial estates to the
-
-south and west and forestry land to the east.
+The great richness of the deposits, which started life in a dense subtropical jungle, may be due to stratification of the water column which left the ooze on the lake bottom little disturbed and anoxic. Corpses sank, undisturbed by scavengers. Seasonal overturn of this water, local volcanic activity or intermitent earth movements, may have periodically released gases such as carbon dioxide, hydrogen sulphide and ammonia into the lake and the surrounding atmosphere, killing any organisms in and around it which were then preserved in unusually good condition by the very slow rate of deposition. This could account for the many non-aquatic fossils found such as of bats, birds and terrestrial animals (Riley, 2003). Today parts of the pit slopes are forested. In its eastern section there is a small lake (Mayer, 1994). It is bounded by a railway line to the north, industrial and commercial estates to the south and west and forestry land to the east.
 
 CLIMATE
 ------------
@@ -178,9 +176,7 @@ Franzen, J., Haubold, H. & Storch, G., (1993). Relationships of the mammalian fa
 
 Gruber, G. & Micklich, N. (2007): *Messel: Schätze der Urzeit.* Exhibition catalogue Hessischen Landesmuseum Darmstadt. Wissenschaft. Theiss, Stuttgart.
 
-Habersetzer, J. & Storch, G. (1987). Ecology and echolocations of the Eocene Messel bats. In: Hanak, V., Horacek, I.,& Gaisler, J. (eds) *European Bat Research*, Charles University Press, Prague.
-
-pp. 213-33,
+Habersetzer, J. & Storch, G. (1987). Ecology and echolocations of the Eocene Messel bats. In: Hanak, V., Horacek, I.,& Gaisler, J. (eds) *European Bat Research*, Charles University Press, Prague. pp. 213-33,
 
 ---------- (1993) Radiographic studies of the cochlea in extant Chiroptera and Microchiropterans from Messel. *Kaupia Darmst. Beitr. zur Naturgesch*, Vol 3, pp. 97-105.
 

@@ -2,7 +2,7 @@ Title: THE WADDEN SEA
 Tags: DENMARK, GERMANY,THE NETHERLANDS
 Author: UNEP-WCMC
 Year: 2009
-Date: 2017-04-12 15:28:10
+Date: 2017-05-18 14:05:04
 
 THE WADDEN SEA
 ==============
@@ -88,15 +88,30 @@ INTERNATIONAL DESIGNATIONS
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Niedersächsisches Wattenmeer II National Park
-
-Hamburgisches Wattenmeer II National Park
-
-Schleswig-Holsteinisches Wattenmeer II National Park
-
-Nationalpark Vadehavet II National Park
-
-Schiermonnikoog II National Park
+<table>
+<tbody>
+<tr class="odd">
+<td align="left">Niedersächsisches Wattenmeer</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Hamburgisches Wattenmeer</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Schleswig-Holsteinisches Wattenmeer</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Nationalpark Vadehavet</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Schiermonnikoog</td>
+<td align="left">II National Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------

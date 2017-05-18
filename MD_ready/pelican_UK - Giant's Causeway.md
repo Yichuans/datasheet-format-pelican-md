@@ -2,7 +2,7 @@ Title: GIANT'S CAUSEWAY AND CAUSEWAY COAST
 Tags: UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
 Author: UNEP-WCMC
 Year: 1986
-Date: 2017-04-12 15:28:09
+Date: 2017-05-18 14:05:02
 
 GIANT'S CAUSEWAY AND CAUSEWAY COAST
 ===================================
@@ -126,9 +126,7 @@ The National Trust’s management aims are to maintain the natural quality of th
 MANAGEMENT CONSTRAINTS
 ----------------------
 
-The columnar basalt formations of the Causeway are not easily damaged but in the 18th and 19th centuries, many stones were removed for ornamental use, and the zeolite and calcite crystals in the Lower Basalt, were removed in large quantities by visitors and were sold as souvenirs by guides. The
-
-potential damage by heavy visitation is kept under control.
+The columnar basalt formations of the Causeway are not easily damaged but in the 18th and 19th centuries, many stones were removed for ornamental use, and the zeolite and calcite crystals in the Lower Basalt, were removed in large quantities by visitors and were sold as souvenirs by guides. The potential damage by heavy visitation is kept under control.
 
 STAFF 
 ------

@@ -2,7 +2,7 @@ Title: MOUNT NIMBA STRICT NATURE RESERVE
 Tags: GUINEA,CÔTE D'IVOIRE
 Author: UNEP-WCMC
 Year: 1981
-Date: 2017-04-12 15:28:00
+Date: 2017-05-18 14:04:53
 
 MOUNT NIMBA STRICT NATURE RESERVE
 =================================
@@ -53,7 +53,8 @@ BIOGEOGRAPHICAL PROVINCE
 
 Guinean Rain Forest (3.01.01) / West African Woodland Savanna (3.04.04).
 
-**GEOGRAPHICAL LOCATION**
+GEOGRAPHICAL LOCATION
+---------------------
 
 The Mount Nimba range is located at the intersection of the Republics of Guinea, Liberia and Côte d'Ivoire, at 7°32'N to 7°44’N and 8°20' W to 8°30' W.
 
@@ -232,9 +233,7 @@ Anon. (1952). La réserve naturelle intégrale du Mont Nimba. *Mémoires de l'In
 
 Coe, M. (1975). Mammalian ecological studies on Mount Nimba, Liberia. *Mammalia* 39: 523-587.
 
-Coe, M. & Curry-Lindahl, K. (1965). Ecology of a mountain: first report on Liberian Nimba. *Oryx* 8: pp.
-
-177-184.
+Coe, M. & Curry-Lindahl, K. (1965). Ecology of a mountain: first report on Liberian Nimba. *Oryx* 8: pp. 177-184.
 
 Colston, P. & Curry-Lindahl, K. (1986). *The Birds of Mount Nimba, Liberia*. British Museum (Natural History), London. Publication No. 982. London. 129 pp.
 
@@ -312,9 +311,7 @@ Sugiyama, Y. (1981). Tool-using and -making behaviour in wild chimpanzees at Bos
 
 Sugiyama, Y. & Koman, J. (1979). Social structure and dynamics of wild chimpanzees at Bossou, Guinea. *Primates,* 20: 323-339.
 
----------- (1987). A preliminary list of chimpanzees alimentation at Bossou, Guinea. *Primates* 28:
-
-391-400.
+---------- (1987). A preliminary list of chimpanzees alimentation at Bossou, Guinea. *Primates* 28:391-400.
 
 Sugiyama, Y., Koman, J. & Sow, M. (1988). Ant-catching wands of wild chimpanzees at Bossou, Guinea. *Folia Primatol.* 51: 56-60.
 

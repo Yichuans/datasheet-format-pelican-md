@@ -2,7 +2,7 @@ Title: BIAŁOWIEŻA FOREST
 Tags: BELARUS AND POLAND
 Author: UNEP-WCMC
 Year: 1979
-Date: 2017-04-12 15:27:55
+Date: 2017-05-18 14:04:48
 
 BIAŁOWIEŻA FOREST
 =================
@@ -72,13 +72,28 @@ INTERNATIONAL DESIGNATIONS
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Belovezhskaya Pushcha National Park, Belarus: II National Park
-
-Bialowieza National Park, Poland: II National Park
-
-Puszcza Bialowieska, Poland Not Reported
-
-OChK Puszcza Bialowieska Not Reported
+<table>
+<thead>
+<tr class="header">
+<th align="left">Belovezhskaya Pushcha National Park, Belarus:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Bialowieza National Park, Poland:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Puszcza Bialowieska, Poland</td>
+<td align="left">Not Reported</td>
+</tr>
+<tr class="odd">
+<td align="left">OChK Puszcza Bialowieska</td>
+<td align="left">Not Reported</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------

@@ -2,7 +2,7 @@ Title: UVS NUUR BASIN
 Tags: MONGOLIA,RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 2002
-Date: 2017-04-12 15:28:04
+Date: 2017-05-18 14:04:57
 
 UVS NUUR BASIN
 ==============
@@ -48,9 +48,20 @@ INTERNATIONAL DESIGNATIONS
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Uvs Nuur Basin, Mongolia: Ia Strict Nature Reserve
-
-Ubsunorskaya Kotlovina, Russia: II Special Protected Area
+<table>
+<thead>
+<tr class="header">
+<th align="left">Uvs Nuur Basin, Mongolia:</th>
+<th align="left">Ia Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Ubsunorskaya Kotlovina, Russia:</td>
+<td align="left">II Special Protected Area</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -89,13 +100,9 @@ AREAS
 
 Total: 898,063.5ha
 
-Ubsunur Basin, Russia: Core zone: 87,830ha
+Ubsunur Basin, Russia: Core zone: 87,830ha Buffer: 170,790 ha (undesignated). Total: 258,620ha.
 
-Buffer: 170,790 ha (undesignated). Total: 258,620ha.
-
-Uvs Nuur, Mongolia; Core zone: 810,233.5ha
-
-> Buffer excluded (UNESCO, 2003).
+Uvs Nuur, Mongolia; Core zone: 810,233.5ha Buffer excluded (UNESCO, 2003).
 
 **Ubsunur Basin, Russia: Core Buffer Central point**
 
@@ -153,9 +160,9 @@ VEGETATION
 
 This cluster of reserves lies between the biogeographical provinces of the Siberian Taiga, the High Altai and the Mongolian Steppe. The area contains a great diversity of ecosystems within a relatively small area: cold desert, sand dunes, semi-desert, desert steppe, shrub steppe, wetlands, salty marshes, floodplain forest, deciduous and boreal forests, taiga, alpine meadows and tundra. 552 plant species are recorded, 234 of them restricted to the mountains of southern Siberia and northern Mongolia; 52 are relict species, 19 are recorded as endemic to Mongolia and Tuva, but only five are endemic to Uvs Nuur: *Astrogalus polozhinae*, *Juncus salsuginous* ssp.*tuvinicum*, *Stipa barhanica*, *Asragalus tuvinicus* and *Zygophyllum pterocaprum* ssp.*tuvinicum.* The vegetation zones are clearly layered by altitude.
 
-Below the glaciers, icefields, sharp ridges and tundra of the three western mountain reserves, lie sub-alpine meadows of moss and lichen, and below them, mountain taiga where Siberian larch *Larix sibiric*a, Dahurian larch *L. gmelinii*, Siberian stone pine *Pinus sibiric*a and *Rhododendron* spp. predominate. In the valleys are forests of dwarf birch *Betula rotundifolia,* shrubby willows and pea shrub *Caragana* spp. There is marked altitudinal difference between north-facing and south-facing slopes in the zoning of vegetation, and a consequent variety of types of steppe. Between 1600 and 900m there is discontinuous larch-forested steppe with meadows and large bunchgrass *Stipa glareosa* grading to small bunchgrass *S. krylovii* steppe and to desert. At the foot of northern slopes is relict club-moss steppe.
+Below the glaciers, icefields, sharp ridges and tundra of the three western mountain reserves, lie sub-alpine meadows of moss and lichen, and below them, mountain taiga where Siberian larch *Larix sibirica*, Dahurian larch *L. gmelinii*, Siberian stone pine *Pinus sibirica* and *Rhododendron* spp. predominate. In the valleys are forests of dwarf birch *Betula rotundifolia,* shrubby willows and pea shrub *Caragana* spp. There is marked altitudinal difference between north-facing and south-facing slopes in the zoning of vegetation, and a consequent variety of types of steppe. Between 1600 and 900m there is discontinuous larch-forested steppe with meadows and large bunchgrass *Stipa glareosa* grading to small bunchgrass *S. krylovii* steppe and to desert. At the foot of northern slopes is relict club-moss steppe.
 
-Ular Reserve in the Sangilen highlands has tundra plants above 2,300m, high subalpine meadow flora, mountain-bogs, mountain *Pinus sibiric*a taiga, larch forest and riverside meadows. Yamaalig is a granite island fissured with deep canyons isolated in rolling steppe, with many ancient burial sites. Aryskannyg Reserve descends from mountains to wet river valleys, reed beds and swamps, a diversity of habitats reflected in a rich flora and fauna. Tsugeer Els and Altan Els Reserves typify north-central Asian desert ecosystems, with remnant mountains, barchan lowlands and green oases. In the Altan sands a river mouth is fringed by pine, larch, sea buckthorn *Hippophae ramnoides*, and meadows. Tsugeer Els has remarkable sandy dune complexes ranging from bare shifting sand to dunes anchored by pea-shrubs.
+Ular Reserve in the Sangilen highlands has tundra plants above 2,300m, high subalpine meadow flora, mountain-bogs, mountain *Pinus sibirica* taiga, larch forest and riverside meadows. Yamaalig is a granite island fissured with deep canyons isolated in rolling steppe, with many ancient burial sites. Aryskannyg Reserve descends from mountains to wet river valleys, reed beds and swamps, a diversity of habitats reflected in a rich flora and fauna. Tsugeer Els and Altan Els Reserves typify north-central Asian desert ecosystems, with remnant mountains, barchan lowlands and green oases. In the Altan sands a river mouth is fringed by pine, larch, sea buckthorn *Hippophae ramnoides*, and meadows. Tsugeer Els has remarkable sandy dune complexes ranging from bare shifting sand to dunes anchored by pea-shrubs.
 
 Uvs Lake and Ubsu-Nur include the deltas of the Tesin-Gol and Torkhiologiin-Gol rivers where in places, desert comes down to the lake. The Tesin-Gol delta has five or six branches with meadows, salt meadows and other halophytic communities. This is the only place in Mongolia where a very rare lichen *Aspicilia esculenta* grows, in a narrow strip along the northeastern shore of Uvs Nuur. The Torkhiologiin-Gol delta consists of desert and salt flats, floating islands of vegetation and flood-plains forested predominantly with Siberian larch, Siberian spruce *Picea obovata* and laurel-leaved poplar *Populus laurifolia*, forming islands where colonies of migrating birds nest. The Oroku-Shinaa and Tes River Reserves higher up the floodplain lowlands of the Tesin-Gol have meadows, reed beds and sedge swamps vary attractive to migrating birds.
 
@@ -224,7 +231,7 @@ LOCAL ADDRESSES
 
 The Director, Ubsunur Hollow Preserve, Erzin, Tuva, Russian Federation.
 
-The Director, Uvs Nuur Basin Strictly Protected Areas Administration Center, Ulaangom, Uvs Aimag, Mongolia. uvsnuumagicnet.mn.
+The Director, Uvs Nuur Basin Strictly Protected Areas Administration Center, Ulaangom, Uvs Aimag, Mongolia. [uvsnuumagicnet.mn](mailto:uvsnuur@magicnet.mn).
 
 The Director, Uvs Nuur International Center for Biosphere Research, Internalionaya 1 I7A, Kyzyl, Tuva, Russian Federation. e-mail: <root@umc.tuva.su>.
 

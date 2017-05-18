@@ -1,12 +1,14 @@
-Title: St Kilda
-Tags: United Kingdom
+Title: ST KILDA
+Tags: UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
 Author: UNEP-WCMC
 Year: 1986
-Date: 2017-04-12 15:28:09
+Date: 2017-05-18 14:05:03
 
-### ST KILDA
+ST KILDA
+========
 
-### UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
+====================================================
 
 *The remote and scenically spectacular St Kilda archipelago has some of the highest cliffs in Europe, which provide a refuge for the most important colony of seabirds in the north-eastern Atlantic, and one of the major breeding sites for northern gannets, fulmars and puffins. The islands have preserved ecosystems intact for thousands of years virtually unchanged by man; also a well documented fossilised cultural landscape. The local Soay sheep is the most primitive domesticated animal in Europe, unchanged from Neolithic times. St Kilda is also of national importance for its geology, flora, other fauna, marine interest and old vernacular buildings.*
 
@@ -216,9 +218,7 @@ Ratcliffe,D. (1977). *A Nature Conservation Review: A Selaction of Biological Si
 
 RSPB Scotland (2005). Fears of poor breeding season confirmed. *RSPB News*, September
 
-Scottish Executive (2003). *Revised Nomination of St.Kilda for Inclusion in the World Heritage List.*
-
-\[Contains a very extensive bibliography.\]
+Scottish Executive (2003). *Revised Nomination of St.Kilda for Inclusion in the World Heritage List.* \[Contains a very extensive bibliography.\]
 
 Seton,G. (1878) *St Kilda Past and Present.* Edinburgh. Reprinted 2000, Birlinn, Edinburgh.
 

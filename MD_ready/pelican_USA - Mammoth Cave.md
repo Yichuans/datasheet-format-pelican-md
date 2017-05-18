@@ -1,12 +1,14 @@
-Title: Mammoth Cave National Park
-Tags: United States of America
+Title: MAMMOTH CAVE NATIONAL PARK
+Tags: UNITED STATES OF AMERICA
 Author: UNEP-WCMC
 Year: 1981
-Date: 2017-04-12 15:28:10
+Date: 2017-05-18 14:05:03
 
-######## MAMMOTH CAVE NATIONAL PARK 
+MAMMOTH CAVE NATIONAL PARK 
+===========================
 
-######## UNITED STATES OF AMERICA
+UNITED STATES OF AMERICA
+========================
 
 *Mammoth Cave National Park, in the state of Kentucky, is a karst limestone landscape with the world's longest and most faunistically diverse network of caves and underground passageways. The Park and its subterranean labyrinth of more than 550 surveyed kilometers of passageways host an unusual flora and fauna, including a large number of endangered cave-dependent species.*
 
@@ -25,7 +27,8 @@ NATURAL WORLD HERITAGE SITE
 
 1981: Inscribed on the World Heritage List under Natural Criteria vii, viii and x.
 
-#### STATEMENT OF OUTSTANDING UNIVERSAL VALUE \[pending\]
+STATEMENT OF OUTSTANDING UNIVERSAL VALUE \[pending\]
+----------------------------------------------------
 
 The UNESCO World Heritage Committee issued the following statement at the time of inscription:
 

@@ -2,7 +2,7 @@ Title: BANC D'ARGUIN NATIONAL PARK
 Tags: MAURITANIA
 Author: UNEP-WCMC
 Year: 1989
-Date: 2017-04-12 15:28:03
+Date: 2017-05-18 14:04:57
 
 BANC D'ARGUIN NATIONAL PARK 
 ============================
@@ -58,9 +58,20 @@ INTERNATIONAL DESIGNATION
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Banc d'Arguin National Park: II National Park
-
-*Cap Blanc Integral Reserve (Baie du Lévrier + Las Cuevecillas*): Ia Strict Nature Reserve
+<table>
+<thead>
+<tr class="header">
+<th align="left">Banc d'Arguin National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><em>Cap Blanc Integral Reserve (Baie du Lévrier + Las Cuevecillas</em>):</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------

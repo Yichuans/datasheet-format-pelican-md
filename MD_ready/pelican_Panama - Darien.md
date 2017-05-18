@@ -2,7 +2,7 @@ Title: DARIÉN NATIONAL PARK
 Tags: PANAMA
 Author: UNEP-WCMC
 Year: 1981
-Date: 2017-04-12 15:28:05
+Date: 2017-05-18 14:04:58
 
 DARIÉN NATIONAL PARK
 ====================
@@ -110,7 +110,8 @@ The extensive lowland forests bounded by isolated mountains are at the centre of
 
 Threatened lowland species include the Baudo oropendula *Psarocolius cassini* (EN), Choco tinamou *Crypturellis kerriae* (VU) and spiny-faced ant-shrike *Xenornis setifrons* (VU). Most mountain species are not threatened at present but their very small range sizes leave them vulnerable to disturbance (Stattersfield *et al*., 2000). 23% of the species found on the Serranía del Tacarcuna are endemic, for instance the Tacarcuna wood-quail *Odontophorus dialeucos* (VU), Tacarcuna tapaculo *Scytalopus panamensis* (VU), Tacarcuna bush-tanager *Chlorospingus tacarcunae,* and violet-capped hummingbird *Goldmania violiceps.* The Serranía de Pirre has the Pirre bush-tanager *Chlorospingus inornatus*, green-naped tanager *Tangara fucosa,* rufus-cheeked hummingbird *Geothalsia bella*, violet-capped hummingbird, beautiful tree-runner *Margarornis bellulus* and Pirre warbler *Basileuterus ignotus* (VU). Among the many reptiles are the Central American bushmaster *Lachesis stenophys*, Roatan coral snake *Micrurus ruatanus* (CR), the deadly fer-de-lance pit-viper *Bothrops asper,* cayman *Caiman crocodilus* and American crocodile *Crocodylus acutus* (VU). There are also many species of butterflies.
 
-**CONSERVATION VALUE**
+CONSERVATION VALUE
+------------------
 
 This is one of the world’s most species-rich areas of moist lowland-highland rainforest, with exceptional endemism over a broad range of taxa. It has a very wide variety of habitats, outstanding biodiversity and is culturally rich, with two Amerindian tribes living in the Park. It lies within a Conservation International-designated Conservation Hotspot, a WWF Global 200 Marine Eco-region, a WWF/IUCN Centre of Plant Diversity and in two of the world’s Endemic Bird Areas. It is also a UNESCO Biosphere Reserve.
 

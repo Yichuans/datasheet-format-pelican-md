@@ -2,7 +2,7 @@ Title: SOUTH CHINA KARST
 Tags: CHINA
 Author: UNEP-WCMC
 Year: 2007
-Date: 2017-04-12 15:28:07
+Date: 2017-05-18 14:05:00
 
  SOUTH CHINA KARST 
 ===================
@@ -76,23 +76,48 @@ INTERNATIONAL DESIGNATION
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Shilin National Park: Unassigned
-
-Zhangjiang National Scenic and Historic Area: Unassigned
-
-Furongjiang National Scenic and Historic Area: Unassigned
-
-Lijiang National Park II National Park
-
-Wuyanghe National Park II National Park
-
-Jinfoshan National Park II National Park
-
-Maolan National Nature Reserve: V Protected Landscape
-
-Mulun National Nature Reserve V Protected Landscape/ Seascape
-
-Jinfoshan National Nature Reserve V Protected Landscape/ Seascape
+<table>
+<thead>
+<tr class="header">
+<th align="left">Shilin National Park:</th>
+<th align="left">Unassigned</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Zhangjiang National Scenic and Historic Area:</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="even">
+<td align="left">Furongjiang National Scenic and Historic Area:</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="odd">
+<td align="left">Lijiang National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Wuyanghe National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Jinfoshan National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Maolan National Nature Reserve:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="odd">
+<td align="left">Mulun National Nature Reserve</td>
+<td align="left">V Protected Landscape/ Seascape</td>
+</tr>
+<tr class="even">
+<td align="left">Jinfoshan National Nature Reserve</td>
+<td align="left">V Protected Landscape/ Seascape</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -271,7 +296,8 @@ Jinfoshan: up to 2,238m a.s.l. (Fengcuiling)
 
 Huanjiang: 390m - 1,025m a.s.l.
 
-**PHYSICAL FEATURES**
+PHYSICAL FEATURES
+-----------------
 
 The serial property is spread across nearly 500,000 square kilometres of subtropical karst landscapes in southern and southwestern China (7.15% of the country’s area). This karst landscape is the product of a very thick sequence of hard compacted limestones and dolomite laid down during early Permian to Triassic periods 270 million years ago. The limestone platforms are situated at the junction of the Indian, the South China and the Pacific plates and are subject to tectonic movement. The continuous cycle of uplift, denudation, deposition and erosion over millions of years has resulted in an enormous range of karstic landscapes: knife-edge pinnacles, deep sharp fins (karren), towers, pillars, cones, gorges and caves, which are all still subject to erosion. The process also left an eloquent record in fossils from late Palaeozoic times on.
 

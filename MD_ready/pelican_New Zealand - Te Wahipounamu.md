@@ -2,7 +2,7 @@ Title: TE WAHIPOUNAMU – SOUTH WEST NEW ZEALAND
 Tags: NEW ZEALAND
 Author: UNEP-WCMC
 Year: 1990
-Date: 2017-04-12 15:28:04
+Date: 2017-05-18 14:04:58
 
 TE WAHIPOUNAMU – SOUTH WEST NEW ZEALAND
 =======================================
@@ -90,105 +90,380 @@ AREA
 
 National Park
 
-1\. Fiordland 1952 1,212,000 II
-
-2\. Mount Aspiring 1964 355,543 II
-
-3\. Aoraki/Mount Cook 1953 70,699 II
-
-4\. Westland/Tai Poutini 1960 117,547 II
+<table>
+<thead>
+<tr class="header">
+<th align="left">1.</th>
+<th align="left">Fiordland</th>
+<th align="left">1952</th>
+<th align="left">1,212,000</th>
+<th align="left">II</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">2.</td>
+<td align="left">Mount Aspiring</td>
+<td align="left">1964</td>
+<td align="left">355,543</td>
+<td align="left">II</td>
+</tr>
+<tr class="even">
+<td align="left">3.</td>
+<td align="left">Aoraki/Mount Cook</td>
+<td align="left">1953</td>
+<td align="left">70,699</td>
+<td align="left">II</td>
+</tr>
+<tr class="odd">
+<td align="left">4.</td>
+<td align="left">Westland/Tai Poutini</td>
+<td align="left">1960</td>
+<td align="left">117,547</td>
+<td align="left">II</td>
+</tr>
+</tbody>
+</table>
 
 Nature Reserve
 
-5\. Waitangiroto 1957/1976/1986 1,230 Ia
-
-6\. Wilderness 1964/1980 88 Ia
+<table>
+<thead>
+<tr class="header">
+<th align="left">5.</th>
+<th align="left">Waitangiroto</th>
+<th align="left">1957/1976/1986</th>
+<th align="left">1,230</th>
+<th align="left">Ia</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">6.</td>
+<td align="left">Wilderness</td>
+<td align="left">1964/1980</td>
+<td align="left">88</td>
+<td align="left">Ia</td>
+</tr>
+</tbody>
+</table>
 
 Scientific Reserve
 
-7\. Gorge Hill Pending 2,188 III
-
-8\. Ramparts 1972 4.5 Ia
-
-9\. Te Anau 1973 0.02 Ia
+<table>
+<thead>
+<tr class="header">
+<th align="left">7.</th>
+<th align="left">Gorge Hill</th>
+<th align="left">Pending</th>
+<th align="left">2,188</th>
+<th align="left">III</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">8.</td>
+<td align="left">Ramparts</td>
+<td align="left">1972</td>
+<td align="left">4.5</td>
+<td align="left">Ia</td>
+</tr>
+<tr class="even">
+<td align="left">9.</td>
+<td align="left">Te Anau</td>
+<td align="left">1973</td>
+<td align="left">0.02</td>
+<td align="left">Ia</td>
+</tr>
+</tbody>
+</table>
 
 Scenic Reserve
 
-10\. Jacobs River 1973 120 III
-
-11\. Karangarua Bridge 1950/1977 24 III
-
-12\. Lake Moeraki 1964 243 III
-
-13\. Lake Paringa 1950 307 III
-
-14\. Lake Rotokino 1930 255 III
-
-15\. Mahitahi 1952/1981 22 III
-
-16\. Okuru 1981 46 III
-
-17\. Paringa Bridge 1950/1968 103 III
-
-18\. Rohutu 1911/1974 492 III
-
-19\. Saltwater Lagoon 1928/1981 1,300 III
-
-20\. The Exile 1905 56 III
-
-21\. Toarona Creek 1978 97 III
-
-22\. Waitangitaona 1961 118 III
+<table>
+<thead>
+<tr class="header">
+<th align="left">10.</th>
+<th align="left">Jacobs River</th>
+<th align="left">1973</th>
+<th align="left">120</th>
+<th align="left">III</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">11.</td>
+<td align="left">Karangarua Bridge</td>
+<td align="left">1950/1977</td>
+<td align="left">24</td>
+<td align="left">III</td>
+</tr>
+<tr class="even">
+<td align="left">12.</td>
+<td align="left">Lake Moeraki</td>
+<td align="left">1964</td>
+<td align="left">243</td>
+<td align="left">III</td>
+</tr>
+<tr class="odd">
+<td align="left">13.</td>
+<td align="left">Lake Paringa</td>
+<td align="left">1950</td>
+<td align="left">307</td>
+<td align="left">III</td>
+</tr>
+<tr class="even">
+<td align="left">14.</td>
+<td align="left">Lake Rotokino</td>
+<td align="left">1930</td>
+<td align="left">255</td>
+<td align="left">III</td>
+</tr>
+<tr class="odd">
+<td align="left">15.</td>
+<td align="left">Mahitahi</td>
+<td align="left">1952/1981</td>
+<td align="left">22</td>
+<td align="left">III</td>
+</tr>
+<tr class="even">
+<td align="left">16.</td>
+<td align="left">Okuru</td>
+<td align="left">1981</td>
+<td align="left">46</td>
+<td align="left">III</td>
+</tr>
+<tr class="odd">
+<td align="left">17.</td>
+<td align="left">Paringa Bridge</td>
+<td align="left">1950/1968</td>
+<td align="left">103</td>
+<td align="left">III</td>
+</tr>
+<tr class="even">
+<td align="left">18.</td>
+<td align="left">Rohutu</td>
+<td align="left">1911/1974</td>
+<td align="left">492</td>
+<td align="left">III</td>
+</tr>
+<tr class="odd">
+<td align="left">19.</td>
+<td align="left">Saltwater Lagoon</td>
+<td align="left">1928/1981</td>
+<td align="left">1,300</td>
+<td align="left">III</td>
+</tr>
+<tr class="even">
+<td align="left">20.</td>
+<td align="left">The Exile</td>
+<td align="left">1905</td>
+<td align="left">56</td>
+<td align="left">III</td>
+</tr>
+<tr class="odd">
+<td align="left">21.</td>
+<td align="left">Toarona Creek</td>
+<td align="left">1978</td>
+<td align="left">97</td>
+<td align="left">III</td>
+</tr>
+<tr class="even">
+<td align="left">22.</td>
+<td align="left">Waitangitaona</td>
+<td align="left">1961</td>
+<td align="left">118</td>
+<td align="left">III</td>
+</tr>
+</tbody>
+</table>
 
 Private Protected Land
 
-23\. Chapman Reserve 1989 20 IV
+<table>
+<thead>
+<tr class="header">
+<th align="left">23.</th>
+<th align="left">Chapman Reserve</th>
+<th align="left">1989</th>
+<th align="left">20</th>
+<th align="left">IV</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 Wildlife Management Reserve
 
-24\. Diamond Lake/Lake Reid 1970 283 ?
-
-25\. Lake Pratt 1978 25 IV
-
-26\. Okarito Lagoon 1983 173 IV
-
-27\. White Heron Lagoon 1984 172 ?
+<table>
+<thead>
+<tr class="header">
+<th align="left">24.</th>
+<th align="left">Diamond Lake/Lake Reid</th>
+<th align="left">1970</th>
+<th align="left">283</th>
+<th align="left">?</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">25.</td>
+<td align="left">Lake Pratt</td>
+<td align="left">1978</td>
+<td align="left">25</td>
+<td align="left">IV</td>
+</tr>
+<tr class="even">
+<td align="left">26.</td>
+<td align="left">Okarito Lagoon</td>
+<td align="left">1983</td>
+<td align="left">173</td>
+<td align="left">IV</td>
+</tr>
+<tr class="odd">
+<td align="left">27.</td>
+<td align="left">White Heron Lagoon</td>
+<td align="left">1984</td>
+<td align="left">172</td>
+<td align="left">?</td>
+</tr>
+</tbody>
+</table>
 
 Ecological Area
 
-28\. Diggers Ridge 1982 4,235 ?
-
-29\. Lillburn 1982 2,670 ?
-
-30\. Saltwater Lagoon 1981/1984/1985 1,483 III
-
-31\. Oroko Swamp 1981 173 III
-
-32\. Waikoau 1983 329? III
+<table>
+<thead>
+<tr class="header">
+<th align="left">28.</th>
+<th align="left">Diggers Ridge</th>
+<th align="left">1982</th>
+<th align="left">4,235</th>
+<th align="left">?</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">29.</td>
+<td align="left">Lillburn</td>
+<td align="left">1982</td>
+<td align="left">2,670</td>
+<td align="left">?</td>
+</tr>
+<tr class="even">
+<td align="left">30.</td>
+<td align="left">Saltwater Lagoon</td>
+<td align="left">1981/1984/1985</td>
+<td align="left">1,483</td>
+<td align="left">III</td>
+</tr>
+<tr class="odd">
+<td align="left">31.</td>
+<td align="left">Oroko Swamp</td>
+<td align="left">1981</td>
+<td align="left">173</td>
+<td align="left">III</td>
+</tr>
+<tr class="even">
+<td align="left">32.</td>
+<td align="left">Waikoau</td>
+<td align="left">1983</td>
+<td align="left">329?</td>
+<td align="left">III</td>
+</tr>
+</tbody>
+</table>
 
 National Park Special Areas
 
-33\. Secretary Island 1973 8,890 Ia
-
-34\. Sinbad Gully Stream 1974 2,160 Ia
-
-35\. Solander Island 1973 120 Ia
-
-36\. Takahe Fiordland 1953 177,252 Ia
-
-37\. Slip Stream 1973 18,000 Ia
+<table>
+<thead>
+<tr class="header">
+<th align="left">33.</th>
+<th align="left">Secretary Island</th>
+<th align="left">1973</th>
+<th align="left">8,890</th>
+<th align="left">Ia</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">34.</td>
+<td align="left">Sinbad Gully Stream</td>
+<td align="left">1974</td>
+<td align="left">2,160</td>
+<td align="left">Ia</td>
+</tr>
+<tr class="even">
+<td align="left">35.</td>
+<td align="left">Solander Island</td>
+<td align="left">1973</td>
+<td align="left">120</td>
+<td align="left">Ia</td>
+</tr>
+<tr class="odd">
+<td align="left">36.</td>
+<td align="left">Takahe Fiordland</td>
+<td align="left">1953</td>
+<td align="left">77,252</td>
+<td align="left">Ia</td>
+</tr>
+<tr class="even">
+<td align="left">37.</td>
+<td align="left">Slip Stream</td>
+<td align="left">1973</td>
+<td align="left">18,000</td>
+<td align="left">Ia</td>
+</tr>
+</tbody>
+</table>
 
 National Park Wilderness Areas
 
-38\. Glaisnock 1974 124,800 Ib
-
-39\. Pembroke 1974 18,000 Ib
+<table>
+<thead>
+<tr class="header">
+<th align="left">38.</th>
+<th align="left">Glaisnock</th>
+<th align="left">1974</th>
+<th align="left">124,800</th>
+<th align="left">Ib</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">39.</td>
+<td align="left">Pembroke</td>
+<td align="left">1974</td>
+<td align="left">18,000</td>
+<td align="left">Ib</td>
+</tr>
+</tbody>
+</table>
 
 Wilderness Area (Conservation Land)
 
-40\. Hooker/Landsborough 1990 41,000 Ib
-
-41\. Olivine 1997 83,000 Ib
+<table>
+<thead>
+<tr class="header">
+<th align="left">40.</th>
+<th align="left">Hooker/Landsborough</th>
+<th align="left">1990</th>
+<th align="left">41,000</th>
+<th align="left">Ib</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">41.</td>
+<td align="left">Olivine</td>
+<td align="left">1997</td>
+<td align="left">83,000</td>
+<td align="left">Ib</td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE
 --------
@@ -272,9 +547,7 @@ MANAGEMENT CONSTRAINTS
 
 The greatest negative environmental impacts have been and are still caused by introduced browsing and predatory mammals, especially the possum and stoat which threatens the two locally endemic species of kiwi. Having evolved in isolation from such animals, native species have few defences against them and several have become extinct. Population increases of red deer in the 1940s and 1950s, threatened the integrity of the forest and alpine ecosystems by over-browsing. They are now controlled by hunting which removes about 12,000 animals a year. Other browsers, such as wapiti, fallow deer, goat, chamois and thar, have more restricted distributions but cause equally severe damage in places. Numbers of all these species fell sharply after the advent of commercial hunting from helicopters, with a corresponding recovery of the vegetation, particularly in open alpine areas. However, Australian brush‑tailed possum has caused severe mortality in montane *rata/kamahi* forests in the north and are still extending their range into previously possum‑free areas such as the Haast district. They are being controlled with poisoned bait. Introduced mustelids and rats have had a devastating impact on indigenous bird life. Rabbit populations affect some grasslands on the eastern side of the World Heritage area. Species have become extinct and most bird populations have been greatly reduced. Lately, infestation by Himalayan thar from outside the site has divided opinion between a successful government cull of half the population to protect the vegetation and the strategy of a long-term cull preferred by hunters (UNESCO, 2000).
 
-Unlike the rest of the country, exotic weeds are not a major problem, being mainly confined to disturbed sites, with the exception of hawkweed *Hieracium* spp., which has invaded 80% of the inter-tussock vegetation. Others are gorse, marram grass which is widespread in south Westland and willow which is a potential threat to streams but at present is easily controlled. However, with a temperature rise of 3°C with climatic warming over the next century, some 200-300 (33-50%) of the 650 indigenous alpine species of the country may become endangered or even become extinct by 2100 as a result of forest encroachment, habitat fragmentation, alien species invasion and direct climatic effects. The coastal Waitutu forest, on the Park's southern boundary, and the west coast lowland forests were logged and threatened by logging in the 1990s on lands where native cutting rights were observed. After government intervention to save the forest under the Resource Management Act a voluntary moratorium on logging began in 1999, which provided a payment in exchange for forest protection, extended to 2005, to allow time for Maori owners under the 1906 South Island Landless Native Act to
-
-consider the options for the future of their forests.
+Unlike the rest of the country, exotic weeds are not a major problem, being mainly confined to disturbed sites, with the exception of hawkweed *Hieracium* spp., which has invaded 80% of the inter-tussock vegetation. Others are gorse, marram grass which is widespread in south Westland and willow which is a potential threat to streams but at present is easily controlled. However, with a temperature rise of 3°C with climatic warming over the next century, some 200-300 (33-50%) of the 650 indigenous alpine species of the country may become endangered or even become extinct by 2100 as a result of forest encroachment, habitat fragmentation, alien species invasion and direct climatic effects. The coastal Waitutu forest, on the Park's southern boundary, and the west coast lowland forests were logged and threatened by logging in the 1990s on lands where native cutting rights were observed. After government intervention to save the forest under the Resource Management Act a voluntary moratorium on logging began in 1999, which provided a payment in exchange for forest protection, extended to 2005, to allow time for Maori owners under the 1906 South Island Landless Native Act to consider the options for the future of their forests.
 
 International visitor numbers increased at over 10% a year in the early 1990s. Numbers of hikers on the three most popular tracks, Milford, Kepler and Routeburn also increased. These tracks are managed as ‘Great Walks’ and for two of them, Routeburn and Milford, it is now necessary to book. Two of the most popular visitor destinations, Mt Cook and Milford Sound, have also experienced considerable international growth and overcrowding can occur, aggravated by the sound of frequent overflights. Facilities at Milford were redeveloped to cope with the growth, but Mt Cook village was already under increasing pressure from visitor numbers in 1995 (DoC, pers. comm., 1995). A major underground hydro‑electric power station is situated under the western extremity of Lake Manapouri: associated high voltage transmission lines and roads have considerable but localised impacts.
 

@@ -2,7 +2,7 @@ Title: PUTORANA PLATEAU
 Tags: RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 2010
-Date: 2017-04-12 15:28:06
+Date: 2017-05-18 14:04:59
 
 PUTORANA PLATEAU
 ================
@@ -177,11 +177,11 @@ The main bases for comparison with similar existing World Heritage sites are:
 
 \(ix) the importance of its ecological processes displayed in:
 
-> ۰ the relative diversity of its sub-arctic ecosystems, and microhabitats derived from a marginal biogeographic position between taiga and tundra, humid and continental regimes;
+-   the relative diversity of its sub-arctic ecosystems, and microhabitats derived from a marginal biogeographic position between taiga and tundra, humid and continental regimes;
 
-۰ the existing integrity of the mountains, preserved by their inaccessibility.
+-   the existing integrity of the mountains, preserved by their inaccessibility.
 
-> ۰ the relatively high floristic diversity for its latitude, accelerated sub-speciation and the presence of the Putorana snow sheep.
+-   the relatively high floristic diversity for its latitude, accelerated sub-speciation and the presence of the Putorana snow sheep.
 
 The greatest singularity of this undisturbed dissected basalt plateau is in its location well above the Arctic Circle between taiga and tundra ecosystems, and the marked longitudinal difference between its humid western and continental eastern sides, with consequent biogeographic variety. The prominent because unvegetated step or trappe erosion into deep canyons of the basalt layers of the plateau is hardly paralleled by other basaltic World Heritage sites such as the Giant’s Causeway, Iguaçu and Mosi-oa-Tunya Falls, Simien in Ethiopia or the Central Eastern Australian Rainforest sites along eastern Australia’s Great Escarpment which are largely single scarps. The undisturbed unvegetated subarctic Ilulissat and Wrangel Island sites are not very comparable, Ilulissat being almost totally glacial and Wrangel a sedimentary range of barren tundra. Cold temperate sites where the vegetation runs from boreal forest to subarctic tundra at high elevations include the Laponian Area in Sweden, the Virgin Komi Forests in Siberia, the West Norwegian Fjords, the Kluane complex in Alaska and the Yukon, and the Volcanoes of Kamchatka. But any similar fjord-like lake forms are glacial in origin (as is Los Glaciares in Argentina) not tectonic, Komi is a karst range and the Kamchatkan volcanoes are explosive not extrusive in origin. Although Putorana is a large site twice the size of the Laponian Area, it is still only 20% of the size of the Kluane complex, 40% that of the Kamchatka and Wood Buffalo Parks and 60% of the area of the Komi Forests. The remaining sites by comparison are all far smaller. There is no doubt of Putorana’s regional importance for its scenery and biota, and as strictly comparable sub-Arctic World Heritage sites are few, relatively greater emphasis might rest on the globally representative quality of its tectonic and trappe geology and its biogeographic location.
 

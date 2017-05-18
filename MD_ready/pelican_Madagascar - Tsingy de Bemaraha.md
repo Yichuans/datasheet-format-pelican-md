@@ -2,7 +2,7 @@ Title: TSINGY DE BEMARAHA STRICT NATURE RESERVE
 Tags: MADAGASCAR
 Author: UNEP-WCMC
 Year: 1990
-Date: 2017-04-12 15:28:03
+Date: 2017-05-18 14:04:56
 
 TSINGY DE BEMARAHA STRICT NATURE RESERVE 
 =========================================
@@ -33,9 +33,20 @@ STATEMENT OF OUTSTANDING UNIVERSAL VALUE \[pending\]
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Tsingy de Bemaraha Strict Nature Reserve Ia Strict Nature Reserve
-
-Tsingy de Bemaraha National Park: II National Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Tsingy de Bemaraha Strict Nature Reserve</th>
+<th align="left">Ia Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Tsingy de Bemaraha National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -91,9 +102,9 @@ Madagascar’s flora is rich, especially in endemic species: 430 species of plan
 FAUNA 
 ------
 
-Madagascar has a relatively low number of mammal and bird species but among these there is a very high degree of endemism. The fauna of the region has not been studied in detail and further study may reveal more species. The catlike viverrid fossa [*Cryptoprocta ferox*](http://www.redlist.org/search/details.php?species=5760) (EN) with 11 species of lemur, 13 amphibians and 50 reptiles are found in the area. The 11 or more species of lemur include Van der Decken’s sifaka *Propithecus deckenii* (VU), Coquerel’s mouse-lemur *Mirza coquereli*, western woolly lemur *Avahi occidentalis* (EN), western gentle lemur *Hapalemur griseus occidentalis* (VU), pale fork-marked lemur *Phaner pallescens,* red-brown lemur *Eulemur rufus,* Milne-Edwards sportive lemur [*Lepilemur edwardsi*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Lepilemur&SpcName=edwardsi) (VU), fat-tailed dwarf lemur *Cheirogaleus medius* and grey mouse-lemur *Microcebus murinus*. There is an unconfirmed report of aye-aye [*Daubentonia madagascariensis*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Daubentonia&SpcName=madagascariensis) being seen just outside the reserve near Bekopaka. Other species include the Malagasy ringtailed mongoose *Galidia elegans occidentalis* and the endemic nesomyine rodent *Nesomys rufus lambertoni*, a subspecies which may warrant full species status since Tsingy is the only protected area where it is known. It is also the only known location for the Antsingy leaf chameleon [*Brookesia perarmata*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Brookesia&SpcName=perarmata) (VU), recorded from a few specimens only and threatened by habitat destruction and poaching for sale.
+Madagascar has a relatively low number of mammal and bird species but among these there is a very high degree of endemism. The fauna of the region has not been studied in detail and further study may reveal more species. The catlike viverrid fossa [*Cryptoprocta ferox*](http://www.redlist.org/search/details.php?species=5760) (EN) with 11 species of lemur, 13 amphibians and 50 reptiles are found in the area. The 11 or more species of lemur include Van der Decken’s sifaka *Propithecus deckenii* (VU), Coquerel’s mouse-lemur *Mirza coquereli*, western woolly lemur *Avahi occidentalis* (EN), western gentle lemur [*Hapalemur griseus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Hapalemur&SpcName=griseus) *occidentalis* (VU), pale fork-marked lemur *Phaner pallescens,* red-brown lemur *Eulemur rufus,* Milne-Edwards sportive lemur [*Lepilemur edwardsi*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Lepilemur&SpcName=edwardsi) (VU), fat-tailed dwarf lemur *Cheirogaleus medius* and grey mouse-lemur *Microcebus murinus*. There is an unconfirmed report of aye-aye [*Daubentonia madagascariensis*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Daubentonia&SpcName=madagascariensis) being seen just outside the reserve near Bekopaka. Other species include the Malagasy ringtailed mongoose *Galidia elegans occidentalis* and the endemic nesomyine rodent [*Nesomys rufus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Nesomys&SpcName=rufus) *lambertoni*, a subspecies which may warrant full species status since Tsingy is the only protected area where it is known. It is also the only known location for the Antsingy leaf chameleon [*Brookesia perarmata*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Brookesia&SpcName=perarmata) (VU), recorded from a few specimens only and threatened by habitat destruction and poaching for sale.
 
-90 species of bird are known from the site, 39 being endemic to Madagascar (PNM, 2000). They include the Madagascar fish-eagle *Haliaeetus vociferoides* (CR), Madagascar harrier *Circus macrosceles* (VU), Madagascar marsh harrier *C. maillardi* (EN), Madagascar sparrowhawk, *Accipiter madagascariensis*, Henst’s goshawk *Accipiter henstii* and Schlegel’s philipitta *Philipitta schlegeli*, giant coua *Coua gigas*, Coquerel’s coua *C. coquereli*, redcapped coua *C. ruficeps* and sickle-billed vanga *Falculea palliata*. This is the only western dry forest site known for the grey-throated rail *Canirallus kioloides*. Occasional visitors to the river valleys from the wetlands just west of Bemaraha might include Madagascar grebe *Tachybaptus pelzelnii* (VU), Madagascar heron *Ardea humbloti* (EN), Madagascar pond-heron *Ardeola idae* (EN), Madagascar crested ibis *Lophotibis cristata* and Madagascar teal *Anas bernieri* (EN).
+90 species of bird are known from the site, 39 being endemic to Madagascar (PNM, 2000). They include the Madagascar fish-eagle *Haliaeetus vociferoides* (CR), Madagascar harrier *Circus macrosceles* (VU), Madagascar marsh harrier *C. maillardi* (EN), Madagascar sparrowhawk, *Accipiter madagascariensis*, Henst’s goshawk *Accipiter henstii* and Schlegel’s philipitta *Philipitta schlegeli*, giant coua *Coua gigas*, Coquerel’s coua *C. coquereli*, redcapped coua *C. ruficeps* and sickle-billed vanga *Falculea palliata*. This is the only western dry forest site known for the grey-throated rail [*Canirallus kioloides*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Canirallus&SpcName=kioloides). Occasional visitors to the river valleys from the wetlands just west of Bemaraha might include Madagascar grebe *Tachybaptus pelzelnii* (VU), Madagascar heron *Ardea humbloti* (EN), Madagascar pond-heron *Ardeola idae* (EN), Madagascar crested ibis *Lophotibis cristata* and Madagascar teal *Anas bernieri* (EN).
 
 CONSERVATION VALUE 
 -------------------
@@ -132,7 +143,7 @@ Despite the age of the Reserve, no comprehensive resource inventory is available
 STAFF
 -----
 
-The *Chef de la Réserv*e lives in Antsalova. At least one auxiliary guard lives in Bekopaka.
+The *Chef de la Réserve* lives in Antsalova. At least one auxiliary guard lives in Bekopaka.
 
 BUDGET
 ------

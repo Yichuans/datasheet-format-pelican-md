@@ -2,7 +2,7 @@ Title: PIRIN NATIONAL PARK
 Tags: BULGARIA
 Author: UNEP-WCMC
 Year: 1983
-Date: 2017-04-12 15:27:56
+Date: 2017-05-18 14:04:49
 
 PIRIN NATIONAL PARK
 ===================
@@ -70,13 +70,30 @@ IUCN MANAGEMENT CATEGORY
 
 Pirin National Park II National Park
 
-Includes: Yulen Reserve Ib Strict Nature Reserve
+Includes:
 
-> Bayuvi Dupki-Dzindziritza Reserve Ib Strict Nature Reserve
->
-> Tissata Strict Nature Reserve Ib Strict Nature Reserve
->
-> Malka Djindjiritza-Segmentepe Unassigned
+<table>
+<thead>
+<tr class="header">
+<th align="left">Yulen Reserve</th>
+<th align="left">Ib Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Bayuvi Dupki-Dzindziritza Reserve</td>
+<td align="left">Ib Strict Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Tissata Strict Nature Reserve</td>
+<td align="left">Ib Strict Nature Reserve</td>
+</tr>
+<tr class="odd">
+<td align="left">Malka Djindjiritza-Segmentepe</td>
+<td align="left">Unassigned</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------

@@ -2,7 +2,7 @@ Title: ICHKEUL NATIONAL PARK
 Tags: TUNISIA
 Author: UNEP-WCMC
 Year: 1980
-Date: 2017-04-12 15:28:09
+Date: 2017-05-18 14:05:02
 
 ICHKEUL NATIONAL PARK
 =====================
@@ -140,7 +140,8 @@ The herpetofauna varies with water level and salinity. The marsh frog *Rana ribi
 
 The site has internationally important Pleistocene (Villafranchian) fossil deposits in late Tertiary and early Quaternary outcrops on the northern shore. They include unique assemblages of mammal remains, notably hominid and primate records, but also bones of *Elaphas planifrons*, *Stylohipparion libycum*, *Libytherium maurusium*, *Anacus osiris*, *Testudo gigans* and *T. emys* (Arambourg and Arnould, 1949; OMN, 1976).
 
-**CONSERVATION VALUE**
+CONSERVATION VALUE 
+-------------------
 
 Garaet Ichkeul is the last of a chain of lakes which used to extend across the north African littoral and one of the four most important remaining wetlands in the western Mediterranean. It has been designated a Ramsar Wetland and lies within a WWF Global 200 Ecoregion, a Conservation International-designated Hotspot and a UNESCO Biosphere Reserve. The National Park was created to safeguard this wetland with its diversity of terrestrial and aquatic ecosystems. The lake and marshes are of particular importance for the extremely high numbers of wintering Palaearctic waterfowl which still totalled over 90,000 in 1999/2000 and included globally threatened species (Baccar *et al*., 2000). The Park also protects important fossil mammal deposits and is scenically beautiful.
 
@@ -212,9 +213,7 @@ Arambourg, C. & Arnould, M. (1949). Notes sur les fouilles paléontologiques ex�
 
 Baccar, H. (1982). *The Role of Ichkeul National Park in Conserving Genetic Resources.* Report for the Commission on National Parks and Protected Areas/IUCN.
 
-Baccar, L.,Smart, M.,Tiega, A & Triplet, P.(2000). *Report on a Mission to Ichkeul National Park*, *28 Feb.-*
-
-*4 March, 2000*. Ramsar Advisory Mission Report No.41.Ramsar Convention Bureau.
+Baccar, L.,Smart, M.,Tiega, A & Triplet, P.(2000). *Report on a Mission to Ichkeul National Park*, *28 Feb.- 4 March, 2000*. Ramsar Advisory Mission Report No.41.Ramsar Convention Bureau.
 
 Bel Hadk Kacem, S. (1985). *La Conservation de la Faune et de la Flore Sauvages en Tunisie.* Seminaire sur la Conservation du Patrimoine Forestier National, Octobre 1985 à l'INPPSA de Sidi-Thabet.
 

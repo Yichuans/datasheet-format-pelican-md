@@ -1,14 +1,11 @@
-Title: Coiba National Park and its Special Zone of Marine Protection
-Tags: Panama
+Title: COIBA NATIONAL PARK & ITS SPECIAL ZONE OF MARINE PROTECTION
+Tags: PANAMA
 Author: UNEP-WCMC
 Year: 2005
-Date: 2017-04-12 15:28:05
+Date: 2017-05-18 14:04:58
 
-COIBA NATIONAL PARK &
-=====================
-
-ITS SPECIAL ZONE OF MARINE PROTECTION
-=====================================
+COIBA NATIONAL PARK & ITS SPECIAL ZONE OF MARINE PROTECTION
+===========================================================
 
 PANAMA
 ======

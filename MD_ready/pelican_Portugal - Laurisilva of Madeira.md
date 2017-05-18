@@ -2,7 +2,7 @@ Title: LAURISILVA OF MADEIRA
 Tags: PORTUGAL
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-12 15:28:05
+Date: 2017-05-18 14:04:59
 
 LAURISILVA OF MADEIRA 
 ======================
@@ -59,11 +59,24 @@ Adequate staff and resources are in place and need to be maintained in the long 
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Laurisilva of Madeira (half): Ia Strict Nature Reserve
-
-Laurisilva of Madeira (half): II Partial Nature Reserve
-
-Madeira Nature Park: V Protected Landscape/Seascape
+<table>
+<thead>
+<tr class="header">
+<th align="left">Laurisilva of Madeira (half):</th>
+<th align="left">Ia Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Laurisilva of Madeira (half):</td>
+<td align="left">II Partial Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Madeira Nature Park:</td>
+<td align="left">V Protected Landscape/Seascape</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------

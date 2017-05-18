@@ -1,12 +1,14 @@
-Title: Henderson Island
-Tags: United Kingdom of Great Britain,Northern Irel,
+Title: HENDERSON ISLAND
+Tags: UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
 Author: UNEP-WCMC
 Year: 1988
-Date: 2017-04-12 15:28:09
+Date: 2017-05-18 14:05:02
 
-#### HENDERSON ISLAND
+HENDERSON ISLAND
+================
 
-#### UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
+====================================================
 
 *Henderson Island in the southeastern Pacific Ocean is the world’s only raised atoll where the ecology is essentially intact, having been little degraded because of its extreme isolation and rough terrain. Its fossil corals record changes in sea levels and the climate over half a million years and its isolation makes it an ideal site for studying the dynamics of island evolution and natural selection. It is notable for ten plants and four land birds endemic to the island and for its evidence of long past Polynesian occupation.*
 
@@ -61,9 +63,6 @@ AREA
 ----
 
 Land area 3,700 ha
-
-**\
-**
 
 ALTITUDE
 ------------
@@ -157,15 +156,11 @@ Benton, T. & Spenser, T. (eds) (1995). *The Pitcairn Islands, Biogeography, Ecol
 
 Blake, S. (1995). Late Quaternary history of Pitcairn Island, Pitcairn Group. *Biol.J.Linn.Soc* .56: 43-62.
 
-Bourne, W. & David,A. (1983). Henderson Island, Central South Pacific and its birds.*Notornis* 30:
-
-233-52.
+Bourne, W. & David,A. (1983). Henderson Island, Central South Pacific and its birds.*Notornis* 30: 233-52.
 
 ---------- (1986). Henderson Island. Letter to *Nature* 322: 302.
 
-Brooke, M.,Hepburn, I. & Trevelyan, R. (2004). *Henderson Island World Heritage Site. Management Plan 2004-2009*. Foreign and Commonwealth Office / Pitcairn Islands Administration/ JNCC, U.K.36 pp.
-
-*\[*Bibliographies contain 58 references\] [www.ukotcf.org/pdf/Henderson.pdf](http://www.ukotcf.org/pdf/Henderson.pdf)
+Brooke, M.,Hepburn, I. & Trevelyan, R. (2004). *Henderson Island World Heritage Site. Management Plan 2004-2009*. Foreign and Commonwealth Office / Pitcairn Islands Administration/ JNCC, U.K.36 pp. *\[*Bibliographies contain 58 references\] [www.ukotcf.org/pdf/Henderson.pdf](http://www.ukotcf.org/pdf/Henderson.pdf)
 
 Brooke, M. (1992). *Sir Peter Scott Commemorative Expedition to the Pitcairn Islands 1991-1992*. Expedition Report. 52 pp.
 
@@ -179,9 +174,7 @@ Foreign & Commonwealth Office (FCO) (1995). *Henderson Island Management Discuss
 
 Fosberg, F., Paulay G., Spencer T. & Oliver R. (1989). New collections and notes on the plants of Henderson, Pitcairn, Oeno and Ducie islands. *Atoll Research Bulletin*, 329: 1-18.
 
-Fosberg, F.& Sachet, M-H. (1984). Henderson Island saved. *Environmental Conservation* 11(2):
-
-183-184.
+Fosberg, F.& Sachet, M-H. (1984). Henderson Island saved. *Environmental Conservation* 11(2): 183-184.
 
 ------------ (1983). Henderson Island threatened. *Environmental Conservation* 10 (2): 171-173.
 
@@ -205,9 +198,7 @@ Paulay, G. (1989). Marine invertebrates of the Pitcairn Islands: species composi
 
 Randall, J. (1999). Report on fish collections from the Pitcairn Islands. *Atoll Res.Bull.* 461:1-36.
 
-St John, H. & Philipson, W. (1962). An account of the flora of Henderson Island, South Pacific Ocean. *Transactions of the Royal Society of New Zealand* 1:
-
-175-194.
+St John, H. & Philipson, W. (1962). An account of the flora of Henderson Island, South Pacific Ocean. *Transactions of the Royal Society of New Zealand* 1: 175-194.
 
 Serpell, J., Collar, N., Davis, S. & Wells, S. (1983). *Submission to the Foreign and Commonwealth Office on the Future Conservation of Henderson Island in the Pitcairn Group*. Unpublished report for WWF-UK, IUCN & ICBP with 24 letters attached opposing any policy of settlement on the island.
 
@@ -223,9 +214,7 @@ UNEP/IUCN (1988). *Coral Reefs of the World*. Volume 3. *Central and Western Pac
 
 UNESCO World Heritage Committee (2010). *Report of the 34th Session of the Committee*. Paris.
 
-Waldren S., Florence J. & Chepstow-Lusty A.J. (1995). Rare and endemic vascular plants of the Pitcairn group, south-central Pacific Ocean: a conservation appraisal. *Biological Conservation*,
-
-74: 83-98.
+Waldren S., Florence J. & Chepstow-Lusty A.J. (1995). Rare and endemic vascular plants of the Pitcairn group, south-central Pacific Ocean: a conservation appraisal. *Biological Conservation*, 74: 83-98.
 
 Weisler, M. (1995). Henderson Island prehistory: colonisation and extinction a remote Polynesian island. *Biol.J.Linn.Soc.* 56: 377-404.
 

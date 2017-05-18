@@ -1,14 +1,14 @@
 Title: DORSET AND EAST DEVON COAST
-Tags: UNITED KINGDOM OF GREAT BRITAIN AND NORTHEN IRELAND
+Tags: UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
 Author: UNEP-WCMC
 Year: 2001
-Date: 2017-04-12 15:28:09
+Date: 2017-05-18 14:05:02
 
 DORSET AND EAST DEVON COAST
 ===========================
 
-UNITED KINGDOM OF GREAT BRITAIN AND NORTHEN IRELAND
-===================================================
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
+====================================================
 
 *The succession of rocks displayed in the cliffs between Lyme Regis and Swanage is one of the finest marine Jurassic rock sections in the world. With the east Devon coast, they provide an almost continuous sequence of Triassic, Jurassic and Cretaceous rocks which document approximately 185 million years of Earth’s history. The important vertebrate and invertebrate, marine and terrestrial fossil sites and geomorphologic features of the coast preserve excellent evidence of life during Mesozoic times and have contributed to the study of the earth sciences for over 200 years.*
 
@@ -49,24 +49,39 @@ The property has strong legal protection, a clear management framework and the s
 INTERNATIONAL DESIGNATIONS
 --------------------------
 
-1987: Chesil Beach and The Fleet designated a Ramsar Wetland of International Importance
-
-(748 ha);
+1987: Chesil Beach and The Fleet designated a Ramsar Wetland of International Importance (748 ha);
 
 1992: The Exe Estuary designated a Ramsar Wetland of International Importance (2,346 ha).
 
 IUCN MANAGEMENT CATEGORY 
 -------------------------
 
-East Devon Area of Outstanding Natural Beauty: V Protected Landscape/Seascape
-
-Dorset Area of Outstanding Natural Beauty: V Protected Landscape/Seascape
-
-East Devon Heritage Coast: V Protected Landscape/Seascape
-
-Purbeck Heritage Coast: V Protected Landscape/Seascape
-
-Axmouth-Lyme Regis Undercliffs National Nature Reserve: IV Habitat/Species Management Area
+<table>
+<thead>
+<tr class="header">
+<th align="left">East Devon Area of Outstanding Natural Beauty:</th>
+<th align="left">V Protected Landscape/Seascape</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Dorset Area of Outstanding Natural Beauty:</td>
+<td align="left">V Protected Landscape/Seascape</td>
+</tr>
+<tr class="even">
+<td align="left">East Devon Heritage Coast:</td>
+<td align="left">V Protected Landscape/Seascape</td>
+</tr>
+<tr class="odd">
+<td align="left">Purbeck Heritage Coast:</td>
+<td align="left">V Protected Landscape/Seascape</td>
+</tr>
+<tr class="even">
+<td align="left">Axmouth-Lyme Regis Undercliffs National Nature Reserve:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -175,9 +190,7 @@ SCIENTIFIC RESEARCH AND FACILITIES
 
 The geology and geomorphology of this coast have known over 200 years of scientific study and the geology of the coast was first mapped during the 1820s. Many early earth science theories were first developed along the Dorset coast, while the fossils, particularly from the Lyme Regis area, provided early clues that fuelled the debate between creationist theology and evolutionary theory. Some divisions of geological time derive their names from locations in Dorset such as the Kimmeridgian stage of the Mesozoic, applied throughout the world to rocks of the same age as those at Kimmeridge. Other such terms are the Portlandian and Purbeckian stages. Some local people have played key roles in the development of geological science, notably Mary Anning who in the 1810-20s discovered and extracted the first complete fossil specimens of marine reptiles, ichthyosaurs and plesiosaurs and the first pterodactyl in Britain from the beaches of Lyme Regis. Anning worked with the leading scientists of the day, including Henry De la Beche, who became the first director of the British Geological Survey of Great Britain, and the Rev. William Buckland who became the first professor of Geology at Oxford University. Other scientists renowned for their knowledge and scientific discoveries in the area include Sir Richard Owen, Baron Georges Cuvier and Sir Everard Home. Fossil specimens from the coast are found throughout the world’s museums.
 
-The continually collapsing cliff faces of the coastline around Charmouth are one of the most studied and scientifically rewarding areas in England and the world for studying [Jurassic](http://www.dictionary.com/cgi-bin/dict.pl?term=jurassic) paleontology, stratigraphy and geomorphology, and for collecting Jurassic and [Cretaceous](http://www.dictionary.com/cgi-bin/dict.pl?term=Cretaceous) fossils. The area has been thoroughly resurveyed by the British Geological Survey since 1995 and a new series of detailed maps was published in 2000 and 2001. There is also an exceptional sub-surface database as a result of onshore and offshore oil exploration since the 1930s. It is therefore important as a training ground for petroleum geologists as the rock succession presents a complete section through an oil basin. Combined with easy access to the site and a wide range of visitor facilities, have made the area is an exceptional teaching and training resource. Over 200,000 residential educational visitors visit the area annually. Thousands of scientific papers have been published on the area and leading-edge graduate
-
-and post-doctoral earth science research continues in the site today.
+The continually collapsing cliff faces of the coastline around Charmouth are one of the most studied and scientifically rewarding areas in England and the world for studying [Jurassic](http://www.dictionary.com/cgi-bin/dict.pl?term=jurassic) paleontology, stratigraphy and geomorphology, and for collecting Jurassic and [Cretaceous](http://www.dictionary.com/cgi-bin/dict.pl?term=Cretaceous) fossils. The area has been thoroughly resurveyed by the British Geological Survey since 1995 and a new series of detailed maps was published in 2000 and 2001. There is also an exceptional sub-surface database as a result of onshore and offshore oil exploration since the 1930s. It is therefore important as a training ground for petroleum geologists as the rock succession presents a complete section through an oil basin. Combined with easy access to the site and a wide range of visitor facilities, have made the area is an exceptional teaching and training resource. Over 200,000 residential educational visitors visit the area annually. Thousands of scientific papers have been published on the area and leading-edge graduate and post-doctoral earth science research continues in the site today.
 
 MANAGEMENT 
 -----------
@@ -194,9 +207,7 @@ The South-West Coast Path strategy guides the management, promotion and conserva
 MANAGEMENT CONSTRAINTS 
 -----------------------
 
-The large number of visitors has resulted in pressures on the site especially during the summer months, though numbers at other times of the year continue to increase annually. Vegetation and path erosion as well as wildlife disturbance are the primary impacts. There is also a need for active visitor management after events such as the Black Ven landslide in 2008 and the wreck of the 62,000-ton container ship MSC Napoli in Lyme Bay in 2007 which was deliberately beached to avoid a catastrophic wreck and oil spill. The public immediately moved in to collect fossils and valuable flotsam. There are also two areas in the site at Portland and Charlton Bay where permissions for
-
-mineral extraction have been granted.
+The large number of visitors has resulted in pressures on the site especially during the summer months, though numbers at other times of the year continue to increase annually. Vegetation and path erosion as well as wildlife disturbance are the primary impacts. There is also a need for active visitor management after events such as the Black Ven landslide in 2008 and the wreck of the 62,000-ton container ship MSC Napoli in Lyme Bay in 2007 which was deliberately beached to avoid a catastrophic wreck and oil spill. The public immediately moved in to collect fossils and valuable flotsam. There are also two areas in the site at Portland and Charlton Bay where permissions for mineral extraction have been granted.
 
 STAFF 
 ------
@@ -227,9 +238,7 @@ East Devon AONB Countryside & Heritage Division, County Engineer and Planning De
 
 Devon County Council, County Hall, Exeter. Devon. EX2 4QQ
 
-Devon County Council, Environment Directorate, Lucombe House, County Hall, Topsham Road,
-
-Exeter, Devon. EX2 4QW, UK.
+Devon County Council, Environment Directorate, Lucombe House, County Hall, Topsham Road, Exeter, Devon. EX2 4QW, UK.
 
 The National Trust, Headquarters, 36 St Anne's Gate, London. SW1H 9AS.
 

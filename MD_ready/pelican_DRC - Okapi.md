@@ -2,7 +2,7 @@ Title: OKAPI WILDLIFE RESERVE
 Tags: DEMOCRATIC REPUBLIC OF THE CONGO
 Author: UNEP-WCMC
 Year: 1996
-Date: 2017-04-12 15:27:59
+Date: 2017-05-18 14:04:52
 
 OKAPI WILDLIFE RESERVE
 ======================
@@ -210,9 +210,7 @@ Draulens, D. & van Krunkelsven, E. (2002). The impact of war on forest areas in 
 
 Foldvary, F. (2001). Editorial update on pygmies and tantalum. *The Progress Report,* Philadephia, U.S.A.
 
-Foose, T. (1978). Demographic and genetic models and management for the okapi (*Okapia johnstoni*) in captivity. *Zoologica et Pathologica*, Antwerpen, Belgium,
-
-pp 119-195.
+Foose, T. (1978). Demographic and genetic models and management for the okapi (*Okapia johnstoni*) in captivity. *Zoologica et Pathologica*, Antwerpen, Belgium, pp 119-195.
 
 Hart, J. & Hart, T. (1984). *The Current Status of the Ituri Forest of Zaire: an Overview*. Report to the U.S. Man & Biosphere Program.
 

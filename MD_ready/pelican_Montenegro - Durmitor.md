@@ -2,7 +2,7 @@ Title: DURMITOR NATIONAL PARK
 Tags: MONTENEGRO
 Author: UNEP-WCMC
 Year: 1980
-Date: 2017-04-12 15:28:04
+Date: 2017-05-18 14:04:57
 
 DURMITOR NATIONAL PARK
 ======================
@@ -105,7 +105,7 @@ FAUNA
 CONSERVATION VALUE 
 -------------------
 
-Durmitor National Park has spectacular glaciated karst scenery and the deepest gorges in Europe, along the Tara River Canyon. Its pine forests interspersed with clear lakes harbour a wide range of endemic flora and wildlife. It lies within a WWF Global 200 Freshwater Eco-region~~s~~ and a UNESCO Biosphere Reserve.
+Durmitor National Park has spectacular glaciated karst scenery and the deepest gorges in Europe, along the Tara River Canyon. Its pine forests interspersed with clear lakes harbour a wide range of endemic flora and wildlife. It lies within a WWF Global 200 Freshwater Eco-region and a UNESCO Biosphere Reserve.
 
 CULTURAL HERITAGE
 -----------------

@@ -2,7 +2,7 @@ Title: Brazilian Atlantic Islands: Fernando de Noronha Archipelago and Atol das 
 Tags: Brazil
 Author: UNEP-WCMC
 Year: 2001
-Date: 2017-04-12 15:27:56
+Date: 2017-05-18 14:04:48
 
 BRAZILIAN ATLANTIC ISLANDS:
 ===========================
@@ -46,7 +46,7 @@ The UNESCO World Heritage Committee issued the following statement at the time o
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Fernando de Noronha Archipelago National Park II National Park
+Fernando de Noronha Archipelago National Park National Park
 
 Atol das Rocas National Biological Reserve Ib Wilderness Area
 

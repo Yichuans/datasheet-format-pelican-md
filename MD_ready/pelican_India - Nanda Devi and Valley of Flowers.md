@@ -2,7 +2,7 @@ Title: NANDA DEVI & VALLEY OF FLOWERS NATIONAL PARKS
 Tags: INDIA
 Author: UNEP-WCMC
 Year: 1988
-Date: 2017-04-12 15:28:01
+Date: 2017-05-18 14:04:54
 
 NANDA DEVI & VALLEY OF FLOWERS NATIONAL PARKS
 =============================================
@@ -50,9 +50,20 @@ INTERNATIONAL DESIGNATIONS
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Nanda Devi National Park: Ia Strict Nature Reserve
-
-Valley Of Flowers National Park: II National Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Nanda Devi National Park:</th>
+<th align="left">Ia Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Valley Of Flowers National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -168,8 +179,6 @@ CONSERVATION VALUE
 **Nanda Devi:**
 
 The area is one of the most spectacular wildernesses in the Himalayas. The basin is dominated by the pyramidal peak of Nanda Devi, India's second highest mountain, and drained by the Rishi Ganga which has cut one of the finest gorges in the world (Shipton, 1936; Kaur, 1982). It supports a diverse flora, largely because of the wide altitudinal range, and a number of rare or threatened animals. Unlike many other Himalayan valleys, it is free from human settlement and owing to its inaccessibility has remained largely unspoilt, particularly the forests of the lower Rishi Valley. The *Chipko* campaign made the site a symbol of participatory conservation and ecotourism in India. With the Valley of Flowers it is also a UNESCO Biosphere Reserve.
-
-,
 
 **The Valley of Flowers:**
 
@@ -387,9 +396,7 @@ Shankaran, R. (1993). An ornithological survey of Nanda Devi National Park. In *
 
 Shipton, E. (1936). *Nanda Devi*. Hodder and Stoughton, London. 310 pp.
 
-Silori, C. (2001). Biosphere reserve management in theory and practice: Case of Nanda Devi Biosphere Reserve, western Himalaya, India. *Journal of International Wildlife Law & Policy*, 4 (3):
-
-205-219.
+Silori, C. (2001). Biosphere reserve management in theory and practice: Case of Nanda Devi Biosphere Reserve, western Himalaya, India. *Journal of International Wildlife Law & Policy*, 4 (3):205-219.
 
 Smythe, F. (1938). *The Valley of Flowers.* Norton, New York.
 

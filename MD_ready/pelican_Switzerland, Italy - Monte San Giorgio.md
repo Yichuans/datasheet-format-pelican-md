@@ -2,7 +2,7 @@ Title: MONTE SAN GIORGIO
 Tags: SWITZERLAND,ITALY
 Author: UNEP-WCMC
 Year: 2003
-Date: 2017-04-12 15:28:08
+Date: 2017-05-18 14:05:01
 
 MONTE SAN GIORGIO
 =================
@@ -119,9 +119,7 @@ Within the Besano formation, there is a valuable sequence of six distinct regula
 CLIMATE 
 --------
 
-The climate is sub-Mediterranean with hot but rainy summers, and mild winters with few frosts. There is
-
-some air pollution in the Lugano valley.
+The climate is sub-Mediterranean with hot but rainy summers, and mild winters with few frosts. There is some air pollution in the Lugano valley.
 
 VEGETATION 
 -----------

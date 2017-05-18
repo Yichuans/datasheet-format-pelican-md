@@ -2,7 +2,7 @@ Title: ISOLE EOLIE (AEOLIAN ISLANDS)
 Tags: ITALY
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-12 15:28:01
+Date: 2017-05-18 14:04:55
 
 ISOLE EOLIE (AEOLIAN ISLANDS)
 =============================
@@ -70,9 +70,7 @@ DATES AND HISTORY OF ESTABLISHMENT
 
 2004: The Landscape Territorial Plan finally became legally enforceable though contested by mining interests, which were legally bound to stop mining in 2007;
 
-2004; The NGO Legambiente Sicilia presented a draft law for the institution of an Aeolian Islands
-
-Vulcanologic and Archaeological Natural Park;
+2004; The NGO Legambiente Sicilia presented a draft law for the institution of an Aeolian Islands Vulcanologic and Archaeological Natural Park;
 
 2007: The National Park of the Aeolian Islands established. Pumice mining prohibited under National Law 354/1991 and new protected area boundaries drawn up for Lipari Island, excluding pumice quarries.
 

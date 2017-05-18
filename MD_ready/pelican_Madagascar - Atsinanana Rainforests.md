@@ -2,7 +2,7 @@ Title: RAINFORESTS OF THE ATSINANANA
 Tags: MADAGASCAR
 Author: UNEP-WCMC
 Year: 2007
-Date: 2017-04-12 15:28:03
+Date: 2017-05-18 14:04:56
 
  RAINFORESTS OF THE ATSINANANA
 ==============================
@@ -94,9 +94,15 @@ AREAS
 
 The existing total area of the 6 sites is 479,660.7 ha (Nomination document, 2007). Each site has a 2.5 km buffer zone, the area of which is excluded from the totals given.
 
-**Protected Area Region Centrepoint Area (ha)**
-
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Protected Area</strong></th>
+<th align="left"><strong>Region</strong></th>
+<th align="left"><strong>Centrepoint</strong></th>
+<th align="left"><strong>Area (ha)</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
 <td align="left"><p>Parc Nationale de Marojejy</p>
@@ -193,56 +199,58 @@ Madagascar is among the world’s most important areas for rare fauna, which is 
 Mammals: Many animals disappeared after man’s arrival some 2,500 years ago and the island no longer has large herbivores or carnivores though it does harbor 101 terrestrial mammals, nearly all endemic, and the world’s largest number of endangered primates. 74 of the country’s 155 endemic species (excluding bats) have been found in the 6 sites, 28 being on the 2006 global Red list and 12 which are known only from a particular protected area. These include 28 species of lemurs in five endemic families, which total a quarter of the world’s primate species. 19 of these are unique to the 6 sites. These also harbor 9 small native carnivores, 17 species of rodents and 23 species of shrew-like tenrecs. Country-wide there are at least 300 species of amphibians, 90% being endemic and 346 species of reptiles, also 90% endemic. 150 endemic species of amphibians and reptiles have been recorded in the 6 sites. 140 species of fish, 93 being endemic, are found mostly in the eastern highland and lowland rainforests and nowhere else. 173 species of birds have been reported for the 6 rainforest sites, 3 families and 45 species being endemic, 18 red-listed. This is 83% of the breeding population of 209 species, 61% of the 283 total. Zahamena is especially rich because of its range of altitudes and habitats. Totals of 3 animal classes are listed below:
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Amphibians</strong></th>
+<th align="left"><strong>Reptiles</strong></th>
+<th align="left"><strong>Mammals#</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Site</strong></td>
-<td align="left"><strong>Amphibians</strong></td>
-<td align="left"><strong>Reptiles</strong></td>
-<td align="left"><strong>Mammals#</strong></td>
-</tr>
-<tr class="even">
 <td align="left"></td>
 <td align="left">Total</td>
 <td align="left">Endemic</td>
 <td align="left">Total</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Marojejy</td>
 <td align="left">74</td>
 <td align="left">20</td>
 <td align="left">73</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Masoala</td>
 <td align="left">65</td>
 <td align="left">19</td>
 <td align="left">41</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Zahamena*</td>
 <td align="left">18</td>
 <td align="left">1</td>
 <td align="left">33</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Ranomafana</td>
 <td align="left">54</td>
 <td align="left">11</td>
 <td align="left">30</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Andringitra</td>
 <td align="left">62</td>
 <td align="left">14</td>
 <td align="left">38</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Andohahhela</td>
 <td align="left">34</td>
 <td align="left">11</td>

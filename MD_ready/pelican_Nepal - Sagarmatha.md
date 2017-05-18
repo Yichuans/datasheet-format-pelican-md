@@ -2,7 +2,7 @@ Title: SAGARMATHA NATIONAL PARK
 Tags: NEPAL
 Author: UNEP-WCMC
 Year: 1979
-Date: 2017-04-12 15:28:04
+Date: 2017-05-18 14:04:57
 
 SAGARMATHA NATIONAL PARK
 ========================
@@ -91,7 +91,7 @@ However, since the mid-1970s, the average air temperature has risen by 1°C in t
 VEGETATION 
 ---------------
 
-69 percent of the Park is barren land above 5,000m, 28% is grazing land and nearly 3% is forested (Sherpa, 1985). Six vegetation zones as described for the Nepal Himalaya by Dobremez (1975) exist in the Park: lower subalpine, above 3,000m, with forests of blue pine *Pinus wallichiana*, east Himalayan fir *Abies spectabilis* and drooping juniper *Juniperus recurva;* upper subalpine above 3,600m, with birch-rhododendron forest of Himalayan birch *Betula utilis*, *Rhododendron campanulatum* and *R. campylocarpum*; lower alpine, above the timber-line at 3,800-4,000m, with scrub of *Juniperus* species, *Rhododendron anthopogon* and *R. lepidotum;* upper alpine, above 4,500m, with grassland and dwarf shrubs; and sub-nival zone with cushion plants from about 5,750-6,000m. Above this conditions are arctic. In the upper montane zone the oak *Quercus semecarpifolia* used to be the dominant species but former stands of this species and *Abies spectabilis* have been colonised by pines. *Rhododendron arboreum*, *R. triflorum*, and Himalayan yew *Taxus wallichiana* are associated with pine at lower altitudes with the shrubs *Pieris formosa*, *Cotoneaster microphyllus* and *R. lepidotum*. The vines Virginia creeper *Parthenocissus himalayana* and *Clematis montana* are also common. Other low altitude trees include the maple *Acer campbellii* and whitebeam *Sorbus cuspidata*. *Abies spectabilis* occupies medium to good sites above 3,000m and forms stands with *Rhododendron campanulatum* or*Betula utilis*.
+69 percent of the Park is barren land above 5,000m, 28% is grazing land and nearly 3% is forested (Sherpa, 1985). Six vegetation zones as described for the Nepal Himalaya by Dobremez (1975) exist in the Park: lower subalpine, above 3,000m, with forests of blue pine *Pinus wallichiana*, east Himalayan fir *Abies spectabilis* and drooping juniper *Juniperus recurva;* upper subalpine above 3,600m, with birch-rhododendron forest of Himalayan birch *Betula utilis*, *Rhododendron campanulatum* and *R. campylocarpum*; lower alpine, above the timber-line at 3,800-4,000m, with scrub of *Juniperus* species, *Rhododendron anthopogon* and *R. lepidotum;* upper alpine, above 4,500m, with grassland and dwarf shrubs; and sub-nival zone with cushion plants from about 5,750-6,000m. Above this conditions are arctic. In the upper montane zone the oak *Quercus semecarpifolia* used to be the dominant species but former stands of this species and *Abies spectabilis* have been colonised by pines. *Rhododendron arboreum*, *R. triflorum*, and Himalayan yew *Taxus wallichiana* are associated with pine at lower altitudes with the shrubs *Pieris formosa*, *Cotoneaster microphyllus* and *R. lepidotum*. The vines Virginia creeper *Parthenocissus himalayana* and *Clematis montana* are also common. Other low altitude trees include the maple *Acer campbellii* and whitebeam *Sorbus cuspidata*. *Abies spectabilis* occupies medium to good sites above 3,000m and forms stands with *Rhododendron campanulatum* or *Betula utilis*.
 
 Towards the tree line, *R. campanulatum* is generally dominant. Black juniper *Juniperus indica* occurs above 4,000m, where conditions are drier, along with dwarf rhododendrons and cotoneasters, shrubby cinquefoil *Potentilla fruticosa* var.*rigida*, Sikkim willow *Salix sikkimensis* and *Cassiope fastigiata*. In association with these shrubs is a variety of herbs: *Gentiana prolata*, *G. stellata*, edelweiss *Leontopodium stracheyi*, *Codonopsis thalictrifolia*, *Thalictrum chelidonii*, the lilies *Lilium nepalense* and *Notholirion macrophyllum*, *Fritillaria cirrhosa* and primroses, *Primula denticulata*, *P. atrodentata*, *P. wollastonii* and *P. sikkimensis*. The shrub layer diminishes as conditions cool, and above 5,000m *R. nivale* is the sole rhododendron. Other dwarf shrubs in the dry valley uplands include buckthorn *Hippophae tibetana*, horsetail *Ephedra gerardiana*, black juniper and cinquefoil *Potentilla fruticosa*. Associated herbs are gentians, *Gentiana ornata* and *G. algida* var.*przewalskii*, edelweiss *Leontopodium jacotianum* and Himalayan blue poppy *Meconopsis horridula*. Above this and up to the permanent snow line at about 5,750m, plant life is restricted to lichens, mosses, dwarf grasses, sedges and alpines such as *Arenaria polytrichoides* and *Tanacetum gossypinum* (Garratt, 1981).
 
@@ -167,9 +167,7 @@ Department of National Parks & Wildlife Conservation, Babar Mahal, GPO Box 860, 
 REFERENCES 
 ---------------
 
-The principal source for the above information was the original nomination for World Heritage status,
-
-which includes an extensive bibliography.
+The principal source for the above information was the original nomination for World Heritage status, which includes an extensive bibliography.
 
 Bishop, B. (1988). A fragile heritage: the mighty Himalaya. *National Geographic* 174: 624-631.
 
@@ -225,9 +223,7 @@ IUCN (2008). *State of Conservation Report. Sagarmatha National Park (Nepal).* G
 
 Jackson, R. & Ahlborn, G. (1987). Snow leopard surveys in Nepal. Sagarmatha (Everest) National Park. *Cat News* 7: 24-25.
 
-Jefferies, B. (1982). Sagarmatha National Park: the impact of tourism in the Himalayas. *Ambio* 11:
-
-274-281.
+Jefferies, B. (1982). Sagarmatha National Park: the impact of tourism in the Himalayas. *Ambio* 11: 274-281.
 
 ---------- (1984). The Sherpas of Sagarmatha. In McNeely, J. & Miller, K., *National Parks, Conservation and Development*. Smithsonian Institution Press, Washington, DC, U.S.A. Pp. 473-478.
 
@@ -249,9 +245,7 @@ Luhan, M. (1989). Following the toilet paper trail. *Himal* 2 (2): 18-19.
 
 Milne, R. (1997) *Mission Report: South Asia Meeting to Review Status Conservation of World Natural Heritage and Design and Cooperative Plan of Action*, New Delhi, India. Prepared for the World Heritage Centre, UNESCO. 7 pp. (Unpublished).
 
-Nepal, S. (2000). Tourism in protected areas: The Nepalese Himalaya. *Annals of Tourism Research.*
-
-Vol. 27 (3): 661-681.
+Nepal, S. (2000). Tourism in protected areas: The Nepalese Himalaya. *Annals of Tourism Research.* Vol. 27 (3): 661-681.
 
 ---------- (2005). Tourism and remote mountain settlements: spatial and temporal development of tourist infrastructure in the Mt Everest region, Nepal. *Tourism Geographies* Vol.7 (2): 205-227. [](http://www.informaworld.com/smpp/title%7Econtent=t713709512%7Edb=all%7Etab=issueslist%7Ebranches=7#v7)
 
@@ -265,9 +259,7 @@ Sherpa, M. (1985). *Conservation for Survival: A Conservation Strategy for Resou
 
 ---------- (1987). *A Proposal for Forest Research and Management in Sagarmatha (Mt. Everest) National Park, Nepal.* Working Paper No.8. East-West Center, Hawaii. 47 pp.
 
-Smith, C. (1978). Common butterflies of Sagarmatha National Park. In *National Park Handbook.*
-
-Kathmandu, Nepal.
+Smith, C. (1978). Common butterflies of Sagarmatha National Park. In *National Park Handbook.* Kathmandu, Nepal.
 
 Som, A., Yonzon, P. & Thapa, K. (2007). Recovery of snow leopard *Uncia uncia* in Sagarmatha (Mount Everest) National Park, 2003, Nepal. *Oryx* 41: 89-92.
 

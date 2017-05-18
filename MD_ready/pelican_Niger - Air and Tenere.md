@@ -2,7 +2,7 @@ Title: AÏR AND TÉNÉRÉ NATURAL RESERVES
 Tags: NIGER
 Author: UNEP-WCMC
 Year: 1991
-Date: 2017-04-12 15:28:04
+Date: 2017-05-18 14:04:58
 
 AÏR AND TÉNÉRÉ NATURAL RESERVES
 ===============================
@@ -66,9 +66,20 @@ INTERNATIONAL DESIGNATION
 IUCN MANAGEMENT CATEGORIES:
 ---------------------------
 
-Aïr and Ténéré Natural Reserve: IV Managed Nature Reserve
-
-Addax Sanctuary: Ia Strict Nature Reserve
+<table>
+<thead>
+<tr class="header">
+<th align="left">Aïr and Ténéré Natural Reserve:</th>
+<th align="left">IV Managed Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Addax Sanctuary:</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -101,7 +112,11 @@ Republic of Niger in the *Départment d’Agades* and *arrondissements* of Arlit
 AREA
 ----
 
-Total area: 7,735,370 ha: Aïr & Ténéré Natural Reserve: 6,456,392 ha. Addax Sanctuary:1,278,978 ha.
+Total area: 7,735,370 ha
+
+Aïr & Ténéré Natural Reserve: 6,456,392 ha.
+
+Addax Sanctuary: 1,278,978 ha.
 
 ALTITUDE
 --------
@@ -285,9 +300,7 @@ Newby,J. (1989) (ed.) *Conservation des Ressources Naturelles dans l'Aïr et le 
 
 ---------- (1992) Parks for people: a case study from the Aïr mountains of Niger.*Oryx* 26(1).
 
----------- (1996). Parks for people: a case study from the Air mountains of Niger. *The George Wright Forum*
-
-13 (4):40.
+---------- (1996). Parks for people: a case study from the Air mountains of Niger. *The George Wright Forum* 13 (4):40.
 
 Newby, J.,Dulieu, D.& Lebrun, J-P. (1982). *Avant-Projet de Classement d'une Aire Protégée dans l'Aïr et le Ténéré (République du Niger)*. IUCN, Gland, Switzerland.
 

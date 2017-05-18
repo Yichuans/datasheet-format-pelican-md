@@ -2,9 +2,11 @@ Title: Chitwan National Park
 Tags: Nepal
 Author: UNEP-WCMC
 Year: 1984
-Date: 2017-04-12 15:28:04
+Date: 2017-05-18 14:04:57
 
-**NEPAL**
+
+NEPAL
+=====
 
 *This Park with the adjacent Parsa Wildlife Reserve is the largest, longest protected, least disturbed and most studied of the sal forest communities of the Terai. The tall grasslands and riverine forest support a wild ungulate biomass and species diversity much higher than any other in the subcontinent. Rare species include tiger, gharial and the world's second largest population of Asian rhinoceros. The Himalayas provide a spectacular distant backdrop to a landscape much visited for its beauty*
 
@@ -201,9 +203,7 @@ Edds, D. (1986). *The Fishes of Royal Chitwan National Park*. Department of Zool
 
 Gee, E. (1959). Report on a survey of the rhinoceros area of Nepal. *Oryx* 5: 59‑85.
 
----------- (1963). Report on a brief survey of the wildlife resources of Nepal, including rhinoceros. *Oryx*
-
-7: 67‑76.
+---------- (1963). Report on a brief survey of the wildlife resources of Nepal, including rhinoceros. *Oryx* 7: 67‑76.
 
 Gurung, K.(1983). *Heart of the Jungle: the Wildlife of Chitwan, Nepal*. Andre Deutsch, London.197 pp.
 

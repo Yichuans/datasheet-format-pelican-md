@@ -2,7 +2,7 @@ Title: AREA DE CONSERVACIÓN GUANACASTE
 Tags: COSTA RICA
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-12 15:27:58
+Date: 2017-05-18 14:04:51
 
 AREA DE CONSERVACIÓN GUANACASTE
 ===============================
@@ -40,15 +40,32 @@ INTERNATIONAL DESIGNATIONS
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Rincón de la Vieja National Park: II National Park
-
-Santa Rosa National Park: II National Park
-
-Guanacaste National Park: II National Park
-
-Bahia Junquillal National Wildlife Refuge: IV Habitat / Species Management Area
-
-Horizontes Experimental Forest Station: Unassigned
+<table>
+<thead>
+<tr class="header">
+<th align="left">Rincón de la Vieja National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Santa Rosa National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Guanacaste National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Bahia Junquillal National Wildlife Refuge:</td>
+<td align="left">IV Habitat / Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Horizontes Experimental Forest Station:</td>
+<td align="left">Unassigned</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -89,17 +106,36 @@ AREA
 
 The following figures are taken from the nomination:
 
-Santa Rosa National Park: 40,357.8 ha
-
-Guanacaste National Park: 37,365.0 ha
-
-Rincón de la Vieja National Park: 14,084.0 ha
-
-Horizontes Experimental Forest Station: 7,317.3 ha
-
-Bahia Junquillal National Wildlife Refuge: 438.7 ha
-
-Santa Rosa Marine Area: 43,000.0 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Santa Rosa National Park:</th>
+<th align="left">40,357.8 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Guanacaste National Park:</td>
+<td align="left">37,365.0 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Rincón de la Vieja National Park:</td>
+<td align="left">14,084.0 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Horizontes Experimental Forest Station:</td>
+<td align="left">7,317.3 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Bahia Junquillal National Wildlife Refuge:</td>
+<td align="left">438.7 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Santa Rosa Marine Area:</td>
+<td align="left">43,000.0 ha</td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE
 --------
@@ -241,9 +277,7 @@ Janzen, D. (1983). *Costa Rican Natural History*. University of Chicago Press, C
 
 ---------- (1998). *Conservation analysis of the Santa Elena property, Peninsula Santa Elena, North-western Costa Rica.* Philadelphia, USA. 129 pp.
 
----------- (2000). Costa Rica's Area de Conservación Guanacaste: a long march to survival
-
-through non-damaging biodevelopment. *Biodiversity* 1(2): 7-20.
+---------- (2000). Costa Rica's Area de Conservación Guanacaste: a long march to survival through non-damaging biodevelopment. *Biodiversity* 1(2): 7-20.
 
 ---------- (2001). Good fences make good neighbors. *Parks* 11(2): 41-49.
 

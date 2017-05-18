@@ -2,7 +2,7 @@ Title: KAZIRANGA NATIONAL PARK
 Tags: INDIA
 Author: UNEP-WCMC
 Year: 1985
-Date: 2017-04-12 15:28:00
+Date: 2017-05-18 14:04:54
 
 KAZIRANGA NATIONAL PARK
 =======================
@@ -86,7 +86,7 @@ VEGETATION
 
 There are four main types of vegetation: alluvial inundated grasslands and reedbeds, alluvial savanna woodland, tropical moist mixed deciduous forests and tropical semi-evergreen forests (Talukdar, 1995). Based on Landsat data for 1986, the coverage by different vegetation types is: tall grasses 41%, short grasses 11%, open jungle 29%, rivers and water bodies 8%, sand 6% and swamps 4%, (Kushwaha & Unni, 1986).
 
-Grasslands predominate in the west, with dense thickets of 5-6 meter tall elephant grasses on the higher ground and short grasses which provide good grazing on the lower ground around the *bheels.* These have been maintained and fertilised by annual flooding and controlled burning for thousands of years which has prevented the woodland from encroaching, and ensures a supply of grazing land. However, the occasional high floods can devastate the smaller fauna. Among the different high grass species, *Saccharum spontaneum, S. naranga, Imperata cylindrica, Erianthus* spp*.,Arundo donax* and *Phragmites karka* predominate.
+Grasslands predominate in the west, with dense thickets of 5-6 meter tall elephant grasses on the higher ground and short grasses which provide good grazing on the lower ground around the *bheels.* These have been maintained and fertilised by annual flooding and controlled burning for thousands of years which has prevented the woodland from encroaching, and ensures a supply of grazing land. However, the occasional high floods can devastate the smaller fauna. Among the different high grass species, *Saccharum spontaneum, S. naranga, Imperata cylindrica, Erianthus* spp.,*Arundo donax* and *Phragmites karka* predominate.
 
 Among the grasses are numerous forbs and scattered trees of *Bombax ceiba* a dominant of savanna woodland, *Dillenia indica* in the swamp forest, *Careya arborea* and *Emblica officinalis*. The impenetrable semi-evergreen forests in the central and eastern areas are dominated by trees such as *Aphanamixis polystachya*, *Talauma hodgsonii, Dillenia indica*, *Garcinia tinctoria, Cinnamomum bejolghota*, *Ficus rumphii*, and species of *Syzygium*. In the tropical semi-evergreen forests common trees and shrubs are *Albizia procera*, *Duabanga grandiflora*, *Lagerstroemia speciosa*, *Crateva unilocularis*, *Sterculia urens*, *Grewia serrulata*, *Mallotus philippensis*, *Bridelia retusa*, *Aphania rubra*, *Leea indica* and *L. umbraculifera* (Jain & Sastry, 1983). There is a wide variety of aquatic flora along river-banks and in the numerous pools; the destructive invader water hyacinth *Eichhornia crassipes* is often cleared out by high floods.
 
@@ -184,9 +184,7 @@ Barua P. & Das, B. (1969). *Kaziranga. The Rhinoland in Assam*. Peco Press, Gauh
 
 BirdLife International (2004). *Important Bird Areas in Asia: Key Sites for Conservation*. BirdLife International, Cambridge, U.K.
 
-Bradley Martin, E. & Vigne, L. (1989). Kaziranga's calamity - a new threat to the Indian rhino. *Oryx*
-
-23 (3): 124-5
+Bradley Martin, E. & Vigne, L. (1989). Kaziranga's calamity - a new threat to the Indian rhino. *Oryx* 23 (3): 124-5
 
 Burger, J. (1990). Notes from the field: Kaziranga National Park, India. *Buzzworm: the Environmental Journal* 2(2): 20-21.
 
@@ -216,9 +214,7 @@ Jackman, B. (1996) The Thin Green Line. *Telegraph Magazine* 19/10/96.
 
 Jain, S. & Sastry, A. (1983). *Botany of Some Tiger Habitats in India*. Botanical Survey of India, Howrah. 71 pp.
 
-Kaziranga National Park (KNP) (2003). *India. Kaziranga National Park.* Summary of the Periodic Report on the State of Conservation of the World Heritage Properties in the Asia-Pacific Region to the
-
-UNESCO World Heritage Committee, Paris.
+Kaziranga National Park (KNP) (2003). *India. Kaziranga National Park.* Summary of the Periodic Report on the State of Conservation of the World Heritage Properties in the Asia-Pacific Region to the UNESCO World Heritage Committee, Paris.
 
 Kavitha, R.  (2001). [Know your animals - Hispid Hare](http://cpreec.org/eco-v7n2/24.htm). *Eco News*, [C.P.R. Envir. Ed. Ctr](http://cpreec.org/). 7/2.
 
@@ -240,9 +236,7 @@ Parihar,J., Panigrahy,S. & Parihar,J. (1986). Remote sensing based habitat asses
 
 Ranjitsinh, M. (1988). Kaziranga off threatened list. *CNPPA Newsletter* No. 44. IUCN, Gland. 2 pp.
 
-Scott, D. (ed.) (1989). *A Directory of Asian Wetlands*. IUCN, Gland, Switzerland / Cambridge, UK.
-
-1181 pp.
+Scott, D. (ed.) (1989). *A Directory of Asian Wetlands*. IUCN, Gland, Switzerland / Cambridge, UK.1181 pp.
 
 Shahi, S. (1983). Rhino poaching in Kaziranga. *WWF India Newsletter* 45: 5-6.
 

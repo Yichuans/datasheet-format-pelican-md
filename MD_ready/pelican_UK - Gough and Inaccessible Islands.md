@@ -2,7 +2,7 @@ Title: GOUGH AND INACCESSIBLE ISLANDS
 Tags: UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
 Author: UNEP-WCMC
 Year: 1995
-Date: 2017-04-12 15:28:09
+Date: 2017-05-18 14:05:02
 
 GOUGH AND INACCESSIBLE ISLANDS
 ==============================
@@ -130,7 +130,8 @@ On **Inaccessible Island** the terrestrial fauna, like the flora, has relatively
 
 44 bird species are recorded, of which 16, possibly 20, breed on the island. All but five are seabirds of the subantarctic region: the brown noddy *Anous stolidus* is a tropical species and there are four native land birds. One species breeds only on Inaccessible Island: the endemic spectacled petrel *Procellaria conspicillata* (VU), 3-4,000 pairs nesting in burrows on the high plateau. It is one of thirteen burrow-nesting species on the island (Ryan & Maloney, 2,000). Apart from Gough, the island is the only other breeding site of the Tristan or wandering albatross *Diomedea dabbenena* (EN, 2-3 pairs). Three other breeding species are endemic to the Tristan-Gough islands: great shearwater *Puffinus gravis* (2 million pairs), Atlantic yellow-nosed albatross *Thalassarche chlororhyncos* (EN) and Atlantic petrel *Pterodroma incerta* (EN). Two other breeding species are listed as threatened: southern rockhopper penguin *Eudyptes chrysocome moseleyi* (EN) and sooty albatross *Phoebetria fusca* (EN). Only the marauding southern skua *Catharacta antarctica* feeds on the island, mostly on spectacled petrels. The soft-plumaged petrel *Pterodroma mollis* and whitebellied storm petrel *Fregetta grallaria* populations are globally important. Of the four land birds the Inaccessible Island rail *Atlantisia rogersi* (VU), the smallest existing flightless bird, is found only on the island in a population of 8,500. There are three endemic subspecies: Tristan thrush *Nesochicla eremita* (850 pairs), grosbeak bunting *Nesospiza wilkinsi* (EN, 2,200 pairs) and Tristan bunting *Nesospiza acunhae* (VU, 10,000 pairs). The buntings exemplify local adaptive radiation, but may be hybridising which could eventually produce a new species endemic to the island. All would be vulnerable to mammalian predators (Ryan & Glass, 2001).
 
-**CONSERVATION VALUE**
+CONSERVATION VALUE
+------------------
 
 Gough Island is the least disturbed major cool-temperate island ecosystem in the South Atlantic Ocean, and one of the most important sea-bird colonies in the world. The island is scenically beautiful with spectacular sea cliffs round much of the coastline. Two endemic landbirds are found: the Gough moorhen and the Gough bunting. Gough is in the Tristan da Cunha Priority One Endemic Bird Area, as defined by BirdLife International. Its undisturbed nature makes it particularly valuable for biological research, which, with weather monitoring, is the only activity permitted on the island (Oldfield, 1994). Inaccessible Island’s values complement those of Gough Island. It is also largely pristine and is one of the few temperate oceanic islands without introduced mammals. It has two birds, eight plants and ten invertebrates found nowhere else, 70 terrestrial plant and animal species are restricted to the islands and 60 marine species are endemic to the island group (Ryan & Glass, 2001). Both islands are designated Endemic Bird Areas.
 
@@ -220,9 +221,7 @@ Gremmen, N. & Barendse, J. (2000). *Eradication of Sagina procumbens (Procumbent
 
 Hellyer, P. & Swales, M. (1998). *Bibliography of Tristan da Cunha*. Anthony Nelson, Oswestry, U.K.
 
-Heaney, J. & Holdgate, M. (1957). The Gough Island Scientific Survey. *Geographical Journal* 123:
-
-20-31.
+Heaney, J. & Holdgate, M. (1957). The Gough Island Scientific Survey. *Geographical Journal* 123:20-31.
 
 Holdgate, M. (1965). The biological report of the Royal Society expedition to Tristan da Cunha, 1962, part III - The fauna of the Tristan da Cunha islands. *Philosophical Transactions - Royal Society of London Series B Biological Sciences* 249: 361-402.
 

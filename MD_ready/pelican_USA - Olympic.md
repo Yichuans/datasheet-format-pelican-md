@@ -2,7 +2,7 @@ Title: OLYMPIC NATIONAL PARK
 Tags: UNITED STATES OF AMERICA
 Author: UNEP-WCMC
 Year: 1981
-Date: 2017-04-12 15:28:10
+Date: 2017-05-18 14:05:03
 
 OLYMPIC NATIONAL PARK
 =====================
@@ -43,9 +43,7 @@ Olympic National Park features spectacular coastline, scenic lakes, majestic mou
 INTERNATIONAL DESIGNATION
 -------------------------
 
-1976: Designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme
-
-(373,396 ha).
+1976: Designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme (373,396 ha).
 
 IUCN MANAGEMENT CATEGORY
 ------------------------

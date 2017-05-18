@@ -2,7 +2,7 @@ Title: OGASAWARA ISLANDS
 Tags: JAPAN
 Author: UNEP-WCMC
 Year: 2011
-Date: 2017-04-12 15:28:02
+Date: 2017-05-18 14:04:55
 
 OGASAWARA ISLANDS
 =================
@@ -111,8 +111,8 @@ Area of the Ogasawara Islands property (including peripheral reefs)
 <td align="left">30</td>
 </tr>
 <tr class="even">
-<td align="left"><strong>Whole Ogasawara Islands</strong></td>
-<td align="left"><strong>7,939</strong></td>
+<td align="left">Whole Ogasawara Islands</td>
+<td align="left">7,939</td>
 </tr>
 </tbody>
 </table>

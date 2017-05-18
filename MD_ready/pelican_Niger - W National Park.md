@@ -2,7 +2,7 @@ Title: W NATIONAL PARK OF NIGER
 Tags: NIGER
 Author: UNEP-WCMC
 Year: 1996
-Date: 2017-04-12 15:28:04
+Date: 2017-05-18 14:04:58
 
 W NATIONAL PARK OF NIGER
 ========================
@@ -55,9 +55,7 @@ INTERNATIONAL DESIGNATIONS
 
 2007: Extended in Benin as the *Site Ramsar du Complexe W* (895,480ha);
 
-1996: Designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme
-
-(220,000ha);
+1996: Designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme (220,000ha);
 
 2002: Biosphere Reserve extended to Benin (563,280ha) and Burkino Faso (235,000ha). Total area of core zones 1,018,280ha (UNESCO/MAB, 2008).
 
@@ -207,9 +205,7 @@ IUCN/WCPA (2004). US\$ 6million for biosphere reserve study project in West Afri
 
 Jameson, M. & Crisler, T. (1996). *Guide Book to Park 'W' National Park, Niger*. Niamey, Niger: Peace Corps. 103 pp. + App.
 
-Jensen, F.,Christensen, K. & Petersen, B. (2008).The avifauna of southeast Niger.Malimbus* 30(1)
-
-30-54.
+Jensen, F.,Christensen, K. & Petersen, B. (2008).The avifauna of southeast Niger.Malimbus* 30(1) 30-54.
 
 Koster, S. (1977). *The Ecology of Parc National du 'W' du Niger,* M.Sc.Thesis, Michigan State University.
 

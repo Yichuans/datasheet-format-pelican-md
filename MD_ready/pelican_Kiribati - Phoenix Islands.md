@@ -2,7 +2,7 @@ Title: PHOENIX ISLANDS PROTECTED AREA
 Tags: KIRIBATI
 Author: UNEP-WCMC
 Year: 2010
-Date: 2017-04-12 15:28:02
+Date: 2017-05-18 14:04:56
 
 PHOENIX ISLANDS PROTECTED AREA
 ==============================
@@ -151,35 +151,35 @@ The islands have a sparse and species-poor vegetation cover. The low rainfall is
 
 The following natural vegetation types or communities have been recorded in the Phoenix Islands (local name in brackets; Mueller-Dombois and Fosberg 1998):
 
-> 1\) *Pisonia grandis* forest - Nikumaroro, Orona
->
-> 2\) *Cordia subcordata* (te ango) forest and tall scrub – Manra, Kanton, Enderbury
->
-> 3\) *Scaevola taccada* (te mao) scrub – Manra, Nikumaroro, Orona, Kanton
->
-> 4\) *Tournefortia argentea* (te ren) scrub – Enderbury, Kanton
->
-> 5\) *Morinda citrifolia* tall scrub – Nikumaroro, Manra, Orona
->
-> 6\) *Pemphis acidula* (te ngea) scrub – Orona
->
-> 7\) *Suriana maritima* scrub – Kanton, Orona
->
-> 8\) *Sida fallax* (te kaura) scrub and dwarf scrub – all Phoenix Islands
->
-> 9\) *Triumfetta procumbens* (te kiaou) mat – Kanton, Enderbury
->
-> 10\) *Sesuvium portulacastrum var. griseum* mat – all Phoenix Islands
->
-> 11\) *Tribulus cistoides* mat – no island specified
->
-> 12\) *Lepturus repens* and *Lepturus pilgerianus* meadows – all Phoenix Islands
->
-> 13\) *Fimbristylis cymosa* (te uteute ni mwane) turf – Nikumaroro, Manra, Orona
->
-> 14\) *Digitaria pacifica* bunchgrass cover – no island specified
->
-> 15\) Mixed-species communities – Kanton
+1\) *Pisonia grandis* forest - Nikumaroro, Orona
+
+2\) *Cordia subcordata* (te ango) forest and tall scrub – Manra, Kanton, Enderbury
+
+3\) *Scaevola taccada* (te mao) scrub – Manra, Nikumaroro, Orona, Kanton
+
+4\) *Tournefortia argentea* (te ren) scrub – Enderbury, Kanton
+
+5\) *Morinda citrifolia* tall scrub – Nikumaroro, Manra, Orona
+
+6\) *Pemphis acidula* (te ngea) scrub – Orona
+
+7\) *Suriana maritima* scrub – Kanton, Orona
+
+8\) *Sida fallax* (te kaura) scrub and dwarf scrub – all Phoenix Islands
+
+9\) *Triumfetta procumbens* (te kiaou) mat – Kanton, Enderbury
+
+10)*Sesuvium portulacastrum var. griseum* mat – all Phoenix Islands
+
+11)*Tribulus cistoides* mat – no island specified
+
+12\) *Lepturus repens* and *Lepturus pilgerianus* meadows – all Phoenix Islands
+
+13\) *Fimbristylis cymosa* (te uteute ni mwane) turf – Nikumaroro, Manra, Orona
+
+14\) *Digitaria pacifica* bunchgrass cover – no island specified
+
+15\) Mixed-species communities – Kanton
 
 FAUNA
 -----
@@ -192,9 +192,7 @@ Terrestrial invertebrates include primarily arachnids and land crabs. Reptiles i
 
 Dominant coral species on the outer reefs of the Phoenix Islands includes *Acropora* spp., *Pocillopora* spp., *Favia stelligera*, *Plerogyra sinuosa, Lobophyllia hemprichii, Porites* spp. and others. Within the lagoons, apart from the branching and tabulate *Acropora* stands, common corals include *Pavona* spp., *Montipora* spp., *Goniastrea pectinata*, and *Favia* spp., and in some locations beds of the rare coral *Anacropora forbesi.* Regional endemics include *Montipora capitata* and *M. dilatata)* the latter currently only known elsewhere from two small locations outside the Phoenix Islands. The motile invertebrate fauna of the Phoenix Islands is low in diversity, has a number of taxonomic gaps, and densities of large invertebrates are generally low. Kanton and Orona host spectacular small giant clam *Tridacna maxima* (VU) communities in sizes rarely seen elsewhere in the world.
 
-The documented fish fauna of the Phoenix Islands consists mainly of shallow water species associated with coral reefs. The most abundant families in terms of number of species are wrasses (Labridae), including the napoleon wrasse *Cheilinus undulatus* (EN), groupers (Serranidae), gobies (Gobiidae), damselfishes (Pomacentridae), surgeonfishes (Acanthuridae), moray eels (Muraenidae), butterflyfishes (Chaetodontidae), blennies (Blenniidae), squirrelfishes (Holocentridae), and cardinalfishes (Apogonidae). A new species of damselfish, *Chrysiptera albata)* was collected in 42-50m depth at Nikumaroro Island (Allen and Bailey 2003). Other potential undescribed species were found in the
-
-genera *Myripristis* (Holocentridae), *Eviota* (Gobiidae) and *Trimma* (Gobiidae). Certain species are particularly common on Phoenix Islands reefs, occurring in much higher densities and full age/size cohorts than at most localities in the Indo-Pacific region. These include various surgeonfishes (Holocentridae), *Eviota* (Gobiidae), and *Trimma* (Gobiidae) *Acanthurus guttatus, A. nigricans, A. triostegus, A. xanthopterus, Naso literatus, Zebrasoma veliferum* and parrotfishes *Hipposcarus longiceps* and *Scarus ghobban.* Manta rays *Manta alfredi* (VU), polkadot cod *Plecropomus areolatus* (VU) and brindle bass *Epinephelus lanceolatus* (VU) are also found.
+The documented fish fauna of the Phoenix Islands consists mainly of shallow water species associated with coral reefs. The most abundant families in terms of number of species are wrasses (Labridae), including the napoleon wrasse *Cheilinus undulatus* (EN), groupers (Serranidae), gobies (Gobiidae), damselfishes (Pomacentridae), surgeonfishes (Acanthuridae), moray eels (Muraenidae), butterflyfishes (Chaetodontidae), blennies (Blenniidae), squirrelfishes (Holocentridae), and cardinalfishes (Apogonidae). A new species of damselfish, *Chrysiptera albata)* was collected in 42-50m depth at Nikumaroro Island (Allen and Bailey 2003). Other potential undescribed species were found in the genera *Myripristis* (Holocentridae), *Eviota* (Gobiidae) and *Trimma* (Gobiidae). Certain species are particularly common on Phoenix Islands reefs, occurring in much higher densities and full age/size cohorts than at most localities in the Indo-Pacific region. These include various surgeonfishes (Holocentridae), *Eviota* (Gobiidae), and *Trimma* (Gobiidae) *Acanthurus guttatus, A. nigricans, A. triostegus, A. xanthopterus, Naso literatus, Zebrasoma veliferum* and parrotfishes *Hipposcarus longiceps* and *Scarus ghobban.* Manta rays *Manta alfredi* (VU), polkadot cod *Plecropomus areolatus* (VU) and brindle bass *Epinephelus lanceolatus* (VU) are also found.
 
 Globally threatened green *Chelonia mydas* (EN) and hawksbill *Eretmochelys imbricata* (CR) turtles and the following marine mammals have been sighted in the Phoenix Islands: Bryde’s whale *Balaenoptera edeni*, *s*perm whale*Physeter macrocephalus*(VU), dwarf sperm whale*Kogia simus,*pygmy sperm whale*Kogia breviceps,*short-finned pilot whale*Globicephala macrorhynchus,*killer whale*Orcinus orca,*false killer whale*Pseudorca crassidens,*pygmy killer whale*Feresa attenuata,*melon-headed whale*Peponocephala electra,*Risso’s dolphin*Grampus griseus,*bottlenose dolphin*Tursiops truncatus,*striped dolphin*Stenella coeruleoalba*pan-tropical spotted dolphin*S. attenuata*spinner dolphin*S. longirostris,*Fraser’s dolphin*Lagenodelphis hosei,*rough-toothed dolphin*Steno bredanensis,*southern bottlenose whale*Hyperoodon planifrons,*Cuvier’s beaked whale*Ziphius cavirostris* and other beaked whales (Mesoplodon spp.).
 

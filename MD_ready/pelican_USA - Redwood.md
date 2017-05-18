@@ -2,7 +2,7 @@ Title: REDWOOD NATIONAL & STATE PARKS
 Tags: UNITED STATES OF AMERICA
 Author: UNEP-WCMC
 Year: 1980
-Date: 2017-04-12 15:28:10
+Date: 2017-05-18 14:05:03
 
 REDWOOD NATIONAL & STATE PARKS
 ==============================
@@ -43,13 +43,28 @@ The park’s primary feature is the coastal redwood forest, a surviving remnant 
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Redwood National Park: II National Park
-
-Prairie Creek Redwoods State Park: II National Park
-
-Jedediah Smith Redwoods State Park: II National Park
-
-Del Norte Coast Redwoods State Park: II National Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Redwood National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Prairie Creek Redwoods State Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Jedediah Smith Redwoods State Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Del Norte Coast Redwoods State Park:</td>
+<td align="left">II National Park</td>
+</tr>
+</tbody>
+</table>
 
 INTERNATIONAL DESIGNATION
 -------------------------
@@ -87,15 +102,32 @@ Redwood Park: 30,535 ha are in federal ownership, 14,075 ha in state ownership. 
 AREA
 ----
 
-Total area: 56,883 ha (140,558 acres)
-
-Redwood National Park: 44,610 ha
-
-Prairie Creek Redwoods State Park: 5,693 ha
-
-Jedediah Smith Redwoods State Park: 4,002 ha
-
-Del Norte Coast Redwoods State Park: 2,578 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Total area:</th>
+<th align="left">56,883 ha (140,558 acres)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Redwood National Park:</td>
+<td align="left">44,610 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Prairie Creek Redwoods State Park:</td>
+<td align="left">5,693 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Jedediah Smith Redwoods State Park:</td>
+<td align="left">4,002 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Del Norte Coast Redwoods State Park:</td>
+<td align="left">2,578 ha</td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE
 --------

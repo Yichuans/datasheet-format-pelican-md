@@ -2,7 +2,7 @@ Title: WADI AL- HITAN (WHALE VALLEY)
 Tags: EGYPT
 Author: UNEP-WCMC
 Year: 2005
-Date: 2017-04-12 15:27:59
+Date: 2017-05-18 14:04:52
 
 WADI AL- HITAN (WHALE VALLEY)
 =============================
@@ -129,9 +129,7 @@ No-one lives on the site, but Wadi el-Rayan 40km away has a few thousand settled
 VISITORS AND VISITOR FACILITIES
 -------------------------------
 
-From 1997 on, Wadi el-Rayan became a popular excursion area for Cairenes, and in 2003 a well equipped Visitors’ Centre with an audio-visual theatre and fossil museum was sited on the western lakeshore. Brochures, a video and a website have been produced for the site which is visited by some 150,000 people a year. However at first only about 1,000 visitors a year drove on to Wadi Al-Hitan as the 4WD track is unpaved, crosses treacherous sands and the site itself is extremely desert. Sustainable tourism is being developed and by 2008, 12,000 visitors were arriving each year (UNESCO, 2010). Because the area has had to be protected, the management plan for the Wadi el-Rayan Protected Area is applied to Wadi Al-Hitan restricting visitors to prearranged guided tours along a
-
-prescribed trail either on foot or by camel.
+From 1997 on, Wadi el-Rayan became a popular excursion area for Cairenes, and in 2003 a well equipped Visitors’ Centre with an audio-visual theatre and fossil museum was sited on the western lakeshore. Brochures, a video and a website have been produced for the site which is visited by some 150,000 people a year. However at first only about 1,000 visitors a year drove on to Wadi Al-Hitan as the 4WD track is unpaved, crosses treacherous sands and the site itself is extremely desert. Sustainable tourism is being developed and by 2008, 12,000 visitors were arriving each year (UNESCO, 2010). Because the area has had to be protected, the management plan for the Wadi el-Rayan Protected Area is applied to Wadi Al-Hitan restricting visitors to prearranged guided tours along a prescribed trail either on foot or by camel.
 
 SCIENTIFIC RESEARCH AND FACILITIES
 ----------------------------------
@@ -187,9 +185,7 @@ Badman, T. (2005). *World Heritage Nomination IUCN Summary: Wadi Al-Hitan (Whale
 
 Brand, L. (2004). *Taphonomy of Fossil Whales in the Miocene/Pliocene Pisco Fm., Peru.* PhD Dissertation, , Department of Earth and Biological Sciences, Loma Linda University, CA. U.S.A.
 
-Buena Vista Museum (2001). *Sharktooth Hill.* Bakersfield, CA, U.S.A.
-
-.
+Buena Vista Museum (2001). *Sharktooth Hill.* Bakersfield, CA, U.S.A..
 
 Dolson, J.*et al.* (2002). *The Eocene and Oligocene Palaeo-Ecology and Palaeo-Geography of Whale Valley and Fayoum Basins.* Field trip No.7. Rising Star Energy Publications Ltd., Egypt. 79 pp.
 

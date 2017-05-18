@@ -2,7 +2,7 @@ Title: GRAND CANYON NATIONAL PARK
 Tags: UNITED STATES OF AMERICA
 Author: UNEP-WCMC
 Year: 1979
-Date: 2017-04-12 15:28:09
+Date: 2017-05-18 14:05:03
 
 GRAND CANYON NATIONAL PARK 
 ===========================
@@ -226,9 +226,7 @@ National Parks Service (NPS) (2007a) Grand Canyon Park Profile 2007. National Pa
 
 ---------- (2007b). Website: [Grand Canyon National Park (U.S. National Park Service)](http://www.nps.gov/grca/)
 
----------- (1995). *Final General Management Plan and Environmental Impact Statement, Grand Canyon National Park, Arizona.* National Park Service, Denver Service Center.
-
-90 pp.
+---------- (1995). *Final General Management Plan and Environmental Impact Statement, Grand Canyon National Park, Arizona.* National Park Service, Denver Service Center. 90 pp.
 
 ---------- (1978). World Heritage Nomination Submission to UNESCO.
 

@@ -2,7 +2,7 @@ Title: SHARK BAY
 Tags: AUSTRALIA
 Author: UNEP-WCMC
 Year: 1991
-Date: 2017-04-12 15:27:55
+Date: 2017-05-18 14:04:47
 
 SHARK BAY 
 ==========
@@ -33,29 +33,60 @@ STATEMENT OF OUTSTANDING UNIVERSAL VALUE \[pending\]
 IUCN MANAGEMENT CATEGORY 
 -------------------------
 
-Shark Bay Marine Park: Ia Strict Nature Reserve
-
-Zuytdorp Nature Reserve: Ia Strict Nature Reserve
-
-Freycinet-Double Islands Nature Res: Ia Strict Nature Reserve
-
-Zuytdorp Historic Shipwreck: Ia Strict Nature Reserve
-
-Koks Island: Ia Strict Nature Reserve
-
-Charlie Island: Ia Strict Nature Reserve
-
-Friday Island: Ia Strict Nature Reserve
-
-Francois Peron National Park: II National Park
-
-Monkey Mia Conservation Reserve: II National Park
-
-Shell Beach Conservation Park: III Natural Monument
-
-Bernier & Dorre Is. Nature Reserve: IV Habitat/Species Management Area
-
-Hamelin Pool Marine Nature Reserve: VI Managed Resource Protected Area
+<table>
+<thead>
+<tr class="header">
+<th align="left">Shark Bay Marine Park:</th>
+<th align="left">Ia Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Zuytdorp Nature Reserve:</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Freycinet-Double Islands Nature Res:</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+<tr class="odd">
+<td align="left">Zuytdorp Historic Shipwreck:</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Koks Island:</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+<tr class="odd">
+<td align="left">Charlie Island:</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Friday Island:</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+<tr class="odd">
+<td align="left">Francois Peron National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Monkey Mia Conservation Reserve:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Shell Beach Conservation Park:</td>
+<td align="left">III Natural Monument</td>
+</tr>
+<tr class="even">
+<td align="left">Bernier &amp; Dorre Is. Nature Reserve:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Hamelin Pool Marine Nature Reserve:</td>
+<td align="left">VI Managed Resource Protected Area</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -98,29 +129,60 @@ AREA
 
 2,197,300 ha. Protected areas - marine parks, marine nature reserves, terrestrial nature reserves and national park - cover 1,004,000 ha. Public land - marine areas 687,747 ha, vacant Crown Land 55,000 ha, pastoral land 450,000 ha, other reserves 2,500 ha plus private land 750 ha - covers 1,195.997 ha.
 
-Shark Bay Marine Park: 748,725ha
-
-Shell Beach Conservation Park: 518.00 ha
-
-Monkey Mia Conservation Reserve: 477.00 ha
-
-Freycinet-Double Islands Nature Reserve: 205.60 ha
-
-Hamelin Pool Marine Nature Reserve: 132,00 ha
-
-Zuytdorp Historic Shipwreck: 79.00 ha
-
-Zuytdorp Nature Reserve: 58,85 ha
-
-Francois Peron National Park: 52,529ha
-
-Bernier & Dorre Is. Nature Reserve: 9,72 ha
-
-Koks Island: 3.00 ha
-
-Charlie Island: 0.80 ha
-
-Friday Island: 0.80 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Shark Bay Marine Park:</th>
+<th align="left">748,725ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Shell Beach Conservation Park:</td>
+<td align="left">518.00 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Monkey Mia Conservation Reserve:</td>
+<td align="left">477.00 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Freycinet-Double Islands Nature Reserve:</td>
+<td align="left">205.60 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Hamelin Pool Marine Nature Reserve:</td>
+<td align="left">132,00 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Zuytdorp Historic Shipwreck:</td>
+<td align="left">79.00 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Zuytdorp Nature Reserve:</td>
+<td align="left">58,85 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Francois Peron National Park:</td>
+<td align="left">52,529ha</td>
+</tr>
+<tr class="even">
+<td align="left">Bernier &amp; Dorre Is. Nature Reserve:</td>
+<td align="left">9,72 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Koks Island:</td>
+<td align="left">3.00 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Charlie Island:</td>
+<td align="left">0.80 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Friday Island:</td>
+<td align="left">0.80 ha</td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE 
 ---------

@@ -257,6 +257,9 @@ class datasheet_v_old(object):
     
 
 def main():
+    if not os.path.exists(OUTPUT_PATH):
+        os.mkdir(OUTPUT_PATH)
+
     for each in os.listdir(INPUT_PATH):
         if each.endswith('.md'):
             ds = datasheet(INPUT_PATH + os.sep + each)

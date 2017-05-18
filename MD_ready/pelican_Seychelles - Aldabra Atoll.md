@@ -2,7 +2,7 @@ Title: ALDABRA ATOLL
 Tags: SEYCHELLES
 Author: UNEP-WCMC
 Year: 1982
-Date: 2017-04-12 15:28:07
+Date: 2017-05-18 14:05:00
 
 ALDABRA ATOLL
 =============
@@ -201,9 +201,7 @@ Collar, N. (1994). The conservation status in 1982 of the Aldabra white-throated
 
 Directorate of Overseas Surveys Print Laydown (1969). 1:25,000. West and East sheets DOS (PL SEY) 3099A and 3099B.
 
-Downing, N., Buckley, R., Stobart, B., LeClair, L. & Telecki, C. (2005). Reef fish diversity at Aldabra Atoll, Seychelles, during the five years following the 1998 coral bleaching event. *Phil Trans R. Soc A* 363:
-
-257-261.
+Downing, N., Buckley, R., Stobart, B., LeClair, L. & Telecki, C. (2005). Reef fish diversity at Aldabra Atoll, Seychelles, during the five years following the 1998 coral bleaching event. *Phil Trans R. Soc A* 363: 257-261.
 
 Earthdive.com (2004). The island that time forgot. *Earthdive News,* April 22.
 

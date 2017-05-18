@@ -2,7 +2,7 @@ Title: HIERAPOLIS - PAMUKKALE
 Tags: TURKEY
 Author: UNEP-WCMC
 Year: 1988
-Date: 2017-04-12 15:28:09
+Date: 2017-05-18 14:05:02
 
 HIERAPOLIS - PAMUKKALE
 ======================
@@ -50,9 +50,7 @@ DATES AND HISTORY OF ESTABLISHMENT
 
 1969: A management plan for the area was prepared but not officially approved;
 
-1989: Work on setting up a National Park begun by the government under the Laws of Ancient
-
-Monuments 1710 of 1973 and of Preservation of Cultural and Natural Values 2863 of 1983;
+1989: Work on setting up a National Park begun by the government under the Laws of Ancient Monuments 1710 of 1973 and of Preservation of Cultural and Natural Values 2863 of 1983;
 
 1990: Area decreed a Special Area of Environmental Protection to prevent degradation by development;
 

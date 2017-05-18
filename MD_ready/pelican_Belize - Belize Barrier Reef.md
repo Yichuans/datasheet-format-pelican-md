@@ -2,7 +2,7 @@ Title: BELIZE BARRIER REEF RESERVE SYSTEM
 Tags: BELIZE
 Author: UNEP-WCMC
 Year: 1996
-Date: 2017-04-12 15:27:55
+Date: 2017-05-18 14:04:48
 
 BELIZE BARRIER REEF RESERVE SYSTEM 
 ===================================
@@ -43,21 +43,44 @@ The Committee inscribed the Belize Barrier Reef Reserve System under **natural c
 IUCN MANAGEMENT CATEGORY
 ----------------------------
 
-Bacalar Chico National Park: II National Park
-
-and Marine Reserve: IV Habitat/Species Management Area
-
-Laughing Bird Caye National Park: II National Park
-
-Half Moon Caye Natural Monument: III Natural Monument
-
-Blue Hole Natural Monument: III Natural Monument
-
-Glovers Reef Marine Reserve: IV Habitat/Species Management Area
-
-South Water Caye Marine Reserve: IV Habitat/Species Management Area
-
-Sapodilla Cayes Marine Reserve: V Habitat/Species Management Area
+<table>
+<thead>
+<tr class="header">
+<th align="left">Bacalar Chico National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">and Marine Reserve:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Laughing Bird Caye National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Half Moon Caye Natural Monument:</td>
+<td align="left">III Natural Monument</td>
+</tr>
+<tr class="even">
+<td align="left">Blue Hole Natural Monument:</td>
+<td align="left">III Natural Monument</td>
+</tr>
+<tr class="odd">
+<td align="left">Glovers Reef Marine Reserve:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">South Water Caye Marine Reserve:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Sapodilla Cayes Marine Reserve:</td>
+<td align="left">V Habitat/Species Management Area</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ----------------------------
@@ -69,21 +92,40 @@ GEOGRAPHICAL LOCATION
 
 The Belize Barrier Reef lies off the Caribbean coast of Belize, extending 235 km between the Mexican and Guatemalan borders and between 0.5 to 80 km from the mainland. The sites lie between 16°04' to 18°11'N and 87°29' to 88°22’W:
 
-Bacalar Chico National Park 18°11' - 18°04' N by 87°48' - 87°55' W
-
-and Marine Reserve:
-
-Laughing Bird Caye National Park: 16°25' - 16°30' N by 88°09' - 88°13' W
-
-Half Moon Caye Natural Monument: 17°14' - 17°14' N by 87°29' - 87°34' W
-
-Glovers Reef Marine Reserve: 16°38' - 16°56' N by 87°39' - 87°53’W
-
-South Water Caye Marine Reserve: 16°33' - 16°55' N by 88°03' - 88°15' W
-
-Sapodilla Cayes Marine Reserve: 16°04' - 16°11' N by 88°13' - 88°22' W
-
-Blue Hole Natural Monument: 17°19' N by 87°32' W
+<table>
+<thead>
+<tr class="header">
+<th align="left">Bacalar Chico National Park and Marine Reserve:</th>
+<th align="left">18°11' - 18°04' N by 87°48' - 87°55' W</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Laughing Bird Caye National Park:</td>
+<td align="left">16°25' - 16°30' N by 88°09' - 88°13' W</td>
+</tr>
+<tr class="even">
+<td align="left">Half Moon Caye Natural Monument:</td>
+<td align="left">17°14' - 17°14' N by 87°29' - 87°34' W</td>
+</tr>
+<tr class="odd">
+<td align="left">Glovers Reef Marine Reserve:</td>
+<td align="left">16°38' - 16°56' N by 87°39' - 87°53’W</td>
+</tr>
+<tr class="even">
+<td align="left">South Water Caye Marine Reserve:</td>
+<td align="left">16°33' - 16°55' N by 88°03' - 88°15' W</td>
+</tr>
+<tr class="odd">
+<td align="left">Sapodilla Cayes Marine Reserve:</td>
+<td align="left">16°04' - 16°11' N by 88°13' - 88°22' W</td>
+</tr>
+<tr class="even">
+<td align="left">Blue Hole Natural Monument:</td>
+<td align="left">17°19' N by 87°32' W</td>
+</tr>
+</tbody>
+</table>
 
 DATES AND HISTORY OF ESTABLISHMENT
 ----------------------------------
@@ -118,22 +160,66 @@ AREA
 
 The site totals 96,300 ha. The areas are cited from a) the 1996 nomination, b) Meerman, c) WDPA records. Meerman’s 2005 study gives authoritative figures which may include extended marine areas:
 
-*Nom. Doc. Meerman WDPA*
-
-Glover's Reef Marine Reserve 30,800 ha 35,067.5 ha 32,876 ha
-
-South Water Caye Marine Reserve 29,800 ha 47,702.5 ha 47,803 ha
-
-Sapodilla Cayes Marine Reserve 12,700 ha 15,618.5 ha 13,517 ha
-
-Bacalar Chico National Park and 10,700 ha 4,510.3 ha 5,115 ha
-
-Marine Reserve 6,319.6 ha 6,303.0 ha
-
-Laughing Bird Caye National Park 4,300 ha 4,095.3 ha 4,095.ha\
-Half Moon Caye Natural Monument 3,900 ha 3,954.0 ha 3,954 ha
-
-Blue Hole Natural Monument 4,100 ha\* 424.0 ha 414 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="left">Nom. Doc.</th>
+<th align="left">Meerman</th>
+<th align="left">WDPA</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Glover's Reef Marine Reserve 30,800 ha</td>
+<td align="left">35,067.5 ha</td>
+<td align="left">32,876 ha</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">South Water Caye Marine Reserve</td>
+<td align="left">29,800 ha</td>
+<td align="left">47,702.5 ha</td>
+<td align="left">47,803 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Sapodilla Cayes Marine Reserve</td>
+<td align="left">12,700 ha</td>
+<td align="left">15,618.5 ha</td>
+<td align="left">13,517 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Bacalar Chico National Park and</td>
+<td align="left">10,700 ha</td>
+<td align="left">4,510.3 ha</td>
+<td align="left">5,115 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Marine Reserve</td>
+<td align="left">6,319.6 ha</td>
+<td align="left">6,303.0 ha</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Laughing Bird Caye National Park</td>
+<td align="left">4,300 ha</td>
+<td align="left">4,095.3 ha</td>
+<td align="left">4,095.ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Half Moon Caye Natural Monument</td>
+<td align="left">3,900 ha</td>
+<td align="left">3,954.0 ha</td>
+<td align="left">3,954 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Blue Hole Natural Monument</td>
+<td align="left">4,100 ha*</td>
+<td align="left">424.0 ha</td>
+<td align="left">414 ha</td>
+</tr>
+</tbody>
+</table>
 
 \* the Blue Hole site is small; this figure is in error, but is part of the total cited in the nomination.
 
@@ -279,7 +365,7 @@ McCorry, D., Mumby, P., Raines, P. & Ridley (1995). *South Water Cay Marine Rese
 
 Meerman, J. & Sabido, W. (2001). *Central American Ecosystems: Belize. Programme for Belize, Belize City.* 2 volumes. 50 pp. + 88 pp.
 
-Meerman, J. (2005). *Central American Ecosystems: Belize. Programme for Belize, BelizeCity.* Update. <http://biological-diversity.info/Ecosystems.htm>; http://www.biodiversity.bz.
+Meerman, J. (2005). *Central American Ecosystems: Belize. Programme for Belize, BelizeCity.* Update. <http://biological-diversity.info/Ecosystems.htm>; <http://www.biodiversity.bz>.
 
 *----------* (2005). Compilation of Information on Biodiversity in Belize. Report to INBio and the Chief Forest Officer, Forest Department of the Ministry of Natural Resources and the Environment, Belize.
 
@@ -293,7 +379,7 @@ Rützler, K. &. Macintyre,I. eds) (1982). *The Atlantic Barrier Reef Ecosystems 
 
 Platt, S. (1994). *Preliminary Assessment of the Status of the American Crocodile (Crocodylus acutus) in the Turneffe Atoll, Belize.* Report to Coral Cay Conservation and University College of Belize.
 
-Spalding, M., Ravilious, C. & Green, E. (2001). *The World Atlas of Coral Reef*s. UNEP-WCMC / University of California Press, Berkeley, and Cambridge U.K.
+Spalding, M., Ravilious, C. & Green, E. (2001). *The World Atlas of Coral Reefs*. UNEP-WCMC / University of California Press, Berkeley, and Cambridge U.K.
 
 Stafford, P. & Meyer, J. (1999). *A Guide to the Reptiles of Belize*. 356 pp.
 

@@ -2,7 +2,7 @@ Title: YELLOWSTONE NATIONAL PARK
 Tags: UNITED STATES OF AMERICA
 Author: UNEP-WCMC
 Year: 1978
-Date: 2017-04-12 15:28:10
+Date: 2017-05-18 14:05:03
 
 YELLOWSTONE NATIONAL PARK
 =========================
@@ -213,9 +213,7 @@ Bishop, N. (1995). Population status of large mammals in *Yellowstone National P
 
 ---------- (1987). Wolf recovery in Yellowstone. *Park Science* 8 (1): 19.
 
-Blanchard, B. & Knight, R. (1991). Movements of Yellowstone grizzly bears. *Biol. Conservation*, 58:
-
-41-57.
+Blanchard, B. & Knight, R. (1991). Movements of Yellowstone grizzly bears. *Biol. Conservation*, 58: 41-57.
 
 Boyce, M. (1989). *The Jackson Elk Herd: Intensive Wildlife Management In North America*. Cambridge University Press, Cambridge, UK. 305 pp.
 

@@ -2,7 +2,7 @@ Title: THUNGYAI - HUAI KHA KHAENG WILDLIFE SANCTUARIES
 Tags: THAILAND
 Author: UNEP-WCMC
 Year: 1991
-Date: 2017-04-12 15:28:09
+Date: 2017-05-18 14:05:02
 
 THUNGYAI - HUAI KHA KHAENG WILDLIFE SANCTUARIES
 ===============================================
@@ -33,9 +33,20 @@ STATEMENT OF OUTSTANDING UNIVERSAL VALUE \[pending\]
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Thungyai-Naresuan Wildlife Sanctuary: IV Habitat/Species Management Area
-
-Huai Kha Khaeng Wildlife Sanctuary: IV Habitat/Species Management Area
+<table>
+<thead>
+<tr class="header">
+<th align="left">Thungyai-Naresuan Wildlife Sanctuary:</th>
+<th align="left">IV Habitat/Species Management Area</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Huai Kha Khaeng Wildlife Sanctuary:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------

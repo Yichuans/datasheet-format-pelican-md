@@ -2,7 +2,7 @@ Title: BLUE AND JOHN CROW MOUNTAINS
 Tags: JAMAICA
 Author: UNEP-WCMC
 Year: 2015
-Date: 2017-04-12 15:27:55
+Date: 2017-05-18 14:04:48
 
 BLUE AND JOHN CROW MOUNTAINS
 ============================
@@ -72,15 +72,32 @@ None
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Blue and John Crow Mountains National Park: II
-
-Blue Mountain Forest Reserve: VI
-
-Cambridge Backlands Forest Reserve: VI
-
-Spring Estate Forest Reserve: VI
-
-Fort George Forest Reserve: VI
+<table>
+<thead>
+<tr class="header">
+<th align="left">Blue and John Crow Mountains National Park:</th>
+<th align="left">II</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Blue Mountain Forest Reserve:</td>
+<td align="left">VI</td>
+</tr>
+<tr class="even">
+<td align="left">Cambridge Backlands Forest Reserve:</td>
+<td align="left">VI</td>
+</tr>
+<tr class="odd">
+<td align="left">Spring Estate Forest Reserve:</td>
+<td align="left">VI</td>
+</tr>
+<tr class="even">
+<td align="left">Fort George Forest Reserve:</td>
+<td align="left">VI</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------

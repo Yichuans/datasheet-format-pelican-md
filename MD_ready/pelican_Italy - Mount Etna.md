@@ -1,31 +1,14 @@
-Title: Mount Etna
-Tags: Italy
+Title: MOUNT ETNA
+Tags: ITALY
 Author: UNEP-WCMC
 Year: 2013
-Date: 2017-04-12 15:28:02
-
-1.  
-
-2.  
-
-3.  
-
-4.  
-
-5.  
-
-6.  
-
-7.  
-
-8.  
-
-9.  
+Date: 2017-05-18 14:04:55
 
 MOUNT ETNA
 ==========
 
-**ITALY**
+ITALY
+=====
 
 *Mount Etna dominates northeastern Sicily by its great bulk, as the highest mountain of southern Italy or of any Mediterranean island and as the most continuously active volcano in Europe and the world, whose constant activity has been documented for over 2,700 years. It is a composite or stratovolcano mantled by frequent basaltic lava flows and pyroclastic ejecta from its craters and the fissures on its flanks. It displays a wide range of flows, cinder cones, lava tubes and caves. Although explosive in the past, it is now as often effusive in character. Its endemic fauna and flora are notable, providing, with its exhaustively studied volcanism, an influential natural laboratory for the study of ecological and biological processes. Fatalities are few as its viscous lavas move slowly enough to allow escape. But its behaviour is changeable and unpredictable.*
 
@@ -71,7 +54,8 @@ The management of the property is coordinated by *Ente Parco dell’ Etna,* esta
 
 The property has no permanent population, is free of roads, and its use restricted to research and recreation. Vehicle access to the limited network of forest and mountain tracks appears to be strictly controlled (e.g. through gates and fences) and is only permitted for park management purposes and authorised activities such as research and organized 4x4 drives on the main track from the tourism facilities in the buffer zone to the INGV observatory. Except for possible maintenance of the observatory, no construction projects are permitted or planned within the property. Public access to the top of Mount Etna may be officially prohibited for safety reasons, although this regulation has been difficult to enforce. Organized recreational activities such as mountain biking and horse and donkey riding require advance authorization. Although they appear to be limited at present, they need to be well monitored and managed to avoid negative impacts such as erosion and disturbance of wildlife. No dogs are allowed in the property and illegal hunting appears to be under control. Low-intensity grazing is permitted and occurs in parts of the property in the summer season. Limited silvicultural interventions are implemented in the property to reduce the risk from forest fires and maintain access routes. Climate change has the potential to increase the risk of forest fires in the region and impact the species and communities on Mount Etna. Natural hazards resulting from the volcanic activity of the property will always pose a risk to certain features and facilities of the park and beyond. Strengthened park visitor facilities are needed, taking into account best practice and lessons learned at other comparable World Heritage properties.
 
-**IUCN MANAGEMENT CATEGORY**
+IUCN MANAGEMENT CATEGORY
+------------------------
 
 Unassigned
 
@@ -94,7 +78,8 @@ DATES AND HISTORY OF ESTABLISHMENT
 
 2013: Inscribed on the World Heritage List.
 
-**LAND TENURE**
+LAND TENURE
+-----------
 
 97.4% of the property is in public ownership, regional or community since 2010. The remaining 2.6% (500 ha) is private. 56.6% of the buffer zone is privately owned. Its management is by the *Ente Parco dell'Etna* in cooperation with the Regional Authority for State Forests and the Regional Corps of Forest Rangers.
 
@@ -103,11 +88,13 @@ AREAS
 
 Core: 19,237 ha; Buffer zone: 26,220 ha.
 
-**ALTITUDE**
+ALTITUDE
+--------
 
 900m to 3,335m (varies with summit eruptions: it has grown 70m in the last 80 years).
 
-**PHYSICAL FEATURES**
+PHYSICAL FEATURES
+-----------------
 
 Mount Etna, a flattened cone of 3,335m dominates northeastern Sicily by its great bulk, as the highest mountain of southern Italy, or of any Mediterranean island, and as the most continuously active volcano in Europe. Its constant activity has been known for 3,000 years and 193 eruptions have been recorded over that period. It is a multiple stratovolcano, accumulated over thousands of years of many overlapping eruptions that have been explosive in the past, but are now as often effusive as explosive, creating a mantle of varied volcanic substrates. It rises over the subduction zone of the African tectonic plate under the Eurasian one. However, the small volcanoes of the nearby Lipari Islands have no direct connection with it. There are continuous eruptions from the summit and frequent flows of viscous basaltic *aa* lava intermixed with mudflows from the craters, fissures and hundreds of vents on its flanks. Its lavas are of several types and have formed lava tubes and over twenty caves, many containing speleothems. Vesuvius has a similar character and origin, but is 2,000m lower.
 
@@ -115,11 +102,13 @@ The massif which rises from the sea is some 140 km around the base and covers an
 
 On the mountain, the soils are sandy and very permeable and therefore dry on the surface, but yielding much underground water. There is one wetland, Lake Gurrida in the northwest, which is sometimes marshy or dry. On the lower slopes the lava has produced a fertile mineral-rich soil, which has always attracted farmers despite the danger of annihilation. Visually, the mountain lacks the perfect symmetry of Mounts Klyuchevsky or Sangay, but the rugged cone, rising straight from the sea or above the cornfields of the interior, dominates them with bulky majesty.
 
-**CLIMATE**
+CLIMATE
+-------
 
 The climate of the mountain varies considerably with altitude and aspect. Temperatures decrease with height so that the upper slopes are usually snow covered from October to March. Summers are hot and dry, winters warm and rainy. At a point where the average annual temperature recorded is 20.9°C, the minimum is -4.7°C and the maximum 30°C. The average precipitation is 1,000mm, but unevenly distributed: the sea-facing eastern slopes being wetter, the western being more arid. December is the wettest month, July the driest. Winds in the summit area can be strong, prevailing from the east.
 
-**VEGETATION**
+VEGETATION
+----------
 
 As with the climate, the vegetation of the mountain varies considerably with altitude and aspect, as well as soil type, starting with fertile farmland and forest at the base, up to the sparse xeric flora of the World Heritage site. The flora is relatively poor, with only 1,450 species, though it includes some 23 regionally and ten locally endemic species. The exceptional flora often found on island volcanoes is limited here because the property covers only the mountain's top third, the bottom two thirds having long been influenced by man. Nevertheless, the extreme conditions created by the varied lava flows have created a mosaic of habitats and biotic communities, often in island sites bypassed by lava, characterized by constant recolonization by pioneer species in response to ash falls, lava flows and weathering. This has created a natural laboratory for the study of ecological and biological processes: adaptation, colonization, competition, distribution, speciation and succession.
 
@@ -127,7 +116,8 @@ The mountain has four main zones of Mediterranean vegetation: Basal to 1,400-1,4
 
 Above c. 2,100m, 160 species are recorded, mainly herbaceous communities dominated by cushion mounds of *Astragalus.* This is the most singular of the mountain's landscapes, where the ten local endemics are found and with the summits forming the main landscape of the property. Many of the plants of the mountain are pioneer species constantly recolonizing relatively recent lava flows and armed with adaptations to the harsh conditions. As far as c. 2,450m, along with Etna broom, Etna barberry *Berberis aetnensis,* southern juniper *Juniperus hemosphaerica,* Sicilian soapwort *Saponaria sicula,* Etna violet *Viola aetnensis* and *Adenocarpus bivonii* are common. Above it, the sparse cover is of Alpine dock *Rumex aetnensis,* Etna camomile *Anthemus aetnensis,* Etna ragwort *Senecio aetnensis* and *Hypochoeris robertia.*
 
-**FAUNA**
+FAUNA
+-----
 
 The mountain is a mosaic of habitats: rock, scrub, meadow and forest; there is even one wetland. Owing to human pressures, there are very few large wild mammals left but only mustelids, insectivores and rodents. 44 mammals and over 200 bird species are recorded, with 16 reptiles, 6 amphibians and 1,765 invertebrates, 800 being endemic, 31 in the core zone, with 35 cave-dwelling species. The mountain is rich in species adapted to the extreme conditions. The mammals include European red fox *Vulpes vulpes crucigera,* European wildcat *Felix silvestris,* crested porcupine *Hystrix cristata,* pine marten *Martes martes,* polecat *Mustela putorius,* weasel *M. nivalis,* Italian hare *Lepus corsicana,* rabbit *Oryctolagus cuniculus,* Sicilian shrew *Crocidura sicula,* dormouse *Muscardinus avellanarius,* edible dormouse *Glis glis,* and 7 species of bat.
 
@@ -143,11 +133,13 @@ CULTURAL HERITAGE
 
 The area is known to have been settled 8,000 years ago and for more than 2,000 years, Mount Etna, in the centre of the Mediterranean world, has been celebrated in folklore, legends, literature and art, referred to by Aeschylus, Pindar, Thucydides, Plato, Aristotle, Lucretius, Strabo, Virgil and Ovid. An unknown Roman poet of c.70 AD even composed a poem describing its volcanic activity. Its caves have been used as homes, hermitages, burial sites and for storing ice for export.
 
-**LOCAL HUMAN POPULATIONS**
+LOCAL HUMAN POPULATIONS
+-----------------------
 
 This is a landscape of ceaseless but habitable disturbance. A few people live in buffer zone holiday homes, but none in the core area. The fertile outer slopes support a population of some 213,000 in twenty surrounding towns and have always been profitably farmed, grazed and planted with useful forests despite the occasional danger of annihilation. Catania, a city of almost 300,000, 30 km from the crater, has been within range of lava flows in the past.
 
-**VISITORS AND VISITOR FACILITIES**
+VISITORS AND VISITOR FACILITIES
+-------------------------------
 
 In 2010, there were 1,368,000 visitors to the crater area and c. 3,000,000 to the buffer area. Of the 255,470 overnight visitors, 29% were foreigners. In the core reserve zone, there are a few forest and mountain tracks, seven basic mountain shelters along the main forest tracks, and an observatory. The boundaries of this zone are clearly marked on maps of the park and along the field trails. Three visitors' centers exist, in Fornazzo (east), Randazzo (northwest) and Linguaglossa (northeast). 4WD tours are made from the Refugio Sapienza and a 42km high mountain trail, the *Altomontana* in the northeast, starts there. In the buffer zone, there are two tourism areas that predate the establishment of Etna Park. These include hotels, huts, car parks, restaurants, cafes, a cableway, chair and drag lifts for ski tourism, information points with picnic and playgrounds, and ticket kiosks for guided drives, hikes and horse and donkey tours. Educational and school tours are routinely made. Each of the 21 surrounding towns hosts a museum. The *Circumetnea* train runs clockwise from Catania to Riposto on the eastern coast. The nearest airport is at Catania, which is sometimes closed because of the threat of volcanic ash.
 
@@ -170,7 +162,8 @@ The property has no permanent population, no roads, and its use is restricted. N
 
 Some facilities, especially the park’s visitor facilities require improvement; and the environmental impacts of future developments need careful monitoring and control. The property and buffer zone are free from any industrial activity, but due to its location in a densely populated region, parts of the wider park area are threatened by pollution from urban development including illegal garbage dumping and illegal quarrying for construction materials. There is a lack of a coordinated management presence on site. Upgrading is needed to improve the presentation of natural heritage values to the visiting public, to provide easier access and to ensure visitor safety. Present programming and interpretation is done through private operators. Their coordination by the managing organization is necessary.
 
-**COM PARISON WITH SIMILAR SITES**
+COMPARISON WITH SIMILAR SITES
+-----------------------------
 
 Of the world's many great active stratovolcanic peaks, those comparable with Mount Etna should be massive, isolated, actively eruptive, with a large range of recorded volcanic activity and features, beautiful and dangerous to a populous countryside. Several are World Heritage sites already: Teide in the Canary Islands (3,718m), Sangay-Tungurahua in Ecuador (5,029m), Mauna Loa-Mauna Kea in Hawaii (4,170m), the volcanoes of Kamchatka, e.g. Klyuchevskiy (4,088m); and several are not: Fujiyama (3,776m), Nyragongo in the D.R.C. (3,470m), Merapi in Java (2,390m) and the rather similar Vesuvius which is 2,000m lower at 1,281m. In 1992, the UN sponsored a list of 16 'Decade Volcanoes', which includes all the above except Fujiyama, which is presently dormant, but includes Etna. All possess the above characteristics, though the more remote threaten only small or distant populations, and Teide has not erupted since 1705, nor Vesuvius since 1944. Of the designated sites, all are similar except that Mauna Loa is a shield-type dome, not a cone or pyramid. What recommends Etna above the group is its conspicuous position, long recorded history and record of detailed research of its continuous activity at the centre of a vibrant civilization.
 
@@ -208,7 +201,7 @@ Giusso del Galdo, G. & Brullo, S. (2012). Flora und vegetation des Ätna. pp.162
 
 Grabherr, G. & Messerli, B. (2011). An Overview of the World’s Mountain Environments. Pages 8-14 in: Austrian MAB Committee (ed.). *Biosphere Reserves in the Mountains of the World: Excellence in the Clouds?* Austrian Academy of Sciences Press, Vienna, Austria.
 
-IIUCN (2012).*World Heritage Nomination – IUCN Technical Evaluation. Mount Etna (Italy).* Gland, Switzerland.
+IUCN (2012).*World Heritage Nomination – IUCN Technical Evaluation. Mount Etna (Italy).* Gland, Switzerland.
 
 *Massa, B. et al. (1989). Bird communities on Mount Etna, Sicily, Italy. Boll.de Zoologia 56:349-356.*
 
@@ -222,9 +215,7 @@ Mercurio, R. & Spampinato, G. (n.d.). *Monitoring in the Strict Natural Reserve 
 
 *Parco dell'Etna (1999). Dentro Il Volcano (Etna's Caves).*
 
-Patanè D. *et al.* (2011 ). Interplay between tectonics and Mount Etna’s volcanism: Insights into the
-
-geometry of the plumbing system. In Schattner, U. (ed.). *New Frontiers in Tectonic Research - At the Midst of Plate Convergence.* InTech.
+Patanè D. *et al.* (2011 ). Interplay between tectonics and Mount Etna’s volcanism: Insights into the geometry of the plumbing system. In Schattner, U. (ed.). *New Frontiers in Tectonic Research - At the Midst of Plate Convergence.* InTech.
 
 Poli, E. (1965). La vegetazione altomontana dell’Etna. Memoria 5,*Flora et Vegetatio Italica,* Gianasso Editore, Roma, Italy.
 
@@ -240,9 +231,7 @@ Siebert, L., Simkin, T. & Kimberly, P. (2010). *Volcanoes of the World,* 3rd ed.
 
 Smithsonian Institution (2012). Online information of the Global Volcanism Programme.
 
-*Turrisi, G. & Vaccaro, A (2004). Anfibi e rettile del Monte Etna. (Sicilia Orientale).Boll.dell'Acad.*
-
-*Gioenia di Sci.Nat. 36(363):5-103. Catania.*
+*Turrisi, G. & Vaccaro, A (2004). Anfibi e rettile del Monte Etna. (Sicilia Orientale).Boll.dell'Acad.Gioenia di Sci.Nat. 36(363):5-103. Catania.*
 
 Vogiatzakis, I. & Griffiths, G. (2008). Island biogeography and landscape ecology. pp. 61-81 in Vogiatzakis, I. *et al*. (eds.) *Mediterranean Island Landscapes.* Springer Science + Business Media B.V.
 

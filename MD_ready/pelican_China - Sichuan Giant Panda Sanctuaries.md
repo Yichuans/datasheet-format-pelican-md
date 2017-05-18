@@ -2,10 +2,10 @@ Title: Sichuan Giant Panda Sanctuaries – Wolong, Mount Siguniang & Jiajin Moun
 Tags: China
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-12 15:27:58
+Date: 2017-05-18 14:04:50
 
- SICHUAN GIANT PANDA SANCTUARIES – 
-===================================
+ SICHUAN GIANT PANDA SANCTUARIES
+================================
 
  WOLONG, MT. SIGUNIANG & JIAJIN MOUNTAINS
 =========================================
@@ -45,33 +45,66 @@ IUCN MANAGEMENT CATEGORY
 
 Sichuan Giant Panda Sanctuary:
 
-Wolong National Nature Reserve: V Protected Landscape
-
-Fengtongzhai National Nature Reserve: V Protected Landscape
-
-Mt. Siguniang National Nature Reserve: V Protected Landscape
-
-Mt. Qingcheng - Dujiangyan National Park: II National Park
-
-Mt. Siguniang National Park: II National Park
-
-Mt. Xilingxueshan National Park: II National Park
-
-Labahe Provincial Nature Reserve: Unassigned
-
-Jintang - Kongyu Provincial Nature Reserve: Unassigned
-
-Caopo Provincial Nature Reserve: Unassigned
-
-Mt. Jiguan - Jiulonggou Provincial Park: Unassigned
-
-Mt. Jiajin Provincial Park: Unassigned
-
-Miyaluo Provincial Park: Unassigned
-
-Mt. Lingjiu - Mt.Daxuefeng Provincial Park: Unassigned
-
-Mt. Erlang Provincial Park: Unassigned
+<table>
+<tbody>
+<tr class="odd">
+<td align="left">Wolong National Nature Reserve:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="even">
+<td align="left">Fengtongzhai National Nature Reserve:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="odd">
+<td align="left">Mt. Siguniang National Nature Reserve:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+<tr class="even">
+<td align="left">Mt. Qingcheng - Dujiangyan National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Mt. Siguniang National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Mt. Xilingxueshan National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Labahe Provincial Nature Reserve:</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="even">
+<td align="left">Jintang - Kongyu Provincial Nature Reserve:</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="odd">
+<td align="left">Caopo Provincial Nature Reserve:</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="even">
+<td align="left">Mt. Jiguan - Jiulonggou Provincial Park:</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="odd">
+<td align="left">Mt. Jiajin Provincial Park:</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="even">
+<td align="left">Miyaluo Provincial Park:</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="odd">
+<td align="left">Mt. Lingjiu - Mt.Daxuefeng Provincial Park:</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="even">
+<td align="left">Mt. Erlang Provincial Park:</td>
+<td align="left">Unassigned</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -205,27 +238,72 @@ COMPARISON WITH SIMILAR SITES
 
 The site is in basically a temperate climatic area, though rising from subtropical to alpine zones. Its altitudinal range is 5,670m. A comparable range exists in the Three Rivers World Heritage site in Yunnan (5,980m) and to a lesser degree, in Mount Kinabalu in Sabah (3,943m) which also rise from the subtropical to alpine. A comparison of their flora, bird and mammal species, including an African site in Mount Kilimanjaro (4,065m), the purely temperate sites of Yellowstone (1,852m), Yosemite (3,327m) and the Great Smoky Mountains (1,966m) is given:
 
-> **Flora (spp.) Birds (spp.) Mammals (spp.) Area (ha)**
-
-Sichuan site &gt;4,000 365 (12\*) 132 924,500
-
-Three Rivers 6,000 417 (22\*) 173 1,680,000
-
-Mt.Kinabalu 5-6,000 326 112 75,337
-
-Mt.Kilimanjaro 2,500 179 140 18,318
-
-Great Smoky Mtns 1,500 &gt;200 &gt;50 209,000
-
-Yosemite &gt;1,400 230 74 308,283
-
-Yellowstone 1,050 290 58 899,200
+<table>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="left"><strong>Flora (spp.)</strong></th>
+<th align="left"><strong>Birds (spp).</strong></th>
+<th align="left"><strong>Mammals</strong></th>
+<th align="left"><strong>Area(ha)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Sichuan site</td>
+<td align="left">4,000</td>
+<td align="left">365 (12*)</td>
+<td align="left">132</td>
+<td align="left">924,500</td>
+</tr>
+<tr class="even">
+<td align="left">Three Rivers</td>
+<td align="left">6,000</td>
+<td align="left">417 (22*)</td>
+<td align="left">173</td>
+<td align="left">1,680,000</td>
+</tr>
+<tr class="odd">
+<td align="left">Mt.Kinabalu</td>
+<td align="left">5-6,000</td>
+<td align="left">326</td>
+<td align="left">112</td>
+<td align="left">75,337</td>
+</tr>
+<tr class="even">
+<td align="left">Mt.Kilimanjaro</td>
+<td align="left">2,500</td>
+<td align="left">179</td>
+<td align="left">140</td>
+<td align="left">18,318</td>
+</tr>
+<tr class="odd">
+<td align="left">Great Smoky Mtns</td>
+<td align="left">1,500</td>
+<td align="left">200</td>
+<td align="left">&gt;50</td>
+<td align="left">209,000</td>
+</tr>
+<tr class="even">
+<td align="left">Yosemite</td>
+<td align="left">&gt;1,400</td>
+<td align="left">230</td>
+<td align="left">74</td>
+<td align="left">308,283</td>
+</tr>
+<tr class="odd">
+<td align="left">Yellowstone</td>
+<td align="left">1,050</td>
+<td align="left">290</td>
+<td align="left">58</td>
+<td align="left">899,200</td>
+</tr>
+</tbody>
+</table>
 
 \*endemics
 
-The Three Rivers serial site is almost twice the size but is otherwise rather comparable, not having twice the number of species. There is a much greater concentration of diversity on Kinabalu, a site of one twelfth the area, but its iconic mammal, the orang-utan, is more widely dispersed in Indonesia than the
-
-panda is in central China.
+The Three Rivers serial site is almost twice the size but is otherwise rather comparable, not having twice the number of species. There is a much greater concentration of diversity on Kinabalu, a site of one twelfth the area, but its iconic mammal, the orang-utan, is more widely dispersed in Indonesia than the panda is in central China.
 
 STAFF 
 ------

@@ -2,7 +2,7 @@ Title: KENYA LAKE SYSTEM IN THE GREAT RIFT VALLEY
 Tags: KENYA
 Author: UNEP-WCMC
 Year: 2011
-Date: 2017-04-12 15:28:02
+Date: 2017-05-18 14:04:55
 
 KENYA LAKE SYSTEM IN THE GREAT RIFT VALLEY
 ==========================================
@@ -73,20 +73,22 @@ The Kenya Lake System in the Great Rift Valley includes three lakes in the Rift 
 **Geographical Coordinates to the Nearest Second**
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><blockquote>
+<p><strong>Name </strong></p>
+</blockquote></th>
+<th align="left"><blockquote>
+<p><strong>Location or Municipality </strong></p>
+</blockquote></th>
+<th align="left"><blockquote>
+<p><strong>Coordinates of centre point </strong></p>
+</blockquote></th>
+<th align="left"></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><blockquote>
-<p><strong>Name </strong></p>
-</blockquote></td>
-<td align="left"><blockquote>
-<p><strong>Location or Municipality </strong></p>
-</blockquote></td>
-<td align="left"><blockquote>
-<p><strong>Coordinates of centre point </strong></p>
-</blockquote></td>
-<td align="left"></td>
-</tr>
-<tr class="even">
 <td align="left"><blockquote>
 <p>Lake Nakuru National Park</p>
 </blockquote></td>
@@ -98,7 +100,7 @@ The Kenya Lake System in the Great Rift Valley includes three lakes in the Rift 
 </blockquote></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><blockquote>
 <p>Lake Bogoria National Reserve</p>
 </blockquote></td>
@@ -110,7 +112,7 @@ The Kenya Lake System in the Great Rift Valley includes three lakes in the Rift 
 </blockquote></td>
 <td align="left"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><blockquote>
 <p>Lake Elementaita National Wildlife Sanctuary</p>
 </blockquote></td>
@@ -155,34 +157,36 @@ The inscribed World Heritage property combines a total area of 32,034 ha, which 
 **Area of the three components**
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Name </strong></th>
+<th align="left"><strong>Area of property (ha)</strong></th>
+<th align="left"><strong>Area of buffer zone (ha)</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Name </strong></td>
-<td align="left"><strong>Area of property (ha)</strong></td>
-<td align="left"><strong>Area of buffer zone (ha)</strong></td>
-</tr>
-<tr class="even">
 <td align="left"><blockquote>
 <p>Lake Nakuru National Park</p>
 </blockquote></td>
 <td align="left">18,800</td>
 <td align="left">0</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><blockquote>
 <p>Lake Bogoria National Reserve</p>
 </blockquote></td>
 <td align="left">10,700</td>
 <td align="left">0</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><blockquote>
 <p>Lake Elementaita National Wildlife Sanctuary</p>
 </blockquote></td>
 <td align="left">2,534</td>
 <td align="left">3,581</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><strong>TOTAL</strong></td>
 <td align="left"><strong>32,034</strong></td>
 <td align="left"><strong>3,581</strong></td>
@@ -203,20 +207,22 @@ The three lakes lie on the floor of the Great Rift Valley with surrounding highl
 **Altitude of the three lakes** (modified from Olago *et al*., 2009)
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Name </strong></th>
+<th align="left"><strong>Altitude (m) </strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Name </strong></td>
-<td align="left"><strong>Altitude (m) </strong></td>
-</tr>
-<tr class="even">
 <td align="left">Lake Nakuru</td>
 <td align="left">1,800</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Lake Elementaita</td>
 <td align="left">1,776</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Lake Bogoria</td>
 <td align="left">960</td>
 </tr>
@@ -244,7 +250,7 @@ VEGETATION
 
 The unique aquatic and terrestrial habitats of the three lakes have been recognised as wetlands of international importance under the Convention on Wetlands (Ramsar, 1971). The hypersaline aquatic zones are characterized by cyanophytes *Spirulina platensis* and *Arthrospira fusiformis,* which form the foundation of the lakes’ simple food chain. The surrounding terrestrial habitats contain a rich diversity of floral communities including 556 recorded species (85 families) at Lake Nakuru in the reserve and surrounding wetlands and 210 species (53 families) recorded at Lake Bogoria National Reserve.
 
-Terrestrial vegetation around Lake Elementaita consists of upland forest, woodland (mostly Acacia forest), dry bushland (including dominant species such as *Acacia xanthophloea* and *Eurphobia candelabrum* ), scrubland (dominated by *Olea* sp. and *Tarchonanthus camphoratus*) and grassland (including *Cynodon dactylon, Chloris gayana* and *Panicum spp.*). Marshes located in the southern part of the lake are dominated by *Cyperus laevigatus* and *Typha* spp.
+Terrestrial vegetation around Lake Elementaita consists of upland forest, woodland (mostly Acacia forest), dry bushland (including dominant species such as *Acacia xanthophloea* and *Eurphobia candelabrum*), scrubland (dominated by *Olea* sp. and *Tarchonanthus camphoratus*) and grassland (including *Cynodon dactylon, Chloris gayana* and *Panicum spp.*). Marshes located in the southern part of the lake are dominated by *Cyperus laevigatus* and *Typha* spp.
 
 The aquatic zone of Lake Nakuru is characterized by a cyanophyte *Arthrospira fusiformis,* which is the foundation of the lake’s simple food chain. The terrestrial zone is predominantly Acacia woodland, *Tarchonanthus camphoratus* bushlands and grassland communities (dominated by *Sporobolus spicatus*). The site is famous for having the largest *Euphorbia candelabrum* forest stand in East Africa, however part of the Euphorbia forest had burnt down and efforts to rehabilitate it is ongoing.
 

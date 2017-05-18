@@ -2,7 +2,7 @@ Title: LAKE BAIKAL
 Tags: RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 1996
-Date: 2017-04-12 15:28:06
+Date: 2017-05-18 14:04:59
 
 LAKE BAIKAL 
 ============
@@ -50,19 +50,40 @@ INTERNATIONAL DESIGNATIONS
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Baikalo-Lenskiy Zapovednik Ia Strict Nature Reserve
-
-Barguzinskiy Zapovednik Ia Strict Nature Reserve. MAB Biosphere Reserve
-
-Baikalskiy Zapovednik Ia Strict Nature Reserve. MAB Biosphere Reserve
-
-Zabaikalskiy National Park II National Park
-
-Pribaikalskiy National Park II National Park
-
-Frolikhinskiy Zakaznik IV Habitat/Species Management Area
-
-Kabanskiy Zakaznik IV Habitat/Species Management Area. Ramsar Site
+<table>
+<thead>
+<tr class="header">
+<th align="left">Baikalo-Lenskiy Zapovednik</th>
+<th align="left">Ia Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Barguzinskiy Zapovednik</td>
+<td align="left">Ia Strict Nature Reserve. MAB Biosphere Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Baikalskiy Zapovednik</td>
+<td align="left">Ia Strict Nature Reserve. MAB Biosphere Reserve</td>
+</tr>
+<tr class="odd">
+<td align="left">Zabaikalskiy National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Pribaikalskiy National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Frolikhinskiy Zakaznik</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Kabanskiy Zakaznik</td>
+<td align="left">IV Habitat/Species Management Area. Ramsar Site</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -89,7 +110,7 @@ Lake Baikal;
 
 1986: Baikalo - Lenskiy Nature Reserve in the north-west, Zabaikalskiy National Park in the east and Pribaikalskiy National Park in the west established;
 
-> 1986: Baikalskiy and Barguzinskiy Zapovedniks designated parts of the Lake Baikal Region UNESCO Biosphere Reserve; in 2000: these were declared separate Biosphere Reserves;
+1986: Baikalskiy and Barguzinskiy Zapovedniks designated parts of the Lake Baikal Region UNESCO Biosphere Reserve; in 2000: these were declared separate Biosphere Reserves;
 
 1987: Lake Baikal Coastal Protection Zone established by Decree 434 of the USSR Council of Ministers to protect lakeshore forests: the site coincides with this Coastal Protection Zone;
 
@@ -111,13 +132,36 @@ AREAS
 
 8,797,100 ha: Lake Baikal, 3,147,100 ha, Coastal Protection Zone 5,650,000 ha. Within this, the area of protected lands totals 1,949,000 ha:
 
-Baikalo-Lenskiy Zapovednik: 659,919 ha Baikalskiy Zapovednik 165,724 ha
-
-Pribaikalskiy National Park: 418,000 ha Frolikhinskiy Zakaznik 68,000 ha
-
-Barguzinskiy Zapovednik: 374,423 ha Kabanskiy Zakaznik 18,000 ha
-
-Zabaikalskiy National Park: 245,000 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Baikalo-Lenskiy Zapovednik:</th>
+<th align="left">659,919 ha</th>
+<th align="left">Baikalskiy Zapovednik</th>
+<th align="left">165,724 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Pribaikalskiy National Park:</td>
+<td align="left">418,000 ha</td>
+<td align="left">Frolikhinskiy Zakaznik</td>
+<td align="left">68,000 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Barguzinskiy Zapovednik:</td>
+<td align="left">374,423 ha</td>
+<td align="left">Kabanskiy Zakaznik</td>
+<td align="left">18,000 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Zabaikalskiy National Park:</td>
+<td align="left">245,000 ha</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE
 --------

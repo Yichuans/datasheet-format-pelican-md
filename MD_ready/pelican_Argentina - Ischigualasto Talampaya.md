@@ -2,7 +2,7 @@ Title: ISCHIGUALASTO-TALAMPAYA NATURAL PARKS
 Tags: ARGENTINA
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-12 15:27:54
+Date: 2017-05-18 14:04:46
 
 ISCHIGUALASTO-TALAMPAYA NATURAL PARKS
 =====================================
@@ -39,9 +39,20 @@ The UNESCO World Heritage Committee issued the following statement at the time o
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Talampaya National Park II National Park
-
-Ischigualasto Provincial Park II Provincial Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Talampaya National Park</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Ischigualasto Provincial Park</td>
+<td align="left">II Provincial Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE 
 -------------------------

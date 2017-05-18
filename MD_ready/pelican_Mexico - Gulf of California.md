@@ -2,7 +2,7 @@ Title: ISLANDS & PROTECTED AREAS OF THE GULF OF CALIFORNIA
 Tags: MEXICO
 Author: UNEP-WCMC
 Year: 2005
-Date: 2017-04-12 15:28:03
+Date: 2017-05-18 14:04:57
 
 ISLANDS & PROTECTED AREAS OF THE GULF OF CALIFORNIA
 ===================================================
@@ -100,31 +100,56 @@ INTERNATIONAL DESIGNATIONS
 IUCN MANAGEMENT CATEGORIES
 --------------------------
 
-Islands of the Gulf of California
-
-Flora & Fauna Protected Area: VI Managed Resource Protected Area
-
-Upper Gulf of California and Rio Colorado
-
-Delta Biosphere Reserve: VI Managed Resource Protected Area
-
-Archipelago de San Lorenzo National Park: II National Park
-
-San Pedro Mártir I.National Biosphere Reserve: VI Managed Resource Protected Area
-
-El Vizcaíno Biosphere Reserve: VI Managed Resource Protected Area
-
-Bahía de Loreto National Park: II National Park
-
-Cabo Pulmo National Park: II National Park
-
-Cabo San Lucas Flora & Fauna Protected Area: VI Managed Resource Protected Area
-
-Islas Marías National Biosphere Reserve: VI Managed Resource Protected Area
-
-Islas Marías National Park: II National Park
-
-Isla Isabel National Park: II National Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Islands of the Gulf of California</th>
+<th align="left">Flora &amp; Fauna Protected Area:VI Managed Resource Protected Area</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Upper Gulf of California and Rio Colorado</td>
+<td align="left">Delta Biosphere Reserve: VI Managed Resource Protected Area</td>
+</tr>
+<tr class="even">
+<td align="left">Archipelago de San Lorenzo National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">San Pedro Mártir I.National Biosphere Reserve:</td>
+<td align="left">VI Managed Resource Protected Area</td>
+</tr>
+<tr class="even">
+<td align="left">El Vizcaíno Biosphere Reserve:</td>
+<td align="left">VI Managed Resource Protected Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Bahía de Loreto National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Cabo Pulmo National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Cabo San Lucas Flora &amp; Fauna Protected Area:</td>
+<td align="left">VI Managed Resource Protected Area</td>
+</tr>
+<tr class="even">
+<td align="left">Islas Marías National Biosphere Reserve:</td>
+<td align="left">VI Managed Resource Protected Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Islas Marías National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Isla Isabel National Park:</td>
+<td align="left">II National Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -137,13 +162,15 @@ GEOGRAPHICAL LOCATION
 The nominated islands and protected areas are located in the Gulf of California in northwestern Mexico over an area extending from the Colorado River delta in the north to the Islas Marías 1,400 km to the south. It comprises 244 scattered islands in eight groups. These are from north to south: the delta, the Colorado River delta, the Great Islands, the Archipelago de San Lorenzo and San Pedro Mártir I. a third of the way down the Gulf, the Vizcaíno coast in Baja half way down, Bahía de Loreto two-thirds of the way down and Cabo Pulmo and Cabo San Lucas near and at the end of the peninsula. The Islas Marías and Isla Isabel lie 360 and 420 km respectively southeast of Cabo San Lucas. The extreme coordinates of the area are 31° 53’ 06” to 20° 58’ 01” N by 105° 52’ 44” to 114° 57’11” W.
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Protected Area </strong></th>
+<th align="left"><strong>Location</strong></th>
+<th align="left"><strong>Extreme Coordinates</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Protected Area </strong></td>
-<td align="left"><strong>Location</strong></td>
-<td align="left"><strong>Extreme Coordinates</strong></td>
-</tr>
-<tr class="even">
 <td align="left"><p>Upper Gulf of California</p>
 <p>&amp; Colorado River Delta</p>
 <p><em>Biosphere Reserve (marine)</em></p></td>
@@ -152,68 +179,68 @@ The nominated islands and protected areas are located in the Gulf of California 
 <td align="left"><p>31°53’06” – 31°02’40” N</p>
 <p>114°52’37” – 106°02’30” W</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Islands in the Gulf of California</p>
 <p><em>Flora &amp; Fauna Protected Area</em></p></td>
 <td align="left">Baja Calif./ Baja Calif.Sur / Sonora / Sinaloa</td>
 <td align="left"><p>31°45’00” – 22°50’00” N</p>
 <p>114°52’37” – 106°02’30” W</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>Archipelago de San Lorenzo</p>
 <p><em>National Park </em></p></td>
 <td align="left">Baja California</td>
 <td align="left"><p>± 28<sup>o</sup>32’ - ± 28 <sup>o</sup>56’ N</p>
 <p>±112 <sup>o</sup>38’ – ±113 <sup>o</sup>04’ W</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Isla San Pedro Mártir *</p>
 <p><em>National Biosphere Reserve</em></p></td>
 <td align="left">Sonora</td>
 <td align="left"><p>28°28’00” – 28°18’00” N</p>
 <p>112°13’30” – 112°23’01” W</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>El Vizcaíno</p>
 <p><em>Biosphere Reserve (coast+sea)</em></p></td>
 <td align="left">Baja California Sur</td>
 <td align="left"><p>28°00’02” – 27°22’44” N</p>
 <p>112°46’18” – 112°15’00” W</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>Bahía de Loreto *</p>
 <p><em>National Park </em></p></td>
 <td align="left">Baja Calif.Sur / Los Cabos</td>
 <td align="left"><p>26°08’00” – 25°35’18” N</p>
 <p>111°21’07” – 110°45’00” W</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Cabo Pulmo</p>
 <p><em>National Marine Park</em></p></td>
 <td align="left">Baja Calif.Sur / Los Cabos</td>
 <td align="left"><p>23°30’00” – 23°22’30” N</p>
 <p>109°22’59” – 109°27’58” W</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>Cabo San Lucas*</p>
 <p><em>Flora &amp; Fauna Protected Area</em></p></td>
 <td align="left">Baja Calif.Sur / Los Cabos</td>
 <td align="left"><p>22°54’00” – 22°50’49” N</p>
 <p>109°49’59” – 109°54’00” W</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Islas Marías *</p>
 <p><em>National Park and Biosphere Reserve</em></p></td>
 <td align="left">Nayarit</td>
 <td align="left"><p>22°04’01” – 20°58’01” N</p>
 <p>105°54’00” – 107°03’00” W</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>Isla Isabel *</p>
 <p><em>National Park</em></p></td>
 <td align="left">Nayarit</td>
@@ -269,29 +296,31 @@ AREAS
 -----
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Protected Area</strong></th>
+<th align="left"><p><strong>Land</strong></p>
+<p><strong>Area (ha)</strong></p></th>
+<th align="left"><p><strong>Marine</strong></p>
+<p><strong>Area (ha)</strong></p></th>
+<th align="left"><p><strong>Core</strong></p>
+<p><strong>Area (ha)</strong></p></th>
+<th align="left"><p><strong>Buffer</strong></p>
+<p><strong>Area (ha)</strong></p></th>
+<th align="left"><p><strong>Total</strong></p>
+<p><strong>Area (ha)</strong></p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Protected Area</strong></td>
-<td align="left"><p><strong>Land</strong></p>
-<p><strong>Area (ha)</strong></p></td>
-<td align="left"><p><strong>Marine</strong></p>
-<p><strong>Area (ha)</strong></p></td>
-<td align="left"><p><strong>Core</strong></p>
-<p><strong>Area (ha)</strong></p></td>
-<td align="left"><p><strong>Buffer</strong></p>
-<p><strong>Area (ha)</strong></p></td>
-<td align="left"><p><strong>Total</strong></p>
-<p><strong>Area (ha)</strong></p></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-</tr>
-<tr class="odd">
 <td align="left"><p>Upper Gulf of California</p>
 <p>&amp; Colorado River Delta</p>
 <p><em>Biosphere Reserve (marine)</em></p></td>
@@ -301,7 +330,7 @@ AREAS
 <td align="left">454,591</td>
 <td align="left">541,229</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
@@ -309,7 +338,7 @@ AREAS
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Islands in the Gulf of California</p>
 <p><em>Flora &amp; Fauna Protected Area</em></p></td>
 <td align="left">358,000</td>
@@ -318,7 +347,7 @@ AREAS
 <td align="left"></td>
 <td align="left">358,000</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
@@ -326,7 +355,7 @@ AREAS
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Archipelago de San Lorenzo</p>
 <p><em>National Park</em></p></td>
 <td align="left">8,806*</td>
@@ -335,7 +364,7 @@ AREAS
 <td align="left">49,637*</td>
 <td align="left">58,443*</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
@@ -343,7 +372,7 @@ AREAS
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Isla San Pedro Mártir</p>
 <p><em>Biosphere Reserve</em></p></td>
 <td align="left">1,111</td>
@@ -352,7 +381,7 @@ AREAS
 <td align="left">29,054</td>
 <td align="left">30,165</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
@@ -360,7 +389,7 @@ AREAS
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>El Vizcaíno</p>
 <p><em>Biosphere Reserve (marine &amp; coast in Gulf of</em> <em>California)</em></p></td>
 <td align="left"></td>
@@ -369,7 +398,7 @@ AREAS
 <td align="left"></td>
 <td align="left">49,451</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
@@ -377,7 +406,7 @@ AREAS
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Bahía de Loreto</p>
 <p><em>National Park </em></p></td>
 <td align="left">22,690</td>
@@ -386,7 +415,7 @@ AREAS
 <td align="left"></td>
 <td align="left">206,581</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
@@ -394,7 +423,7 @@ AREAS
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Cabo Pulmo</p>
 <p><em>National Marine Park</em></p></td>
 <td align="left"></td>
@@ -403,7 +432,7 @@ AREAS
 <td align="left"></td>
 <td align="left">7,111</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
@@ -411,7 +440,7 @@ AREAS
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Cabo San Lucas</p>
 <p><em>Flora &amp; Fauna Protected Area</em></p></td>
 <td align="left">211</td>
@@ -420,7 +449,7 @@ AREAS
 <td align="left"></td>
 <td align="left">3,996</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
@@ -428,7 +457,7 @@ AREAS
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Islas Marías</p>
 <p>Biosphere Reserve + buffer</p></td>
 <td align="left">14,845</td>
@@ -437,7 +466,7 @@ AREAS
 <td align="left"></td>
 <td align="left">641,285</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
@@ -445,7 +474,7 @@ AREAS
 <td align="left"></td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Isla Isabel <em>National Park</em></td>
 <td align="left">79*</td>
 <td align="left">1,304*</td>
@@ -453,7 +482,7 @@ AREAS
 <td align="left">1,304*</td>
 <td align="left">1,383*</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Totals</td>
 <td align="left">492,382</td>
 <td align="left">1,405,264</td>

@@ -2,7 +2,7 @@ Title: Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks
 Tags: Brazil
 Author: UNEP-WCMC
 Year: 2001
-Date: 2017-04-12 15:27:56
+Date: 2017-05-18 14:04:49
 
 CERRADO PROTECTED AREAS: 
 =========================
@@ -49,9 +49,20 @@ INTERNATIONAL DESIGNATION
 IUCN MANAGEMENT CATEGORY
 ----------------------------
 
-Chapada dos Veadeiros National Park II National Park
-
-Emas National Park II National Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Chapada dos Veadeiros National Park</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Emas National Park</td>
+<td align="left">II National Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ----------------------------

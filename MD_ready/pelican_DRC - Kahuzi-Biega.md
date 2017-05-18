@@ -2,7 +2,7 @@ Title: KAHUZI-BIÉGA NATIONAL PARK
 Tags: DEMOCRATIC REPUBLIC OF THE CONGO
 Author: UNEP-WCMC
 Year: 1980
-Date: 2017-04-12 15:27:59
+Date: 2017-05-18 14:04:52
 
 KAHUZI-BIÉGA NATIONAL PARK
 ==========================
@@ -54,9 +54,7 @@ In the eastern Democratic Republic of the Congo 30 km west of the Rwandan border
 DATES AND HISTORY OF ESTABLISHMENT 
 -----------------------------------
 
-1970: Gazetted by Decree 70-316 to protect its gorillas. Part of the area had been a reserve since
-
-1960;
+1970: Gazetted by Decree 70-316 to protect its gorillas. Part of the area had been a reserve since 1960;
 
 1975: Enlarged from 75,000 ha to 600,000 ha by Decree 75-238.
 

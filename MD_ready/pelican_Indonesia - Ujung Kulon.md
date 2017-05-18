@@ -2,7 +2,7 @@ Title: UJUNG KULON NATIONAL PARK
 Tags: INDONESIA
 Author: UNEP-WCMC
 Year: 1991
-Date: 2017-04-12 15:28:01
+Date: 2017-05-18 14:04:55
 
 UJUNG KULON NATIONAL PARK 
 ==========================
@@ -33,9 +33,20 @@ STATEMENT OF OUTSTANDING UNIVERSAL VALUE \[pending\]
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Ujung Kulon National Park: II National Park
-
-Krakatau Nature Reserve: Ia Strict Nature Reserve
+<table>
+<thead>
+<tr class="header">
+<th align="left">Ujung Kulon National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Krakatau Nature Reserve:</td>
+<td align="left">Ia Strict Nature Reserve</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -76,8 +87,7 @@ AREA
 
 Total area 123,051 ha:
 
-Ujung Kulon National Park 120,551 ha: (terrestrial zone: 76,214ha, marine zone, 44,337ha). Krakatau Islands Nature Reserve 2,500ha.**\
-**
+Ujung Kulon National Park 120,551 ha: (terrestrial zone: 76,214ha, marine zone, 44,337ha). Krakatau Islands Nature Reserve 2,500ha.
 
 ALTITUDE
 --------

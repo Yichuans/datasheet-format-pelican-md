@@ -2,7 +2,7 @@ Title: GREAT HIMALAYAN NATIONAL PARK CONSERVATION AREA
 Tags: INDIA
 Author: UNEP-WCMC
 Year: 2014
-Date: 2017-04-12 15:28:00
+Date: 2017-05-18 14:04:53
 
 GREAT HIMALAYAN NATIONAL PARK CONSERVATION AREA
 ===============================================
@@ -40,7 +40,7 @@ The property lies within the ecologically distinct Western Himalayas at the junc
 
 The Great Himalayan National Park Conservation Area is at the core of a larger area of surrounding protected areas which form an island of undisturbed environments in the greater Western Himalayan landscape. The diversity of species present is rich; however it is the abundance and health of individual species’ populations supported by healthy ecosystem processes where the Great Himalayan National Park Conservation Area demonstrates its outstanding significance for biodiversity conservation. 
 
-**Criterion (x): **The Great Himalayan National Park Conservation Area is located within the globally significant “Western Himalayan Temperate Forests” ecoregion. The property also protects part of Conservation International’s Himalaya “biodiversity hot spot” and is part of the BirdLife International’s Western Himalaya Endemic Bird Area. The Great Himalayan National Park Conservation Area is home to 805 vascular plant species, 192 species of lichen, 12 species of liverworts and 25 species of mosses. Some 58% of its angiosperms are endemic to the Western Himalayas. The property also protects some 31 species of mammals, 209 birds, 9 amphibians, 12 reptiles and 125 insects. The Great Himalayan National Park Conservation Area provides habitat for 4 globally threatened mammals, 3 globally threatened birds and a large number of medicinal plants. The protection of lower altitude valleys provides for more complete protection and management of important habitats and endangered species such as the Western Tragopan and the Musk Deer. 
+**Criterion (x):  **The Great Himalayan National Park Conservation Area is located within the globally significant “Western Himalayan Temperate Forests” ecoregion. The property also protects part of Conservation International’s Himalaya “biodiversity hot spot” and is part of the BirdLife International’s Western Himalaya Endemic Bird Area. The Great Himalayan National Park Conservation Area is home to 805 vascular plant species, 192 species of lichen, 12 species of liverworts and 25 species of mosses. Some 58% of its angiosperms are endemic to the Western Himalayas. The property also protects some 31 species of mammals, 209 birds, 9 amphibians, 12 reptiles and 125 insects. The Great Himalayan National Park Conservation Area provides habitat for 4 globally threatened mammals, 3 globally threatened birds and a large number of medicinal plants. The protection of lower altitude valleys provides for more complete protection and management of important habitats and endangered species such as the Western Tragopan and the Musk Deer. 
 
 **Integrity**
 

@@ -2,7 +2,7 @@ Title: SUNDARBANS NATIONAL PARK
 Tags: INDIA
 Author: UNEP-WCMC
 Year: 1987
-Date: 2017-04-12 15:28:01
+Date: 2017-05-18 14:04:54
 
 SUNDARBANS NATIONAL PARK
 ========================
@@ -131,9 +131,7 @@ In India the Baghmara Forest Block near the coast contains the ruins of a city s
 LOCAL HUMAN POPULATION
 ----------------------
 
-Approximately 2.5 million people lived in small villages surrounding the Sundarbans in 1981 which by 1991 had increased to 3 million (Ministry of Environment & Forests, pers. comm., 1995). At nomination, some 35,330 people worked in the forest, 4,580 of whom collected timber and firewood, 1,350 collected honey and beeswax and 4,500 harvested the natural resources and hunted mainly deer, and 24,900 were fisherman and shrimp farmers (Chakrabarti, 1986a). Today, the area provides a livelihood at some seasons of the year for an estimated 300,000 people. Local people are also dependent on the forests and waterways for charcoal, timber for boats and furniture, poles for house-posts and rafters, nypa palm thatch for roofing, grass for matting reeds for fencing, shells and reptile skins, with deer, fish, crabs and shrimps taken for food. The season for collecting honey and wax is limited to ten weeks from April 1st. Thousands of people, with permits from the Forest Department, enter the forest for nests. Honey production is discussed by Chakrabarti (1987c). Before Cyclone Sidr, which destroyed the fishing industry, more than 10,000 local people fished year-round (Hussain, 1997). In 1986 the average annual catch was 2,500 tonnes (Chakrabarty, 1986). No-one lives in the Tiger Reserve but several activities encroach on tiger habitat, and throughout the Sundarbans some 300 people are killed by tigers or crocodiles each year. Transport is only by boat. Because of the annual flooding, only one crop can be
-
-taken each year. The people are therefore poor.
+Approximately 2.5 million people lived in small villages surrounding the Sundarbans in 1981 which by 1991 had increased to 3 million (Ministry of Environment & Forests, pers. comm., 1995). At nomination, some 35,330 people worked in the forest, 4,580 of whom collected timber and firewood, 1,350 collected honey and beeswax and 4,500 harvested the natural resources and hunted mainly deer, and 24,900 were fisherman and shrimp farmers (Chakrabarti, 1986a). Today, the area provides a livelihood at some seasons of the year for an estimated 300,000 people. Local people are also dependent on the forests and waterways for charcoal, timber for boats and furniture, poles for house-posts and rafters, nypa palm thatch for roofing, grass for matting reeds for fencing, shells and reptile skins, with deer, fish, crabs and shrimps taken for food. The season for collecting honey and wax is limited to ten weeks from April 1st. Thousands of people, with permits from the Forest Department, enter the forest for nests. Honey production is discussed by Chakrabarti (1987c). Before Cyclone Sidr, which destroyed the fishing industry, more than 10,000 local people fished year-round (Hussain, 1997). In 1986 the average annual catch was 2,500 tonnes (Chakrabarty, 1986). No-one lives in the Tiger Reserve but several activities encroach on tiger habitat, and throughout the Sundarbans some 300 people are killed by tigers or crocodiles each year. Transport is only by boat. Because of the annual flooding, only one crop can be taken each year. The people are therefore poor.
 
 VISITORS AND VISITOR FACILITIES
 -------------------------------

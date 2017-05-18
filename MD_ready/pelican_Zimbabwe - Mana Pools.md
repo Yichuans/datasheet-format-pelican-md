@@ -2,7 +2,7 @@ Title: Mana Pools National Park, Sapi and Chewore Safari Areas
 Tags: Zimbabwe
 Author: UNEP-WCMC
 Year: 1984
-Date: 2017-04-12 15:28:11
+Date: 2017-05-18 14:05:04
 
 MANA POOLS NATIONAL PARK,
 =========================
@@ -60,11 +60,24 @@ The property requires a World Heritage Property Integrated Management Plan to en
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Mana Pools National Park: II National Park
-
-Sapi Safari Area: II National Park
-
-Chewore Safari Area: II National Park
+<table>
+<thead>
+<tr class="header">
+<th align="left">Mana Pools National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Sapi Safari Area:</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Chewore Safari Area:</td>
+<td align="left">II National Park</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------

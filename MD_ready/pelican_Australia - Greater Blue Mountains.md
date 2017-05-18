@@ -2,7 +2,7 @@ Title: GREATER BLUE MOUNTAINS AREA
 Tags: AUSTRALIA
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-12 15:27:54
+Date: 2017-05-18 14:04:47
 
 GREATER BLUE MOUNTAINS AREA
 ===========================
@@ -39,21 +39,44 @@ The UNESCO World Heritage Committee issued the following statement at the time o
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Blue Mountains National Park II National Park
-
-Kanangra-Boyd National Park II National Park
-
-Gardens of Stone National Park II National Park
-
-Jenolan Caves Karst Reserve II National Park
-
-Thirlmere Lakes National Park II National Park
-
-Wollemi National Park Ib Wilderness Area
-
-Yengo National Park Ib Wilderness Area
-
-Nattai National Park Ib Wilderness Area
+<table>
+<thead>
+<tr class="header">
+<th align="left">Blue Mountains National Park</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Kanangra-Boyd National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Gardens of Stone National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Jenolan Caves Karst Reserve</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Thirlmere Lakes National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Wollemi National Park</td>
+<td align="left">Ib Wilderness Area</td>
+</tr>
+<tr class="even">
+<td align="left">Yengo National Park</td>
+<td align="left">Ib Wilderness Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Nattai National Park</td>
+<td align="left">Ib Wilderness Area</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL LOCATION
 ------------------------
@@ -100,21 +123,44 @@ AREA
 
 1,032,649 ha in eight areas. Seven adjoining protected areas form a buffer zone of 86,200 ha. Within each park is a protected wilderness. These total 554,822 ha (53.7%) of the nominated area.
 
-Wollemi National Park 499,879 ha
-
-The Blue Mountains National Park (2 parts) 247,840 ha
-
-Yengo National Park 153,483 ha
-
-Kanangra-Boyd National Park 65,379 ha
-
-Nattai National Park 47,855 ha
-
-Gardens of Stone National Park 15,150 ha
-
-Jenolan Caves Karst Reserve 2,422 ha
-
-Thirlmere Lakes National Park 641 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Wollemi National Park</th>
+<th align="left">499,879 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">The Blue Mountains National Park (2 parts)</td>
+<td align="left">247,840 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Yengo National Park</td>
+<td align="left">153,483 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Kanangra-Boyd National Park</td>
+<td align="left">65,379 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Nattai National Park</td>
+<td align="left">47,855 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Gardens of Stone National Park</td>
+<td align="left">15,150 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Jenolan Caves Karst Reserve</td>
+<td align="left">2,422 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Thirlmere Lakes National Park</td>
+<td align="left">641 ha</td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE
 --------

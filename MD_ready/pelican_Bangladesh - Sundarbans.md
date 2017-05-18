@@ -2,7 +2,7 @@ Title: THE SUNDARBANS
 Tags: BANGLADESH
 Author: UNEP-WCMC
 Year: 1997
-Date: 2017-04-12 15:27:55
+Date: 2017-05-18 14:04:48
 
 THE SUNDARBANS
 ==============
@@ -77,11 +77,26 @@ AREAS
 
 139,500 ha. The total area of both World Heritage sites is 272,510 ha.
 
-Bangladesh: Sundarbans West Wildlife Sanctuary 71,502 ha
+Bangladesh:
 
-> Sundarbans South Wildlife Sanctuary 36,790 ha
->
-> Sundarbans East Wildlife Sanctuary 31,227 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Sundarbans West Wildlife Sanctuary</th>
+<th align="left">71,502 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Sundarbans South Wildlife Sanctuary</td>
+<td align="left">36,790 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Sundarbans East Wildlife Sanctuary</td>
+<td align="left">31,227 ha</td>
+</tr>
+</tbody>
+</table>
 
 The West and adjoining South Sanctuaries adjoin the Indian National Park.
 

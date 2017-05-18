@@ -2,7 +2,7 @@ Title: KOMODO NATIONAL PARK
 Tags: INDONESIA
 Author: UNEP-WCMC
 Year: 1991
-Date: 2017-04-12 15:28:01
+Date: 2017-05-18 14:04:54
 
 KOMODO NATIONAL PARK
 ====================
@@ -38,11 +38,24 @@ INTERNATIONAL DESIGNATION
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Komodo National Park: II National Park
-
-Wae Wuul & Mburak Nature Recreation Parks: Ia Strict Nature Reserves
-
-Mbeliling & Ngorang Protection Forests: VI Resource Reserves
+<table>
+<thead>
+<tr class="header">
+<th align="left">Komodo National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Wae Wuul &amp; Mburak Nature Recreation Parks:</td>
+<td align="left">Ia Strict Nature Reserves</td>
+</tr>
+<tr class="even">
+<td align="left">Mbeliling &amp; Ngorang Protection Forests:</td>
+<td align="left">VI Resource Reserves</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -116,9 +129,7 @@ The mammalian fauna is characteristic of the Wallacean zoogeographic zone, with 
 
 Indonesia is unique in that marine flora and fauna from both Indian and Pacific oceans intermingle through gaps in the island chain. In fact the local straits are on a migration route for whales. In the Park the marine zone covers 60% of the area and its biodiversity is very high. It has a wide variety of depths and bottom conditions and the upwelling of nutrient-rich water from deeper areas of the archipelago results in a rich reef ecosystem. The marine life includes foraminifera, cnidara, ascidians, worms, crustaceans, molluscs, cartilaginous and bony fishes, marine reptiles, and mammals including 16 species of cetaceans, ten species of dolphin, dugong *Dugong dugon* (VU). sharks, manta rays, and five species of turtle. These include blue whale *Balaenoptera musculus* (EN), fin whale *B. physalis* (EN), humpback whale *Megaptera novaeangliae,* sperm whale *Physeter catodon* (VU), whale shark Rhincodon typus (VU), silvertip and backtip reef sharks *Carcharhinus albimarginatus* and *C. melanopterus;* also saltwater crocodile *Crocodylus porosus*, leatherback turtle *Dermochelys coriacea* (CR), hawksbill turtle [*Eretmochelys imbricata*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Eretmochelys&SpcName=imbricata) (CR), olive ridley turtle *Lepidochelys olivacea* (VU) and green turtle *Chelonia mydas* (EN). Species of high commercial value are sea cucumbers, Holothuria, humphead wrasse *Cheilinus undulate* (EN), and groupers (Mous, 2002; PHKA, 2004).
 
-The coral reefs were once rich, but only isolated patches of reef now remain owing to anthropogenic disturbance (Kvalvagnaes & Halim, 1979). In 1998 185 sites were sampled by TNC and the live reef coverage found was 19%. These habitats harbor more than 1,000 species of fish, 200 species of reef-building coral, and 70 species of sponge (Mous, 2002). The dominant corals on most reefs are species of *Acropora,* particularly the tabular coral *Acropora symmetrica, Millepora* and *Porites. Fungia* spp. are present on reef slopes. In areas of strong currents, the reef substrate consists of an avalanche of coral fragments, with only encrusting or low branching species, such as *Seriatopora caliendrum* and *Stylophora pistillata* being able to withstand the rapid water flow. More protected reef slopes, for example in Slawi Bay, are dominated by species of the genera *Heteropsammia* and *Heterocyathus*. Reefs off the north-east of Komodo have a high diversity of species including branching *Acropora, Hydnophora, Seriatopora* and *Caulastrea,* as well as massive *Porites,* plate-like *Echinophyllia, Merulina, Pachyseris* and numerous *Fungiidae*. The reefs off Gili Lawa Laut are variable, ranging from the sheltered southern bay with its large stands of *Pachyseris, Echinopora, Mycedium, Echinophyllia* and *Montipora*, interspersed with thickets of Acropora, to the more exposed northern reefs which have a spur and groove structure dominated by *Porites, Seriatopora* and *Acropora* (UNEP/IUCN, 1988).
-
-spawning aggregation sites; it also regularly conducts socio-economic studies (Tun *et al*., 2004).
+The coral reefs were once rich, but only isolated patches of reef now remain owing to anthropogenic disturbance (Kvalvagnaes & Halim, 1979). In 1998 185 sites were sampled by TNC and the live reef coverage found was 19%. These habitats harbor more than 1,000 species of fish, 200 species of reef-building coral, and 70 species of sponge (Mous, 2002). The dominant corals on most reefs are species of *Acropora,* particularly the tabular coral *Acropora symmetrica, Millepora* and *Porites. Fungia* spp. are present on reef slopes. In areas of strong currents, the reef substrate consists of an avalanche of coral fragments, with only encrusting or low branching species, such as *Seriatopora caliendrum* and *Stylophora pistillata* being able to withstand the rapid water flow. More protected reef slopes, for example in Slawi Bay, are dominated by species of the genera *Heteropsammia* and *Heterocyathus*. Reefs off the north-east of Komodo have a high diversity of species including branching *Acropora, Hydnophora, Seriatopora* and *Caulastrea,* as well as massive *Porites,* plate-like *Echinophyllia, Merulina, Pachyseris* and numerous *Fungiidae*. The reefs off Gili Lawa Laut are variable, ranging from the sheltered southern bay with its large stands of *Pachyseris, Echinopora, Mycedium, Echinophyllia* and *Montipora*, interspersed with thickets of Acropora, to the more exposed northern reefs which have a spur and groove structure dominated by *Porites, Seriatopora* and *Acropora* (UNEP/IUCN, 1988) spawning aggregation sites; it also regularly conducts socio-economic studies (Tun *et al*., 2004).
 
 CONSERVATION VALUE
 ------------------

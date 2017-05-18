@@ -1,12 +1,14 @@
-Title: Great Barrier Reef
-Tags: Australia
+Title: GREAT BARRIER REEF
+Tags: AUSTRALIA
 Author: UNEP-WCMC
 Year: 1981
-Date: 2017-04-12 15:27:54
+Date: 2017-05-18 14:04:47
 
 GREAT BARRIER REEF
+==================
 
-#### AUSTRALIA
+AUSTRALIA
+=========
 
 *This is the world’s largest coral reef ecosystem and one of the most complex and biodiverse natural systems on earth. The site has more than 2,900 coral reefs built of 359 species of hard coral; over 200,000 hectares of mangroves, with 54% of the world’s mangrove species; over 300,000 hectares of sea grasses, 2,000 fish and 6 turtle species; 5,000-8,000 molluscs; one of the world’s largest dugong populations; breeding grounds for humpback and other whales; and 2,195 species of native plants.*
 
@@ -71,9 +73,7 @@ DATES AND HISTORY OF ESTABLISHMENT
 
 1981: The Cairns and Cormorant Pass sections declared part of the Marine Park. The remaining sections of the Marine Park were included between 1987 and 1989;
 
-1990: Proclaimed a Particularly Sensitive Sea Area (PSSA) by the International Marine Organisation;
-
-extended in 2002 to Torres Strait.
+1990: Proclaimed a Particularly Sensitive Sea Area (PSSA) by the International Marine Organisation; extended in 2002 to Torres Strait.
 
 LAND TENURE
 ---------------

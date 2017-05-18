@@ -2,7 +2,7 @@ Title: DANUBE DELTA
 Tags: ROMANIA
 Author: UNEP-WCMC
 Year: 1991
-Date: 2017-04-12 15:28:06
+Date: 2017-05-18 14:04:59
 
 DANUBE DELTA
 ============
@@ -147,9 +147,7 @@ The local population has depended on small-scale, low-intensity use of the natur
 VISITORS AND VISITOR FACILITIES
 -------------------------------
 
-Under the previous regime the development of sea-coast tourism was encouraged and parts of the delta were heavily used (EEN, 1990; Pons & Pons-Ghitulescu, 1990), with up to 100,000 annual visitors, mostly concentrated at two hotels along the Sulina channel. This figure was confirmed by IUCN in 2008. Many people also camp along major channels in the summer (IUCN-EEP, 1991) and there are three campgrounds, at Chilia, Crisan and Murighiol. There is a Biosphere Reserve Information and Ecological Education Centre in Tulcea and a Documentation and Information Centre in Sulina. Riding and hiking, fishing, canoeing and boating (but not swimming) are possible. Eleven tourist trails have been developed (www.coastalguide). Permission is needed to visit the nature reserves which are closed during the bird breeding season (IUCN, 1986). Away from the three main channels the areas are rarely frequented (IUCN-EEP, 1991) and nature tourism has been greatly neglected. A detailed plan prepared in 1982 by the Institute for Research on Ecology for Tourism of the Ministry of Tourism together with the National Council for Scientific and Technical Research and the Academy of Sciences in Agriculture and Forestry was ignored. More recently, the beginnings of indiscriminate commercial tourism organised by numerous tourist agencies is evident (Roman, 1990a), with 40 private agencies springing up in Tulcea (IUCN-EEP, 1991). There is an existing visitors’ centre with visitor facilities but new centres are needed
-
-with improvements to the drinking water supply and waste management system (IUCN, 2006).
+Under the previous regime the development of sea-coast tourism was encouraged and parts of the delta were heavily used (EEN, 1990; Pons & Pons-Ghitulescu, 1990), with up to 100,000 annual visitors, mostly concentrated at two hotels along the Sulina channel. This figure was confirmed by IUCN in 2008. Many people also camp along major channels in the summer (IUCN-EEP, 1991) and there are three campgrounds, at Chilia, Crisan and Murighiol. There is a Biosphere Reserve Information and Ecological Education Centre in Tulcea and a Documentation and Information Centre in Sulina. Riding and hiking, fishing, canoeing and boating (but not swimming) are possible. Eleven tourist trails have been developed (www.coastalguide). Permission is needed to visit the nature reserves which are closed during the bird breeding season (IUCN, 1986). Away from the three main channels the areas are rarely frequented (IUCN-EEP, 1991) and nature tourism has been greatly neglected. A detailed plan prepared in 1982 by the Institute for Research on Ecology for Tourism of the Ministry of Tourism together with the National Council for Scientific and Technical Research and the Academy of Sciences in Agriculture and Forestry was ignored. More recently, the beginnings of indiscriminate commercial tourism organised by numerous tourist agencies is evident (Roman, 1990a), with 40 private agencies springing up in Tulcea (IUCN-EEP, 1991). There is an existing visitors’ centre with visitor facilities but new centres are neededwith improvements to the drinking water supply and waste management system (IUCN, 2006).
 
 SCIENTIFIC RESEARCH AND FACILITIES
 ----------------------------------
@@ -324,86 +322,209 @@ Various conflicting names and areas for the component core protected areas of th
 
 1\) Reserve names, areas and 1991 IUCN category from the original Biosphere Reserve data sheet :
 
-Rosca-Buhaiova Ia
-
-+ Letea Forest +Lake Hrecisca 18,145 ha Ia
-
-Sfintu Gheorghe-Perisor-Zatoane 16,400 ha
-
-Perisor-Zatoane-Sacalin 15,400 ha Unassigned
-
-Istria 8,000 ha
-
-Periteasca-Leahova-Gura Portita 3,900 ha Unassigned
-
-Carorman Forest 840 ha
-
-Hasmacul Mare 800 ha
-
-Popina Island 98 ha Ia
-
-Erenciuc Forest 41 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Rosca-Buhaiova</th>
+<th align="left"></th>
+<th align="left">Ia</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">+ Letea Forest +Lake Hrecisca</td>
+<td align="left">18,145 ha</td>
+<td align="left">Ia</td>
+</tr>
+<tr class="even">
+<td align="left">Sfintu Gheorghe-Perisor-Zatoane</td>
+<td align="left">16,400 ha</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Perisor-Zatoane-Sacalin</td>
+<td align="left">15,400 ha</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="even">
+<td align="left">Istria</td>
+<td align="left">8,000 ha</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Periteasca-Leahova-Gura Portita</td>
+<td align="left">3,900 ha</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="even">
+<td align="left">Carorman Forest</td>
+<td align="left">840 ha</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Hasmacul Mare</td>
+<td align="left">800 ha</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Popina Island</td>
+<td align="left">98 ha</td>
+<td align="left">Ia</td>
+</tr>
+<tr class="odd">
+<td align="left">Erenciuc Forest</td>
+<td align="left">41 ha</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
 2\) Nature Reserve names and areas in the delta cited in the World Database of Protected Areas (2005):
 
-Sahalin-Zatoane 24,250 ha Ia
-
-Sf. Gheorghe- Perisor-Palade 15,000 ha Unassigned
-
-Rosca-Buhaiova 9,625 ha Ia
-
-Padurea-Letea 5,212 ha Unassigned
-
-Periteasca-Biscericuta Portita 4,125 ha Ia
-
-Carorman 2,250 ha Ia
-
-Histria (Grindul Lupilor Marchelul) 1,410 ha
-
-Letea-Hasmacul Mare 701 ha IV
-
-Murighiol 600 ha IV
-
-Erenciuc 400 ha Ia
-
-Istria-Sinoe 350 ha Ia
-
-Saraturile-Murighiol 87 ha Ia
+<table>
+<thead>
+<tr class="header">
+<th align="left">Sahalin-Zatoane</th>
+<th align="left">24,250 ha</th>
+<th align="left">Ia</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Sf. Gheorghe- Perisor-Palade</td>
+<td align="left">15,000 ha</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="even">
+<td align="left">Rosca-Buhaiova</td>
+<td align="left">9,625 ha</td>
+<td align="left">Ia</td>
+</tr>
+<tr class="odd">
+<td align="left">Padurea-Letea</td>
+<td align="left">5,212 ha</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="even">
+<td align="left">Periteasca-Biscericuta Portita</td>
+<td align="left">4,125 ha</td>
+<td align="left">Ia</td>
+</tr>
+<tr class="odd">
+<td align="left">Carorman</td>
+<td align="left">2,250 ha</td>
+<td align="left">Ia</td>
+</tr>
+<tr class="even">
+<td align="left">Histria (Grindul Lupilor Marchelul)</td>
+<td align="left">1,410 ha</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Letea-Hasmacul Mare</td>
+<td align="left">701 ha</td>
+<td align="left">IV</td>
+</tr>
+<tr class="even">
+<td align="left">Murighiol</td>
+<td align="left">600 ha</td>
+<td align="left">IV</td>
+</tr>
+<tr class="odd">
+<td align="left">Erenciuc</td>
+<td align="left">400 ha</td>
+<td align="left">Ia</td>
+</tr>
+<tr class="even">
+<td align="left">Istria-Sinoe</td>
+<td align="left">350 ha</td>
+<td align="left">Ia</td>
+</tr>
+<tr class="odd">
+<td align="left">Saraturile-Murighiol</td>
+<td align="left">87 ha</td>
+<td align="left">Ia</td>
+</tr>
+</tbody>
+</table>
 
 3\) Strictly Protected Areas (categ. Ia) named on an official map of the Danube Delta Biosphere Reserve:
 
-Sacalin Zatoane 21,410 ha
-
-Potcoava 625 ha
-
-Rosca-Buhaiova 9,625 ha
-
-Istria Sinoe 400 ha
-
-Periteasca Biscericuta Portija 4,125 ha
-
-Rotundu 228 ha
-
-Letea 2,825 ha
-
-Capul Dolosman 125 ha
-
-Raducu 2,500 ha
-
-Nebunu 115 ha
-
-Grindul Chituc 2,300 ha
-
-Belciug 110 ha
-
-Carorman 2,250 ha
-
-Popina 98 ha
-
-Grindu Lupilor 2,075 ha
-
-Saraturile-Murighiol 87 ha
-
-Vatafu-Lungulet 1,625 ha
-
-Erenciuc 50 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Sacalin Zatoane</th>
+<th align="left">21,410 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Potcoava</td>
+<td align="left">625 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Rosca-Buhaiova</td>
+<td align="left">9,625 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Istria Sinoe</td>
+<td align="left">400 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Periteasca Biscericuta Portija</td>
+<td align="left">4,125 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Rotundu</td>
+<td align="left">228 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Letea</td>
+<td align="left">2,825 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Capul Dolosman</td>
+<td align="left">125 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Raducu</td>
+<td align="left">2,500 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Nebunu</td>
+<td align="left">115 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Grindul Chituc</td>
+<td align="left">2,300 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Belciug</td>
+<td align="left">110 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Carorman</td>
+<td align="left">2,250 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Popina</td>
+<td align="left">98 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Grindu Lupilor</td>
+<td align="left">2,075 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Saraturile-Murighiol</td>
+<td align="left">87 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Vatafu-Lungulet</td>
+<td align="left">1,625 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Erenciuc</td>
+<td align="left">50 ha</td>
+</tr>
+</tbody>
+</table>

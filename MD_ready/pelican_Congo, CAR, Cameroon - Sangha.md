@@ -1,8 +1,8 @@
-Title: Sangha Trinational
+Title: There is strong and committed joint management across the national boundaries of the three contiguous parks established under the Forest laws of all three State Parties to coordinate the property's management, conservation, law enforcement, monitoring, tourism and research. The Central African Forests Commission (COMIFAC) first met in 2000 to create the complex and regulate sustainable development, tourism and poaching within it. A Trinational Supervision and Arbitration Committee set up the same year brings the three countries together at the ministerial level. A Trinational Monitoring Committee does the same at the regional administrative level and a Trinational Planning & Execution Committee holds biannual meetings of park managers at the level of management and implementation. The parks were established between 1990 and 2002 under the Forest and Fauna laws of the three states. Their staffs are provided by their governments, international agencies and non-governmental organizations.
 Tags: Cameroon, Central African Republic,Congo
 Author: UNEP-WCMC
 Year: 2012
-Date: 2017-04-12 15:27:58
+Date: 2017-05-18 14:04:51
 
 1.  SANGHA TRINATIONAL
     ==================
@@ -12,22 +12,22 @@ Date: 2017-04-12 15:27:58
 
 *Sangha Trinational is a transboundary complex of three adjoining national parks in the dense, remote and little threatened forests where the Congo Republic, Cameroon and the Central African Republic meet. With its surrounding buffer zone the property preserves a huge expanse of intact lowland forest and an array of wetlands and clearings that attract large populations of elephants, gorillas, chimpanzees and forest antelopes. It is a priority area for the conservation of the biodiversity of the Congo basin.*
 
-COUNTRIES
+COUNTRIES {#countries .ListParagraph}
 ---------
 
 Cameroon, Central African Republic and Congo
 
-NAME
+NAME {#name .ListParagraph}
 ----
 
 Sangha Trinational
 
-NATURAL WORLD HERITAGE SITE
+NATURAL WORLD HERITAGE SITE {#natural-world-heritage-site .ListParagraph}
 ---------------------------
 
 2012: Inscribed on the World Heritage List under natural criteria (ix) and (x).
 
-INTERNATIONAL DESIGNATIONS 
+INTERNATIONAL DESIGNATIONS  {#international-designations .ListParagraph}
 ---------------------------
 
 > 2008: *Riviere Sangha en Republique Centafricaine* (275,000 ha) and *Partie Camerounaise du Fleuve Sangha* (62,000 ha) designated Wetlands of International Importance under the Ramsar Convention;
@@ -100,15 +100,17 @@ AREA
 The total area of the property is 754,286 ha (746,309 ha is stated in the original documentation). The surrounding buffer zone is 1,787,950 ha and extends 115 km east-west by 91 km north-south. The two sites in the Central African Republic (CAR) are joined by the Dzanga-Sangha Special Forest Reserve (335,900 ha). The Reserve is not part of the World Heritage site.
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Component site</strong></th>
+<th align="left"><strong>Region</strong></th>
+<th align="left"><strong>Country</strong></th>
+<th align="left"><strong>Area (ha)</strong></th>
+<th align="left"><strong>Central Coordinates</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Component site</strong></td>
-<td align="left"><strong>Region</strong></td>
-<td align="left"><strong>Country</strong></td>
-<td align="left"><strong>Area (ha)</strong></td>
-<td align="left"><strong>Central Coordinates</strong></td>
-</tr>
-<tr class="even">
 <td align="left"><p>Nouabalé-Ndoki Nat'l Park</p>
 <p>+ Goualougo triangle</p></td>
 <td align="left"><p>Sangha</p>
@@ -119,14 +121,14 @@ The total area of the property is 754,286 ha (746,309 ha is stated in the origin
 <p>19,863</p></td>
 <td align="left">16°33'15” E x 2°36'34 “N</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Lobéké National Park</td>
 <td align="left">Est Boumba &amp; Ngoko Department</td>
 <td align="left">Cameroon Republic</td>
 <td align="left">217,854</td>
 <td align="left">15°48'51” E x 2°22'02” N</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>Dzanga National Park</p>
 <p>Ndoki National Park</p></td>
 <td align="left">Sangha-Mbaéré Prefecture</td>
@@ -136,7 +138,7 @@ The total area of the property is 754,286 ha (746,309 ha is stated in the origin
 <td align="left"><p>16°25'27” E x 2°55'00” N</p>
 <p>16°13'31” E x 2°27'44” N</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><strong>TOTAL</strong></td>
 <td align="left"></td>
 <td align="left"></td>
@@ -208,7 +210,7 @@ The remote location and limited infrastructure inhibit the development of touris
 SCIENTIFIC RESEARCH AND FACILITIES
 ----------------------------------
 
-Beyond their ecological importance, the clearings and lakes offer unusual opportunities for scientific and tourist observations unavailable in most dense tropical lowland rainforests but many are as yet undocumented and unstudied. Projects have been carried out by researchers from forestry and wildlife colleges in each country: research institutes at the Universities of Marion Ngouabi at Brazzaville in Congo, of Bangui in the Central African Republic (CAR) and of Dschang in Cameroon; also from five foreign universities. The Wildlife Conservation Society has researched forest elephants for the past fifteen years in Mbele Baï in the CAR. The Goualougo Triangle Ape Project by the Lincoln Park zoo in Nouabalé-Ndoki National Park is studying chimpanzees in detail including ways to counteract the ebola virus threat. Six long-term research sites and five short-term sites have been established, studying wildlife, poaching, ecotourism and human impacts. Botanical studies of the area published by all three protected areas provide the best archive of central African forests; some 400 *references are cited in the nomination document. A scientific Committee is planned whose work should benefit future management of the property.
+Beyond their ecological importance, the clearings and lakes offer unusual opportunities for scientific and tourist observations unavailable in most dense tropical lowland rainforests but many are as yet undocumented and unstudied. Projects have been carried out by researchers from forestry and wildlife colleges in each country: research institutes at the Universities of Marion Ngouabi at Brazzaville in Congo, of Bangui in the Central African Republic (CAR) and of Dschang in Cameroon; also from five foreign universities. The Wildlife Conservation Society has researched forest elephants for the past fifteen years in Mbele Baï in the CAR. The Goualougo Triangle Ape Project by the Lincoln Park zoo in Nouabalé-Ndoki National Park is studying chimpanzees in detail including ways to counteract the ebola virus threat. Six long-term research sites and five short-term sites have been established, studying wildlife, poaching, ecotourism and human impacts. Botanical studies of the area published by all three protected areas provide the best archive of central African forests; some 400 references are cited in the nomination document. A scientific Committee is planned whose work should benefit future management of the property.
 
 MANAGEMENT
 ----------

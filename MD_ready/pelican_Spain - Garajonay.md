@@ -2,7 +2,7 @@ Title: GARAJONAY NATIONAL PARK
 Tags: SPAIN
 Author: UNEP-WCMC
 Year: 1986
-Date: 2017-04-12 15:28:07
+Date: 2017-05-18 14:05:01
 
 GARAJONAY NATIONAL PARK
 =======================
@@ -64,11 +64,30 @@ AREA
 
 3,984 ha. The National Park comprises a forest which spreads into each of the island’s municipalities. There is a buffer zone of 4,160 ha.
 
-Vallehermoso 1,300 ha Valle Gran Rey 350 ha
-
-Hermigua 1,024 ha San Sebastian 290 ha
-
-Agulo 770 ha Alajero 250 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Vallehermoso</th>
+<th align="left">1,300 ha</th>
+<th align="left">Valle Gran Rey</th>
+<th align="left">350 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Hermigua</td>
+<td align="left">1,024 ha</td>
+<td align="left">San Sebastian</td>
+<td align="left">290 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Agulo</td>
+<td align="left">770 ha</td>
+<td align="left">Alajero</td>
+<td align="left">250 ha</td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE
 --------

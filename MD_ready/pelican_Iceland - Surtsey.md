@@ -2,7 +2,7 @@ Title: SURTSEY
 Tags: ICELAND
 Author: UNEP-WCMC
 Year: 2008
-Date: 2017-04-12 15:28:00
+Date: 2017-05-18 14:04:54
 
 SURTSEY
 =======
@@ -167,23 +167,13 @@ Other volcanically active island World Heritage sites include:
 
 -   The *Isole Aeolie* in the Mediterranean off Sicily, another ‘geological texbook’. Stromboli and Vulcano have been continually active and monitored for centuries;
 
-<!-- -->
-
 -   The *Galapagos Islands*: Fernandino is a small relatively recent volcanic island. Isabella Island has five vents, all very active, Cerro Azul being the highest;
-
-<!-- -->
 
 -   *Halemaumau* the currently extremely active fire pit on Kilauea, Hawaii;
 
-<!-- -->
-
 -   *Heard & McDonald* Islands in the South Indian Ocean, which are pristine but almost completely glaciated. The Big Ben peak of Mt. Mawson is quite active;
 
-<!-- -->
-
 -   *Morne Trois Pitons* on Domenica is an old volcano with five peaks. It has many hydrothermal features: solfataras, hot springs and a boiling lake;
-
-<!-- -->
 
 -   *The Pitons* on the Caribbean island of St Lucia has an active solfatara.
 

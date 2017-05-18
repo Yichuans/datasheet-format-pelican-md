@@ -1,21 +1,21 @@
 Title: TRANG AN LANDSCAPE COMPLEX
-Tags: VIET NAM
+Tags: VIETNAM
 Author: UNEP-WCMC
 Year: 2014
-Date: 2017-04-12 15:28:09
+Date: 2017-05-18 14:05:02
 
 TRANG AN LANDSCAPE COMPLEX
 ==========================
 
- VIET NAM
-=========
+ VIETNAM
+========
 
 *The Trang An Landscape Complex is an outstanding example of limestone karst scenery in northeast Vietnam. The property’s inscription as a World Heritage Site under both natural and cultural criteria is supported by the evidence that the property’s dynamic topography has led to an equally dynamic and evolving local culture. In addition to this, the property is one of the few sites in Southeast Asia that has substantial evidence over a broad timeframe to showcase this cultural development. The property is of outstanding universal value as a site of exceptional aesthetic appeal, of geological interest and cultural history.*
 
 COUNTRY
 -------
 
-Viet Nam
+Vietnam
 
 NAME
 ----
@@ -65,9 +65,24 @@ Trang An has been accorded the highest legal status for protection available in 
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Hoa Lu Ancient Capital: Unassigned\
-Trang An Coc - Bich Dong Scenic Area: Unassigned\
-Hoa Lu Special Use Primary Forest: Unassigned
+<table>
+<thead>
+<tr class="header">
+<th align="left">Hoa Lu Ancient Capital:</th>
+<th align="left">Unassigned</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Trang An Coc - Bich Dong Scenic Area:</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="even">
+<td align="left">Hoa Lu Special Use Primary Forest:</td>
+<td align="left">Unassigned</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------

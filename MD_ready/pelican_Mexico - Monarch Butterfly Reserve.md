@@ -2,7 +2,7 @@ Title: MONARCH BUTTERFLY BIOSPHERE RESERVE
 Tags: MEXICO
 Author: UNEP-WCMC
 Year: 2008
-Date: 2017-04-12 15:28:04
+Date: 2017-05-18 14:04:57
 
 MONARCH BUTTERFLY BIOSPHERE RESERVE
 ===================================
@@ -87,15 +87,32 @@ Owned by *ejidos* (rural cooperatives), local communities, private companies and
 AREA
 ----
 
-Core areas: 13,551.55 ha
-
-Cerro Altamirano 588.475 ha
-
-Cerro Chincua-Campanario-Chinati-Huaca 9,233.962 ha
-
-Cerro Pelón 3,729.115 ha
-
-Buffer areas: 42,707.49 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Core areas:</th>
+<th align="left">13,551.55 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Cerro Altamirano</td>
+<td align="left">588.475 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Cerro Chincua-Campanario-Chinati-Huaca</td>
+<td align="left">9,233.962 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Cerro Pelón</td>
+<td align="left">3,729.115 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Buffer areas:</td>
+<td align="left">42,707.49 ha</td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE
 --------
@@ -118,34 +135,36 @@ VEGETATION
 The sites are in the southernmost Nearctic mountains, an area of wide biodiversity and high endemism both faunal and floral. The Reserve has 493 vascular plants and 49 fungus species. These include the endemic Mexican box elder *Acer negundo* var. *mexicanum* and *Pinus martinezzi.* On the high ridges the dominant vegetation is coniferous forest, the most important tree in which is the Mexican or *oyamel* fir *Abies religiosa*. The specific *religiosa* refers to its cruciform branch tips. The relation of species to altitude in the Reserve is shown in this table from the nomination:
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Forest Type</strong></th>
+<th align="left"><strong>Max./Min. Heights </strong></th>
+<th align="left"><strong>Species</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Forest Type</strong></td>
-<td align="left"><strong>Max./Min. Heights </strong></td>
-<td align="left"><strong>Species</strong></td>
-</tr>
-<tr class="even">
 <td align="left"><em>Oyamel</em> fir forest</td>
 <td align="left">3,600m - 2,400m</td>
 <td align="left"><em>Abies religiosa, Quercus</em> sp<em>.,Alnus</em> sp.,<em>Arbutus</em> sp.,<em>Salix</em> sp. <em>Prunus</em> sp.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Pine-<em>Oyamel</em> forest</td>
 <td align="left">3,000m - 2,400m</td>
 <td align="left"><em>Abies religiosa, Arbutus grandulosa, Pinus pseudotrobus, Quercus spp.,Salix paradoxa, Agnus firmifolia. </em></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Pine forest</td>
 <td align="left">3,000m - 1,500m</td>
 <td align="left"><em>Pinus pseudostrobus, P.rudis, P.teocote, P.michoacana </em></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Oak forest</td>
 <td align="left">2,900m</td>
 <td align="left"><p><em>Quercus lauriana, Clethra mexicana, Alnus firmifolia, Salix paradoxa,</em></p>
 <p><em>Buddleja cordata, B.parvifolia.</em></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Cedar forest</td>
 <td align="left">2,600m - 2,400m</td>
 <td align="left"><em>Cupressus lindley, Alnus firmifolia, Salix paradoxa, Senecio angulifolius, Eupatorium</em> sp.</td>
@@ -213,36 +232,38 @@ The main bases for comparison with similar existing World Heritage sites are:
 The site has many unique aspects, although transhumance and seasonal migration for breeding, over-wintering or food are common amongst birds, land animals, whales, turtles and fish, including even eels and locusts. The nomination cites comparable or even greater migrations:
 
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Species </strong></th>
+<th align="left"><strong>Migration</strong></th>
+<th align="left"><p><strong>2-Way</strong></p>
+<p><strong>Distance (km)</strong></p></th>
+<th align="left"><p><strong>Numbers</strong></p>
+<p><strong>(*correction)</strong></p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td align="left"><strong>Species </strong></td>
-<td align="left"><strong>Migration</strong></td>
-<td align="left"><p><strong>2-Way</strong></p>
-<p><strong>Distance (km)</strong></p></td>
-<td align="left"><p><strong>Numbers</strong></p>
-<p><strong>(*correction)</strong></p></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-</tr>
-<tr class="odd">
 <td align="left"><p>Arctic tern</p>
 <p><em>Sterna paradisae</em></p></td>
 <td align="left">the Arctic to the Antarctic</td>
 <td align="left">35,000 *</td>
 <td align="left">30,000</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>Sooty shearwater</p>
 <p><em>Puffins griseus</em></p></td>
 <td align="left">New Zealand to Chile</td>
 <td align="left">18,000 *</td>
 <td align="left">20,000,000</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>California gray whale</p>
 <p><em>Eschrichtius robustus</em></p></td>
 <td align="left">Pacific Alaskan waters to Laguna San Ignacio, Baja California, Mexico</td>
@@ -250,14 +271,14 @@ The site has many unique aspects, although transhumance and seasonal migration f
 <p>22,000</p></td>
 <td align="left">26,000</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>European eel</p>
 <p><em>Anguilla anguilla </em></p></td>
 <td align="left">Europe to the Sargasso Sea</td>
 <td align="left">5,000 - 6,000</td>
 <td align="left">Large</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><p>Loggerhead turtle</p>
 <p><em>Caretta caretta</em></p></td>
 <td align="left">Ascension I. to the Brazilian coast</td>
@@ -265,7 +286,7 @@ The site has many unique aspects, although transhumance and seasonal migration f
 <td align="left"><p>90,000 nesting</p>
 <p>females worldwide, 2001</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>Chum salmon</p>
 <p><em>Oncorhynchus keta </em></p></td>
 <td align="left">Alaska to U.S.Pacific coastal rivers</td>
@@ -322,9 +343,7 @@ Taylor, L. (1986). The four kinds of migration. In Dan-thanarayan, W. \[ed.\]. *
 
 UNESCO World Heritage Committee (2010). *Report of the 34th Session of the Committee*. Paris.
 
-Urquhart, F. (1976). Found at last: the monarch’s winter home.*National Geographic Magazine* 150:
-
-61-73.
+Urquhart, F. (1976). Found at last: the monarch’s winter home.*National Geographic Magazine* 150:61-73.
 
 Urquhart, F.& Urquhart, N. (1978). Autumnal migration routes of the eastern population of the monarch butterfly (*Danaus p. plexippus* L; Danaidae; Lepidoptera) in North America to the over-wintering site in the Neovolcanic Plateau of Mexico. *Canadian Journal of Zoology* 56: 1759-64.
 

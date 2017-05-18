@@ -3,6 +3,7 @@ import subprocess
 
 # create output folder
 INPUT_PATH = 'DOCX_original_2017'
+INPUT_PATH = 'DOCX_original_20170518'
 OUTPUT_PATH = 'MD_pandoc'
 if not os.path.exists(OUTPUT_PATH):
 	os.mkdir(OUTPUT_PATH)

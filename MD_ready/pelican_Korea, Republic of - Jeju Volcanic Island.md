@@ -2,7 +2,7 @@ Title: JEJU VOLCANIC ISLAND & LAVA TUBES
 Tags: REPUBLIC OF KOREA
 Author: UNEP-WCMC
 Year: 2006
-Date: 2017-04-12 15:28:02
+Date: 2017-05-18 14:04:56
 
 JEJU VOLCANIC ISLAND & LAVA TUBES
 =================================
@@ -50,9 +50,20 @@ INTERNATIONAL DESIGNATION
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Hallasan National Park: IV Habitat/Species Management Area
-
-Mount Halla National Park: V Protected Landscape
+<table>
+<thead>
+<tr class="header">
+<th align="left">Hallasan National Park:</th>
+<th align="left">IV Habitat/Species Management Area</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Mount Halla National Park:</td>
+<td align="left">V Protected Landscape</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -94,19 +105,32 @@ Hallasan National Park is almost 100% state owned; Geomunoreum Lava Tube System 
 
 Core zone: 9,475.3 ha. The buffer zone of 9,370.8 ha is not designated.
 
-Subsite Core zone Buffer zone
-
-Hallasan Natural Reserve
-
-33 <sup>o</sup>19´04´´- 33 <sup>o</sup>25´38´´N by 126 <sup>o</sup>32´15´´- 126 <sup>o</sup>38´08´´E 9,093.17 ha 7,347.4 ha
-
-Geomunoreum Lava Tube System
-
-33 <sup>o</sup>26´27´´- 33 <sup>o</sup>33´48´´N by 126 <sup>o</sup>42´54´´- 126 <sup>o</sup>47´33´´E 330.3 ha 1,906.4 ha
-
-Seongsan Ilchulbong Tuff Cone
-
-33 <sup>o</sup>27´05´´- 33 <sup>o</sup>28´09´´N by 126 <sup>o</sup>55´56´´- 126 <sup>o</sup>57´03´´E 51.8 ha 117.0 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Subsite</th>
+<th align="left">Core zone</th>
+<th align="left">Buffer zone</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Hallasan Natural Reserve (33 <sup>o</sup>19´04´´- 33 <sup>o</sup>25´38´´N by 126 <sup>o</sup>32´15´´- 126 <sup>o</sup>38´08´´E)</td>
+<td align="left">9,093.17 ha</td>
+<td align="left">7,347.4 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Geomunoreum Lava Tube System(33 <sup>o</sup>26´27´´- 33 <sup>o</sup>33´48´´N by 126 <sup>o</sup>42´54´´- 126 <sup>o</sup>47´33´´E)</td>
+<td align="left">330.3 ha</td>
+<td align="left">1,906.4 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Seongsan Ilchulbong Tuff Cone (33 <sup>o</sup>27´05´´- 33 <sup>o</sup>28´09´´N by 126 <sup>o</sup>55´56´´- 126 <sup>o</sup>57´03´´E)</td>
+<td align="left">51.8 ha</td>
+<td align="left">117.0 ha</td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE
 --------
@@ -122,9 +146,14 @@ The lava flows were formed over a period of 1.2 million years, of fine-grained b
 
 In this list characterising the main tube-caves of the Geomunoreum system, only Manjang is partly open to the public. The last two were only discovered in the last decade, so many more may yet be found.
 
-**Name Length Characteristics**
-
 <table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Name</strong></th>
+<th align="left"><strong>Length</strong></th>
+<th align="left"><strong>Characteristics</strong></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
 <td align="left">Bengdwi</td>
@@ -289,15 +318,13 @@ Cultural Heritage Administration, (2006a). *Jeju Volcanic Island and Lava Tubes.
 
 Hyun, G. & Ko, G. (1993). *Mt. Halla*. Daewonsa.
 
-Jung, S. (2009). Jeju to open eco-friendly naval base in 2014. *The Korea Time*s, Sept. 23
+Jung, S. (2009). Jeju to open eco-friendly naval base in 2014. *The Korea Times*, Sept. 23
 
 Kang, S. (1992). *Natural Environment of Jeju Island*. Study of Jeju Island.
 
 Lee, D. *et. al.* (1998). *Quaternary Geology of the Jeju Island*. Research Report KR-87-29. Korea Institute of Energy and Resources. Pp 233-278.
 
-Lee, C. (1985). *Native and Rare Plants of Mt. Halla*. HNR Scientific Survey Report. Cheju Province.
-
-Pp. 215-242.
+Lee, C. (1985). *Native and Rare Plants of Mt. Halla*. HNR Scientific Survey Report. Cheju Province. Pp. 215-242.
 
 Oh, H. (2002). *Report of Survey of Natural Resources in Hallasan National Park \[Mammals, Birds, Amphibians, Reptiles\].* National Parks Authority of Korea.
 
@@ -305,7 +332,7 @@ Sohn, Y. & Chough, S. (1992). The Ilchubong tuff cone, Cheju Island, South Korea
 
 Son, I. (2001). *Distribution and Conservation of Natural Caves in Jeju Volcanic Island*. Cave Studies. First Edition.
 
-Yim, Y., Paek, K. & Lee, N. (1991). T*he Vegetation of Mt. Halla.* Chung-Ang University Press. 291 p.
+Yim, Y., Paek, K. & Lee, N. (1991). *The Vegetation of Mt. Halla.* Chung-Ang University Press. 291 p.
 
 DATE
 ----

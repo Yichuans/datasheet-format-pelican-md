@@ -2,7 +2,7 @@ Title: SINHARAJA FOREST RESERVE
 Tags: SRI LANKA
 Author: UNEP-WCMC
 Year: 1988
-Date: 2017-04-12 15:28:08
+Date: 2017-05-18 14:05:01
 
 SINHARAJA FOREST RESERVE
 ========================
@@ -144,9 +144,7 @@ The Natural Resources Energy and Science Authority of Sri Lanka provides a field
 MANAGEMENT
 ----------
 
-Sinharaja is administered by the Forest Department under the Ministry of Lands and Land Development, and governed principally by the National Heritage Wilderness Areas Act of 1998, with special powers for
-
-World Heritage protection. It is a National Heritage Wilderness Area any excision from which is permissible only with the concurrence of parliament and the President of the country. The site is also partially protected under the provisions of the Forest Ordinance. Owing to its inaccessibility and steep terrain, the reserve remained untouched until 1968 when the government permitted timber extraction for plywood and chipwood. About 1,400 ha of forest in the western sector were selectively logged (Gunatilleke, 1978; Forest Department, 1986). From 1971 there was public opposition led by the Wildlife and Nature Protection Society until in 1977 logging was banned (Hoffmann, 1972, 1977). The Reserve has 6,500-7,000ha of unlogged virgin forest. Since 1977, the Forest Department has given high priority to protecting the Reserve and in 1978 began planting *Pinus caribaea* along the periphery to establish a live boundary. More recently, betel-nut palm *Areca catechu* has been used for this purpose (de Zoysa & Raheem, 1987). The 1992/94 management plan emphasized conservation, scientific research, buffer zone management, benefit-sharing, and community participation and is being updated. Conservation activities include biodiversity surveys, enrichment of degraded areas, reforestation of adjoining land and acquisition of private land in the site and has been updated (Forest Dept., 2003).
+Sinharaja is administered by the Forest Department under the Ministry of Lands and Land Development, and governed principally by the National Heritage Wilderness Areas Act of 1998, with special powers for World Heritage protection. It is a National Heritage Wilderness Area any excision from which is permissible only with the concurrence of parliament and the President of the country. The site is also partially protected under the provisions of the Forest Ordinance. Owing to its inaccessibility and steep terrain, the reserve remained untouched until 1968 when the government permitted timber extraction for plywood and chipwood. About 1,400 ha of forest in the western sector were selectively logged (Gunatilleke, 1978; Forest Department, 1986). From 1971 there was public opposition led by the Wildlife and Nature Protection Society until in 1977 logging was banned (Hoffmann, 1972, 1977). The Reserve has 6,500-7,000ha of unlogged virgin forest. Since 1977, the Forest Department has given high priority to protecting the Reserve and in 1978 began planting *Pinus caribaea* along the periphery to establish a live boundary. More recently, betel-nut palm *Areca catechu* has been used for this purpose (de Zoysa & Raheem, 1987). The 1992/94 management plan emphasized conservation, scientific research, buffer zone management, benefit-sharing, and community participation and is being updated. Conservation activities include biodiversity surveys, enrichment of degraded areas, reforestation of adjoining land and acquisition of private land in the site and has been updated (Forest Dept., 2003).
 
 A conservation plan by the Forest Department, officially approved in 1986, was implemented under an agreement between IUCN and the Sri Lankan government with additional funding from the Norwegian government (Hails, 1989). The preferred strategy has been to freeze resource use within the area at 1985 levels when the conservation plan was prepared and to gradually eliminate future resource dependency on the Reserve by relocating villages to areas outside its boundaries (Ishwaran & Erdelen, 1990). In 1993, to ensure the Reserve’s strict protection for science, for aesthetic reasons and to eliminate dependence on its resources, a Forestry Department management program was launched with IUCN and GEF assistance within a 3.2 km-wide buffer zone which included development of degraded state lands, underplanting of indigenous species in existing pine plantations, homestead development, a rural development program, a health camp and the strengthening of community-based organizations, public and school awareness programs and training on alternative income-generating activities. This participation of local people with NGOs in conservation-linked developments is an important model. The traditional use of minor forest products, the most important of which are firewood, *kitul* for *jaggery* and *wewal* or cane for basket weaving, is now restricted to forest surrounding the Reserve except for *kitul* which may still be legally collected, under permit (de Silva,1985; McDermott,1985). Collection of specimens without permit is strictly prohibited. However, there is some controversy over the possible acceptance of a nature swap for debt reduction program proposed under the U.S.Tropical Forest Conservation Act for fear of the loss of genetic material to foreign companies (Liyanage, 2001).
 
@@ -217,9 +215,7 @@ Hapuarachchi, D, Herath, J. & Ranasinghe, V. (1964). The geological and geophysi
 
 Hathurusinghe, D. (1985). *Constraints to the Protection of the Sinharaja Forest.* Unpublished workshop
 
-Hoffmann, T. (1972). *The Sinharaja Forest*. Wildlife & Nature Protection Society of Ceylon, Colombo.
-
-21 pp.
+Hoffmann, T. (1972). *The Sinharaja Forest*. Wildlife & Nature Protection Society of Ceylon, Colombo. 21 pp.
 
 ---------- (1977). Epitaph for a forest. Sinharaja - 1976. *Loris* 14: 31-32.
 
@@ -253,9 +249,7 @@ McDermott, M. & S. & Gunatilleke, N. (1990). The Sinharaja rain forest: conservi
 
 Manikrama, A. (1993). *Assessing Folk Knowledge About Forest Use in the Sinharaja Peripheral Villages.* Department of Agricultural Economics and Extension, University of Peradeniya (unpublished).
 
-Merritt, V. & Ranatunga, M. (1959). Aerial photographic survey of Sinharaja Forest. *Ceylon Forester* 4:
-
-103-156.
+Merritt, V. & Ranatunga, M. (1959). Aerial photographic survey of Sinharaja Forest. *Ceylon Forester* 4: 103-156.
 
 Munasinghe, T. & Dissanayake, C. (1980). The origins of gemstones of Sri Lanka. *Economic Geology* 70: 216-1225.
 

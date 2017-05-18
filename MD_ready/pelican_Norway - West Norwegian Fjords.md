@@ -2,10 +2,10 @@ Title: West Norwegian Fjords – Geirangerfjord and Nærøyfjord
 Tags: Norway
 Author: UNEP-WCMC
 Year: 2005
-Date: 2017-04-12 15:28:05
+Date: 2017-05-18 14:04:58
 
- WEST NORWEGIAN FJORDS – 
-=========================
+ WEST NORWEGIAN FJORDS
+======================
 
 GEIRANGERFJORD AND NÆRØYFJORD
 =============================
@@ -46,33 +46,70 @@ IUCN MANAGEMENT CATEGORY
 
 **Geirangerfjord area:**
 
-Hyskjet Nature Reserve I Nature Reserve 52 ha
-
-Kallskaret Nature Reserve I Nature Reserve 90 ha
-
-Geiranger-Herdalen V Protected Landscape Area 49,745 ha
-
-Protected Landscape Area (proposed)
+<table>
+<thead>
+<tr class="header">
+<th align="left">Hyskjet Nature Reserve</th>
+<th align="left">I Nature Reserve</th>
+<th align="left">52 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Kallskaret Nature Reserve</td>
+<td align="left">I Nature Reserve</td>
+<td align="left">90 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Geiranger-Herdalen Protected Landscape Area (proposed)</td>
+<td align="left">V Protected Landscape Area</td>
+<td align="left">49,745 ha</td>
+</tr>
+</tbody>
+</table>
 
 Total: 49,887 ha
 
 **Nærøyfjord area:**
 
-Hatle-Styve Natural Monument III Natural Monument 0 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Hatle-Styve Natural Monument</th>
+<th align="left">III Natural Monument</th>
+<th align="left">0 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Grånosmyrane Nature Reserve</td>
+<td align="left">I Nature Reserve</td>
+<td align="left">357 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Nordheimsdalen Nature Reserve</td>
+<td align="left">I Nature Reserve</td>
+<td align="left">1,330 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Bleia Nature Reserve (proposed)</td>
+<td align="left">I Nature Reserve</td>
+<td align="left">2,180 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Bleia-Storebotnen Protected Landscape Area (proposed)</td>
+<td align="left">V Protected Landscape Area</td>
+<td align="left">6,595 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Nærøyfjorden Protected Landscape Area</td>
+<td align="left">V Protected Landscape Area</td>
+<td align="left">57,884 ha</td>
+</tr>
+</tbody>
+</table>
 
-Grånosmyrane Nature Reserve I Nature Reserve 357 ha
-
-Nordheimsdalen Nature Reserve I Nature Reserve 1,330 ha
-
-Bleia Nature Reserve (proposed) I Nature Reserve 2,180 ha
-
-Bleia-Storebotnen V Protected Landscape Area 6,595 ha
-
-Protected Landscape Area (proposed)
-
-Nærøyfjorden Protected Landscape Area V Protected Landscape Area 57,884 ha
-
-> Total: 68,346 ha
+Total: 68,346 ha
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -126,22 +163,41 @@ Protected areas are under the management of the Governors of Møre and Romsdal c
 
 Nærøyfjord: Total area: excluding settlements: 68,346ha
 
-> Private land: 55,160ha owned by 262 owners;
->
-> State owned land: 9,800ha
->
-> State owned area of fjord: 3,386ha
+Private land: 55,160ha owned by 262 owners;
+
+State owned land: 9,800ha
+
+State owned area of fjord: 3,386ha
 
 Protected areas are under the management of the Governors of Sogn & Fjordane and Hordaland counties The Borough Councils in each sector are responsible for the management of inhabited areas.
 
 AREA
 ----
 
-Total area: 122,712 ha Land: 111,966 ha (including settlements) Fjord: 10,746ha
-
-Geirangerfjord: 51,802 ha Land: 46,151 ha Fjord: 5,651ha
-
-Nærøyfjord: 70,910 ha Land: 65,815 ha Fjord: 5,095ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Total area:</th>
+<th align="left">122,712 ha</th>
+<th align="left">Land: 111,966 ha (including settlements)</th>
+<th align="left">Fjord: 10,746ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Geirangerfjord:</td>
+<td align="left">51,802 ha</td>
+<td align="left">Land: 46,151 ha</td>
+<td align="left">Fjord: 5,651ha</td>
+</tr>
+<tr class="even">
+<td align="left">Nærøyfjord:</td>
+<td align="left">70,910 ha</td>
+<td align="left">Land: 65,815 ha</td>
+<td align="left">Fjord: 5,095ha</td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE 
 ---------

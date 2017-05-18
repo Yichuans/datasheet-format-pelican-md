@@ -2,7 +2,7 @@ Title: TASMANIAN WILDERNESS
 Tags: AUSTRALIA
 Author: UNEP-WCMC
 Year: 1982
-Date: 2017-04-12 15:27:55
+Date: 2017-05-18 14:04:47
 
 TASMANIAN WILDERNESS
 ====================
@@ -48,53 +48,108 @@ IUCN MANAGEMENT CATEGORIES
 
 The site comprises 4 National Parks, 3 Forest Reserves, 3 State Reserves, 2 Protected Archaeological Sites, 2 Historic Sites, 4 Conservation Areas, 1 Game Reserve, 3 Commonwealth freehold & private lands.
 
-Southwest National Park II National Park
-
-Franklin-Gordon Wild Rivers Nation II National Park
-
-Cradle Mountain-Lake St Claire National Park II National Park
-
-Walls of Jerusalem National Park II National Park
-
-Hartz Mountains National Park II National Park
-
-Meander Forest Reserve II Forest Reserve
-
-Liffey Forest Reserve II Forest Reserve
-
-Drys Bluff Forest Reserve II Forest Reserve
-
-Devils Gullet State Reserve III State Reserve
-
-Marakoopa Cave State Reserve III State Reserve
-
-Liffey Falls State Reserve (part) III State Reserve
-
-Exit Cave State Reserve III State Reserve
-
-Macquarie Harbour Historic Site III Natural Monument
-
-Sarah Island Historic Site III Natural Monument
-
-Maxwell River Protected Archaeological Site III Natural Monument
-
-Wargata Mina Protected Archaeological Site III Natural Monument
-
-Central Plateau Conservation Area IV Habitat / Species Management Area
-
-Adamsfield Conservation Area IV Habitat / Species Management Area
-
-Southwest Conservation Area (in HEC) IV Habitat / Species Management Area
-
-Marble Hill Conservation Area IV Habitat / Species Management Area
-
-Farm Cove Game Reserve IV Habitat / Species Management Area
-
-Maatsuyker Island (Commonwealth freehold) IV Habitat / Species Management Area
-
-St Clare Lagoon (vested in HEC) IV Habitat / Species Management Area
-
-Private and Commonwealth freehold IV Habitat / Species Management Area
+<table>
+<thead>
+<tr class="header">
+<th align="left">Southwest National Park</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Franklin-Gordon Wild Rivers Nation</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Cradle Mountain-Lake St Claire National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Walls of Jerusalem National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Hartz Mountains National Park</td>
+<td align="left">II National Park</td>
+</tr>
+<tr class="odd">
+<td align="left">Meander Forest Reserve</td>
+<td align="left">II Forest Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Liffey Forest Reserve</td>
+<td align="left">II Forest Reserve</td>
+</tr>
+<tr class="odd">
+<td align="left">Drys Bluff Forest Reserve</td>
+<td align="left">II Forest Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Devils Gullet State Reserve</td>
+<td align="left">III State Reserve</td>
+</tr>
+<tr class="odd">
+<td align="left">Marakoopa Cave State Reserve</td>
+<td align="left">III State Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Liffey Falls State Reserve (part)</td>
+<td align="left">III State Reserve</td>
+</tr>
+<tr class="odd">
+<td align="left">Exit Cave State Reserve</td>
+<td align="left">III State Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Macquarie Harbour Historic Site</td>
+<td align="left">III Natural Monument</td>
+</tr>
+<tr class="odd">
+<td align="left">Sarah Island Historic Site</td>
+<td align="left">III Natural Monument</td>
+</tr>
+<tr class="even">
+<td align="left">Maxwell River Protected Archaeological Site</td>
+<td align="left">III Natural Monument</td>
+</tr>
+<tr class="odd">
+<td align="left">Wargata Mina Protected Archaeological Site</td>
+<td align="left">III Natural Monument</td>
+</tr>
+<tr class="even">
+<td align="left">Central Plateau Conservation Area</td>
+<td align="left">IV Habitat / Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Adamsfield Conservation Area</td>
+<td align="left">IV Habitat / Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Southwest Conservation Area (in HEC)</td>
+<td align="left">IV Habitat / Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Marble Hill Conservation Area</td>
+<td align="left">IV Habitat / Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Farm Cove Game Reserve</td>
+<td align="left">IV Habitat / Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Maatsuyker Island (Commonwealth freehold)</td>
+<td align="left">IV Habitat / Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">St Clare Lagoon (vested in HEC)</td>
+<td align="left">IV Habitat / Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Private and Commonwealth freehold</td>
+<td align="left">IV Habitat / Species Management Area</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -167,49 +222,100 @@ AREAS
 
 The total area of the Tasmanian Wilderness World Heritage Area (WHA) was ~\~~1,383,640 ha at the time of inscription, including the following areas:
 
-Southwest National Park 605,000 ha
-
-\*Franklin-Gordon Wild Rivers Nat’l Park 440,120 ha
-
-Cradle Mountain-Lake St Claire Nat’l 161,000 ha
-
-Walls of Jerusalem National Park 51,800 ha
-
-Hartz Mountains National Park 7,140 ha
-
-Devils Gullet State Reserve 806 ha
-
-Marakoopa Cave State Reserve 790 ha
-
-Liffey Falls State Reserve (part) 20 ha
-
-Macquarie Harbour Historic Site 15,300 ha
-
-Maxwell River Protected Archaeological Site 560 ha
-
-Wargata Mina Protected Archaeological Site 155 ha
-
-Central Plateau Conservation Area 89,200 ha
-
-Adamsfield Conservation Area 5,400 ha
-
-Southwest Conservation Area (in HEC) 616 ha
-
-Marble Hill Conservation Area 77 ha
-
-Farm Cove Game Reserve 1,720 ha
-
-Meander Forest Reserve 1,660 ha
-
-Liffey Forest Reserve 1,055 ha
-
-Drys Bluff Forest Reserve 680 ha
-
-Maatsuyker Island (C’wealth freehold) 180 ha
-
-St Clare Lagoon (vested in HEC) 29 ha
-
-Private and Commonwealth freehold 320 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Southwest National Park</th>
+<th align="left">605,000 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">*Franklin-Gordon Wild Rivers Nat’l Park</td>
+<td align="left">440,120 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Cradle Mountain-Lake St Claire Nat’l</td>
+<td align="left">161,000 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Walls of Jerusalem National Park</td>
+<td align="left">51,800 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Hartz Mountains National Park</td>
+<td align="left">7,140 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Devils Gullet State Reserve</td>
+<td align="left">806 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Marakoopa Cave State Reserve</td>
+<td align="left">790 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Liffey Falls State Reserve (part)</td>
+<td align="left">20 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Macquarie Harbour Historic Site</td>
+<td align="left">15,300 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Maxwell River Protected Archaeological Site</td>
+<td align="left">560 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Wargata Mina Protected Archaeological Site</td>
+<td align="left">155 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Central Plateau Conservation Area</td>
+<td align="left">89,200 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Adamsfield Conservation Area</td>
+<td align="left">5,400 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Southwest Conservation Area (in HEC)</td>
+<td align="left">616 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Marble Hill Conservation Area</td>
+<td align="left">77 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Farm Cove Game Reserve</td>
+<td align="left">1,720 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Meander Forest Reserve</td>
+<td align="left">1,660 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Liffey Forest Reserve</td>
+<td align="left">1,055 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Drys Bluff Forest Reserve</td>
+<td align="left">680 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Maatsuyker Island (C’wealth freehold)</td>
+<td align="left">180 ha</td>
+</tr>
+<tr class="even">
+<td align="left">St Clare Lagoon (vested in HEC)</td>
+<td align="left">29 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Private and Commonwealth freehold</td>
+<td align="left">320 ha</td>
+</tr>
+</tbody>
+</table>
 
 \*Lake Gordon, a Hydro-Electric Commission storage lake, is excluded from the World Heritage site.
 
@@ -266,7 +372,7 @@ Within aquatic habitats, the freshwater crustaceans are of global significance, 
 
 In buttongrass moorland the critically endangered orange-bellied parrot, the ground parrot *Pezoporus wallicus,* and the rare broad-toothed mouse *Mastacomys fuscus* are found. The rare Ptunarra brown butterfly *Oreixenica ptunarra* is found on the central grasslands. Freshwater crayfish, such as the endemic *Parastacoides tasmanicus*, live in burrows under the buttongrass tussocks despite the highly acidic environment; their burrows are in turn colonised by a range of extraordinary endemic invertebrates such as the Tasmanian anaspid crustacean *Allanaspides helonomus* (VU) and Hickman’s pygmy mountain shrimp *A. hickmani* (VU). Both of these species have very restricted distributions near the inundated Lake Pedder. The monotypic and endemic Tasmanian spot-wing dragonfly *Synthemiopsis gomphomacromioides* breeds in the mud surrounding buttongrass tussocks. Caves are inhabited by many endemic invertebrates including crickets, spiders, beetles and aquatic crustaceans. Displays of Tasmanian glow-worm *Arachnocampa tasmaniensis* can be seen at several places, particularly at Exit and Entrance Caves (Nomination document, 1988).
 
-In coastal areas and on offshore islands, vast numbers of short-tailed shearwater *Puffinus tenuirostris* return to breed each year. Also present are wedge-tailed eagle *Aqila audax* (~\~~100 individuals), white goshawk *Accipiter novaehollandia* (&lt;110), shy albatross *Thalassarche cauta,* little tern *Sterna albifrons* and soft-plumaged petrel *Pterodroma mollis* (50). Port Davey is the site of an unusual marine community including new species of skate and sea slugs. One endemic reptile, the Pedra Branca skink *Niveoscincus palfreymani* (VU: 290 individuals) lives only on the small offshore rocky island of Pedra Branca (Thwaites, 1995; PWS, 2004). Offshore the fin-walking spotted handfish *Brachionicthys hirsutus* (CR)*, s*outhern right whale *Eubalaena australis* and the New Zealand fur seal *Arctocephalus forsteri* are found.
+In coastal areas and on offshore islands, vast numbers of short-tailed shearwater *Puffinus tenuirostris* return to breed each year. Also present are wedge-tailed eagle *Aqila audax* (~\~~100 individuals), white goshawk *Accipiter novaehollandia* (&lt;110), shy albatross *Thalassarche cauta,* little tern *Sterna albifrons* and soft-plumaged petrel *Pterodroma mollis* (50). Port Davey is the site of an unusual marine community including new species of skate and sea slugs. One endemic reptile, the Pedra Branca skink *Niveoscincus palfreymani* (VU: 290 individuals) lives only on the small offshore rocky island of Pedra Branca (Thwaites, 1995; PWS, 2004). Offshore the fin-walking spotted handfish *Brachionicthys hirsutus* (CR), southern right whale *Eubalaena australis* and the New Zealand fur seal *Arctocephalus forsteri* are found.
 
 CONSERVATION VALUE
 ------------------

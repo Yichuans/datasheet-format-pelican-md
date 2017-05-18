@@ -2,7 +2,7 @@ Title: PANTANAL CONSERVATION AREA
 Tags: BRAZIL
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-12 15:27:56
+Date: 2017-05-18 14:04:49
 
 PANTANAL CONSERVATION AREA
 ==========================
@@ -50,13 +50,28 @@ INTERNATIONAL DESIGNATION
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Pantanal Matogrossense National Park II National Park
-
-Dorochê Private Natural Heritage Reserves Ia Private Reserve
-
-Acuziral Private Natural Heritage Reserves Ia Private Reserve
-
-Penha Private Natural Heritage Reserves Ia Private Reserve
+<table>
+<thead>
+<tr class="header">
+<th align="left">Pantanal Matogrossense National Park</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Dorochê Private Natural Heritage Reserves</td>
+<td align="left">Ia Private Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Acuziral Private Natural Heritage Reserves</td>
+<td align="left">Ia Private Reserve</td>
+</tr>
+<tr class="odd">
+<td align="left">Penha Private Natural Heritage Reserves</td>
+<td align="left">Ia Private Reserve</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -89,13 +104,28 @@ AREA
 
 The Complex totals 187,818 ha, 1.3% of the Brazilian Pantanal, 98% of which is privately owned:
 
-Pantanal Matogrossense National Park 135,000 ha;
-
-Dorochê Private Natural Heritage Reserve 26,518 ha;
-
-Acuziral Private Natural Heritage Reserve 13,200 ha.
-
-Penha Private Natural Heritage Reserve 13,100 ha;
+<table>
+<thead>
+<tr class="header">
+<th align="left">Pantanal Matogrossense National Park</th>
+<th align="left">135,000 ha;</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Dorochê Private Natural Heritage Reserve</td>
+<td align="left">26,518 ha;</td>
+</tr>
+<tr class="even">
+<td align="left">Acuziral Private Natural Heritage Reserve</td>
+<td align="left">13,200 ha.</td>
+</tr>
+<tr class="odd">
+<td align="left">Penha Private Natural Heritage Reserve</td>
+<td align="left">13,100 ha;</td>
+</tr>
+</tbody>
+</table>
 
 Adjacent Bolivian protected areas are the San Matías Area of Integrated Management (2,918,000 ha), the Otuquis Pantanal National Park and Area of Integrated Management (totalling 1,005,596 ha), and 4,600,000 ha of Ramsar Wetlands (Ramsar, 2001; Swarts, 2000b).
 

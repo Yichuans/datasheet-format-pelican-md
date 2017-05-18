@@ -2,7 +2,7 @@ Title: Maloti-Drakensberg Park
 Tags: South Africa & Lesotho
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-12 15:28:03
+Date: 2017-05-18 14:04:56
 
 1.   MALOTI - DRAKENSBERG PARK
     ==========================
@@ -82,19 +82,40 @@ IUCN MANAGEMENT CATEGORY
 
 II: National Park, Nature Reserves, State Forests and Game Reserve:
 
-Royal Natal National Park Mkhomazi State Forest
-
-Sehlabathebe National Park Cathedral Peak State Forest
-
-Loteni Nature Reserve Garden Castle State Forest
-
-Kamberg Nature Reserve Cobham State Forest
-
-Vergelegen Nature Reserve Highmoor State Forest
-
-Rugged Glen Nature Reserve Monk’s Cowl State Forest
-
-Giant’s Castle Game Reserve
+<table>
+<thead>
+<tr class="header">
+<th align="left">Royal Natal National Park</th>
+<th align="left">Mkhomazi State Forest</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Sehlabathebe National Park</td>
+<td align="left">Cathedral Peak State Forest</td>
+</tr>
+<tr class="even">
+<td align="left">Loteni Nature Reserve</td>
+<td align="left">Garden Castle State Forest</td>
+</tr>
+<tr class="odd">
+<td align="left">Kamberg Nature Reserve</td>
+<td align="left">Cobham State Forest</td>
+</tr>
+<tr class="even">
+<td align="left">Vergelegen Nature Reserve</td>
+<td align="left">Highmoor State Forest</td>
+</tr>
+<tr class="odd">
+<td align="left">Rugged Glen Nature Reserve</td>
+<td align="left">Monk’s Cowl State Forest</td>
+</tr>
+<tr class="even">
+<td align="left">Giant’s Castle Game Reserve</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
 Ib: Wilderness Areas contained within State Forests:
 
@@ -111,11 +132,10 @@ BIOGEOGRAPHICAL PROVINCE
 
 South African Highlands (3.22.12)
 
-1.  GEOGRAPHICAL LOCATION 
-    ----------------------
+GEOGRAPHICAL LOCATION 
+----------------------
 
-    uKhahlamba-Drakensberg Park crowns the 200 km-long Drakensberg mountain range in Kwazulu-Natal Province on its western border with Lesotho. It lies between S 28°55’ to 29°55’ and E 29°05’ to 29°45’ with a northern outlier, Royal Natal National Park, between S 28°38’ to 28°46’ and E 28°52’ to 29°00’.
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+uKhahlamba-Drakensberg Park crowns the 200 km-long Drakensberg mountain range in Kwazulu-Natal Province on its western border with Lesotho. It lies between S 28°55’ to 29°55’ and E 29°05’ to 29°45’ with a northern outlier, Royal Natal National Park, between S 28°38’ to 28°46’ and E 28°52’ to 29°00’.
 
 Sehlabathebe National Park in the Maloti Mountains of southeastern Lesotho, a continuation of the Drakensberg Mountains, runs for 12 km along the border of Kwa-Zulu province and the larger park. It is located 100 km northeast of Qacha's Nek centred on S 29°53'56”and E 29°07'16”.
 
@@ -176,25 +196,75 @@ The total area of the Conservation Area is 249,313 ha. It comprises the followin
 
 National Park, Nature Reserves and State Forests (excluding Wilderness Areas):
 
-Royal Natal National Park 8,094 ha Mkhomazi State Forest 49,156 ha
-
-Sehlabathebe National Park 6,500 ha Cathedral Peak State Forest 32,246 ha
-
-Loteni Nature Reserve 3,984 ha Garden Castle State Forest 30,766 ha
-
-Kamberg Nature Reserve 2,980 ha Cobham State Forest 30,498 ha
-
-Vergelegen Nature Reserve 1,159 ha Highmoor State Forest 28,151 ha
-
-Rugged Glen Nature Reserve 762 ha Monk’s Cowl State Forest 20,379 ha
-
-Giant’s Castle Game Reserve 34,638 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Royal Natal National Park</th>
+<th align="left">8,094 ha</th>
+<th align="left">Mkhomazi State Forest</th>
+<th align="left">49,156 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Sehlabathebe National Park</td>
+<td align="left">6,500 ha</td>
+<td align="left">Cathedral Peak State Forest</td>
+<td align="left">32,246 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Loteni Nature Reserve</td>
+<td align="left">3,984 ha</td>
+<td align="left">Garden Castle State Forest</td>
+<td align="left">30,766 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Kamberg Nature Reserve</td>
+<td align="left">2,980 ha</td>
+<td align="left">Cobham State Forest</td>
+<td align="left">30,498 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Vergelegen Nature Reserve</td>
+<td align="left">1,159 ha</td>
+<td align="left">Highmoor State Forest</td>
+<td align="left">28,151 ha</td>
+</tr>
+<tr class="odd">
+<td align="left">Rugged Glen Nature Reserve</td>
+<td align="left">762 ha</td>
+<td align="left">Monk’s Cowl State Forest</td>
+<td align="left">20,379 ha</td>
+</tr>
+<tr class="even">
+<td align="left">Giant’s Castle Game Reserve</td>
+<td align="left">34,638 ha</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
 Wilderness Areas within State Forests (117,764 ha, 48.5%):
 
-Mkhomazi Wilderness Area 56,155 ha Mzimkulu Wilderness Area 28,340 ha
-
-Mdedelelo Wilderness Area 27,000 ha Mlambonja Wilderness Area 6,270 ha
+<table>
+<thead>
+<tr class="header">
+<th align="left">Mkhomazi Wilderness Area</th>
+<th align="left">56,155 ha</th>
+<th align="left">Mzimkulu Wilderness Area</th>
+<th align="left">28,340 ha</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Mdedelelo Wilderness Area</td>
+<td align="left">27,000 ha</td>
+<td align="left">Mlambonja Wilderness Area</td>
+<td align="left">6,270 ha</td>
+</tr>
+</tbody>
+</table>
 
 Sehlabathebe Range Management Area is a buffer zone, outside the World Heritage site, of 46,630 ha.
 
@@ -296,7 +366,8 @@ Alien invasive plants are considered the most serious threat but the area curren
 
 There are several threats to the rock art. The main causes of deterioration to the paintings are the natural weathering of both rock and paint, and vandalism. Smoke from camp fires in painted rock shelters blackens them, and visitors often wet paintings to bring out the colors, even using destructive carbonated drinks. Management practices such as the removal of trees which sheltered the paintings, the smoke from burning grass and unregulated public access can all spoil the fragile images. Research is being done on ways to reduce the natural threats, and human degradation has been reduced as the location of most painted sites no longer appears on maps available to the public. Access to the entire region and camping in painted caves is now strictly controlled, and a few sites (Maiin Caves, Game Pass and Battle Cave) have been fenced, access to them being permitted only with a guide. A rock art interpretative centre has been planned. Present threats to the Sehlabathebe site are minimal: invasive species, fires and damage to rock art are nevertheless a threat. Poaching, grazing, plant resource use and encroachment have largely been contained because of the hope of tourism. A business plan should bring employment opportunities, increased income and reduce the risks associated with tourism. The only potential threat to the biota is to the endangered Maloti minnow, by the introduction of predatory trout.
 
-**COMPARISON**
+COMPARISON
+----------
 
 Physically, the range is comparable to the World Heritage Site of the Simien Massif in Ethiopia, in its igneous basalts that have been eroded to form precipitous cliffs and deep valleys, but it is longer, grander, biotically far richer and far less vulnerable to human encroachment. This is also true if it is compared with other sites in South Africa which occur on the Great Escarpment edge of the central plateau. But in addition, the Drakensberg is one of the most important archaeological areas in South Africa, with sites that show that the region has been occupied by man over the last million years. The Late Stone Age Khoisan people who inhabited the area from about 8000 years ago left the most striking rock art, and later Khoisan left thousands of rock paintings 2-3,000 years ago continuing until the 18<sup>th</sup> century when invasions began to extinguish the people.
 
@@ -305,13 +376,13 @@ STAFF
 
 The main park is administered by a Chief Conservator and a staff of 604 permanent and part-time employees in three divisions: conservation (with four sub-directorates), scientific services (with three sub-directorates) and administration (with three sub-directorates). There are three administrative centers: Royal Natal National Park at the northern end of the Park with five management stations, Giant’s Castle Game Reserve in the central region with six management stations, and Himeville in the southern region outside the Park, with four management stations within the Park. In addition to conservation, staff undertake construction, planning, public relations, secretarial services, accounting and accommodation bookings. Staff stationed in reserves are responsible for implementing wildlife management programs, for the management of visitor facilities, for the provision of environmental awareness programmes, and for research and monitoring projects. Sehlabathebe has a park manager with 11 staff members, mostly ranger-guides who have tertiary qualifications, and there is a rangers' station, but effective management will need adequate funding.
 
-1.  BUDGET
-    ------
+BUDGET
+------
 
-    1.  #### The KwaZulu-Natal Provincial Legislature provides 60% of the main park's total funding. It earned US\$1,316,140 in revenues during the 1998/1999 financial year. The government, the World Bank and the International Finance Corporation have helped to establish ecotourism through the Maloti-Drakensberg Transfrontier Conservation and Development project, including infrastructure, an entrance gate-arrival centre and a Heritage Centre in Sehlabathebe. For this, funding of US\$15,240,000 was granted by the World Bank through the Global Environment Facility and US\$255,100 came from the Lesotho Government.
+The KwaZulu-Natal Provincial Legislature provides 60% of the main park's total funding. It earned US\$1,316,140 in revenues during the 1998/1999 financial year. The government, the World Bank and the International Finance Corporation have helped to establish ecotourism through the Maloti-Drakensberg Transfrontier Conservation and Development project, including infrastructure, an entrance gate-arrival centre and a Heritage Centre in Sehlabathebe. For this, funding of US\$15,240,000 was granted by the World Bank through the Global Environment Facility and US\$255,100 came from the Lesotho Government.
 
-    ADDRESSES
-    ---------
+ADDRESSES
+---------
 
 The Director, South African National Parks, P.O. Box 787, Pretoria 0001, South Africa.
 
@@ -358,7 +429,7 @@ Irwin, D. & Irwin P. (1992). *A Field Guide to the Natal Drakensberg*. The Natal
 
 IUCN (2012). *IUCN Technical Evaluation: Sehlabathebe National Park (Lesotho). Proposed Extension of uKhahlabamba-Drakensberg (South Africa).* Gland, Switzerland.
 
-------- (2012). *IUCN Red List of Threatened Species* .http://www.iucnredlist.org/search.
+------- (2012). *IUCN Red List of Threatened Species* .<http://www.iucnredlist.org/search>.
 
 ------- (1999). *Technical Evaluation: uKhahlamba Drakensberg Park (Republic of South Africa).* Online: http://whc.unesco.org/archive/advisory\_body\_evaluation/985.pdf.
 

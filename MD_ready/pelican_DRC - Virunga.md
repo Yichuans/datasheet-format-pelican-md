@@ -2,7 +2,7 @@ Title: VIRUNGA NATIONAL PARK
 Tags: DEMOCRATIC REPUBLIC OF THE CONGO
 Author: UNEP-WCMC
 Year: 1979
-Date: 2017-04-12 15:27:59
+Date: 2017-05-18 14:04:52
 
  VIRUNGA NATIONAL PARK
 ======================
@@ -235,16 +235,7 @@ Biswas, A. & Tortajada-Quiroz, H. (1996). Environmental impacts of the Rwandan r
 
 Bourlière & Verschuren, J. (1972). *Exploration du Parc National des Virunga*.
 
-<table>
-<thead>
-<tr class="header">
-<th align="left"><p>CMS/GRASP (2008). <em>Gorilla. Reports on Conservation Status</em>. Technical Service Publ.7. Royal Belgian</p>
-<p>Institute of Natural Science, Belgium/UNEP Nairobi.</p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+CMS/GRASP (2008). *Gorilla. Reports on Conservation Status*. Technical Service Publ.7. Royal Belgian Institute of Natural Science, Belgium/UNEP Nairobi.
 
 Delvingt, W., Lejoly,J. & Mbaelele M. (1990). *Guide du Parc National des Virunga*. EEC, Brussels.
 
@@ -340,9 +331,7 @@ World Bank (2006).*The Forest and Nature Conservation Program.* Project for WB, 
 
 Zajtman, A. (2004). The battle for D R Congo’s wildlife. *BBC News*, Sept. 17. London.
 
-Zeller, J. (2005). Democratic Republic of the Congo. 5-18 September, 2005. Report on a visit by the
-
-President of the International Ranger Federation. *Thin Green Line Newsletter of the IRF.*
+Zeller, J. (2005). Democratic Republic of the Congo. 5-18 September, 2005. Report on a visit by the President of the International Ranger Federation. *Thin Green Line Newsletter of the IRF.*
 
 DATE
 ----

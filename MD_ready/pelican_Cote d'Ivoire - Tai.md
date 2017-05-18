@@ -2,7 +2,7 @@ Title: TAÏ NATIONAL PARK
 Tags: CÔTE D'IVOIRE
 Author: UNEP-WCMC
 Year: 1982
-Date: 2017-04-12 15:27:58
+Date: 2017-05-18 14:04:51
 
 TAÏ NATIONAL PARK
 =================
@@ -32,9 +32,7 @@ NATURAL WORLD HERITAGE SITE
 INTERNATIONAL DESIGNATION
 -------------------------
 
-1977: Designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme
-
-(620,000 ha).
+1977: Designated a Biosphere Reserve under the UNESCO Man & Biosphere Programme (620,000 ha).
 
 STATEMENT OF OUTSTANDING UNIVERSAL VALUE \[pending\]
 ----------------------------------------------------

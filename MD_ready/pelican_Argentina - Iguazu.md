@@ -2,7 +2,7 @@ Title: IGUAZÚ NATIONAL PARK
 Tags: ARGENTINA
 Author: UNEP-WCMC
 Year: 1984
-Date: 2017-04-12 15:27:54
+Date: 2017-05-18 14:04:46
 
 IGUAZÚ NATIONAL PARK
 ====================
@@ -35,9 +35,20 @@ STATEMENT OF OUTSTANDING UNIVERSAL VALUE \[pending\]
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-Iguazú National Park: II National Park
-
-Iguazú National Reserve: VI National Reserve
+<table>
+<thead>
+<tr class="header">
+<th align="left">Iguazú National Park:</th>
+<th align="left">II National Park</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Iguazú National Reserve:</td>
+<td align="left">VI National Reserve</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------

@@ -2,7 +2,7 @@ Title: SIAN KA’AN
 Tags: MEXICO
 Author: UNEP-WCMC
 Year: 1987
-Date: 2017-04-12 15:28:04
+Date: 2017-05-18 14:04:57
 
 SIAN KA’AN
 ==========
@@ -229,7 +229,7 @@ Lopez, A. & Ramo, C. (1992). Colonial waterbird populations in the Sian ka'an bi
 
 López, A. & Consejo, J.. (1986). Plan de Manejo de la Reserva de la Biosfera de Sian Ka'an. Gobierno del Estado de Quintana Roo. Cuidad Chetumal, Mexico. 141 pp.
 
-Mazzotti, F*.et al. (*2005). Conceptual ecological model of the Sian Ka'an biosphere reserve, Quintana Roo, Mexico. *Wetlands* 25 (4): 980–997.
+Mazzotti, F.*et al.* (2005). Conceptual ecological model of the Sian Ka'an biosphere reserve, Quintana Roo, Mexico. *Wetlands* 25 (4): 980–997.
 
 Morales, J. (1995). *La Gran Selva Maya*. Amigos de Sian Ka’an, Cancun.
 

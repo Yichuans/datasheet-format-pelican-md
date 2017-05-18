@@ -2,7 +2,7 @@ Title: SWISS ALPS JUNGFRAU-ALETSCH
 Tags: SWITZERLAND
 Author: UNEP-WCMC
 Year: 2001
-Date: 2017-04-12 15:28:08
+Date: 2017-05-18 14:05:01
 
 SWISS ALPS JUNGFRAU-ALETSCH
 ===========================
@@ -74,7 +74,7 @@ DATES AND HISTORY OF ESTABLISHMENT
 
 1986: The protection of Baltschiedertal was defined by a contract signed between the communities of Baltschieder, Eggerberg and Mund, the Swiss foundation for Landscape Conservation & Protection and Pro Natura Valais. This states that the area should be kept in the same
 
-> Condition as it was in 1986;
+Condition as it was in 1986;
 
 1994: The Ausserberg community joined the scheme.
 

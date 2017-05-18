@@ -2,7 +2,7 @@ Title: SHIRETOKO
 Tags: JAPAN
 Author: UNEP-WCMC
 Year: 2005
-Date: 2017-04-12 15:28:02
+Date: 2017-05-18 14:04:55
 
 SHIRETOKO
 =========
@@ -41,13 +41,28 @@ The UNESCO World Heritage Committee issued the following statement at the time o
 IUCN MANAGEMENT CATEGORY 
 -------------------------
 
-Onnebutsedake Wilderness Area: Ia Strict Nature Reserve
-
-Shiretoko Forest Ecosystem Reserve: IV Habitat/Species Management Area
-
-Shiretoko National Park: V Habitat/Species Management Area
-
-Shiretoko National Wildlife Protection Area: V Habitat/Species Management Area
+<table>
+<thead>
+<tr class="header">
+<th align="left">Onnebutsedake Wilderness Area:</th>
+<th align="left">Strict Nature Reserve</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Shiretoko Forest Ecosystem Reserve:</td>
+<td align="left">IV Habitat/Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Shiretoko National Park:</td>
+<td align="left">V Habitat/Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Shiretoko National Wildlife Protection Area:</td>
+<td align="left">V Habitat/Species Management Area</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------

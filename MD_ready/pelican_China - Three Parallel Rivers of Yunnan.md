@@ -2,7 +2,7 @@ Title: THREE PARALLEL RIVERS OF YUNNAN PROTECTED AREAS
 Tags: CHINA
 Author: UNEP-WCMC
 Year: 2003
-Date: 2017-04-12 15:27:58
+Date: 2017-05-18 14:04:50
 
 THREE PARALLEL RIVERS OF YUNNAN PROTECTED AREAS
 ===============================================
@@ -36,9 +36,7 @@ The UNESCO World Heritage Committee issued the following Statement of Outstandin
 
 **Brief Synthesis**
 
-Located in the mountainous north-west of Yunnan Province in China, the Three Parallel Rivers of Yunnan Protected Areas is a natural serial property consisting of 15 protected areas, grouped into eight clusters. The Property contains an outstanding diversity of landscapes, such as deep-incised river gorges, luxuriant forests, towering snow-clad mountains, glaciers, and alpine karst, reddish sandstone landforms (Danxia), lakes and meadows over vast vistas. The 1.7 million hectare site features sections of the upper reaches of three of the great rivers of Asia: the Yangtze (Jinsha), Mekong and Salween which run approximately parallel, north to south, through steep gorges which, in places, are 3,000 m deep and are bordered by glaciated peaks more than 6,000 m high. The property spans a large portion of the Hengduan Mountains, which is the major arc curving into Indochina from the eastern end of the Himalayas. Being located in the convergent regions of the three world's major biogeographic realms, the property is in an epicentre of Chinese biodiversity. It may also harbour the richest biodiversity among
-
-the temperate areas of the world.
+Located in the mountainous north-west of Yunnan Province in China, the Three Parallel Rivers of Yunnan Protected Areas is a natural serial property consisting of 15 protected areas, grouped into eight clusters. The Property contains an outstanding diversity of landscapes, such as deep-incised river gorges, luxuriant forests, towering snow-clad mountains, glaciers, and alpine karst, reddish sandstone landforms (Danxia), lakes and meadows over vast vistas. The 1.7 million hectare site features sections of the upper reaches of three of the great rivers of Asia: the Yangtze (Jinsha), Mekong and Salween which run approximately parallel, north to south, through steep gorges which, in places, are 3,000 m deep and are bordered by glaciated peaks more than 6,000 m high. The property spans a large portion of the Hengduan Mountains, which is the major arc curving into Indochina from the eastern end of the Himalayas. Being located in the convergent regions of the three world's major biogeographic realms, the property is in an epicentre of Chinese biodiversity. It may also harbour the richest biodiversity among the temperate areas of the world.
 
 **Criterion (vii):** The deep, parallel gorges of the Jinsha, Lancang and Nu Jiang are the outstanding natural feature of the property; while large sections of the three rivers lie just outside the property boundaries, the river gorges are nevertheless the dominant scenic element in the area. High mountains are everywhere, with the glaciated peaks of the Meili, Baima and Haba Snow Mountains providing a spectacular scenic skyline. The Mingyongqia Glacier is a notable natural phenomenon, descending to 2700m altitude from Mt Kawagebo (6740 m), and is claimed to be the glacier descending to the lowest altitude for such a low latitude (28° N) in the northern hemisphere. Other outstanding scenic landforms are the alpine karst (especially the 'stone moon' in the Moon Mountain Scenic Area above the Nu Jiang Gorge) and the 'tortoise shell' weathering of the alpine Danxia.
 
@@ -68,35 +66,102 @@ INTERNATIONAL DESIGNATION (PART)
 IUCN MANAGEMENT CATEGORY
 ------------------------
 
-**Site Name Core Buffer Site Type**
-
-Gaoligongshan National Nature Reserve I II Strict Nature Reserve / National Park
-
--- Gongshan Scenic Area Unassigned
-
--- Yueliangshan Scenic Area Unassigned
-
--- Pianma Scenic Area Unassigned
-
-Julong Lake Scenic Area I - Strict Nature Reserve
-
-Baimang Xueshan Nature Reserve II IV SNR/ Nat’l Park/ Habitat-Species Manag’t Area
-
-Meili Xueshan Scenic Area II - National Park
-
-Hongshan Scenic Area II IV National Park / Habitat-Species Manag’t Area
-
-Bita Lake Nature Reserve I,II II Strict Nature Reserve / National Park
-
-Haba Xueshan Nature Reserve I, II III SNR / Nat’l Park/ Habitat-Species Manag’t Area
-
-Laojunshan Scenic Area II III SNR / Habitat-Species Management Area
-
-Qianhushan Scenic Area II - SNR / Habitat-Species Management Area
-
-Yunling Shan Nature Reserve Area I IV SNR / Habitat-Species Management Area
-
-Laowoshan Scenic Area II III National Park / Natural Monument
+<table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Site Name</strong></th>
+<th align="left"><strong>Core</strong></th>
+<th align="left"><strong>Buffer</strong></th>
+<th align="left"><strong>Site Type</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Gaoligongshan National Nature Reserve</td>
+<td align="left">I</td>
+<td align="left">II</td>
+<td align="left">Strict Nature Reserve / National Park</td>
+</tr>
+<tr class="even">
+<td align="left">-- Gongshan Scenic Area</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="odd">
+<td align="left">-- Yueliangshan Scenic Area</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="even">
+<td align="left">-- Pianma Scenic Area</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td align="left">Unassigned</td>
+</tr>
+<tr class="odd">
+<td align="left">Julong Lake Scenic Area</td>
+<td align="left">I</td>
+<td align="left">-</td>
+<td align="left">Strict Nature Reserve</td>
+</tr>
+<tr class="even">
+<td align="left">Baimang Xueshan Nature Reserve</td>
+<td align="left">II</td>
+<td align="left">IV</td>
+<td align="left">SNR/ Nat’l Park/ Habitat-Species Manag’t Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Meili Xueshan Scenic Area</td>
+<td align="left">II</td>
+<td align="left">-</td>
+<td align="left">National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Hongshan Scenic Area</td>
+<td align="left">II</td>
+<td align="left">IV</td>
+<td align="left">National Park / Habitat-Species Manag’t Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Bita Lake Nature Reserve</td>
+<td align="left">I, II</td>
+<td align="left">II</td>
+<td align="left">Strict Nature Reserve / National Park</td>
+</tr>
+<tr class="even">
+<td align="left">Haba Xueshan Nature Reserve</td>
+<td align="left">I, II</td>
+<td align="left">III</td>
+<td align="left">SNR / Nat’l Park/ Habitat-Species Manag’t Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Laojunshan Scenic Area</td>
+<td align="left">II</td>
+<td align="left">III</td>
+<td align="left">SNR / Habitat-Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Qianhushan Scenic Area</td>
+<td align="left">II</td>
+<td align="left">-</td>
+<td align="left">SNR / Habitat-Species Management Area</td>
+</tr>
+<tr class="odd">
+<td align="left">Yunling Shan Nature Reserve Area</td>
+<td align="left">I</td>
+<td align="left">IV</td>
+<td align="left">SNR / Habitat-Species Management Area</td>
+</tr>
+<tr class="even">
+<td align="left">Laowoshan Scenic Area</td>
+<td align="left">II</td>
+<td align="left">III</td>
+<td align="left">National Park / Natural Monument</td>
+</tr>
+</tbody>
+</table>
 
 Note that the above IUCN management categories are cited from the nomination document. They may need to be confirmed with national authorities if there is uncertainty over their interpretation.
 
@@ -148,35 +213,35 @@ AREAS
 <td align="left"><strong>Coordinates</strong></td>
 </tr>
 <tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
 <td align="left">Gaoligong Shan Nature Reserve + Pienma,Yueliang Shan &amp; Gongshan Scenic Areas</td>
 <td align="left">344,386.5</td>
 <td align="left">173,135.1</td>
 <td align="left">27º 53’ N 98º 24’ E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Baima-Meili Xueshan Nature Reserve + Julong Lake Scenic Area</td>
 <td align="left">249,870.0</td>
 <td align="left">127,590.7</td>
 <td align="left">28º 00’ N 99º 10’ E</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><p>Hong Shan Scenic Area</p>
 <p>+ Bita Lake Nature Reserve</p></td>
 <td align="left">142,604.8</td>
 <td align="left">260,864.8</td>
 <td align="left">28º 12’ N 100º 07’ E</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Haba Xueshan Nature Reserve</td>
 <td align="left">79,698.0</td>
 <td align="left">37,414.1</td>
 <td align="left">27º 30’ N 100º 10 E</td>
-</tr>
-<tr class="even">
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
 </tr>
 <tr class="odd">
 <td align="left">Laojun Shan Scenic Area</td>
@@ -206,6 +271,12 @@ AREAS
 <td align="left"><strong>Totals:</strong></td>
 <td align="left"><strong>960,083.5</strong></td>
 <td align="left"><strong>783,198.4</strong></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 <td align="left"></td>
 </tr>
 </tbody>
@@ -271,7 +342,6 @@ The range of vegetation types of the area includes:
 
 Monsoon forest occurs in the lower reaches of Dulong and Nujiang Rivers while semi-humid evergreen broadleaved forest occurs in the lower reaches of Lancang and Jinsha Rivers. Middle subtropical humid evergreen broadleaved forests are found on the mid-slopes of Gaoligong Shan and Biluo Xueshan. Subtropical sclerophyllous evergreen forest along the middle reaches of the Lancang and Jinsha rivers are dominated by *Quercus* species. Temperate deciduous broadleaved forest occurs at an altitude of 3,000-3,500m. Warm to cool coniferous forest grows at an altitude of 2,800-3,300m and cold-temperature coniferous forest at 3,300-4,100m. A dry-hot savanna-like ecosystem appears in river valley areas of the lower reaches of the Lancang and Jinsha rivers, while a microphyllous shrubland (desert) ecosystem of dry-warm river valleys occurs in the upper reaches of the Lancang and Jinsha rivers. Alpine meadows predominate above the tree line around 3,500 to 4,000m. In Gaoligongshan, Nushan and Yunlingshan mountains these are interspersed by Alpine shrublands (4,000-4,500m) dominated by many rhododendron species. Alpine debris-flow ecosystems occur between 3,500 to 4,500m in the Nushan and Yunlingshan.
 
-.\
 The most abundant plant types are northern temperate (20.2%), pan-tropical (14.2%), tropical-Asian (13%) and East Asian (13%). The very wet western border with Myanmar is forested with subalpine conifers (fir and spruce) mixed with broadleaf evergreens with a flora closely related to the eastern Himalayan along with much sub-tropical scrub. In the cloud forests, trees are draped abundantly with the lichen *Usnea longissima*. The Nu and Lancang river gorges have tropical scrub fringed by mixed coniferous and broadleaf forest, which is especially rich in mid-elevation temperate conifers, some endemic to the gorges. These include Chinese cypress *Cupressus duclouxiana* (EN), Taiwania *Taiwania cryptomeroides* (VU), hemlock *Tsuga dumosa*, and *Juniperus* spp. Other endemic or locally common rare conifers are from the genera *Keteleeria*, *Pseudotsuga*, *Platycladus* and *Cunninghamia*. Broadleaf forests are often dominated by the subalpine oak *Quercus aquifolioides*. On the mountains to the east of them, forests of Likiang spruce *Picea likangensis* and *P.brachytyla* from 3,100-3,500m and Chinese fir *Abies georgei* and *A.delavayi* from 3,500-4,000m predominate, associated with Chinese larch *Larix potanini* and *Pinus densata* on cleared or disturbed ground. The whole area is characterised by isolated ridge top and valley bottom habitats. The drier plateau of the Hongshan in the east is dominated by Yunnan pine and alpine meadows, and the rain-shadowed Yangtse valley by sparse dryland scrub.
 
 There are more than 200 species of rhododendrons, 37 of them discovered in the area, over 300 species of timber trees, more than 100 species of gentians and primulas, many species of lily and orchid, and some 500 species of medicinal plants. Well known endemic plants include gingko *Gingko biloba* (EN) and davidia (handkerchief tree) *Davidia involucrata*, four species of the blue poppy *Mecanopsis*, and two species of *Cycas*. There are also ancient relict species such as *Taiwania cryptomerioides* (VU), the Yunnan yew *Taxus yunannensis, Magnolia rostrata* (VU), *Nouelia insignis* and *Kingdonia uniflora* among many others.
@@ -285,9 +355,7 @@ Two-thirds of the fauna of the nominated area is either endemic, or of Himalayan
 
 Among the rarer mammals of the area are: the web-footed watershrew *Nectogale elegans*, Chinese shrew mole *Uropsilus soricipes*, the endemic Yunnan snub-nosed monkey *Rhinopithecus bieti* (EN), capped leaf monkey *Trachypithecus pileatus* (VU), stump-tailed macaque *Macaca arctoides* (VU), Assam macaque *M. assamensis*, Gaoligong pika *Ochotona gaoligongensis*, wild dog *Cuon alpinus* (EN), red panda *Ailurus fulgens* (VU), Himalayan black bear *Ursus thibetanus* (VU), smooth-coated otter *Lutrogale perspicillata* (VU), leopard *Panthera pardus*, snow leopard *Uncia uncia* (EN), clouded leopard *Neofelis nebulosa* (VU), Gongshan muntjac *Muntiacus gongshanensis*, musk deer *Muschus fuscus*, takin (a goat-like antelope) *Budorcus taxicolor* (VU), red goral *Naemorhedus baileyi* (VU) and Chinese goral *N. griseus* (VU).
 
-The area has the richest assemblage of birds in China. Among the rarer birds are ferruginous duck *Aythya nyroca*, Chinese grouse *Bonasa sewerzowi*, chestnut-throated partridge *Tetraophasis obscurus*, Yunnan white-eared pheasant *Crossoptilon crossoptilon*, Lady Amherst's pheasant *Chrysolophus amherstiae*, blood pheasant *Ithaginis cruentus*, Sclater's monal pheasant *Lophophorus sclateri* (VU), Malay peacock pheasant *Tragopan blythii*, Sclater’s monal pheasant *Lophophorus sclateri* (VU), Malay peacock pheasant *Tragopan blythi* (VU), black-necked crane *Grus nigricollis* (VU), Ward's trogon *Harpactes wardi*, giant nuthatch *Sitta magna* (VU), Yunnan nuthatch *S. yunnanensis*, white-speckled laughing thrush *Garrulax bieti* (VU) and the brown-winged parrotbill *Paradoxornis brunneus.* Although the main rivers are mostly below the level of the World Heritage sites, 48 species of fish, 16 endemic to
-
-these fast cold streams, may be affected by extensive proposed damming.
+The area has the richest assemblage of birds in China. Among the rarer birds are ferruginous duck *Aythya nyroca*, Chinese grouse *Bonasa sewerzowi*, chestnut-throated partridge *Tetraophasis obscurus*, Yunnan white-eared pheasant *Crossoptilon crossoptilon*, Lady Amherst's pheasant *Chrysolophus amherstiae*, blood pheasant *Ithaginis cruentus*, Sclater's monal pheasant *Lophophorus sclateri* (VU), Malay peacock pheasant *Tragopan blythii*, Sclater’s monal pheasant *Lophophorus sclateri* (VU), Malay peacock pheasant *Tragopan blythi* (VU), black-necked crane *Grus nigricollis* (VU), Ward's trogon *Harpactes wardi*, giant nuthatch *Sitta magna* (VU), Yunnan nuthatch *S. yunnanensis*, white-speckled laughing thrush *Garrulax bieti* (VU) and the brown-winged parrotbill *Paradoxornis brunneus.* Although the main rivers are mostly below the level of the World Heritage sites, 48 species of fish, 16 endemic to these fast cold streams, may be affected by extensive proposed damming.
 
 CONSERVATION VALUE 
 -------------------
@@ -304,9 +372,7 @@ LOCAL HUMAN POPULATION
 
 An estimated 278,329 people live within the boundaries of the Three Parallel Rivers of Yunnan Protected Areas site, 36,512 of whom are located in core areas of the site. Local jurisdictions include Diqing prefecture in the east, centre and north, Nujiang prefecture in the west and south and part of Lijang county in the southeast. Diqing prefecture comprises Zhongdian, Weixi and Deqin counties and county towns of the same names. Nujiang prefecture comprises Gongshan, Fugong, Liuku, and Lanping counties with county towns of the same names. Zhongdian in the east of the area is the chief administrative centre. A few major roads parallel the lie of the land, with occasional links. Zhongdian is located on one of the three main routes from west Sichuan and Yunnan to the south and Myanmar. There is some mining activity nearby although this is now illegal on state land. The main agricultural crops grown include maize, barley, walnuts and chestnuts in valley bottom and terraced hillside farms. Above 2,400m, persistent fog in the growing season means that such land has not been settled.
 
-The Government of China arranged the relocation of people living in high altitude ecologically sensitive areas of the World Heritage site in a poverty-alleviation program. By 2003 approximately 36,000 people from seven main areas of the site had been relocated. This is an estimated 9,000 households of which 1,500 households lived in core areas, the remainder in buffer zones, mostly from the Gaoligong Shan, Haba Xueshan and Hong Shan ranges. The people are mainly relocated to Dali and Simao Prefectures where there is more farmland. A further 19,500 people were to be relocated from the area, 60% of whom
-
-inhabited core zones of the site in 2003.
+The Government of China arranged the relocation of people living in high altitude ecologically sensitive areas of the World Heritage site in a poverty-alleviation program. By 2003 approximately 36,000 people from seven main areas of the site had been relocated. This is an estimated 9,000 households of which 1,500 households lived in core areas, the remainder in buffer zones, mostly from the Gaoligong Shan, Haba Xueshan and Hong Shan ranges. The people are mainly relocated to Dali and Simao Prefectures where there is more farmland. A further 19,500 people were to be relocated from the area, 60% of whom inhabited core zones of the site in 2003.
 
 VISITORS AND VISITOR FACILITIES
 -------------------------------
@@ -374,7 +440,7 @@ Lopoukhine, N. & Jayakumar, R. (2006). *Report of a Joint Reactive Monitoring Mi
 
 MacKinnon, J. (1996). *Wild China*. MIT Press, Cambridge MA, U.S.A.
 
----------- *et a*l. (1996). *A Biodiversity Review of China*. WWF, Hong Kong.
+---------- *et al*. (1996). *A Biodiversity Review of China*. WWF, Hong Kong.
 
 National Ministry of Construction (2001). Three *Parallel Rivers National Park. Nomination Report for the World Heritage Convention.* Beijing.196 pp. \[Contains 8 maps, species lists and 140 references\]
 
