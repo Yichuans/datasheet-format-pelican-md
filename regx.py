@@ -16,6 +16,7 @@ pattern_italic_bold = re.compile(r"(\*+) *?(\S.+?\S) *?(\*+)")
 replace_italic_bold = r"\1\2\3"
 
 # remove asterisks surround Headings
+# rules: next line either starts with - or =
 # **UUUU **	  -> UUUU
 pattern_heading = re.compile(r"(\*+((?=.*\n-)|(?=.*\n=)))")
 replace_heading = r""
