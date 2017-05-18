@@ -172,6 +172,13 @@ IUCN MANAGEMENT CATEGORY
         self.compare_equal()
 
 
+    def test_remove_list_paragraph(self):
+
+        self.dummy_value = "CHINA DANXIA {#china-danxia .ListParagraph}"
+        self.expected_value = "CHINA DANXIA "
+        
+        self.compare_equal()
+
 
 if __name__=='__main__':
     unittest.main()
