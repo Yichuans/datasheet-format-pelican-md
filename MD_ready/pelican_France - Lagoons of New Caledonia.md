@@ -1,12 +1,9 @@
-Title: REEF DIVERSITY AND ASSOCIATED ECOSYSTEMS
-Tags: FRANCE
+Title: Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems
+Tags: France
 Author: UNEP-WCMC
 Year: 2008
-Date: 2017-05-22 14:45:11
+Date: 2017-05-22 15:12:28
 
-
-REEF DIVERSITY AND ASSOCIATED ECOSYSTEMS
-============================================
 
 FRANCE
 ==========

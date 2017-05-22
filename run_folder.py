@@ -27,8 +27,9 @@ def main(input_folder, output_folder):
         ds.save_to_folder(output_folder)
 
 if __name__ == '__main__':
-    # input_folder = 'DOCX_original_20170519EDIT'
-    input_folder = 'DOCX_original_20170522'
-    output_folder = 'MD_ready'
+    input_folder = 'DOCX_original_20170519EDIT'
+    # input_folder = 'DOCX_original_20170522'
+    # output_folder = 'MD_ready'
+    output_folder = 'MD_edit'
 
     main(input_folder, output_folder)
