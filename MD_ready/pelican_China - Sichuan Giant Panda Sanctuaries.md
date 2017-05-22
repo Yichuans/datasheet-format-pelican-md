@@ -2,7 +2,7 @@ Title: Sichuan Giant Panda Sanctuaries – Wolong, Mount Siguniang & Jiajin Moun
 Tags: China
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-05-18 15:38:34
+Date: 2017-05-22 14:45:03
 
  SICHUAN GIANT PANDA SANCTUARIES
 ================================

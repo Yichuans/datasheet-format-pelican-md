@@ -2,7 +2,7 @@ Title: OKAVANGO DELTA
 Tags: BOTSWANA
 Author: UNEP-WCMC
 Year: 2014
-Date: 2017-05-18 15:38:41
+Date: 2017-05-22 14:45:32
 
 OKAVANGO DELTA
 ==============
@@ -84,7 +84,6 @@ DATES AND HISTORY OF ESTABLISHMENT
 ----------------------------------
 
 1963: Moremi Game Reserve (4610 km<sup>2</sup>) created.
------------------------------------------------
 
 1964: Batawana announce first game reserve established on tribal land.
 

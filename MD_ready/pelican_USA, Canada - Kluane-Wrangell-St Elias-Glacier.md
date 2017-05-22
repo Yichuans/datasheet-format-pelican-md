@@ -2,7 +2,7 @@ Title: KLUANE / WRANGELL-ST ELIAS / GLACIER BAY /TATSHENSHINI-ALSEK
 Tags: UNITED STATES OF AMERICA,CANADA
 Author: UNEP-WCMC
 Year: 1979
-Date: 2017-05-18 15:38:47
+Date: 2017-05-22 14:45:54
 
 KLUANE / WRANGELL-ST ELIAS / GLACIER BAY /TATSHENSHINI-ALSEK 
 =============================================================
@@ -527,7 +527,8 @@ US Department of the Interior (1991). *Convention Concerning Protection of the W
 
 Wood, J. Jr, Gladziszewski, M., Worley, I., Vequist, G. (eds.) (1984). *A Century After Muir. The Scientific Adventure*. U.S.D.I.,National Park Service Science Publications Office, Atlanta, GA. 95 pp.
 
-**DATES**
+DATES
+-----
 
 Kluane & Wrangell-St.Elias: 1982, Updated 1994, 5-2011, January 2012.
 

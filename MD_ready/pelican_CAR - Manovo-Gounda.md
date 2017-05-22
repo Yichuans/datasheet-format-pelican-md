@@ -1,12 +1,14 @@
-Title: Manovo-Gounda St. Floris National Park
-Tags: Central African Republic
+Title: MANOVO - GOUNDA ST. FLORIS NATIONAL PARK
+Tags: CENTRAL AFRICAN REPUBLIC
 Author: UNEP-WCMC
 Year: 1988
-Date: 2017-05-18 15:38:33
+Date: 2017-05-22 14:45:00
 
 MANOVO - GOUNDA ST. FLORIS NATIONAL PARK
+========================================
 
 CENTRAL AFRICAN REPUBLIC
+========================
 
 *The importance of this park is in its wealth of flora and fauna. Its vast savannas shelter a wide variety of species: black rhinoceros, elephant, cheetah, leopard, wild dog, red-fronted gazelle and buffalo; a wide range of waterfowl species also occurs in the northern flood-plains.*
 

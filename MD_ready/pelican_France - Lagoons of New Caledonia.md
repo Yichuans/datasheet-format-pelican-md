@@ -2,7 +2,7 @@ Title: REEF DIVERSITY AND ASSOCIATED ECOSYSTEMS
 Tags: FRANCE
 Author: UNEP-WCMC
 Year: 2008
-Date: 2017-05-18 15:38:36
+Date: 2017-05-22 14:45:11
 
 
 REEF DIVERSITY AND ASSOCIATED ECOSYSTEMS
@@ -80,19 +80,19 @@ DATES AND HISTORY OF ESTABLISHMENT
 AREA
 ----
 
-Marine core area: 1,574,300 ha.
+Marine core area:1,574,300 ha.
 
-Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer area: 492,400.
+Total buffer area:1,287,100 ha: marine buffer area: 794,700, terrestrial buffer area: 492,400.
 
 <table>
 <thead>
 <tr class="header">
 <th align="left"><strong>Site</strong></th>
 <th align="left"><strong>District</strong></th>
-<th align="left"><strong>Comm-</strong></th>
-<th align="left"><strong>Marine </strong></th>
-<th align="left"><strong>Marine buffer</strong></th>
-<th align="left"><strong>Land</strong></th>
+<th align="left"><strong>Communes (ha)</strong></th>
+<th align="left"><strong>Marine area (ha)</strong></th>
+<th align="left"><strong>Marine buffer</strong> <strong>area (ha)</strong></th>
+<th align="left"><strong>Land</strong> <strong>area (ha)</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -100,21 +100,11 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left"></td>
 <td align="left"></td>
 <td align="left"></td>
-<td align="left"><strong>unes (ha)</strong></td>
-<td align="left"><strong>area (ha)</strong></td>
-<td align="left"><blockquote>
-<p><strong>area (ha)</strong></p>
-</blockquote></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-</tr>
-<tr class="odd">
 <td align="left">1</td>
 <td align="left">Grand Lagon Sud (GLS)</td>
 <td align="left">Province Sud</td>
@@ -122,7 +112,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left">314,500</td>
 <td align="left">313,100</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">2</td>
 <td align="left">Zone Côtière Ouest (ZCO)</td>
 <td align="left">Province Sud</td>
@@ -130,7 +120,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left">48,200</td>
 <td align="left">32,500</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">3</td>
 <td align="left">Zone Côtière Nord et Est (ZCNE)</td>
 <td align="left">Province Nord</td>
@@ -138,7 +128,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left">371,400</td>
 <td align="left">100,200</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">4</td>
 <td align="left">Grand Lagon Nord (GLN)</td>
 <td align="left">Province Nord</td>
@@ -146,7 +136,7 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left">635,700</td>
 <td align="left">105,700</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">5</td>
 <td align="left">Atolls d’Entrecasteaux (ADE)</td>
 <td align="left"><p>Nouvelle</p>
@@ -155,27 +145,22 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <td align="left">106,800</td>
 <td align="left">216,800</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">6</td>
-<td align="left">Atoll d’Ouvéa et Beautemps-</td>
-<td align="left">Province</td>
+<td align="left">Atoll d’Ouvéa et Beautemps- Beaupré (AOBB)</td>
+<td align="left"><p>Province</p>
+<p>îles Loyauté</p></td>
 <td align="left">1</td>
 <td align="left">97,700</td>
 <td align="left">26,400</td>
 </tr>
-<tr class="odd">
-<td align="left"></td>
-<td align="left">Beaupré (AOBB)</td>
-<td align="left">îles Loyauté</td>
-<td align="left"></td>
-<td align="left"></td>
-<td align="left"></td>
-</tr>
 <tr class="even">
+<td align="left"></td>
 <td align="left"><strong>Totals</strong></td>
+<td align="left"></td>
+<td align="left"></td>
 <td align="left"><strong>1,574,300</strong></td>
 <td align="left"><strong>794,700</strong></td>
-<td align="left"><strong>492,400</strong></td>
 </tr>
 </tbody>
 </table>

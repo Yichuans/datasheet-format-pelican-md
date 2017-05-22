@@ -2,7 +2,7 @@ Title: HUANGLONG SCENIC & HISTORIC INTEREST AREA
 Tags: CHINA
 Author: UNEP-WCMC
 Year: 1992
-Date: 2017-05-18 15:38:34
+Date: 2017-05-22 14:45:02
 
 HUANGLONG SCENIC & HISTORIC INTEREST AREA
 =========================================
@@ -33,9 +33,7 @@ STATEMENT OF OUTSTANDING UNIVERSAL VALUE \[pending\]
 INTERNATIONAL DESIGNATION
 -------------------------
 
-2000: Recognised as a Biosphere Reserve in the UNESCO Man and Biosphere Programme
-
-> (138,000 ha).
+2000: Recognised as a Biosphere Reserve in the UNESCO Man and Biosphere Programme (138,000 ha).
 
 IUCN MANAGEMENT CATEGORY
 ------------------------

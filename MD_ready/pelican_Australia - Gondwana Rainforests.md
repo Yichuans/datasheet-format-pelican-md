@@ -2,7 +2,7 @@ Title: GONDWANA RAINFORESTS OF AUSTRALIA
 Tags: AUSTRALIA
 Author: UNEP-WCMC
 Year: 1986
-Date: 2017-05-18 15:38:30
+Date: 2017-05-22 14:44:50
 
 GONDWANA RAINFORESTS OF AUSTRALIA
 =================================
@@ -104,7 +104,8 @@ LAND TENURE
 
 Governments of Queensland and New South Wales with 0.4% (14,600 ha) held by trustees. Administered by the Queensland and New South Wales National Parks & Wildlife Services.
 
-**AREAS**
+AREAS
+-----
 
 370,000 ha: 310,471 ha in New South Wales, 59,529 ha in Queensland (CERRA, 2000; UNESCO, 2008).
 

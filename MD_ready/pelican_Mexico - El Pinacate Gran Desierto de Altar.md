@@ -1,8 +1,8 @@
-Title: EL PINACATE AND GRAN DESIERTO DE ALTAR
-Tags: BIOSPHERE RESERVE
+Title: El Pinacate y Gran Desierto De Altar Biosphere Reserve
+Tags: Mexico
 Author: UNEP-WCMC
 Year: 2013
-Date: 2017-05-18 15:38:40
+Date: 2017-05-22 14:45:27
 
 EL PINACATE AND GRAN DESIERTO DE ALTAR
 ======================================
@@ -10,7 +10,8 @@ EL PINACATE AND GRAN DESIERTO DE ALTAR
 BIOSPHERE RESERVE
 =================
 
-> **MEXICO**
+MEXICO
+======
 
 *El Pinacate and Gran Desierto De Altar is a Sonoran wilderness unique in North America: half a golden plain of moving sands, half a dark plain studded with low volcanic forms: over 400 cinder cones, ten immense circular maar craters and jagged lava flows, both plains broken by sharp island ridges of granite. El Pinacate itself is a shield volcano; the sand sea is the only active example in North America, and most of the craters were formed by phreatomagmatism, the explosive contact of volcanic magma with subterranean water. Despite the desert conditions, the reserve's biodiversity is high, as is the degree of adaptation of its life forms to the harsh environment.*
 

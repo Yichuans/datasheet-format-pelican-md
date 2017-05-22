@@ -2,7 +2,7 @@ Title: ANCIENT MAYA CITY AND PROTECTED TROPICAL FORESTS OF CALAKMUL, CAMPECHE
 Tags: MEXICO
 Author: UNEP-WCMC
 Year: 2002
-Date: 2017-05-18 15:38:30
+Date: 2017-05-22 14:44:48
 
 ANCIENT MAYA CITY AND PROTECTED TROPICAL FORESTS OF CALAKMUL, CAMPECHE
 ======================================================================
@@ -185,7 +185,8 @@ VISITORS AND VISITOR FACILITIES
 
 A Culture for Conservation Centre has been built, which has four rooms for permanent exhibits ranging from the pre-Hispanic era into the Maya era. A path runs from the centre to the archaeological site itself, which can be visited via a series of different routes. As of 2012, the Calakmul Biosphere Reserve receives around 25,000 visitors a year, a number which is still considered manageable and sustainable. Visitor numbers are rising annually with an annual increase of almost 10,000 visitors since 2006.
 
-**SCIENTIFIC RESEARCH AND FACILITIES**
+SCIENTIFIC RESEARCH AND FACILITIES
+----------------------------------
 
 The major natural research themes within the property are focussed on land use and conservation, ecosystem management and restoration and lastly biological/ecological interaction. Cultural research is predominantly anthropological in nature as well archaeological. Researchers and students at the property for the purpose of field work are given a temporary permit issued by the Reserve Headquarters which specifies the remit of their work in the property. As of 2011, the property has been implementing the Adaptive Monitoring programme for the Calakmul Biosphere Reserve with the participation of the NGO *Fundacion Deesarrollo Sustentable*, the *Colegion de la Frontera Sur* as a scientific research institute and funding from the *Fondo Mexicano para la Conservacion de al Naturaleza*. As of 2012, there were 26 programmes working on monitoring key habitats and ecosystems at a regional scale, 17 programmes measuring the efficacy of management practices and 2 programmes gauging the extent to which management objectives are being met.
 

@@ -2,7 +2,7 @@ Title: WOOD BUFFALO NATIONAL PARK
 Tags: CANADA
 Author: UNEP-WCMC
 Year: 1983
-Date: 2017-05-18 15:38:33
+Date: 2017-05-22 14:45:00
 
 WOOD BUFFALO NATIONAL PARK 
 ===========================
@@ -45,9 +45,9 @@ Wood Buffalo National Park is an outstanding example of ongoing ecological and b
 INTERNATIONAL DESIGNATION
 -------------------------
 
-> 1982: The Peace-Athabaska Delta (321,300ha) and the Whooping Crane Summer Range
->
-> (1,689,500ha) both designated Wetlands of International Importance under the Ramsar Convention.
+1982: The Peace-Athabaska Delta (321,300ha) and the Whooping Crane Summer Range
+
+(1,689,500ha) both designated Wetlands of International Importance under the Ramsar Convention.
 
 IUCN MANAGEMENT CATEGORY
 ------------------------

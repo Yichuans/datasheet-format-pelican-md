@@ -2,7 +2,7 @@ Title: JEJU VOLCANIC ISLAND & LAVA TUBES
 Tags: REPUBLIC OF KOREA
 Author: UNEP-WCMC
 Year: 2006
-Date: 2017-05-18 15:38:39
+Date: 2017-05-22 14:45:23
 
 JEJU VOLCANIC ISLAND & LAVA TUBES
 =================================
@@ -101,7 +101,8 @@ LAND TENURE
 
 Hallasan National Park is almost 100% state owned; Geomunoreum Lava Tube System is 48.4% owned by Jeju Province, 51.6% privately owned; and Ilchulbong Tuff Cone is 60% owned by the state and 40% by the Province. The nominated site as a whole is to be supervised by the Jeju World Natural Heritage Management Committee under the Cultural Heritage Administration through the Jeju Provincial Government, but each site is separately managed.
 
-**AREA**
+AREA 
+-----
 
 Core zone: 9,475.3 ha. The buffer zone of 9,370.8 ha is not designated.
 

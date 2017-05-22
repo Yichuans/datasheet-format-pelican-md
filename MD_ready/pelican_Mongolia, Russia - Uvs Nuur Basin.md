@@ -2,7 +2,7 @@ Title: UVS NUUR BASIN
 Tags: MONGOLIA,RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 2002
-Date: 2017-05-18 15:38:40
+Date: 2017-05-22 14:45:28
 
 UVS NUUR BASIN
 ==============
@@ -104,37 +104,181 @@ Ubsunur Basin, Russia: Core zone: 87,830ha Buffer: 170,790 ha (undesignated). To
 
 Uvs Nuur, Mongolia; Core zone: 810,233.5ha Buffer excluded (UNESCO, 2003).
 
-**Ubsunur Basin, Russia: Core Buffer Central point**
+<table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Ubsunur Basin, Russia:</strong></th>
+<th align="left"><strong>Core</strong></th>
+<th align="left"><strong>Buffer</strong></th>
+<th align="left"><strong>Central point</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">1.Mongun Taiga cluster</td>
+<td align="left">15,890 ha</td>
+<td align="left">84,510 ha</td>
+<td align="left">50°12’N x 90°12’E</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">2. Ubsu-Nur cluster</td>
+<td align="left">4,490 ha</td>
+<td align="left"></td>
+<td align="left">50°37’N x 93°08’E</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">3. Oroku-Shinaa cluster</td>
+<td align="left">28,750 ha</td>
+<td align="left"></td>
+<td align="left">50°37’N x 94°00’E</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">4. Aryskannyg cluster</td>
+<td align="left">15,000 ha</td>
+<td align="left">11,800 ha</td>
+<td align="left">50°40’N x 94°44’E</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">5. Yamaalyg cluster</td>
+<td align="left">800 ha</td>
+<td align="left">4,000 ha</td>
+<td align="left">50°15’N x 94°45’E</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">6. Tsugeer Els cluster</td>
+<td align="left">4,900 ha</td>
+<td align="left">50,000 ha</td>
+<td align="left">50°05’N x 95°15’E</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">7. Ular cluster</td>
+<td align="left">18,000 ha</td>
+<td align="left">20,480 ha</td>
+<td align="left">50°32’N x 95°38’E</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Totals: </strong></td>
+<td align="left"><strong>87,830 ha</strong></td>
+<td align="left"><strong>170,790 ha</strong></td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
-1\. Mongun Taiga cluster 15,890 ha 84,510 ha 50°12’N x 90°12’E
-
-2\. Ubsu-Nur cluster 4,490 ha 50°37’N x 93°08’E
-
-3\. Oroku-Shinaa cluster 28,750 ha 50°37’N x 94°00’E
-
-4\. Aryskannyg cluster 15,000 ha 11,800 ha 50°40’N x 94°44’E
-
-5\. Yamaalyg cluster 800 ha 4,000 ha 50°15’N x 94°45’E
-
-6\. Tsugeer Els cluster 4,900 ha 50,000 ha 50°05’N x 95°15’E
-
-7\. Ular cluster 18,000 ha 20,480 ha 50°32’N x 95°38’E
-
-**Totals: 258,620 ha 87,830 ha 170,790 ha**
-
-**Uvs Nuur Basin, Mongolia: Core Buffer Central point**
-
-8\. Tsagan Shuvuut cluster 23,170 ha 50°19’N x 91°09’E
-
-9\. Türgen Uul cluster 116,831 ha 49°46’N x 91°22’E
-
-10\. Uvs Lake cluster 424,298 ha 50°20’N x 92°53’E
-
-11\. Altan Els cluster 148,246 ha 49°50’N x 95°00’E
-
-12\. Tes River cluster 97,688.5ha 50°28’N x 93°45’E
-
-**Totals: 810,233.5 ha** (476,410 ha excluded from the nomination)
+<table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Uvs Nuur Basin, Mongolia:</strong></th>
+<th align="left"><strong>Core</strong></th>
+<th align="left"><strong>Central point</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">8. Tsagan Shuvuut cluster</td>
+<td align="left">23,170 ha</td>
+<td align="left">50°19’N x 91°09’E</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">9. Türgen Uul cluster</td>
+<td align="left">116,831 ha</td>
+<td align="left">49°46’N x 91°22’E</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">10. Uvs Lake cluster</td>
+<td align="left">424,298 ha</td>
+<td align="left">50°20’N x 92°53’E</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">11. Altan Els cluster</td>
+<td align="left">148,246 ha</td>
+<td align="left">49°50’N x 95°00’E</td>
+</tr>
+<tr class="odd">
+<td align="left">12. Tes River cluster</td>
+<td align="left">97,688.5ha</td>
+<td align="left">50°28’N x 93°45’E</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Totals:</strong></td>
+<td align="left"><strong>810,233.5 ha</strong> (476,410 ha excluded from the nomination)</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
 ALTITUDE
 --------

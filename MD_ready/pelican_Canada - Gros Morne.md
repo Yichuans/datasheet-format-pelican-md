@@ -2,7 +2,7 @@ Title: GROS MORNE NATIONAL PARK
 Tags: CANADA
 Author: UNEP-WCMC
 Year: 1987
-Date: 2017-05-18 15:38:33
+Date: 2017-05-22 14:44:59
 
 GROS MORNE NATIONAL PARK
 ========================
@@ -27,7 +27,8 @@ NATURAL WORLD HERITAGE SITE
 
 1987: Inscribed on the World Heritage List under Natural Criteria vii and viii.
 
-**STATEMENT OF OUTSTANDING UNIVERSAL VALUE** \[pending\]
+STATEMENT OF OUTSTANDING UNIVERSAL VALUE \[pending\]
+----------------------------------------------------
 
 The UNESCO World Heritage Committee issued the following statement at the time of inscription:
 

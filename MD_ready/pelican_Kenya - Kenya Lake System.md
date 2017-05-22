@@ -2,7 +2,7 @@ Title: KENYA LAKE SYSTEM IN THE GREAT RIFT VALLEY
 Tags: KENYA
 Author: UNEP-WCMC
 Year: 2011
-Date: 2017-05-18 15:38:39
+Date: 2017-05-22 14:45:22
 
 KENYA LAKE SYSTEM IN THE GREAT RIFT VALLEY
 ==========================================
@@ -75,9 +75,7 @@ The Kenya Lake System in the Great Rift Valley includes three lakes in the Rift 
 <table>
 <thead>
 <tr class="header">
-<th align="left"><blockquote>
-<p><strong>Name </strong></p>
-</blockquote></th>
+<th align="left"><strong>Name </strong></th>
 <th align="left"><blockquote>
 <p><strong>Location or Municipality </strong></p>
 </blockquote></th>
@@ -89,39 +87,21 @@ The Kenya Lake System in the Great Rift Valley includes three lakes in the Rift 
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left"><blockquote>
-<p>Lake Nakuru National Park</p>
-</blockquote></td>
-<td align="left"><blockquote>
-<p>Nakuru</p>
-</blockquote></td>
-<td align="left"><blockquote>
-<p>36°05’ 07.96” E, 0° 21’ 32.48” S</p>
-</blockquote></td>
+<td align="left">Lake Nakuru National Park</td>
+<td align="left">Nakuru</td>
+<td align="left">36°05’ 07.96” E, 0° 21’ 32.48” S</td>
 <td align="left"></td>
 </tr>
 <tr class="even">
-<td align="left"><blockquote>
-<p>Lake Bogoria National Reserve</p>
-</blockquote></td>
-<td align="left"><blockquote>
-<p>Baringo/Koibatek</p>
-</blockquote></td>
-<td align="left"><blockquote>
-<p>36°05’ 51.82” E, 0°15’ 30.12” N</p>
-</blockquote></td>
+<td align="left">Lake Bogoria National Reserve</td>
+<td align="left">Baringo/Koibatek</td>
+<td align="left">36°05’ 51.82” E, 0°15’ 30.12” N</td>
 <td align="left"></td>
 </tr>
 <tr class="odd">
-<td align="left"><blockquote>
-<p>Lake Elementaita National Wildlife Sanctuary</p>
-</blockquote></td>
-<td align="left"><blockquote>
-<p>Gilgil</p>
-</blockquote></td>
-<td align="left"><blockquote>
-<p>36°14’ 23.92” E, 0° 26’ 33.47” S</p>
-</blockquote></td>
+<td align="left">Lake Elementaita National Wildlife Sanctuary</td>
+<td align="left">Gilgil</td>
+<td align="left">36°14’ 23.92” E, 0° 26’ 33.47” S</td>
 </tr>
 </tbody>
 </table>
@@ -166,23 +146,17 @@ The inscribed World Heritage property combines a total area of 32,034 ha, which 
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left"><blockquote>
-<p>Lake Nakuru National Park</p>
-</blockquote></td>
+<td align="left">Lake Nakuru National Park</td>
 <td align="left">18,800</td>
 <td align="left">0</td>
 </tr>
 <tr class="even">
-<td align="left"><blockquote>
-<p>Lake Bogoria National Reserve</p>
-</blockquote></td>
+<td align="left">Lake Bogoria National Reserve</td>
 <td align="left">10,700</td>
 <td align="left">0</td>
 </tr>
 <tr class="odd">
-<td align="left"><blockquote>
-<p>Lake Elementaita National Wildlife Sanctuary</p>
-</blockquote></td>
+<td align="left">Lake Elementaita National Wildlife Sanctuary</td>
 <td align="left">2,534</td>
 <td align="left">3,581</td>
 </tr>

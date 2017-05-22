@@ -1,14 +1,14 @@
 Title: BIAŁOWIEŻA FOREST
-Tags: BELARUS AND POLAND
+Tags: BELARUS,POLAND
 Author: UNEP-WCMC
 Year: 1979
-Date: 2017-05-18 15:38:32
+Date: 2017-05-22 14:44:55
 
 BIAŁOWIEŻA FOREST
 =================
 
-BELARUS AND POLAND
-==================
+BELARUS & POLAND
+================
 
 *Situated on the watershed between the Baltic and the Black Seas, this immense relatively undisturbed forest of evergreen and deciduous broad-leaved trees is the last large primary temperate forest in lowland Europe and one of its largest conservation areas. It contains several rare species of mammal such as wolf, elk, lynx and otter, and hundreds of reintroduced European Bison, an endangered species.*
 

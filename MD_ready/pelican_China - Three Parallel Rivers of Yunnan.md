@@ -2,7 +2,7 @@ Title: THREE PARALLEL RIVERS OF YUNNAN PROTECTED AREAS
 Tags: CHINA
 Author: UNEP-WCMC
 Year: 2003
-Date: 2017-05-18 15:38:34
+Date: 2017-05-22 14:45:03
 
 THREE PARALLEL RIVERS OF YUNNAN PROTECTED AREAS
 ===============================================
@@ -83,19 +83,19 @@ IUCN MANAGEMENT CATEGORY
 <td align="left">Strict Nature Reserve / National Park</td>
 </tr>
 <tr class="even">
-<td align="left">-- Gongshan Scenic Area</td>
+<td align="left">Gongshan Scenic Area</td>
 <td align="left">-</td>
 <td align="left">-</td>
 <td align="left">Unassigned</td>
 </tr>
 <tr class="odd">
-<td align="left">-- Yueliangshan Scenic Area</td>
+<td align="left">Yueliangshan Scenic Area</td>
 <td align="left">-</td>
 <td align="left">-</td>
 <td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td align="left">-- Pianma Scenic Area</td>
+<td align="left">Pianma Scenic Area</td>
 <td align="left">-</td>
 <td align="left">-</td>
 <td align="left">Unassigned</td>

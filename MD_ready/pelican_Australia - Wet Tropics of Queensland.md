@@ -2,7 +2,7 @@ Title: WET TROPICS OF QUEENSLAND
 Tags: AUSTRALIA
 Author: UNEP-WCMC
 Year: 1988
-Date: 2017-05-18 15:38:31
+Date: 2017-05-22 14:44:54
 
 WET TROPICS OF QUEENSLAND
 =========================
@@ -27,7 +27,7 @@ NATURAL WORLD HERITAGE SERIAL SITE
 
 1988: Inscribed on the World Heritage List under Natural Criteria vii, viii, ix and x.
 
-> The site incorporates 19 national parks, 31 state forests (or parts of state forests), 5 timber reserves and 1 Aboriginal and Islander reserve.
+The site incorporates 19 national parks, 31 state forests (or parts of state forests), 5 timber reserves and 1 Aboriginal and Islander reserve.
 
 STATEMENT OF OUTSTANDING UNIVERSAL VALUE \[pending\]
 --------------------------------------------------------

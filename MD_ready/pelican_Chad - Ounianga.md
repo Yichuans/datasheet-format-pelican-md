@@ -1,14 +1,14 @@
-Title: Lakes of Ounianga
-Tags: Chad
+Title: LAKES OF OUNIANGA
+Tags: CHAD
 Author: UNEP-WCMC
 Year: 2012
-Date: 2017-05-18 15:38:33
+Date: 2017-05-22 14:45:01
 
-1.  LAKES OF OUNIANGA
-    =================
+LAKES OF OUNIANGA 
+=================
 
-    CHAD
-    ====
+CHAD 
+====
 
 *The 18 lakes of Ounianga lie in a beautiful desert basin fringed by low hills halfway between the Tibesti mountains and the Ennedi plateau in northern Chad. Although the rainfall is less than 2mm a year, in all but one lake the freshwater is constantly replenished and supports two fertile oases in the middle of the hyperarid eastern Sahara.*
 

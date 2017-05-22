@@ -2,7 +2,7 @@ Title: SOCOTRA ARCHIPELAGO
 Tags: YEMEN
 Author: UNEP-WCMC
 Year: 2008
-Date: 2017-05-18 15:38:47
+Date: 2017-05-22 14:45:56
 
 SOCOTRA ARCHIPELAGO
 ===================
@@ -280,9 +280,7 @@ Because of the dry climate and small size of the islands the terrestrial fauna o
 <tr class="header">
 <th align="left"><strong>Groups</strong></th>
 <th align="left"><strong>Number of Species</strong></th>
-<th align="left"><blockquote>
-<p><strong>Endemic Species</strong></p>
-</blockquote></th>
+<th align="left"><strong>Endemic Species</strong></th>
 <th align="left"></th>
 <th align="left"><strong>Groups</strong></th>
 <th align="left"><strong>Number of Species</strong></th>

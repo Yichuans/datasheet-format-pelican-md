@@ -2,7 +2,7 @@ Title: CAPE FLORAL REGION PROTECTED AREAS
 Tags: SOUTH AFRICA
 Author: UNEP-WCMC
 Year: 2004
-Date: 2017-05-18 15:38:33
+Date: 2017-05-22 14:45:00
 
 CAPE FLORAL REGION PROTECTED AREAS
 ==================================
@@ -297,7 +297,7 @@ The Cape Floral Region has been called the world’s hottest hot-spot for plant 
 
 There are some 6,191 endemic species in the Region. The Cape Peninsula has 2,285 species of plants, 90 being endemic to the peninsula, the Cederberg has 1,778, including the local cedar *Widdringtonia cedarbergensis* (EN). Boland Mountain Complex has 1,600 plant species, 150 being endemic. None of the sites has less than 1,100 species. This richness is due to the wide variety of macrohabitats and microhabitat mosaics resulting from the range of elevations, soils and climatic conditions, including the co-existence of winter-rainfall species with summer-rainfall species from further east. The flora also has concentrations of relict endemics and massive still-active speciation due to its isolation in an area of very long established climatic stability which has generated most of the enormous diversity. The flora of each component part is sufficiently distinct to justify representation of the region by several sites, each of which is large enough to preserve the genetic viability of its type and to accommodate large-scale natural processes such as fire and drought. Eight Phytogeographic Centres of endemism have been distinguished in the Cape Floral Region; of which 27 were already formally conserved in the inscribed property and an additional 48 conserved in the most recent extension.
 
-Southwestern Boland Mountain Complex / Table Mountain National Park. Riviersonderend Nature Reserve
+SouthwesternBoland Mountain Complex / Table Mountain National Park. Riviersonderend Nature Reserve
 
 Northwestern Cederberg Wilderness / Groot Winterhoek Wilderness Areas / Hexriver Complex
 

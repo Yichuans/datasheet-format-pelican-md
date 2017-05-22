@@ -2,7 +2,7 @@ Title: GALÁPAGOS ISLANDS
 Tags: ECUADOR
 Author: UNEP-WCMC
 Year: 1978
-Date: 2017-05-18 15:38:36
+Date: 2017-05-22 14:45:09
 
 GALÁPAGOS ISLANDS
 =================
@@ -14,7 +14,8 @@ ECUADOR
 
 *Threats to the site: Invasion by large-scale tourism and unsustainable fishing by mainland fishermen financed by foreign companies supported by authority, is waging permanent opposition to the restrictions of the National Park. In 2005 the International Galapagos Tour Operators Association noted that fishermen numbered 1,000 out of a population of 25,000, and their industry brought in \$6 million compared with \$150,000 million from tourism. The growth in population, unplanned urbanisation, pollution, damaging invasion by exotic species and the resulting degradation of habitats is unplanned for and inadequately controlled at present. Government agencies are not coordinated and the Park had 12 Directors between 2005 and 2008.*
 
-**COUNTRY**
+COUNTRY
+-----------
 
 Ecuador
 
@@ -101,7 +102,8 @@ DATES AND HISTORY OF ESTABLISHMENT
 
 2007-2010: Listed as endangered due to inadequate planning, law enforcement and governance, invasion by uncontrolled immigrant fishermen and the ever-increasing pressure of commercial tourist boat and air traffic which introduces exotic flora and fauna.
 
-**LAND TENURE**
+LAND TENURE
+-----------
 
 State. Administered by a tripartite commission of the Galapagos National Park Service of the Ministry of the Environment, the National Fisheries Department and the Navy.
 

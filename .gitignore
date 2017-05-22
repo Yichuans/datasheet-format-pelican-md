@@ -1,7 +1,12 @@
 *.pyc
 DOCX_original_2017
 DOCX_original_20170518
+DOCX_original_20170519EDIT
+DOCX_original_20170522
 MD_pandoc
 MD_pandoc_old
+MD_ready_old
+MD_edit
+MD_ready/pandoc_temp
 old
 /test

@@ -2,7 +2,7 @@ Title: Xinjiang Tianshan
 Tags: China
 Author: UNEP-WCMC
 Year: 2013
-Date: 2017-05-18 15:38:34
+Date: 2017-05-22 14:45:04
 
 XINJIANG TIANSHAN
 =================
@@ -69,15 +69,32 @@ Attention should also be given to working with IUCN and other partners to better
 
 **IUCN MANAGEMENT CATEGORY**
 
-Tianshan Tianchi National Park: II
-
-Tomur Peak National Nature Reserve: Ib
-
-West Tianshan Mountains National Nature Reserve: Ib
-
-Kalajun Provincial Nature Reserve: IV
-
-Bayinbuluke National Nature Reserve: Ib
+<table>
+<thead>
+<tr class="header">
+<th align="left">Tianshan Tianchi National Park:</th>
+<th align="left">II</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Tomur Peak National Nature Reserve:</td>
+<td align="left">Ib</td>
+</tr>
+<tr class="even">
+<td align="left">West Tianshan Mountains National Nature Reserve:</td>
+<td align="left">Ib</td>
+</tr>
+<tr class="odd">
+<td align="left">Kalajun Provincial Nature Reserve:</td>
+<td align="left">IV</td>
+</tr>
+<tr class="even">
+<td align="left">Bayinbuluke National Nature Reserve:</td>
+<td align="left">Ib</td>
+</tr>
+</tbody>
+</table>
 
 BIOGEOGRAPHICAL PROVINCE
 ------------------------
@@ -127,23 +144,50 @@ State. Under the national Ministry of Housing and Urban-Rural Development the si
 AREAS
 -----
 
-**Site Core Area (ha) Buffer Zone (ha)**
+<table>
+<thead>
+<tr class="header">
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Core Area (ha)</strong></th>
+<th align="left"><strong>Buffer Zone (ha)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Tomur</td>
+<td align="left">344,828</td>
+<td align="left">280,120</td>
+</tr>
+<tr class="even">
+<td align="left">Kalajun-Kuerdening</td>
+<td align="left">113,818</td>
+<td align="left">89,346</td>
+</tr>
+<tr class="odd">
+<td align="left">Bayinbuluke</td>
+<td align="left">109,448</td>
+<td align="left">80,090</td>
+</tr>
+<tr class="even">
+<td align="left">Bogda</td>
+<td align="left">38,739</td>
+<td align="left">41,547</td>
+</tr>
+<tr class="odd">
+<td align="left">Total</td>
+<td align="left">606, 833</td>
+<td align="left">491,103 (IUCN, 2013)</td>
+</tr>
+</tbody>
+</table>
 
-Tomur 344,828 280,120
-
-Kalajun-Kuerdening 113,818 89,346
-
-Bayinbuluke 109,448 80,090
-
-Bogda 38,739 41,547
-
-Total 606, 833 491,103 (IUCN, 2013)
-
-**ALTITUDE**
+ALTITUDE
+--------
 
 \~1,380m to 7,443m (Tomur) on the Kirgizstan border; \~1000m to 5,445m (Bogda Shan).
 
-**PHYSICAL FEATURES**
+PHYSICAL FEATURES
+-----------------
 
 The Tianshan/Celestial Mountains of Central Asia are one of the largest mountain ranges in the world. They run almost east-west 2,500 kilometers in the temperate zone but for half their length between deserts, from the westernmost edge of the Gobi Desert in China to the Kyzylkum Desert in Uzbekistan, and between the arid Djungarian steppe to the north and the severely desert Taklamakan in the Tarim Basin to the south. It can be divided into the eastern Tianshan in Xinjiang, China, 1,250 km long, the central Tianshan along the Chinese-Kyrgistan border, 750 km long, and the western Tianshan in Kyrgyzstan, and Uzbekistan, 500 km long. The chain is discontinuous, averaging 300km wide to 450 km at its widest (850 km including the northern offshoot ranges in Kazakhstan), with 20 secondary branching ranges and ten inter-mountain basins. In Xinjiang, it is divided into three mountain sub-chains: north which includes the Bogdashan, middle, and south, which contains the other three sites. The average height of their ridge line is 4,000m, which is 3,500m above the Djungarian steppes, and 3,000m above the Taklimakan. There is a powerful contrast between the bare rock of its southern sides and the luxuriant vegetation of its northern slopes. The landscape is one of beautiful spectacular glaciated and snow-capped mountains, forests and meadows, clear rivers, lakes and red bed canyons.
 
@@ -153,11 +197,13 @@ The sites are in the fold-belt of the south Tianshan mountains. Their basement r
 
 The Tianshans are the watertower of Xinjiang. Of the whole mountain system, the property has over half the glaciers (9,081 or 57%), which cover three fifths of the area (9,236 km<sup>2</sup> or 59.9%) and 53.6% of the river runoff of Xinjiang. The Enylchuk glacier, 39 km long, and the Muzhert Pass glacier, 34 km long, both flow from the Tumur-Khan Tengri glacial node. There are 373 rivers in this eastern half charged with glacial ice melt, snowfall and rainfall. Intermontane basins, depressions and river-sinks at different terrace levels interleave the mountain landscape holding some 1,370 km<sup>2</sup> of wetlands and lakes which provide excellent habitat and nesting sites for water birds. The largest is the Youerdusi Basin in Bayabuluke at 2,400-2,600m, through which the Kaidu River meanders peacefully. The accessible scenic Lake Tianshi in Bogda is at 1,910m
 
-**CLIMATE**
+CLIMATE
+-------
 
 This huge mountain range is an extensive area of complicated topography with great differences in elevation and a variety of local climates and microclimates. Located between deserts it is a natural barrier and boundary that modifies the regional airflow and causes large differences between the temperatures and biotic regimes of north and south slopes. Temperatures on the south and west slopes are higher than those in the north and east. The south slope altitudinal gradient runs from frigid to warm temperate, the temperature averaging 7.5 to 10.0°C, where in the north it is 2.5 to 5.0°C. The annual precipitation also varies with aspect: in the upper valleys of the north slope of the Ili River, it is 1,500-1,800mm; on the southern slope of Tomur peak, it is less than 100mm; and in the Turpan Basin south of Bogda, it is only 16.4mm. Many varied environments exist: humid, semi-humid, semi-arid and arid, warm temperate, mid-temperate, cold temperate, cold and alpine zones up to permanent ice and snow creating a wealth of complex habitats, ecosystems and vegetation types.
 
-**VEGETATION**
+VEGETATION
+----------
 
 The Xinjiang Tianshan lie across two main floristic sub-regions: Eurasian forest and Asian desert with influences from the Turanian steppes and Pamirs to the west, the Altai Mountains to the north and the dry Tibetan plateau to the south. Their altitudinal vegetation gradients, their stark differences between the vegetation of the north and south slopes, and their diversity of flora provide outstanding examples of the mountains' biological and ecological evolution. Important ecosystems contained in the four sites include mountain evergreen and deciduous coniferous forests, mountain broad-leaved forest, with wild fruit and riparian forests, scrub thickets of these forms, marshes, montane meadows, alpine and sub-alpine meadows, cushion vegetation, alpine steppe, grassland steppe, dry steppe, desert steppe and desert. Within this wide spectrum, many species are spatially concentrated.
 
@@ -165,7 +211,8 @@ The sites have typical areas of montane conifer forest, montane meadows and step
 
 In the Tomur site, the elevations range from 7,443m to mountain steppe at 1,450m; in Bogda, there is a range of north slope zones between 5,445m and \~1,400m. Both sites show nearly the whole range of montane floristic types. The Kalajun-Kuerdening has large areas of endemic Asian spruce *Picea schrenkiana* forest plus Siberian fir *Abies sibirica semenovii.* Due to its location and climate, this area became a refuge for now relict species in the Early Tertiary period and has 52 species of wild fruit trees, notably wild apple (VU), wild apricot *Armenaica vulgaris*, wild walnut *Juglans regia*, and the highest number of endemic species of the four sites. The evergreen coniferous shrub communities include *Sabina, Juniperus* and *Pinus* species as well as *Picea*. Bayabuluke has the biggest sub-alpine wetland marshes in the mountains. The ranges hold more than 80 species of medical plants, including the valued snow lotus *Saussurea involucrata,* which is adapted to high altitude climates and grows on cliffs. The flora is characterized by transitional species; and changes in the mountains' climate are leading to the gradual replacement of the original temperate flora by more xeric species.
 
-**FAUNA**
+FAUNA
+-----
 
 The fauna of the Xinjiang Tianshan is predominantly Palearctic but includes elements of the Central Asian sub-realm, the Mongolia-Xinjiang region and the Tianshan sub-region. There are 550 species of vertebrates, 367 species being rare and endangered, and 22 endemic. The nomination reports 102 mammal, 370 bird, 32 reptile, 6 amphibian and 40 fish species, although the UNEP World Conservation Monitoring Centre notes that these figures may include sub-species. The Tianshan Mountains are a barrier to species exchange for some species between the Altai Mountains in the north and Kunlun-Altun Mountains in the south, but it is also a bridge for other species. Those noted are the more threatened and prominent species in each biome.
 
@@ -175,7 +222,8 @@ The mountain evergreen coniferous forest contains the most abundant animal popul
 
 The sub-alpine meadows also have a high number of insect species: bees, butterflies, flies and horse flies. Golden eagle *Aquila chrysaetos,* northern goshawk *Accipiter gentiles,* saker *Falco cherrug* and pallid harrier *Circus macrourus* prey on the rodents. The Alpine meadows are the main feeding grounds of passeriformes and the lakes are a magnet for migrating waterbirds. Among the raptors are black eagle *Aegypius monachus,* Himalayan vulture *Gyps himalayensis* and lammergeier *Gypaegus barbatus*. This zone is also an important habitat for rodents and with the increase of herbivores, the same large range of carnivores is present. With the Alpine cushion vegetation, the number of insects and animals increases, such as Himalayan snowcock *Tetraogallus himalayensis,* alpine chough, *Pyrrhocorax graculus,* Siberian ibex *Capra sibericus* and several subspecies of *Ovis ammon*, the main prey of the snow leopard *Panthera uncia* (EN), which is found in Bayabeluke and on Bogda in the nival zone.
 
-**CONSERVATION VALUE**
+CONSERVATION VALUE
+------------------
 
 Few temperate zone mountain ranges rising from deserts have entered the World Heritage list. The Xinjiang Tianshan has high beautiful mountains with many glaciers and lakes, and high inter-montane grassland basins. It lies within a Conservation International hotspot, and a Centre of Plant Diversity and is part of a WWF Global 200 ecoregion. The northern Bogda is a UNESCO Biosphere Reserve.
 
@@ -211,7 +259,8 @@ MANAGEMENT CONSTRAINTS
 
 Very few constraints exist. Grazing causes slight degradation in places and is to be banned from core sites. Systems for monitoring geological disasters, forest fires and pests and tourist pressure in the buffer zones are being set up. Tourism and the expense of its control are impacts which will increase with visitation. There is also a lack of research into habitats and plant species. Climate warming is affecting the glaciers and the viability of temperate species, though neither is yet a serious threat.
 
-**COMPARISON WITH SIMILAR SITES**
+COMPARISON WITH SIMILAR SITES
+-----------------------------
 
 The World Heritage sites most comparable to the Tianshan are the central Asian temperate mountain chains of the Mountains of the Pamirs in Tajikistan, the Golden Mountains of the Altai in Russia and the Karakorum-Himalayan chain which has the two sites of Nanda Devi & Valley of Flowers, and Sagamartha National Park. There is also the western half of the Tianshan, with its northern offshoot in Kyrgistan and Kazakhstan, the Kunlun-Nanshan Mountains south of the Taklamakan and the proposed Greater Himalayan National Park. The Hindu Kush also shares some similarity but is classified as a separate biogeographic province. None of the latter four areas have World Heritage designation.
 

@@ -1,8 +1,8 @@
 Title: Maloti-Drakensberg Park
-Tags: South Africa & Lesotho
+Tags: South Africa, Lesotho
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-05-18 15:38:39
+Date: 2017-05-22 14:45:24
 
 1.   MALOTI - DRAKENSBERG PARK
     ==========================
@@ -15,7 +15,7 @@ Date: 2017-05-18 15:38:39
 COUNTRIES
 ---------
 
-South Africa & Lesotho
+South Africa, Lesotho
 
 NAME
 ----

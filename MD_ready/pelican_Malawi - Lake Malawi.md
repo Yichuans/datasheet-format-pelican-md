@@ -2,7 +2,7 @@ Title: LAKE MALAWI NATIONAL PARK
 Tags: MALAWI
 Author: UNEP-WCMC
 Year: 1984
-Date: 2017-05-18 15:38:40
+Date: 2017-05-22 14:45:25
 
 LAKE MALAWI NATIONAL PARK
 =========================
@@ -32,7 +32,7 @@ STATEMENT OF OUTSTANDING UNIVERSAL VALUE
 
 The UNESCO World Heritage Committee issued the following Statement of Outstanding Universal Value at the time of inscription.
 
-*Br**ief Synthesis**
+**Brief Synthesis:**
 
 Located at the southern end of the great expanse of Lake Malawi, the property is of global importance for biodiversity conservation due particularly to its fish diversity. Lying within the Western Rift Valley, Lake Malawi is one of the deepest lakes in the world. The property is an area of exceptional natural beauty with the rugged landscapes around it contrasting with the remarkably clear waters of the lake. The property is home to many hundreds of cichlid fish, nearly all of which are endemic to Lake Malawi, and are known locally as "mbuna". The mbuna fishes display a significant example of biological evolution. Due to the isolation of Lake Malawi from other water bodies, its fish have developed impressive adaptive radiation and speciation, and are an outstanding example of the ecological processes
 

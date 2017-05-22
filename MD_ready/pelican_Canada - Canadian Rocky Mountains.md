@@ -2,7 +2,7 @@ Title: CANADIAN ROCKY MOUNTAIN PARKS
 Tags: CANADA
 Author: UNEP-WCMC
 Year: 1981
-Date: 2017-05-18 15:38:33
+Date: 2017-05-22 14:44:58
 
 CANADIAN ROCKY MOUNTAIN PARKS
 =============================
@@ -266,9 +266,7 @@ Management plans for Banff, Jasper, Kootenay and Yoho National Parks were comple
 
 Monitoring, with 5-yearly reports, is extensive. Topics include water and snow conditions, atmospheric conditions, vegetation, wildlife habitat and populations and visitor numbers.
 
-Mount Robson, Hamber and Mount Assiniboine Provincial Parks are administered by the British Columbia Parks Agency within the provincial Ministry of Water, Lands and Air Protection, under the Parks Act and Protected Areas of British Columbia Act. BC Parks prepares management plans, sets out objectives and actions for the conservation, development, interpretation and operation of provincial protected areas for ten to twenty year periods. Management plans completed between 1989 and 1992 based on current information about natural and cultural values, recreation opportunities and resource activities in surrounding lands divided the provincial parks into four zones: wilderness conservation, natural environment, wilderness recreation and intensive recreation. For Mount Robson Provincial Park these zones are: wilderness conservation 58%, wilderness recreation 22%, natural environment 16% and intensive recreation 3%. A variety of interagency committees exists for coordination and
-
-collaboration between park managers.
+Mount Robson, Hamber and Mount Assiniboine Provincial Parks are administered by the British Columbia Parks Agency within the provincial Ministry of Water, Lands and Air Protection, under the Parks Act and Protected Areas of British Columbia Act. BC Parks prepares management plans, sets out objectives and actions for the conservation, development, interpretation and operation of provincial protected areas for ten to twenty year periods. Management plans completed between 1989 and 1992 based on current information about natural and cultural values, recreation opportunities and resource activities in surrounding lands divided the provincial parks into four zones: wilderness conservation, natural environment, wilderness recreation and intensive recreation. For Mount Robson Provincial Park these zones are: wilderness conservation 58%, wilderness recreation 22%, natural environment 16% and intensive recreation 3%. A variety of interagency committees exists for coordination and collaboration between park managers.
 
 MANAGEMENT CONSTRAINTS
 ----------------------

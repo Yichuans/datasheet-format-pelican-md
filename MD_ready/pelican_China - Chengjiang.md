@@ -1,14 +1,14 @@
-Title: Chengjiang Fossil Site
-Tags: China
+Title: CHENGJIANG FOSSIL SITE
+Tags: CHINA
 Author: UNEP-WCMC
 Year: 2012
-Date: 2017-05-18 15:38:34
+Date: 2017-05-22 14:45:01
 
-1.  CHENGJIANG FOSSIL SITE
-    ======================
+CHENGJIANG FOSSIL SITE 
+======================
 
-    CHINA
-    =====
+CHINA
+=====
 
 *The exceptionally well preserved soft-bodied chordate fossils of the Chengjiang site in Yunnan, southwest China, are an outstanding record of a major stage in the history of life: the oldest example of the emergence of multicellular forms of metazoan life when the ancestors of almost all the later groups of animals originated. As the earliest evidence of the Cambrian explosion – the rapid diversification of species within a complex marine ecosystem - they have become essential to the understanding of subsequent life on Earth.*
 
@@ -205,7 +205,7 @@ Yunnan Province 652500, People's Republic of China.
 REFERENCES
 ----------
 
-1.  The principal sources for the above information were the original World Heritage nomination, the IUCN evaluation report and Decision 36 COM 8B.9 of the UNESCO World Heritage Committee.
+The principal sources for the above information were the original World Heritage nomination, the IUCN evaluation report and Decision 36 COM 8B.9 of the UNESCO World Heritage Committee.
 
 Fortey, R. (2001). Science's compass - perspectives - evolution: the Cambrian explosion exploded? *Science* 293 (5529): 438-9.
 

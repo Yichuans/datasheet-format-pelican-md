@@ -2,7 +2,7 @@ Title: DESEMBARCO DEL GRANMA NATIONAL PARK
 Tags: CUBA
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-05-18 15:38:35
+Date: 2017-05-22 14:45:07
 
 DESEMBARCO DEL GRANMA NATIONAL PARK
 ===================================
@@ -93,7 +93,7 @@ FAUNA
 
 The site is one of high biodiversity and endemism. It contains 13 species of mammals, 110 birds, 44 reptiles and seven amphibians. At least 13% of the mammals, 22.7% of the birds, 90.9% of the reptiles and 85.7%of the amphibians are local or national endemics. Several species are under threat including the Caribbean manatee *Trichechus manatus* (VU) and blue-headed quail-dove [*Starnoenas cyanocephala*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Starnoenas&SpcName=cyanocephala) (EN), an endemic monotypic genus. Other noted birds are the Cuban parrot *Amazona leucocephala* and white-tailed tropic bird *Phaeton lepturus*. The West Indian whistling-duck *Dendrocygna arborea* (VU) may visit. The rare local endemic Cuban night lizard *Crycosaura tipica* is also from a monotypic genus.
 
-No reliable figures on the invertebrates are available although these are numerous, with particularly large numbers of molluscs and butterflies. Four out of six endemic species of painted snails, *Polymita picta, P.brocheri, P.venusta* and *P. versicolor*, which are among the most beautifully coloured molluscs in the world, live on the terraces; one, *P.brocheri* is found only in a small area. Another handsome mollusc, *Ligus vittatus,* is locally endemic. There are well-developed coral formations with associated fauna. These are visited by hawksbill turtle CONSERVATION VALUE
+No reliable figures on the invertebrates are available although these are numerous, with particularly large numbers of molluscs and butterflies. Four out of six endemic species of painted snails, *Polymita picta, P.brocheri, P.venusta* and *P. versicolor*, which are among the most beautifully coloured molluscs in the world, live on the terraces; one, *P.brocheri* is found only in a small area. Another handsome mollusc, *Ligus vittatus,* is locally endemic. There are well-developed coral formations with associated fauna. These are visited by hawksbill turtle.
 
 The spectacular marine terraces and karst topography of the Park are of world significance and have some of the most pristine and impressive coastal cliffs bordering the western Atlantic. Its biodiversity is also high. The Park lies within a Conservation International-designated Conservation Hotspot, a WWF Global 200 Marine Eco-region, a WWF/IUCN Centre of Plant Diversity and a BirdLife-designated Endemic Bird Area.
 

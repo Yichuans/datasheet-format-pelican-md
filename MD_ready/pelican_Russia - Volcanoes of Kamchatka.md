@@ -2,7 +2,7 @@ Title: VOLCANOES OF KAMCHATKA
 Tags: RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 1996
-Date: 2017-05-18 15:38:43
+Date: 2017-05-22 14:45:37
 
 VOLCANOES OF KAMCHATKA
 ======================
@@ -87,16 +87,8 @@ IUCN MANAGEMENT CATEGORY
 <td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="odd">
-<td align="left"></td>
-<td align="left"></td>
-</tr>
-<tr class="even">
-<td align="left">Zapovednik:</td>
+<td align="left">Zapovednik: Prirodny Park &amp; Zakaznik: Nature Park.</td>
 <td align="left">State Biosphere Nature Reserve;</td>
-</tr>
-<tr class="odd">
-<td align="left">Prirodny Park &amp; Zakaznik: Nature Park.</td>
-<td align="left"></td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@ Title: SOUTH CHINA KARST
 Tags: CHINA
 Author: UNEP-WCMC
 Year: 2007
-Date: 2017-05-18 15:38:44
+Date: 2017-05-22 14:45:41
 
  SOUTH CHINA KARST 
 ===================
@@ -185,19 +185,40 @@ DATES AND HISTORY OF ESTABLISHMENT
 LAND TENURE
 -----------
 
-Shilin Karst: State, rural collective and private
-
-Libo Karst: State and private
-
-Wulong Karst: State and private
-
-Guilin Karst: State
-
-Shibing Karst: State
-
-Jinfoshan Karst: State
-
-Huanjiang Karst: State
+<table>
+<thead>
+<tr class="header">
+<th align="left">Shilin Karst:</th>
+<th align="left">State,rural collective and private</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Libo Karst:</td>
+<td align="left">State and private</td>
+</tr>
+<tr class="even">
+<td align="left">Wulong Karst:</td>
+<td align="left">State and private</td>
+</tr>
+<tr class="odd">
+<td align="left">Guilin Karst:</td>
+<td align="left">State</td>
+</tr>
+<tr class="even">
+<td align="left">Shibing Karst:</td>
+<td align="left">State</td>
+</tr>
+<tr class="odd">
+<td align="left">Jinfoshan Karst:</td>
+<td align="left">State</td>
+</tr>
+<tr class="even">
+<td align="left">Huanjiang Karst:</td>
+<td align="left">State</td>
+</tr>
+</tbody>
+</table>
 
 AREAS
 -----

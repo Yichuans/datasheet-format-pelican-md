@@ -1,14 +1,14 @@
-Title: Western Ghats
-Tags: India
+Title: WESTERN GHATS
+Tags: INDIA
 Author: UNEP-WCMC
 Year: 2012
-Date: 2017-05-18 15:38:38
+Date: 2017-05-22 14:45:17
 
-1.  WESTERN GHATS
-    =============
+WESTERN GHATS 
+=============
 
-    INDIA
-    =====
+INDIA 
+=====
 
 *The Western Ghats are a chain of low mountains running 1,600 kilometres parallel to India’s western coast from Gujarat to southern Kerala between 30-50 kilometres inland. They have some of the finest non-equatorial tropical evergreen forests in the world with very high levels of speciation and endemism. They shelter at least 325 globally threatened species including 51 that are critically endangered. The serial site contains 39 protected areas in seven separate clusters stretching over a distance of 1,250 kilometres.*
 
@@ -30,7 +30,7 @@ NATURAL WORLD HERITAGE SERIAL SITE
 INTERNATIONAL DESIGNATION 
 --------------------------
 
-> 2000: *Nilgiri* designated a Biosphere Reserve under the UNESCO Man and Biosphere Programme (core area 124,000 ha).
+2000: *Nilgiri* designated a Biosphere Reserve under the UNESCO Man and Biosphere Programme (core area 124,000 ha).
 
 STATEMENT OF OUTSTANDING UNIVERSAL VALUE
 ----------------------------------------
